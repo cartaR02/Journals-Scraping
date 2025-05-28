@@ -1,20 +1,43 @@
 import csv
+from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString
-import requests
+import logging
 import time
+import requests
+import openai
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-def selenium_config() -> webdriver: # type: ignore
+# Setup logging
+logfile = "scrape_log.{}.log".format(
+    datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+)
+logging.basicConfig(level=logging.DEBUG,
+                    format="%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
+                    datefmt="%m-%d %H:%M:%S",
+                    filename=logfile,
+                    filemode="w")
+
+console = logging.StreamHandler()
+console.setLevel(logging.INFO)
+formatter = logging.Formatter("%(name)-12s: %(levelname)-8s %(message)s")
+console.setFormatter(formatter)
+logging.getLogger("").addHandler(console)
+
+def selenium_config() -> webdriver:
     options: Options = Options()
-    #options.add_argument("--headless")
+    # Uncomment the next line for headless testing
+    # options.add_argument("--headless")
     options.add_argument(
         "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     )
     firefox_profile = webdriver.FirefoxProfile()
     firefox_profile.set_preference("permissions.default.image", 2)
     options.profile = firefox_profile
-    driver: webdriver = webdriver.Firefox(options=options) # type: ignore
+    driver: webdriver = webdriver.Firefox(options=options)  # type: ignore
     return driver
 
 driver = selenium_config()
@@ -24,64 +47,84 @@ csvFileName = "WebsiteData.csv"
 def retrieve_site_html(URL):
     try:
         driver.get(URL)
-    except:
-        print(URL + " Failed to access")
+        # Wait up to 30 seconds for a <journalhome> element to be present.
+        WebDriverWait(driver, 30).until(
+            EC.presence_of_element_located((By.TAG_NAME, "journalhome"))
+        )
+    except Exception as e:
+        logging.error(f"{URL} Failed to access: {e}")
         return None
-    request_info = driver.page_source
-    time.sleep(2)
-    site_html = BeautifulSoup(request_info, "html.parser")
+    # Get page source after the dynamic content is loaded
+    page_source = driver.page_source
+    site_html = BeautifulSoup(page_source, "html.parser")
     return site_html
 
 def gather_landing_page_containers(LANDING_PAGE_CONTAINERS, HTML):
-    # example
-    # class|container~class|title~elem|article
-    #dereferce the information
-    # allow multiple finds ~
+    """
+    LANDING_PAGE_CONTAINERS expects a string using a tilde (~) to separate lookup instructions.
+    Each lookup instruction is pipe (|) delimited.
+    The first value is the method ("find" or "find_all").
+    The second value indicates whether it is an element tag ("elem") or an attribute key.
+    The third value is the tag name (if element lookup) or the attribute value.
     
+    For example:
+      "find|elem|article" or "find_all|class|container"
+    """
     find_list = LANDING_PAGE_CONTAINERS.split("~")
-    print(find_list)
     html_to_return = HTML
     for finds in find_list:
-
-        # exammple
-        # class|titles
         identifier_list = finds.split("|")
-        # find or find_all
-        find, element, name = identifier_list
-
-        FIND_ALL: bool = find == "find_all"
-        IS_ELEM: bool = element == "elem"
-
-        if IS_ELEM:
-            
-            if FIND_ALL:
-                html_to_return = html_to_return.find_all(name)
-                print("find_all hit")
-            else:
-                print("find hti")
-                html_to_return = html_to_return.find(name)
-
+        # If the instruction doesn't have three parts, default the name to the second token.
+        if len(identifier_list) < 3:
+            find_operation, key_or_elem = identifier_list
+            name = key_or_elem
         else:
-            attributes = {element: name}
-            if FIND_ALL:
-                html_to_return = html_to_return.find_all(attrs=attributes)
-            else:
-                html_to_return = html_to_return.find(attrs=attributes)
-        if html_to_return is None:
-            print("Where it broke: " + finds)
-            print("It broke")
-            return
+            find_operation, key_or_elem, name = identifier_list
 
+        FIND_ALL: bool = find_operation == "find_all"
+        IS_ELEM: bool = key_or_elem == "elem"
+        logging.info("Processing lookup: " + finds)
+        if IS_ELEM:
+            if FIND_ALL:
+                html_to_return = html_to_return.find_all(name)  # type: ignore
+                logging.info("find_all on tag: " + name)
+            else:
+                html_to_return = html_to_return.find(name)  # type: ignore
+                logging.info("find on tag: " + name)
+        else:
+            attributes = {key_or_elem: name}
+            if FIND_ALL:
+                html_to_return = html_to_return.find_all(attrs=attributes)  # type: ignore
+                logging.info("find_all on attribute: " + str(attributes))
+            else:
+                html_to_return = html_to_return.find(attrs=attributes)  # type: ignore
+                logging.info("find on attribute: " + str(attributes))
+        if html_to_return is None or (isinstance(html_to_return, list) and not html_to_return):
+            logging.error("Lookup failed at step: " + finds)
+            return None
     return html_to_return
 
-with open(csvFileName, "r") as journal_data:
+def extract_article_tags(HTML):
+    """
+    Extracts all <article> tags from the provided BeautifulSoup HTML.
+    Returns a list of article tags.
+    """
+    if HTML is None:
+        return []
+    # If HTML is a list of elements, search each one for articles
+    articles = []
+    if isinstance(HTML, list):
+        for item in HTML:
+            articles.extend(item.find_all("article"))
+    else:
+        articles = HTML.find_all("article")
+    return articles
+
+with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
     journal_reader = csv.reader(journal_data)
-
     counter = 0
-
     for journal_row in journal_reader:
         counter += 1
-
         JOURNAL_INFO = {
             "JOURNAL_ID": journal_row[0],
             "URL": journal_row[1],
@@ -89,14 +132,10 @@ with open(csvFileName, "r") as journal_data:
         }
 
         html = retrieve_site_html(JOURNAL_INFO["URL"])
-
         if html is None:
-            next(journal_reader)
-        print("HTML GATHERED")
-        # in the find assume find all for links, if one is gathered nothing matters
-        containers = gather_landing_page_containers(JOURNAL_INFO["CONTAINER_IDENTIFIERS"], html)
-        print(containers)
-
-
+            logging.error("Failed to retrieve HTML for: " + JOURNAL_INFO["URL"])
+            continue
+        
+        logging.info("Complete")
 
 driver.quit()
