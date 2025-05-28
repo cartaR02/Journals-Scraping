@@ -4,13 +4,18 @@ from bs4 import BeautifulSoup, NavigableString
 import logging
 import time
 import requests
-import openai
+from openai import OpenAI
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+
+with open ("key", "r") as f:
+    OPEN_API_KEY = f.read().strip()
+
+openai_client = OpenAI(api_key=OPEN_API_KEY)
 # Setup logging
 logfile = "scrape_log.{}.log".format(
     datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -137,5 +142,11 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             continue
         
         logging.info("Complete")
+        response = client.chat.completions.create(
+        model="gpt-4",
+        messages=[
+        {"role": "user", "content": "Hello, GPT!"}
+        ]
+)
 
 driver.quit()
