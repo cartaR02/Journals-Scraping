@@ -1,0 +1,11 @@
+05-28 21:41:14 root         INFO     Successfully clicked cookie consent button
+05-28 21:41:19 root         INFO     HTML GATHERED
+05-28 21:41:19 root         INFO     LINK GATHERED
+05-28 21:41:19 root         INFO     <a class="loi__issue__link" data-id="loi-issue-link" href="/toc/aera/62/3">Volume 62, Issue 3, <span class="loi__issue__cover-date"> June 2025</span></a>
+05-28 21:41:19 root         INFO     /toc/aera/62/3
+05-28 21:41:34 root         INFO     No cookie consent button found or needed
+05-28 21:41:39 root         ERROR    Failed to retrieve HTML for: https://journals.sagepub.com/toc/aera/62/3
+05-28 21:41:39 root         INFO     LINK GATHERED
+05-28 21:41:39 root         INFO     <a class="loi__issue__link" data-id="loi-issue-link" href="/toc/aera/62/2">Volume 62, Issue 2, <span class="loi__issue__cover-date"> April 2025</span></a>
+05-28 21:41:39 root         INFO     /toc/aera/62/2
+05-28 21:41:55 root         INFO     No cookie consent button found or needed

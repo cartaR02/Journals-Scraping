@@ -45,11 +45,8 @@ def selenium_config() -> webdriver:
     options: Options = Options()
     # Uncomment the next line for headless testing
     # options.add_argument("--headless")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-    )
     firefox_profile = webdriver.FirefoxProfile()
-    firefox_profile.set_preference("permissions.default.image", 2)
+    firefox_profile.set_preference("permissions.default.image", 1)
     options.profile = firefox_profile
     driver: webdriver = webdriver.Firefox(options=options)  # type: ignore
     return driver
@@ -58,21 +55,61 @@ driver = selenium_config()
 
 csvFileName = "WebsiteData.csv"
 
+def accept_cookies(driver):
+    # List of common cookie accept button identifiers
+    cookie_button_identifiers = [
+        # Common class names
+        (By.CLASS_NAME, "accept-cookies"),
+        (By.CLASS_NAME, "accept-cookie"),
+        (By.CLASS_NAME, "cookie-accept"),
+        (By.CLASS_NAME, "cookie-consent-accept"),
+        # Common IDs
+        (By.ID, "onetrust-accept-btn-handler"),
+        (By.ID, "accept-cookies"),
+        (By.ID, "accept-cookie-consent"),
+        # Common button text
+        (By.XPATH, "//button[contains(text(), 'Accept')]"),
+        (By.XPATH, "//button[contains(text(), 'Accept All')]"),
+        (By.XPATH, "//button[contains(text(), 'Accept Cookies')]"),
+        # For the specific APA website
+        (By.XPATH, "//button[contains(@class, 'cookie-notification__accept')]"),
+        (By.XPATH, "//button[contains(@class, 'cookie-notification')]//span[contains(text(), 'Accept')]/..")
+    ]
+    
+    for by, identifier in cookie_button_identifiers:
+        try:
+            # Wait for a short time for each possible button
+            button = WebDriverWait(driver, 1).until(
+                EC.element_to_be_clickable((by, identifier))
+            )
+            button.click()
+            logging.info("Successfully clicked cookie consent button")
+            return True
+        except:
+            continue
+    
+    logging.info("No cookie consent button found or needed")
+    return False
+
+# Then modify your retrieve_site_html function to include this:
 def retrieve_site_html(URL):
     try:
         driver.get(URL)
-        # Wait up to 30 seconds for a <journalhome> element to be present.
-        WebDriverWait(driver, 30).until(
-            EC.presence_of_element_located((By.TAG_NAME, "journalhome"))
-        )
+        
+        # Add a small delay to let the cookie popup appear
+        time.sleep(2)
+        
+        # Try to accept cookies
+        accept_cookies(driver)
+        
+        # Continue with the rest of your code...
+        time.sleep(5)
     except Exception as e:
         logging.error(f"{URL} Failed to access: {e}")
         return None
-    # Get page source after the dynamic content is loaded
+        
     page_source = driver.page_source
-    site_html = BeautifulSoup(page_source, "html.parser")
-
-    return site_html
+    return BeautifulSoup(page_source, "html.parser")
 
 def gather_landing_page_containers(LANDING_PAGE_CONTAINERS, HTML):
     """
@@ -144,9 +181,9 @@ def ask_chat_gpt(Site_html):
     try:
         response = openai_client.chat.completions.create( model="gpt-4", messages=[
             {"role": "system", "content": prompt},
-            {"role": "user", "content": site_html}])
+            {"role": "user", "content": Site_html}])
         msg = response.choices[0].message.content
-        print(msg)
+        logging.info(msg)
     except Exception as e:
         logging.error(f"Error: {e}")
 
@@ -156,29 +193,38 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
     counter = 0
     for journal_row in journal_reader:
         counter += 1
+        URLS = journal_row[1]
+        URL, Pre_url = URLS.split("|")
         JOURNAL_INFO = {
             "JOURNAL_ID": journal_row[0],
-            "URL": journal_row[1],
+            "URL": URL,
+            "PRE_URL": Pre_url,
             "CONTAINER_IDENTIFIERS": journal_row[2]
         }
 
         html = retrieve_site_html(JOURNAL_INFO["URL"])
         if html is None:
+            logging.error("HTML LENGTH: " + str(len(html)) )
+            print("HTML LENGTH: " + str(html) )
             logging.error("Failed to retrieve HTML for: " + JOURNAL_INFO["URL"])
             continue
 
 
-        logging.info("Complete")
-        url_list = html.find_all(class_="article-title")
-        logging.info(url_list)
+        logging.info("HTML GATHERED")
+        url_list = html.find_all(class_="loi__issue__link")
 
         for link in url_list:
+            logging.info("LINK GATHERED")
             href = link.get('href')
-
-            full_url = "https://psycnet.apa.org" + href
+            logging.info(href)
+            full_url = JOURNAL_INFO["PRE_URL"] + href
             site_html = retrieve_site_html(full_url)
-            site_html = site_html.find(class_="record-details row")
-            logging.info(site_html.prettify())
-            print("Link gatherd")
+
+            site_html = site_html.find(class_="toc-container")
+
+            if site_html is None:
+                logging.error("Failed to retrieve HTML for: " + full_url)
+                continue
+            ask_chat_gpt(str(site_html))
 
 driver.quit()
