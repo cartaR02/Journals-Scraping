@@ -1,0 +1,4 @@
+1. The article is titled with a date but the landing page has several dates for the documents.
+2. Script should be rewritten for the sage site as its different from the psycnet where you wanted to go into each one
+3. PDK landing page for a volume https://journals.sagepub.com/toc/pdka/106/7-8 only shows the title but hard for AI to do anything without any given information.
+4. Given current issue that could have many inside the "token" count for chatgpt is limited so I have limited each send request to 8000 characters which could cut off some lower titles on the page.

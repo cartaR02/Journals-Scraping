@@ -177,11 +177,12 @@ def ask_chat_gpt(Site_html):
         f"Create a 500-word news story, with a headline, for this text focused on\n"
         "Using two key research project, but mentioning others below it."
         "Including the date and title of the journal."
+        "Make sure the date is not in the future"
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4", messages=[
             {"role": "system", "content": prompt},
-            {"role": "user", "content": Site_html}])
+            {"role": "user", "content": Site_html[:8000]}])
         msg = response.choices[0].message.content
         logging.info(msg)
     except Exception as e:
@@ -199,7 +200,8 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             "JOURNAL_ID": journal_row[0],
             "URL": URL,
             "PRE_URL": Pre_url,
-            "CONTAINER_IDENTIFIERS": journal_row[2]
+            "LINK_CLASS": journal_row[2],
+            "DOC_CONTAINER": journal_row[3],
         }
 
         html = retrieve_site_html(JOURNAL_INFO["URL"])
@@ -211,7 +213,7 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
 
 
         logging.info("HTML GATHERED")
-        url_list = html.find_all(class_="loi__issue__link")
+        url_list = html.find_all(class_=JOURNAL_INFO["LINK_CLASS"])
 
         for link in url_list:
             logging.info("LINK GATHERED")
@@ -220,7 +222,7 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             full_url = JOURNAL_INFO["PRE_URL"] + href
             site_html = retrieve_site_html(full_url)
 
-            site_html = site_html.find(class_="toc-container")
+            site_html = site_html.find(class_=JOURNAL_INFO["DOC_CONTAINER"])
 
             if site_html is None:
                 logging.error("Failed to retrieve HTML for: " + full_url)
