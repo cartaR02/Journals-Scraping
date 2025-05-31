@@ -10,6 +10,8 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import sys
+import getopt
 
 # At the beginning of your script, before setting up your own logging:
 import logging
@@ -55,6 +57,27 @@ driver = selenium_config()
 
 csvFileName = "WebsiteData.csv"
 
+# Global variable to control GPT usage
+allowGPT = False
+
+# Parse command line arguments
+def parse_arguments():
+    global allowGPT
+    filter_id = None
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "i:G", ["id=", "gpt"])
+        for opt, arg in opts:
+            if opt in ("-i"):
+                filter_id = arg
+            elif opt in ("-G"):
+                allowGPT = True
+    except getopt.GetoptError:
+        print('Usage: python Journals.py -i <id> [-G]')
+        print('  -i <id>: Filter by journal ID')
+        print('  -G: Enable GPT processing')
+        sys.exit(2)
+    return filter_id
+
 def accept_cookies(driver):
     # List of common cookie accept button identifiers
     cookie_button_identifiers = [
@@ -75,7 +98,7 @@ def accept_cookies(driver):
         (By.XPATH, "//button[contains(@class, 'cookie-notification__accept')]"),
         (By.XPATH, "//button[contains(@class, 'cookie-notification')]//span[contains(text(), 'Accept')]/..")
     ]
-    
+
     for by, identifier in cookie_button_identifiers:
         try:
             # Wait for a short time for each possible button
@@ -87,7 +110,7 @@ def accept_cookies(driver):
             return True
         except:
             continue
-    
+
     logging.info("No cookie consent button found or needed")
     return False
 
@@ -95,19 +118,19 @@ def accept_cookies(driver):
 def retrieve_site_html(URL):
     try:
         driver.get(URL)
-        
+
         # Add a small delay to let the cookie popup appear
         time.sleep(2)
-        
+
         # Try to accept cookies
         accept_cookies(driver)
-        
+
         # Continue with the rest of your code...
         time.sleep(5)
     except Exception as e:
         logging.error(f"{URL} Failed to access: {e}")
         return None
-        
+
     page_source = driver.page_source
     return BeautifulSoup(page_source, "html.parser")
 
@@ -172,12 +195,13 @@ def extract_article_tags(HTML):
         articles = HTML.find_all("article")
     return articles
 
-def ask_chat_gpt(Site_html):
+def ask_chat_gpt(journal_headline,Site_html):
     prompt = (
         f"Create a 500-word news story, with a headline, for this text focused on\n"
         "Using two key research project, but mentioning others below it."
         "Including the date and title of the journal."
         "Make sure the date is not in the future"
+        "Use the journal headline for some context " + journal_headline
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4", messages=[
@@ -189,10 +213,19 @@ def ask_chat_gpt(Site_html):
         logging.error(f"Error: {e}")
 
 
+# Get the filter ID from command line arguments and set allowGPT if -G is provided
+filter_id = parse_arguments()
+logging.info(f"Filter ID: {filter_id if filter_id else 'None - processing all journals'}")
+logging.info(f"GPT Processing: {'Enabled' if allowGPT else 'Disabled'}")
+
 with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
     journal_reader = csv.reader(journal_data)
     counter = 0
     for journal_row in journal_reader:
+        # Skip this row if filter_id is specified and doesn't match the current journal ID
+        if filter_id and journal_row[0] != filter_id:
+            continue
+
         counter += 1
         URLS = journal_row[1]
         URL, Pre_url = URLS.split("|")
@@ -201,7 +234,8 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             "URL": URL,
             "PRE_URL": Pre_url,
             "LINK_CLASS": journal_row[2],
-            "DOC_CONTAINER": journal_row[3],
+            "HEADLINE_CONTAINER": journal_row[3],
+            "DOC_CONTAINER": journal_row[4],
         }
 
         html = retrieve_site_html(JOURNAL_INFO["URL"])
@@ -221,12 +255,16 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             logging.info(href)
             full_url = JOURNAL_INFO["PRE_URL"] + href
             site_html = retrieve_site_html(full_url)
-
+            journal_head = site_html.find(class_=JOURNAL_INFO["HEADLINE_CONTAINER"])
+            logging.info(journal_head.get_text())
             site_html = site_html.find(class_=JOURNAL_INFO["DOC_CONTAINER"])
 
             if site_html is None:
                 logging.error("Failed to retrieve HTML for: " + full_url)
                 continue
-            ask_chat_gpt(str(site_html))
+            if allowGPT:
+                ask_chat_gpt(journal_head.get_text(), str(site_html))
+            else:
+                logging.info("GPT disabled not processing data")
 
 driver.quit()
