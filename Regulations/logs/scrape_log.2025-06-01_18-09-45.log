@@ -1,0 +1,5 @@
+06-01 18:09:52 root         INFO     Initial Page loaded
+06-01 18:09:52 root         INFO     Attempting to click filter: Last 7 Days
+06-01 18:09:56 root         INFO     Last 7 days clicked
+06-01 18:09:56 root         ERROR    Failed to type into search input: name 'Keys' is not defined
+06-01 18:09:56 root         INFO     Attach - searched
