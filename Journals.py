@@ -94,7 +94,7 @@ def accept_cookies(driver):
 # Then modify your retrieve_site_html function to include this:
 def retrieve_site_html(URL):
     try:
-        driver.get(URL)
+        driver.get(URL) # type: ignore
         
         # Add a small delay to let the cookie popup appear
         time.sleep(2)
@@ -108,7 +108,7 @@ def retrieve_site_html(URL):
         logging.error(f"{URL} Failed to access: {e}")
         return None
         
-    page_source = driver.page_source
+    page_source = driver.page_source # type: ignore
     return BeautifulSoup(page_source, "html.parser")
 
 def gather_landing_page_containers(LANDING_PAGE_CONTAINERS, HTML):
@@ -180,7 +180,7 @@ def ask_chat_gpt(Site_html):
         "Make sure the date is not in the future"
     )
     try:
-        response = openai_client.chat.completions.create( model="gpt-4", messages=[
+        response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": Site_html[:8000]}])
         msg = response.choices[0].message.content
@@ -206,7 +206,7 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
 
         html = retrieve_site_html(JOURNAL_INFO["URL"])
         if html is None:
-            logging.error("HTML LENGTH: " + str(len(html)) )
+            logging.error("HTML LENGTH: " + str(len(html)) ) # type: ignore
             print("HTML LENGTH: " + str(html) )
             logging.error("Failed to retrieve HTML for: " + JOURNAL_INFO["URL"])
             continue
@@ -229,4 +229,4 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
                 continue
             ask_chat_gpt(str(site_html))
 
-driver.quit()
+driver.quit() # type: ignore
