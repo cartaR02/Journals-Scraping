@@ -1,0 +1,11 @@
+06-02 17:03:42 root         INFO     Initial Page loaded
+06-02 17:03:42 root         INFO     Attempting to click filter: Last 7 Days
+06-02 17:03:46 root         INFO     Last 7 days clicked
+06-02 17:03:49 root         INFO     Attach - searched
+06-02 17:03:59 root         ERROR    Failed to click search button: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+

@@ -98,10 +98,10 @@ def type_search_query(query: str) -> bool:
         return False
 
 def click_search_button() -> bool:
-    """Clicks the search button (magnifying glass) after typing a query."""
+    """Clicks the search button (with class 'btn btn-primary-alt')."""
     try:
         button = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.CSS_SELECTOR, '[aria-label="Search"]'))
+            EC.element_to_be_clickable((By.CSS_SELECTOR, 'button.btn.btn-primary-alt[type="submit"]'))
         )
         button.click()
         time.sleep(3)
@@ -109,6 +109,7 @@ def click_search_button() -> bool:
     except Exception as e:
         logging.error(f"Failed to click search button: {e}")
         return False
+
 
 
 
@@ -127,6 +128,41 @@ if __name__ == "__main__":
             if type_search_query("Attach"):
                 logging.info("Attach - searched")
                 click_search_button()
+                time.sleep(2)
+                updated_html = driver.page_source
+
+                soup_html = BeautifulSoup(updated_html, "html.parser")
+                
+                container = soup_html.find(class_="results-container")
+                logging.info(container)
+                # here is the wrapper container of the things we need
+                attachments_list = container.find_all(class_="card card-type-comment ember-view")
+                
+                logging.info("Attatchment docs found")
+                logging.info(len(attachments_list))
+                for article in attachments_list:
+                    current_link = article.find("a")
+                    if current_link:
+                        logging.info(f"Link: {current_link.get("href")}")
+                    else:
+                        logging.error("Link not found")
+                        continue
+                    ids_container = article.find(class_="card-metadata")
+                    current_id = ""
+                    for li in ids_container.find_all("li"):
+                        if li.strong and li.strong.text.strip() == "ID":
+                            logging.info("ID found")
+                            current_id = li
+                            logging.info(f"ID: {current_id}")
+                            break
+
+                    if current_id == "":
+                        logging.error("ID not found")
+                        continue
+
+                    logging.info("Article Complete!")
+
+
             else: 
                 logging.info("Site did not search properly")
 
