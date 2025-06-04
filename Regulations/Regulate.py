@@ -26,18 +26,21 @@ selenium_logger.setLevel(logging.WARNING)
 urllib3_logger = logging.getLogger('urllib3')
 urllib3_logger.setLevel(logging.WARNING)
 
-with open ("key", "r") as f:
+OPEN_API_KEY = ""
+
+with open ("../key", "r") as f:
     OPEN_API_KEY = f.read().strip()
 
 openai_client = OpenAI(api_key=OPEN_API_KEY)
-allowGPT = False
+allowGPT = True
 def parse_arguments():
     global allowGPT
     filter_id = None
     try:
         opts, args = getopt.getopt(sys.argv[1:], "G", ["gpt"])
         for opt, arg in opts:
-            if opt in ("-G"):
+            print(opt)
+            if opt == ("-G"):
                 allowGPT = True
                 logging.info("GPT Processing: Enabled")
     except getopt.GetoptError:
@@ -73,16 +76,28 @@ def selenium_config() -> webdriver:
 
 driver = selenium_config()
 
-def ask_chat_gpt(PDF_Text):
+def ask_chat_gpt(PDF_Text, current_id):
     prompt = (
  # waiting on prompt
+        """Create a 400-word news story, with a news headline, from this text of a letter to a named federal agency that is used in the first paragraph. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer.
+If the agency is a department, use U.S. in front of it instead of United States spelled out.
+Do not use a dateline and avoid unnecessary acronyms.
+The last paragraph should say when the letter was sent to the government agency and if available the named individuals who are recipients of the letter.
+If any entities in the doc are from a government agency or a college, do not add additional geography of where it is located. If it is any other type of entity, include the geography of where it is located using a comma and then the city, state where it is located.
+All letters have to have one or more signers, and all signers and their affiliations and job titles, if available, should be mentioned in text somehow...
+If using District of Columbia, always refer to it as D.C.
+In text, do not include these words: honorable, significant, forthcoming, extensive, formal, formally, detailed.
+For 2nd references to entities, use synonyms.
+If using a person's title after their name, the letters are lowercase.
+Second references to people should be last name.
+If there are mutiple signers for the letter, create a paragraph that lists all of them."""
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
-        logging.info(msg)
+        save_pdf_to_text("./ai_response/" + current_id, msg)
     except Exception as e:
         logging.error(f"Error: {e}")
 
@@ -130,6 +145,17 @@ def type_search_query(query: str) -> bool:
     except Exception as e:
         logging.error(f"Failed to type into search input: {e}")
         return False
+
+def save_pdf_to_text(pdf_path, pdf_text):
+
+    pdf_path = f"{pdf_path}.txt"
+
+    with open(pdf_path, "w") as f:
+        f.write(pdf_text)
+
+    logging.info(f"Saved PDF to {pdf_path}")
+
+
 
 def click_search_button() -> bool:
     """Clicks the search button (with class 'btn btn-primary-alt')."""
@@ -209,7 +235,16 @@ if __name__ == "__main__":
         parse_comment = BeautifulSoup(comment_html, "html.parser")
 
         pdf_download = parse_comment.find(class_="btn btn-default btn-block")
-        pdf_download_link = pdf_download.get("href")
+        try:
+            pdf_download_link = pdf_download.get("href")
+        except:
+            for pdf in parse_comment.find_all("a"):
+                if pdf.get("href").endswith(".pdf"):
+                    pdf_download_link = pdf.get("href")
+
+            if pdf_download_link == "":
+                logging.error("PDF not found")
+                continue
         logging.info(f"pdf download link: {pdf_download_link}")
 
 
@@ -228,15 +263,26 @@ if __name__ == "__main__":
                 for i, page in enumerate(pdf.pages):
                     text = page.extract_text()
                     if text:
-                        logging.info(f"------PDF PAGE {i + 1} ---\n{text}\n")
                         PDF_TEXT += text + "\n"
                     else:
                         logging.info("No text found on page")
 
-                logging.info("---------FINISHED PDF PAGE {i + 1} ---\n")
+                logging.info("---------FINISHED PDF PAGE ---\n")
+                logging.info(f"PDF TEXT: {len(PDF_TEXT)}")
+
+                if len(PDF_TEXT) < 100:
+                    logging.error("PDF TEXT is too short")
+                    continue
+
                 if allowGPT:
                     logging.info("GPT proccessing")
+                    ask_chat_gpt(PDF_TEXT, current_id)
+                else:
+                    logging.info("GPT disabled")
+                    logging.info("Skipping GPT")
+                save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
 
         except Exception as e:
-            logging.error(f"Failed to process PDF for {current_link}")
+            logging.error(f"Failed to process PDF for {current_link}::: {e}")
             continue
+driver.quit()
