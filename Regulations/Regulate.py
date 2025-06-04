@@ -12,13 +12,26 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-
+import os
+import shutil
 import sys
 import getopt
 
 # At the beginning of your script, before setting up your own logging:
 import logging
 print("Running from: ", sys.executable)
+
+def clear_folders():
+    logging.info("Clearing Folders")
+    if os.path.exists("./pdf_downloads"):
+        shutil.rmtree("./pdf_downloads/")
+    if os.path.exists("./pdf_text"):
+        shutil.rmtree("./pdf_text/")
+    if os.path.exists("./ai_response"):
+        shutil.rmtree("./ai_response/")
+    os.mkdir("./pdf_downloads")
+    os.mkdir("./pdf_text")
+    os.mkdir("./ai_response")
 # Disable Selenium's debug logging
 selenium_logger = logging.getLogger('selenium')
 selenium_logger.setLevel(logging.WARNING)
@@ -76,7 +89,11 @@ def selenium_config() -> webdriver:
 
 driver = selenium_config()
 
-def ask_chat_gpt(PDF_Text, current_id):
+
+
+
+
+def ask_chat_gpt(PDF_Text, current_id, comments_link):
     prompt = (
  # waiting on prompt
         """Create a 400-word news story, with a news headline, from this text of a letter to a named federal agency that is used in the first paragraph. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer.
@@ -97,6 +114,7 @@ If there are mutiple signers for the letter, create a paragraph that lists all o
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
+        msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_TEXT + "\n\nOriginial Link: " + comments_link
         save_pdf_to_text("./ai_response/" + current_id, msg)
     except Exception as e:
         logging.error(f"Error: {e}")
@@ -170,11 +188,29 @@ def click_search_button() -> bool:
         logging.error(f"Failed to click search button: {e}")
         return False
 
+def go_to_next_page(driver, timeout=10):
+    """
+    Clicks the 'Next' button to go to the next page in a paginated list.
+    """
+    try:
+        # Wait until the button is clickable (using unique aria-label)
+        next_btn = WebDriverWait(driver, timeout).until(
+            EC.element_to_be_clickable((By.XPATH, '//button[@aria-label="Go to next page"]'))
+        )
+        next_btn.click()
+        print("Successfully clicked 'Next' to go to the next page.")
+        return True
+    except Exception as e:
+        print(f"Could not click 'Next' button: {e}")
+        return False
+
 
 
 
 # Main start
 if __name__ == "__main__":
+
+    clear_folders()
     url = "https://www.regulations.gov/search/comment?filter=Attach&sortBy=postedDate&sortDirection=desc"
 
     html = retrieve_site_html(url)
@@ -196,7 +232,7 @@ if __name__ == "__main__":
     logging.info("Attatchment docs found")
     logging.info("Truncating List")
     logging.info(len(attachments_list))
-    attachments_list = attachments_list[:5]
+    #attachments_list = attachments_list[:5]
     logging.info(len(attachments_list))
 
     for article in attachments_list:
@@ -252,7 +288,7 @@ if __name__ == "__main__":
             response = requests.get(pdf_download_link)
             response.raise_for_status()
 
-            pdf_path = f"./pdf_downloads/{current_id}.pdf"
+            pdf_path = f"./pdf_downloads/Input_{current_id}.pdf"
             with open(pdf_path, "wb") as f:
                 f.write(response.content)
 
@@ -276,7 +312,7 @@ if __name__ == "__main__":
 
                 if allowGPT:
                     logging.info("GPT proccessing")
-                    ask_chat_gpt(PDF_TEXT, current_id)
+                    ask_chat_gpt(PDF_TEXT, current_id, current_link)
                 else:
                     logging.info("GPT disabled")
                     logging.info("Skipping GPT")

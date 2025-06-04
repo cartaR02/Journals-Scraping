@@ -1,13 +1,67 @@
-**Radiation Oncology Chair Calls for Reassessment of Brachytherapy Classification**
+**Radiation Oncology Chair Urges CMS to Reevaluate Brachytherapy Device Classification**
 
-In a letter addressed to the Centers for Medicare & Medicaid Services (CMS), Peter F. Orio III, chair of the Department of Radiation Oncology at Dana-Farber Cancer Institute, urged the agency to reconsider the classification of procedures involving the implantation of GammaTile, a specialized brachytherapy device. 
+In a recent letter to the Centers for Medicare & Medicaid Services, Peter F. Orio III, chair of the Department of Radiation Oncology at Dana-Farber Cancer Institute, called for a critical reassessment of the current Medicare Severity Diagnosis Related Group (MS-DRG) assignment for GammaTile, a radioactive brachytherapy device used in treating malignant tumors. 
 
-Orio highlighted the unique benefits of GammaTile, stating, “GammaTile is a surgically implanted radiotherapy device that delivers targeted, localized radiation directly to the tumor resection cavity. Unlike antineoplastic chemotherapy implants such as Gliadel, GammaTile functions as a standalone radiation therapy modality.” He stressed that this distinct mechanism allows for immediate radiation treatment, eliminating the typical lag period before external beam radiation therapy can commence.
+Dr. Orio stated, "GammaTile is a surgically implanted radiotherapy device that delivers targeted, localized radiation directly to the tumor resection cavity." He emphasized that unlike traditional chemotherapy implants such as Gliadel, GammaTile operates as an independent radiation therapy option that begins treatment immediately after tumor removal. "This is a clinically meaningful distinction," he added.
 
-He further elaborated on the implications of this distinction for patient care, saying, “In many cases, GammaTile obviates the need for a prolonged course of external beam radiation therapy, thereby reducing the overall treatment burden and improving adherence, particularly among older adults and underserved populations.” Orio emphasized that this potential improvement in care underscores the need for appropriate classification.
+Highlighting the advantages of GammaTile over time-consuming external beam radiation therapy, Dr. Orio remarked, "In many cases, GammaTile obviates the need for a prolonged course of EBRT, thereby reducing the overall treatment burden and improving adherence, particularly among older adults and underserved populations." He pointed out that chemotherapy implants still necessitate systemic chemotherapy and external beam radiation.
 
-Orio also pointed out the complexity involved in GammaTile implantation, noting, “These procedures require complex, multidisciplinary coordination involving radiation oncology, neurosurgery, medical physics, and radiation safety personnel.” He explained that these procedures are heavily regulated due to their use of permanent radioactive materials and involve extensive planning, consultation, and postoperative care.
+Dr. Orio also noted the complexities associated with the implantation of brachytherapy devices: "These procedures require complex, multidisciplinary coordination involving radiation oncology, neurosurgery, medical physics, and radiation safety personnel." He underlined the strict regulations governing radioactive devices and the extensive clinical resources and regulatory burdens involved in their procedures.
 
-He concluded by advocating for a separate classification for GammaTile procedures, recommending that CMS reclassify them apart from chemotherapy implant procedures. “Ensuring that DRG assignments accurately reflect the clinical complexity and resource utilization of these procedures is essential to preserving patient access to safe, evidence-based therapies within the Medicare program,” Orio stated.
+Drawing attention to the difference in operational demands, he remarked, "Inpatient brachytherapy procedures demand considerable planning and oversight, including preoperative mapping, intraoperative consultation, and time-intensive postoperative dosimetry. These requirements greatly exceed those associated with chemotherapy wafer implantation, which is comparatively straightforward."
 
-The letter to CMS was sent on June 3, 2025. In addition to Orio, the letter is signed by other notable professionals including Dr. John Smith, chief of neurosurgery at Dana-Farber Cancer Institute, and Dr. Emily Thomas, director of medical physics at the same institution.
+Consequently, he recommended a reclassification of GammaTile implantation procedures from antineoplastic chemotherapy implant procedures such as Gliadel to accurately reflect their clinical complexity and resource needs. "Ensuring that DRG assignments accurately reflect the clinical complexity and resource utilization of these procedures is essential to preserving patient access to safe, evidence-based therapies within the Medicare program," Dr. Orio concluded.
+
+The letter was sent on June 3, 2025. It is addressed to the officials at the Centers for Medicare & Medicaid Services.
+
+
+INPUT: Peter F. Orio III, DO, MS, FASTRO, FABS
+Chair
+Department of Radiation Oncology
+Associate Professor
+Harvard Medical School
+Dana-Farber Cancer Institute
+450 Brookline Avenue
+Boston, MA 02215-5450
+T 781.624.4700
+F 781.624.4710
+peter_orio@dfci.harvard.edu
+June 3, 2025
+To Whom It May Concern:
+As Chair of the Department of Radiation Oncology at Dana-Farber Cancer Institute and a physician
+specializing in brachytherapy for the treatment of malignant tumors, I respectfully urge CMS to
+reconsider the current MS-DRG assignment for procedures involving the implantation of radioactive
+brachytherapy devices, specifically GammaTile.
+GammaTile is a surgically implanted radiotherapy device that delivers targeted, localized radiation
+directly to the tumor resection cavity. Unlike antineoplastic chemotherapy implants such as Gliadel
+(carmustine), GammaTile functions as a standalone radiation therapy modality. It initiates radiation
+treatment immediately following tumor resection—eliminating the customary four- to six-week delay
+required before initiating external beam radiation therapy (EBRT). This is a clinically meaningful
+distinction. In many cases, GammaTile obviates the need for a prolonged course of EBRT, thereby
+reducing the overall treatment burden and improving adherence, particularly among older adults and
+underserved populations. In contrast, chemotherapy implants such as Gliadel do not replace systemic
+chemotherapy and do not eliminate the need for EBRT.
+The implantation of radioactive brachytherapy devices like GammaTile also presents a significantly
+different clinical and operational profile compared to chemotherapy-based implants. These
+procedures require complex, multidisciplinary coordination involving radiation oncology,
+neurosurgery, medical physics, and radiation safety personnel. They are subject to strict federal and
+state regulations governing the use of permanent radioactive implants. From the perspective of a
+radiation oncologist, inpatient brachytherapy procedures demand considerable planning and
+oversight, including preoperative mapping, intraoperative consultation, and time-intensive
+postoperative dosimetry. These requirements—and the associated clinical resources and regulatory
+burdens—greatly exceed those associated with chemotherapy wafer implantation, which is
+comparatively straightforward.
+In light of these substantial differences in therapeutic intent, regulatory oversight, and resource
+intensity, I recommend that CMS reclassify GammaTile implantation procedures (reported with ICD-
+10-PCS code 00H004Z) separately from other antineoplastic chemotherapy implant procedures, such
+as Gliadel.
+Ensuring that DRG assignments accurately reflect the clinical complexity and resource utilization of
+these procedures is essential to preserving patient access to safe, evidence-based therapies within the
+Medicare program.
+Thank you for the opportunity to comment. Please do not hesitate to contact my office if additional
+information would be helpful.
+Sincerely,
+Peter F. Orio III, DO, MS, FABS, FASTRO
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0134

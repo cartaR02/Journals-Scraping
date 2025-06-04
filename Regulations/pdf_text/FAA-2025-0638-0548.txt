@@ -1,0 +1,107 @@
+To: Federal Aviation Administration
+Re: Request for Comment to Withhold Certain Aircraft Registration Information From Public
+Dissemination – Docket FAA-2025-0638
+Please find the following comments below from the Florida Department of Revenue regarding
+the proposed changes to withhold certain aircraft registration information from public
+dissemination, as outlined in the Federal Register notice published on April 3, 2025, with the
+comment period extended to June 4, 2025 (Federal Register).
+Support for Privacy Protections
+The Florida Department of Revenue (FDOR) supports the FAA’s commitment to protecting the
+personally identifiable information (PII) of private aircraft owners, as mandated by Section 803
+of the FAA Reauthorization Act of 2024. In an era where data misuse poses significant risks, the
+option for owners to withhold their data through the Civil Aviation Registry Electronic Services
+(CARES) system is a vital step toward enhancing privacy (FAA Newsroom). This initiative aligns
+with broader societal demands for robust data protection and deserves commendation.
+Critical Threat to Florida’s Tax Enforcement
+However, we would like to highlight the negative impact this proposal could have on the FDOR,
+which relies on publicly available aircraft registration data to monitor ownership changes
+indicative of aircraft sales subject to Florida sales tax. This data is not merely a tool—it is the
+backbone of Florida’s ability to enforce tax compliance on high-value transactions like aircraft
+sales. Without access to this information, the state faces:
+• Substantial Revenue Losses: The inability to track aircraft sales could result in millions
+of dollars in uncollected sales tax, depriving Florida of critical funds for public services
+such as education, infrastructure, and healthcare.
+• Unfair Competition and Inequity: Non-compliant taxpayers could exploit the lack of
+data to evade taxes, creating an uneven playing field where law-abiding businesses and
+individuals are unfairly penalized. This undermines the fundamental principle of tax
+equity, allowing some to gain an unjust advantage.
+• Erosion of Public Trust: A tax system that fails to enforce compliance equitably risks
+losing public confidence, as citizens and businesses expect fairness and accountability
+in tax administration.
+Aircraft sales represent significant taxable events, and ensuring their proper taxation is essential
+for maintaining a just and equitable tax system. Restricting access to this data would not only
+hamper enforcement but also create opportunities for tax evasion, directly contradicting the
+principles of fairness that underpin Florida’s tax policies.
+Ensuring a Level Playing Field
+A fair tax system demands that all taxpayers and businesses, regardless of their resources or
+industry, are held to the same standards of compliance. The FAA’s proposal, while well-
+intentioned, risks dismantling this equity by limiting access to critical data needed to monitor
+aircraft sales. Without this information, Florida cannot ensure that all taxpayers contribute their
+fair share, potentially allowing some individuals or entities to evade taxes while compliant
+taxpayers bear the burden.
+Stakeholder Perspectives
+Organizations like the Aircraft Owners and Pilots Association (AOPA) have long advocated for
+enhanced privacy protections, particularly following the ADS-B mandate in 2020, which
+increased public tracking capabilities (AOPA). However, other stakeholders, including state tax
+authorities and entities involved in aviation safety and commerce, have raised concerns about
+the broader implications of restricting data access. The FAA’s call for comments, with 331
+submissions received by May 5, 2025, underscores the complexity of balancing privacy with
+regulatory needs (Federal Register). This feedback highlights the need for a solution that
+addresses both privacy and the operational requirements of state agencies.
+Proposed Solutions
+To reconcile the FAA’s privacy objectives with the critical needs of state tax authorities, FDOR
+proposes the following measures:
+1. Secure Data Access Portal: Establish a restricted, secure portal through which verified
+state agencies, such as the FDOR, can access aircraft registration data. This would
+ensure that PII is protected from public dissemination while allowing legitimate regulatory
+functions to continue uninterrupted.
+2. Data-Sharing Agreements: Develop formal agreements between the FAA and state
+governments to provide controlled access to registration data for tax enforcement
+purposes. These agreements could include strict protocols to safeguard PII while
+meeting state needs.
+3. Stakeholder Engagement: Convene discussions with state tax administrators to fully
+understand their data requirements and collaboratively design solutions that balance
+privacy and regulatory demands.
+4. Opt-In Data Sharing: Allow aircraft owners to opt-in to sharing specific data with state
+agencies for regulatory purposes, providing flexibility while maintaining privacy
+protections.
+Impact Assessment
+The following table summarizes the potential impacts of the FAA’s proposal and the benefits of
+adopting secure data access solutions:
+Aspect Impact of Data Restriction Benefit of Secure Access Solution
+Significant risk of undetected aircraft Ensures Florida can track sales and
+Tax
+sales, leading to tax evasion and enforce tax compliance, maintaining
+Compliance
+revenue losses. revenue streams.
+Creates an uneven playing field, Preserves equity by ensuring all
+Fairness advantaging non-compliant taxpayers taxpayers are subject to the same tax
+over compliant ones. obligations.
+Protects state revenue by enabling
+Potential loss of millions in sales tax
+Revenue continued tax collection on aircraft
+revenue, impacting public services.
+sales.
+Reinforces trust by demonstrating a
+Undermines confidence in the tax
+Public Trust commitment to fair and consistent tax
+system due to perceived inequities.
+enforcement.
+Protects PII from public access, Maintains privacy protections while
+Privacy reducing risks of misuse or allowing authorized access for
+harassment. regulatory purposes.
+Conclusion
+The proposed restriction of aircraft registration data poses a threat to Florida’s tax compliance
+efforts, risking significant revenue losses and creating opportunities for tax evasion that
+undermine fairness. FDOR requests the consideration of secure data access solutions, such as
+restricted portals or data-sharing agreements and supports engagement with state tax
+authorities and other stakeholders to develop a balanced approach that respects privacy while
+preserving the integrity of the tax system.
+Thank you for the opportunity to comment on this critical issue. FDOR strongly encourages the
+FAA to prioritize solutions that support both privacy and regulatory fairness.
+Sincerely,
+Beth Baker
+Revenue Program Administrator II
+Florida Department of Revenue
+(850)717-6014
+Beth.Baker@floridarevenue.com

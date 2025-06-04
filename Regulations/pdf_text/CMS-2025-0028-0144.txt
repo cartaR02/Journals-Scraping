@@ -1,0 +1,247 @@
+1801 Pennsylvania Avenue NW. 202 378 2025
+Suite 900
+Washington, D.C. 20006
+June 4, 2025
+Via Electronic Submission
+Dr. Mehmet Oz, Administrator
+Centers for Medicare & Medicaid Services
+Attention: CMS-1833-P
+Mail Stop C4-26-05
+7500 Security Boulevard
+Baltimore, MD 21244-1850
+Re: Medicare Hospital Inpatient Prospective Payment System Proposed Rule for FY
+2026 (CMS-1833-P)
+Dear Dr. Oz:
+Abbott welcomes the opportunity to comment on the Centers for Medicare & Medicaid Services’ (CMS)
+Medicare hospital inpatient prospective payment system (IPPS) and long-term care hospital (LTCH)
+prospective payment system proposed rule for fiscal year (FY) 2026 (Proposed Rule).
+Abbott is committed to helping people live their best possible life through the power of health. For more
+than 135 years, we’ve brought new products and technologies to the world – in diagnostics, medical
+devices, nutrition, and branded generic pharmaceuticals – that create more possibilities for more people
+at all stages of life. Today, 114,000 Abbott employees are working to help people live not just longer, but
+better, in the more than 160 countries we serve.
+As a leading medical technology and nutrition manufacturer, we seek to ensure that CMS policies
+promote Medicare beneficiary access to high-quality healthcare innovations that address unmet medical
+needs and improve health outcomes. We therefore would like to offer our comments on the following
+provisions of the Proposed Rule:
+• Abbott supports CMS’s proposal to approve new technology add-on payment (NTAP) for
+the Esprit™ BTK Everolimus Eluting Resorbable Scaffold (Esprit™ BTK) for FY 2026. We
+provide updated cost data to support an increased maximum NTAP payment of $6,933 to
+more accurately reflect both the clinical need to treat the entire diseased lesion and the
+post-market-release experience.
+• Abbott supports CMS’s proposal to create three new Medicare Severity Diagnosis Related
+Groups (MS-DRGs) to represent percutaneous coronary atherectomy procedures. We
+believe the new MS-DRGs would be more representative of associated hospital resources
+and help maintain Medicare beneficiary access to percutaneous coronary atherectomy
+procedures.
+• Abbott appreciates CMS seeking to promote optimal nutrition within the Hospital Inpatient
+Quality Reporting (IQR) Program. We recommend that CMS continue to utilize the
+Malnutrition Care Score (MCS) electronic clinical quality measure (eCQM) to measure
+hospital performance, and we endorse making the MCS a mandatory eCQM. We also
+recommend that CMS address nutritional needs during care transitions, including during
+the hospital discharge process.
+• As CMS explores additional ways to promote optimal nutrition within the LTCH Quality
+Reporting Program (QRP), we recommend that CMS utilize the MSC eCQM to measure
+LTCH performance by validating it for the LTCH setting.
+Our detailed comments follow.
+I. NTAP Payment for Esprit™ BTK Everolimus Eluting Resorbable Scaffold
+CMS proposes to approve NTAP payment for the Esprit™ BTK for FY 2026. CMS bases the proposed
+maximum NTAP payment of $3,900 for FY 2026 on preliminary estimates that on average, two Esprit™
+BTK Scaffolds would be used per patient, based on an average lesion length of 44 millimeters (mm).
+CMS notes that the cost information for this technology may be updated in the final rule as a result of
+additional information. CMS requests comments on approval of NTAP for Esprit™ BTK, including
+comments regarding whether the technology meets the NTAP cost criteria.
+We appreciate CMS’s favorable consideration of our application, and we believe approval of NTAP
+status for this breakthrough technology will remove an economic barrier to improved care for patients
+with chronic limb threatening ischemia. While we agree that Esprit™ BTK meets the NTAP cost criteria,
+as described in our application, we are requesting that CMS increase the maximum NTAP payment to
+$6,933 based on our clinical trial and post-market-release experience.
+We now have two-year data from the LIFE-BTK randomized controlled trial reporting sustained,
+significant clinical benefit for patients treated with Esprit™ BTK resorbable scaffolds compared to
+standard treatment with balloon angioplasty (PTA). Two-year trial results showed sustained patency and
+safety of Esprit™ BTK compared to PTA, with lower rates of the combined primary efficacy composite
+endpoint of freedom from above-ankle amputation of the target limb, occlusion of the target vessel,
+binary restenosis of the target lesion, and clinically driven total leg revascularization.1
+Among LIFE-BTK trial subjects, the clinical success of the treatment was not based on a specific number
+of scaffolds used, but rather on the clinical treatment protocol, which required scaffolds to be placed
+along the entire length of the diseased artery, also known as “healthy-to-healthy” vessel treatment. By
+treating healthy-to-healthy, the LIFE-BTK trial determined that Esprit™ BTK offers continued superior
+long-term clinical outcomes compared to PTA. While two scaffolds per case were implanted on average
+to treat the average lesion length of 44 mm, as indicated in our application, a range of one to six
+scaffolds were implanted depending on the length of the lesion being treated and the corresponding
+healthy-to-healthy clinical need of the patient.
+In addition, we have summarized the results of 16 studies evaluating infrapopliteal lesions in patients
+with chronic limb-threatening ischemia. The majority of studies were designed as multicenter
+observational registries or retrospective single- or multicenter analyses, reflecting real-world clinical
+practice. The number of lesions per study varied from 30 to 1,209. Lesion lengths ranged from 41 mm to
+244.7 mm, with a calculated weighted average of 135.1 mm.2-17 Additionally, in the RECCORD registry,
+an ongoing, prospective, multicenter, all-comers, web-based platform, among patients treated solely for
+infrapopliteal lesions, 40.4% of lesions were <10 cm (100 mm), 40.4% were 10-20 cm (100 – 200 mm),
+and 19.2% were >20 cm (200 mm) in length.17 Based on these updated data, we propose that CMS
+revise the maximum NTAP calculation to reflect an average of 3.55 scaffolds needed to cover the real-
+world average lesion length of 135.1 mm.
+Unless the maximum NTAP amount is based on the updated lesion length, there is a risk that
+beneficiaries may not get the care they need. In our experience since market release on April 26, 2024,
+we have found that despite Esprit™ BTKs strong safety profile and clinical benefit, some physicians have
+avoided treating healthy-to-healthy in longer, more complex lesions due to cost concerns. If the diseased
+lesion length is only partially treated, there is a high risk of not achieving the proven long-term durability
+and effectiveness in reducing restenosis and promoting long-term vessel patency, potentially requiring a
+reintervention procedure.
+Given the variability of patient anatomy and the clinical importance of providing full scaffold coverage of
+the diseased artery – healthy-to-healthy vessel treatment – we are requesting that CMS increase the
+maximum NTAP amount. Specifically, we request that CMS establish a maximum NTAP amount of
+$6,933 (65% of 3.55 scaffolds, priced at $3,000 each). This calculation applies the longest commercially
+available scaffold to the average real-world length of 135.1 mm, to arrive at a conservative 3.55 scaffolds
+implanted per lesion. We believe that finalizing this NTAP amount would effectively reduce economic
+2
+barriers to treating those patients with longer, more complex lesions and associated higher costs,
+enabling this breakthrough technology to be more widely available for Medicare beneficiaries.
+II. Percutaneous Coronary Atherectomy MS-DRG Reassignment
+In the Proposed Rule, CMS discusses Abbott’s request to revise the MS-DRG assignment of
+percutaneous coronary atherectomy procedures that currently are assigned to MS-DRGs 250 and 251
+(Percutaneous Cardiovascular Procedures without Intraluminal Device with MCC and without MCC,
+respectively) and MS-DRGs 321 and 322 (Percutaneous Cardiovascular Procedures with Intraluminal
+Device with MCC or 4+ Arteries/Intraluminal Devices and without MCC, respectively). Because
+atherectomy procedures involve more complex calcified lesions and require greater resources than other
+cases in the currently assigned MS-DRGs, we recommended that CMS either create a new MS-DRG for
+all cases involving percutaneous coronary atherectomy procedures or reassign these cases to Coronary
+Intravascular Lithotripsy MS-DRG 323, 324, and 325.
+CMS conducted a data analysis that “clearly shows that cases reporting percutaneous or percutaneous
+endoscopic coronary atherectomy, with or without involving the insertion of an intraluminal device, have
+higher average costs and longer lengths of stay compared to all the cases in their assigned MS-DRG.”
+To address the differential in resource consumption, CMS proposes to create the following three new
+MS-DRGs:
+• MS-DRG 359 (Percutaneous Coronary Atherectomy with Intraluminal Device with MCC)
+• MS-DRG 360 (Percutaneous Coronary Atherectomy with Intraluminal Device without MCC)
+• MS-DRG 318 (Percutaneous Coronary Atherectomy without Intraluminal Device)
+Abbott thanks CMS for its thoughtful consideration of our request to reassign percutaneous coronary
+procedures involving atherectomy. We especially appreciate that CMS recognizes that “clinically, the
+presence of severe calcification can increase the treatment difficulty and complexity of service.” We
+agree that the proposed new MS-DRG assignments are more representative of associated hospital
+resources and will help maintain Medicare beneficiary access to percutaneous coronary atherectomy
+procedures. We therefore support CMS’s proposed establishment of the three new MS-DRGs and
+recommend that they be finalized for FY 2026.
+III. Measure Concepts Under Consideration for Future Years in the Hospital IQR Program —
+Request for Information (RFI) on Well-Being and Nutrition
+In the Proposed Rule, CMS seeks comments on tools and measures that assess optimal nutrition and
+preventive care in the Hospital IQR Program. Abbott commends CMS for recognizing malnutrition as a
+critical component of overall health care. Targeting nutrition among Medicare beneficiaries aligns with the
+Trump Administration “Make America Health Again” initiative, which seeks to end America’s epidemic of
+chronic illness. The link between malnutrition and chronic disease is well established. Poor nutrition can
+exacerbate chronic conditions, resulting in increased symptom severity, a reduced quality of life, and
+higher health care costs, while adequate nutrition can help manage symptoms, improve outcomes, and
+enhance overall patient wellbeing.18
+Malnutrition refers to an imbalance of nutrients, either deficiency or excess – meaning a patient who is
+underweight or overweight can experience malnutrition that contributes to chronic disease. Malnourished
+patients and patients with nutrition-related or metabolic issues are frequently readmitted to the hospital.19
+A 2021 Journal of Parenteral and Enteral Nutrition study reported that malnourished patients with
+nutrition care plans had a 24% relative risk reduction for 30-day readmissions compared with those
+without a care plan.20 Average costs are 31%-34% higher for inpatient hospital stays among
+malnourished patients than for non-malnourished patients, rising to 38% higher costs when a patient has
+severe malnutrition.21 For these reasons, identifying malnutrition and establishing care plans for patients
+with malnutrition in the hospital setting remains a critical issue.
+3
+As the Proposed Rule points out, CMS adopted the MCS eCQM into the Hospital IQR Program in the FY
+2023 IPPS final rule. This measure assesses adults 65 years of age and older admitted to inpatient
+hospital services who received care appropriate to their level of malnutrition risk and malnutrition
+diagnosis. In the FY 2025 IPPS final rule, CMS modified the MCS eCQM to expand the assessed
+population to include patients 18 years of age and older. Abbott strongly supported these CMS steps to
+address the significant negative impact malnutrition has on outcomes among all adult patients.
+As CMS seeks additional ways to promote optimal nutrition within the Hospital IQR Program, we
+recommend that CMS continue to utilize the MCS eCQM to measure hospital performance, and we
+support making the MCS a mandatory eCQM. As an existing quality measure, hospitals already are
+familiar with the measure components. The MCS eCQM enables hospitals to not only pull their
+composite score, but also to collect data for quality improvement on the four steps of the Nutrition Care
+Process (NCP) – nutrition screening, nutrition assessment, malnutrition diagnosis, and nutrition care
+planning.22 The NCP is evidence- and consensus-based, and it uses quality improvement processes to
+help standardize terminology and improve consistency in nutrition care to improve outcomes.
+We also encourage CMS to expand its efforts to support optimal nutrition and preventive care beyond the
+Hospital IQR Program. While an inpatient hospital stay is a key opportunity to identify malnutrition, the
+care required to address the underlying causes of malnutrition must continue into the post-acute and
+community settings. That is, to successfully mitigate nutrition-related risk and improve long-term
+outcomes, hospitals must be supported in carrying malnutrition diagnoses and care plans into the next
+setting of care. We therefore recommend that CMS also identify mechanisms that promote attention to
+nutritional needs during care transitions – particularly in the hospital discharge process – such as:
+• Inclusion of nutrition data in discharge summaries and referrals
+• Continuity of the nutrition care plan into skilled nursing, home health, and outpatient settings
+• Measurement or incentives that promote post-hospital discharge nutrition follow-up
+We appreciate CMS’s continued attention to elevating optimal nutrition care in both inpatient and post-
+acute care settings, and we look forward to collaborating with CMS on these efforts.
+IV. LTCH QRP Measure Concepts Under Consideration for Future Years— RFI: Well-Being,
+Nutrition, and Delirium
+CMS invites comments on a quality measure concept of nutrition for future LTCH QRP quality measures,
+including tools and frameworks that promote optimal nutrition. Abbott appreciates CMS focusing attention
+on ways to improve individuals’ nutritional status within the LTCH setting. LTCHs’ complex patient
+population is comprised of individuals who frequently need mechanical ventilation (and thus rely on
+enteral nutrition) or have multiple chronic diseases. The increase in care intensity among the LTCH
+population amplifies the prevalence of malnutrition,23 making nutrition an appropriate focus for CMS
+quality improvement efforts.
+As CMS explores additional ways to encourage optimal nutrition within the LTCH QRP, we recommend
+that CMS utilize the Malnutrition Care Score eCQM to measure LTCH performance by validating it for the
+LTCH setting. This composite measure includes four component measures that assess: screening for
+malnutrition risk at admission; completing a nutrition assessment for patients who screened for risk of
+malnutrition; appropriate documentation of malnutrition diagnosis in the patient’s medical record if
+indicated by the assessment findings; and development of a nutrition care plan for malnourished patients
+including the recommended treatment plan. While developed for the inpatient setting, these malnutrition
+care best practices also translate to the LTCH setting. Furthermore, since the MCS is an existing quality
+measure in the IQR Program, LTCHs are already receiving transferring patients with documentation that
+follows the MCS format, which should facilitate implementation.
+* * * * *
+4
+We appreciate your consideration of our request. Please feel free to contact me if you have any
+questions or if you need additional information.
+Sincerely,
+Peter Kelly
+Divisional Vice President
+Reimbursement and Strategic Initiatives
+1. DeRubertis, Brian (2024, November 3-6) Two-Year Outcomes of the LIFE-BTK Randomized Controlled Trial Evaluating the
+Esprit BTK Drug-eluting Resorbable Scaffold for Treatment of Infrapopliteal Lesions. VIVA 2024 Conference, Las Vegas, NV,
+United States.
+2. Mustapha JA, Finton SM, Diaz-Sandoval LJ, et al. Percutaneous Transluminal Angioplasty in Patients With Infrapopliteal Arterial
+Disease. Circulation: Cardiovascular Interventions. 2016;9:e003468.
+3. Adams G, Soukas PA, Mehrle A, et al. Intravascular Lithotripsy for Treatment of Calcified Infrapopliteal Lesions: Results from the
+Disrupt PAD III Observational Study. J Endovasc Ther. 2022;29:76–83.
+4. Lee MS, Mustapha J, Beasley R, et al. Impact of lesion location on procedural and acute angiographic outcomes in patients with
+critical limb ischemia treated for peripheral artery disease with orbital atherectomy: A CONFIRM registries subanalysis. Catheter
+Cardiovasc Interv. 2016;87:440– 445.
+5. Brodmann M, Moscovic M, Wang JCC, et al. Real-World Experience With a Paclitaxel-Coated Balloon in Critical Limb Ischemia:
+24-Month Subgroup Outcomes of BIOLUX P-III. JACC Cardiovasc Interv. 2020;13:2289–2299.
+6. AbuRahma AF, Beasley M, Davis M, et al. Use of drug-eluting stents in patients with critical limb ischemia and infrapopliteal
+arterial disease: a real-world single-center experience. Journal of Vascular Surgery. 2021;74:1619–1625.
+7. Baumann F, Fust J, Engelberger RP, et al. Early recoil after balloon angioplasty of tibial artery obstructions in patients with critical
+limb ischemia. J Endovasc Ther. 2014;21:44–51.
+8. Khalili H, Jeon-Slaughter H, Armstrong EJ, et al. Atherectomy in below-the-knee endovascular interventions: One-year outcomes
+from the XLPAD registry. Catheter Cardiovasc Interv. 2019;93:488-493.
+9. Guo J, Ye M, Zhang W, et al. Drug-Coated Balloon Angioplasty of Infrapopliteal Lesions in Chronic Limb-Threatening Ischemia:
+Six-month Outcomes of PRIME-WIFI. J Endovasc Ther. 2023;15266028231208646.
+10. Zia S, Juneja A, Shams S, et al. Contemporary outcomes of infrapopliteal atherectomy with angioplasty versus balloon
+angioplasty alone for critical limb ischemia. J Vasc Surg. 2020;71:2056–2064.
+11. Kokkinidis DG, Giannopoulos S, Jawaid O, et al. Laser Atherectomy for Infrapopliteal Lesions in Patients With Critical Limb
+Ischemia. Cardiovasc Revasc Med. 2021;23:79–83.
+12. Metser G, Puma J, Mustapha J, et al. Clinical Outcomes of Additional Below-The-Ankle Intervention Compared to Below-The-
+Knee Intervention Alone: A Post-Hoc Analysis of a Prospective Multicenter Study. J Endovasc Ther. 2023;30:711–720.
+13. Nakano M, Hirano K, Iida O, et al. Clinical efficacy of infrapopliteal endovascular procedures for hemodialysis patients with critical
+limb ischemia. Ann Vasc Surg. 2015;29:1225–1234.
+14. Nugteren MJ, Hazenberg CEVB, Bakker OJ, et al. THRILLER collaborative group. Short Term Outcomes of a Prospective
+Registry of Popliteal and Infrapopliteal Endovascular Interventions for Chronic Limb Threatening Ischaemia. Eur J Vasc
+Endovasc Surg. 2025;69:304–312.
+15. Teymen B, Akturk S, Akturk U, et al. Comparison of drug-eluting balloon angioplasty with self-expanding interwoven nitinol stent
+deployment in patients with complex femoropopliteal lesions. Vascular. 2018;26:54–61.
+16. Wittig T, Schmidt A, Kabelitz M, et al. S. Safety and Efficacy of All Comers Treated with a Paclitaxel Coated Balloon for Below
+Knee Intervention. Eur J Vasc Endovasc Surg. 2022;64:516–525.
+17. Stella J, Stausberg J, Lichtenberg M, et al. RECCORD Investigators. Clinical Characteristics and Current Practice of
+Endovascular Revascularization in Aorto-Iliac, Femoropopliteal and Infra-Popliteal Lower Extremity Artery Disease-Insights from
+the RECCORD Registry. J Clin Med. 2022;11:6074.
+18. Tang H, Yang M. Nutritional Assessment in Patients with Chronic Diseases: Tools, Challenges, and Future Directions. Nutrients.
+2023;15(22):4794. Published 2023 Nov 16. doi:10.3390/nu15224794
+19. Braunschweig C, Gomez S, Sheean PM. Impact of declines in nutritional status on outcomes in adult patients hospitalized for
+more than 7 days. J Am Diet Assoc. 2000;100:1316-1322.
+20. Valladares AF, Kilgore KM, Partridge J, et al. How a Malnutrition Quality Improvement Initiative Furthers Malnutrition
+Measurement and Care: Results From a Hospital Learning Collaborative. JPEN J Parenter Enteral Nutr. 2021;45(2):366-371.
+21. Curtis LJ, Bernier P, Jeejeebhoy K, Allard J, Duerksen D, Gramlich L, Laporte M, Keller HH. Costs of hospital malnutrition. Clin
+Nutr. 2017 Oct;36(5):1391-1396. doi: 10.1016/j.clnu.2016.09.009. Epub 2016 Sep 19. PMID: 27765524.
+22. Braunschweig C, Gomez S, Sheean PM. Impact of declines in nutritional status on outcomes in adult patients hospitalized for
+more than 7 days. J Am Diet Assoc. 2000;100:1316-1322.
+23. Bellanti F, Lo Buglio A, Quiete S, Vendemiale G. Malnutrition in Hospitalized Old Patients: Screening and Diagnosis, Clinical
+Outcomes, and Management. Nutrients. 2022;14(4):910. Published 2022 Feb 21. doi:10.3390/nu14040910
+5

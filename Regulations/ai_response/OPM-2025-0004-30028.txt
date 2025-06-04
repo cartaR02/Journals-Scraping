@@ -1,0 +1,476 @@
+**American Statistical Association Voices Concerns Over OPM Proposed Rule on Civil Service Positions**
+
+The American Statistical Association has expressed strong opposition to a proposed rule by the Office of Personnel Management regarding the classification of civil service positions. The rule, aimed at improving performance, accountability, and responsiveness in federal employment, was inspired by a recent executive order. The association fears the changes could significantly impact the integrity and objectivity of scientific roles within the government.
+
+In the letter, Steve Pierson, director of science policy for the association, emphasized the essential nature of various statistical positions, stating, "We urge that the exclusions be explicitly stated in the final rule for three types of statistical and scientific positions." He highlighted the importance of these roles in preserving the credibility of government data and statistics, which are vital for informed policymaking.
+
+The proposed rule allows specific policy-influencing positions to be reclassified as at-will employment, which the association argues could lead to significant public harm. Pierson elaborated, saying, "Changing their fundamental policy neutral roles will undermine the trust in, and objectivity and integrity of, federal statistics and government science."
+
+Moreover, Pierson pointed out that federal statistical and scientific roles are designed specifically to inform rather than influence policy. "Individuals responsible for foundational fact finding cannot, by definition, take on a policy-making or influencing role," he stated. The association warns that a shift to at-will status could compromise the integrity of data due to perceived political pressures and reduce the quality of scientific assessments.
+
+The letter calls for explicit exemptions for employees of federal statistical agencies and personnel engaged in scientific assessments to ensure their objectivity. The association underscores that without such protections, the trustworthiness of federal statistics could be severely undermined, affecting public health, safety, and the efficacy of democracy.
+
+The letter was sent to the Office of Personnel Management on May 26, 2025. The correspondence was signed by Steve Pierson, director of science policy, and several other members of the leadership team at the American Statistical Association.
+
+
+INPUT: ASA Response to OPM Notice of Proposed Rulemaking:
+Improving Performance, Accountability and Responsiveness in
+the Civil Service
+May 26, 2025
+The American Statistical Association appreciates the opportunity to comment on the proposed rule by
+the Office of Personnel Management, Improving Performance, Accountability and Responsiveness in the
+Civil Service, which acts upon President Trump’s Executive Order 14171 of January 20, 2025: Restoring
+Accountability to Policy-Influencing Positions Within the Federal Workforce.
+The proposed rule would allow excepted service positions that are policy-influencing–defined in the
+proposed rule as positions of a “confidential, policy-determining, policy-making, or policy-advocating
+character”–be moved into Schedule Policy/Career. As explained in the proposed rule summary,
+These positions will remain career jobs filled on a nonpartisan basis. Yet they will be at-will
+positions excepted from adverse action procedures or appeals. This will allow agencies to
+quickly remove employees from critical positions who engage in misconduct, perform poorly, or
+undermine the democratic process by intentionally subverting Presidential directives.
+From our perspective as a non-partisan scientific organization and out of concern for maintaining the
+integrity and objectivity of both the scientific process and government statistics in informing
+government decisions and policies, we urge exceptions be stated explicitly in the final rule for three
+types of statistical and scientific positions: (i) all employees of federal statistical agencies, units, offices,
+as well as the OMB Office of the Chief Statistician; (ii) positions in research funding agencies and offices
+that, after research funding priorities have been determined by the agency’s or office’s leadership, carry
+out the work to write and distribute the solicitation, direct and oversee such work as the review of
+proposals, and rank the proposals; and (iii) positions in federal government that evaluate and assess
+scientific findings and the converging scientific evidence.
+1
+These three positions fall within what OMB policy characterizes as “foundational fact finding” (see OMB
+M-19-23, issued in 2019 as part of implementing the Foundations for Evidence-Based Policymaking Act,
+hereafter Evidence Act, signed by the President in 2019). The memo says this component of evidence
+building comprises “foundational research and analysis such as aggregate indicators, exploratory
+studies, descriptive statistics and basic research.” By definition and often by law, the roles supporting
+foundational fact finding are not allowed to influence policy but rather implement policy and provide
+information that informs policy. Further, including these positions in the Schedule Policy/Career
+category will result in substantial public harm because changing their fundamental policy neutral roles
+will undermine the trust in, and objectivity and integrity of, federal statistics and government science,
+and ultimately policies based on federal statistics and science. While the basic case for each category is
+the same, the specifics differ. Therefore, the following sections first describe common, then specific,
+laws, regulations, policies, and practices that prevent each of the three roles from being policy
+influencing and also describe specific harms that would occur if they were moved into the Schedule
+Policy/Career category.
+Perhaps the rule is already intended to exclude these positions. If so, we urge that the exclusions be
+explicit to avoid any misinterpretation. Otherwise, we urge that the intent of the rule be amended
+(again, explicitly) for the reasons discussed below.
+A. Foundational Fact Finding is Distinct from Policy Influencing and
+Blurring Creates Tangible Harm
+The Code of Federal Regulations defines “confidential, policy-determining, policy-making, or policy-
+advocating” in the context of defining attributes of a Schedule C position as being “responsible for
+furthering the goals and policies of the President and the Administration.” Individuals and agencies
+responsible for foundational fact finding cannot by definition and often by law take on a policy making,
+influencing or advocacy responsibility because they are by design one or more steps removed from the
+policymaking process and provide one input among many to the policymaking process. In contrast to
+policy making, "policy informing" refers to the process by which scientific evidence, research findings,
+and expert advice are provided to policymakers to help them understand complex issues, assess
+potential impacts, and explore various options. Their input is about ensuring that decisions are
+grounded in the best available knowledge, but it does not equate to making the decision itself. As Peter
+Gluckman, a prominent figure in science advice, emphasizes, science "expect[s] to inform policy, not
+make it." The scientific input is one of many factors that policymakers consider.1
+Those engaged in the conduct or support of foundational fact finding have definitional and cultural,
+statutory mission, and procedural firewalls in place between their work and policy making, and
+sometimes outright legal prohibitions. Sometimes these are position or agency specific, and sometimes
+they are government wide. We focus on three groups of federal employees engaged in foundational fact
+1 https://pmc.ncbi.nlm.nih.gov/articles/PMC11052655/
+2
+finding of which we have direct knowledge among our membership and our 185 years of supporting the
+science and statistical missions of the federal government. For science agency program officers, the
+firewalls are primarily definitional, missional, and operational. For scientific assessors, the firewalls are
+definitional and cultural, legal, procedural, and institutional. For statistical agencies, the firewalls are
+definitional and cultural, missional, procedural, and legal.
+The nonpartisan implementation of these foundational fact finding roles has a strong historical
+foundation:
+● Federal research and statistical agencies have traditionally maintained a firewall between
+political priorities and the foundational fact finding (or support of fact finding)
+● The scientific and data user communities’ trust in these institutions depends on this separation
+● Past administrations of both parties have respected the distinction between setting research
+and information gathering priorities and informing and implementing them
+The likely harms in moving those who conduct or support foundational fact finding into the proposed
+policy/career position range from loss of specialized talent to perform mission critical functions, to loss
+of international competitiveness, decreased public safety, and inability of U.S. citizens to participate in a
+fully functioning democracy.
+B. Federal Statistical Agencies and OMB Office of the Chief
+Statistician of the United States
+This section presents a statutory and governance-based argument for why personnel in federal
+statistical agencies and the Office of the Chief Statistician of the U.S. (OCS) should be exempted from
+classification as "policy-influencing positions" subject to at-will employment status. While federal
+statistics indisputably inform policy decisions, the statutory mandates, organizational design, and
+governing directives of these agencies explicitly require statistical agencies—and by extension their
+employees—to remain strictly non-partisan, objective, and policy neutral. Their role is deliberately
+structured to stop short of policy influence. Designating statistical agency personnel as "policy-
+influencing" would not only contradict their legal mandates but would fundamentally undermine the
+integrity, objectivity, and public trust that are paramount to their function. Such reclassification would
+ultimately hinder these agencies' core mission of providing the reliable, unbiased data essential for
+effective evidence-based policymaking across government, which in turn can genuinely cripple the
+proper function of our democracy. The same arguments apply to the OCS, within OMB. As the statutory
+head of the federal statistical system, with responsibility to ensure the system carries out its
+nonpartisan, objective, and unbiased mission, the Chief Statistician also must not be policy influencing.
+3
+B.1: Federal Statistical Agencies Are Statutorily Prohibited from Policy Making, Influencing, or Advocacy
+Statutory Mandates Explicitly Limit Agencies to Informational Roles
+Agency-specific enabling legislation consistently establishes federal statistical agencies as information
+providers, not policy influencers. The Bureau of Labor Statistics is mandated "to acquire and diffuse
+among the people of the United States useful information on subjects connected with labor," explicitly
+defining an informational rather than policy-influencing function. Similarly, the Bureau of Justice
+Statistics is authorized to collect and analyze statistical information "to improve the efforts" of
+government levels, supporting others' efforts rather than directing policy. The Energy Information
+Administration was established as "the central federal authority for collecting, analyzing, and
+disseminating independent and impartial energy information," with statutory language emphasizing
+independence from policy influence.
+The National Center for Education Statistics faces even more explicit restrictions, as it is required by 20
+U.S.C. § 9531(c)(5) to ensure its data is "objective, secular, neutral, nonideological, and free from
+partisan political influence," directly mandating separation from policy influence. Likewise, the National
+Center for Health Statistics is focused on statistical activities "to improve health services' effectiveness"
+without any statutory authorization for policy creation or advocacy.
+Cross-cutting statistical legislation reinforces these limitations. The Paperwork Reduction Act (PRA)
+requires the federal statistical system to ensure "integrity, objectivity, impartiality, utility, and
+confidentiality of information collected for statistical purposes," establishing neutrality as a legal
+requirement. The Confidential Information Protection and Statistical Efficiency Act (CIPSEA, first enacted
+in 2002 as part of the PRA), meticulously defines “statistical purpose” as “the description, estimation, or
+analysis of the characteristics of groups, without identifying the individuals or organizations that
+comprise such groups; and includes the development, implementation, or maintenance of methods,
+technical or administrative procedures, or information resources” that support these descriptive and
+analytical aims. Notably absent from this definition is any explicit directive or authorization for statistical
+agencies or their employees to engage in policy advocacy or formulation. The PRA focuses squarely on
+the rigorous and unbiased collection and analysis of data, explicitly separating this function from the
+realm of policy influence. The sole mention of “policy” within the PRA’s statistical policy and
+coordination section underscores the need for statistical policy to guide the system, not for individual
+statistical agency roles to become policy-influencing.
+The provisions for federal statistical agencies in the Foundations of Evidence-Based Policymaking Act
+(Evidence Act) are also conspicuously devoid of the agencies having direct policy influence. The Act
+reiterates the CIPSEA’s definition of "statistical purpose" as "description, estimation, or analysis"
+without any reference to policy influence. And it defines “statistical laws” as those pertaining to the
+protection of information collected for statistical purposes, further solidifying the core function of these
+agencies as data gatherers and analysts. The very phrasing “useful to policymakers” implies a distinct
+separation between those who produce the data and those who utilize it to formulate policy. The utility
+4
+lies in the unbiased and objective nature of the information, allowing policymakers to draw their own
+conclusions and formulate strategies based on a neutral foundation of facts.
+Furthermore, Title I of the Evidence Act explicitly tasks agency heads with developing strategic plans to
+identify and address policy questions and to develop evidence to support policymaking. This provision
+clearly places the responsibility for identifying policy-relevant questions and utilizing data to inform
+those questions with the heads of all agencies, not specifically within the statistical agencies themselves.
+This division of labor underscores the intended separation between the objective production of
+statistical information by specialized agencies and the application of that information to specific policy
+challenges by those with direct policy mandates.
+Statutory Separation Between Statistical Function and Policy Application
+Federal law creates an explicit statutory division of responsibilities between statistical agencies and
+policy functions. The Evidence Act requires agencies to identify "policy questions relevant to the
+programs" but deliberately separates this function from statistical data collection. Statistical agencies
+produce information "useful to policymakers" but are statutorily prohibited from being policymakers
+themselves. Enabling statutes consistently use language emphasizing that statistics are "for uses such
+as" policymaking, not that statistical staff engage in policymaking activities. In fact, CIPSEA defines a
+statistical agency as one that is to conduct statistical activities for statistical purposes. It also defines
+non-statistical “...any administrative, regulatory, law enforcement, adjudicatory, or other purpose that
+affects the rights, privileges, or benefits of a particular identifiable respondent….” In other words, any
+activity that would have a policy or programmatic outcome is not permitted.
+The Office of the Chief Statistician also statutorily separated from policymaking
+The PRA language establishing the position of Chief Statistician of the U.S. also has a decidedly non-
+policy-influencing role. The PRA states that, “with respect to statistical policy and coordination,” the
+Chief Statistician’s functions include to “coordinate the activities of the Federal statistical system to
+ensure” in part “the integrity, objectivity, impartiality, utility, and confidentiality of information collected
+for statistical purposes;” “ensure that budget proposals of agencies are consistent with system-wide
+priorities for maintaining and improving the quality of Federal statistics and prepare an annual report on
+statistical program funding;” and “promote the sharing of information collected for statistical purposes
+consistent with privacy rights and confidentiality pledges.” For the item that specifies the function to
+“develop and oversee the implementation of Governmentwide policies, principles, standards, and
+guidelines,” it limits such to “statistical collection procedures and methods; statistical data classification;
+statistical information presentation and dissemination; timely release of statistical data; and such
+statistical data sources as may be required for the administration of Federal programs.” In other words,
+the only mention of policy is in regard to statistical policy, which is policy that is fundamentally different
+than that covered in the proposed rule. Statistical policy, as functionally defined in the PRA as outlined
+above, is policy to, in part, ensure that statistical products are objective and impartial. Finally, the PRA
+requirement that the Chief Statistician be “a trained and experienced professional statistician to carry
+out the functions described under this subsection” further distances the Chief Statistician from being
+5
+moved to a position of a “confidential, policy-determining, policy-making, or policy-advocating
+character”.
+B.2 Federal Statistical Agencies Are Prohibited from Policy Making, Influencing, or Advocacy by Policy,
+Process, and Culture
+Legal boundaries on agency functions are further reinforced through OMB administrative directives.
+Statistical Policy Directive No. 4 mandates "policy-neutral" data releases as a requirement for all
+statistical products. Statistical Policy Directive No. 3 requires "equitable, policy-neutral, and timely
+release" of Principal Federal Economic Indicators (PFEIs). The recent revision of OMB’s Statistical Policy
+Directive No. 3, first proposed in 2019, reduced the “duration of the prohibition of commentary by
+employees of the Executive Branch following the PFEI release from one hour to 30 minutes.” In its
+preamble, the separation of federal statistical releases from government policy functions is further
+emphasized with the statement that the “change reduces the delay after official release time before
+commentary from employees of the Executive Branch, while retaining a necessary time delay between
+policy-neutral release of the official statistics and subsequent Executive Branch interpretations of this
+statistical data.” Finally, OMB Memorandum M-19-23 carefully limits statistical officials to advising on
+"statistical policy, techniques, and procedures," not substantive policy matters.
+The National Academies echoes this separation as a widely recognized best practice in its highly
+regarded report now in its 8th edition, Principles and Practices for a Federal Statistical Agency. It states,
+"statistical agencies should be careful not to become involved with policy development or
+implementation (beyond policies directly affecting their operations), because these activities could
+affect their ability (or the perception of their ability) to conduct impartial and objective statistical
+activities." This report strongly influenced the content of Statistical Policy Directive No. 1, which was
+codified into law by the Evidence Act.
+Organizational design features of statistical agencies demonstrate their separation from policy
+functions. Statistical agencies maintain arm's length relationships from policy offices within their
+departments. Release schedules and procedures explicitly prevent coordination with policy
+announcements to maintain independence. Physical and operational separation from policy functions is
+built into the structure of these agencies.
+Professional standards and training for statistical personnel reinforce their non-policy role. Statistical
+personnel are trained in methodological objectivity rather than policy analysis. Career paths emphasize
+technical expertise rather than policy engagement. Performance metrics focus on statistical quality and
+methodological rigor, not policy outcomes or alignment with administration priorities. In short, there is
+a strong culture reinforcing the requirement to carry out statistical activities for strictly statistical
+purposes.
+6
+B.3: At-Will Status Would Fundamentally Undermine Statutory Obligations, Mission Delivery,
+Policymaking, and More
+Incompatibility with Statutory Obligations
+At-will employment status would create direct conflicts with statutory integrity mandates. CIPSEA 2018
+(or Title III of the Evidence Act) requires statistical agencies to "protect the trust of information
+providers," which would be fundamentally compromised by a structure suggesting political control over
+statistical outputs. At-will employment status would create structural conflicts with legal requirements
+for objectivity and impartiality that are embedded throughout a statistical agency’s authorizing
+legislation. Such classification would compromise agencies' ability to meet Information Quality Act
+requirements for quality, utility, objectivity, and integrity in information dissemination.
+Statistical quality standards would be directly undermined by at-will status. Statistical Policy Directive
+No. 1 requires agencies to protect against "improper influences and other factors that may impair the
+objectivity of the statistics." At-will status would create precisely the "improper influences" that
+statistical directives prohibit, placing agencies in an impossible position of being unable to comply with
+both their employment structure and their statistical quality mandates.
+Operational Impacts Preventing Fulfillment of Statutory Missions
+The trust and data quality implications of at-will status would be severe. Public perception of political
+control would reduce survey response rates, compromising the comprehensive data collection required
+by statute. Empirical evidence shows that perceived political interference decreases data quality and
+response rates across statistical programs. Trust is essential for all, but especially for what is largely
+voluntary participation in federal statistical programs, which form the backbone of most federally
+mandated statistical collections. Efforts to compensate would increase statistical program costs
+significantly, and still may not be successful.
+Statistical positions require specialized technical expertise and institutional knowledge that is not
+compatible with the potential turnover associated with at-will status. Continuity of operations depends
+on a stable expert workforce with deep methodological knowledge. Statistical methodologies that
+produce comparable data across relevant time periods require consistent application over time for
+reliability, which would be compromised by potential politicized turnover in staff or changing policies or
+their emphasis over time.
+International standards compliance would also be jeopardized. The United Nations Fundamental
+Principles of Official Statistics requires professional independence of statistical personnel, a standard the
+United States has formally endorsed. At-will status would place U.S. statistical programs out of
+compliance with international standards to which we are committed. This would compromise U.S.
+participation and leadership in international statistical organizations and data sharing arrangements.
+7
+Repercussions for Policymaking, Democracy, and Economy
+Losing the trust of data providers, resulting in information that is no longer able to meet specific
+information needs, also risks the trust of the data users. Fundamentally, this is the purpose of the
+statistical system – to provide trustworthy information to a wide range of data users in order to facilitate
+our democratic form of government, which relies on an informed citizenry.
+One of the most practical concerns with an at-will workforce is the appearance of political influence,
+including the perception or reality that the agency “cooks the books.” We have seen massive economic
+and political disruption in countries where such politicization of statistical agency personnel has
+occurred. For example, it has been widely reported that Greek statisticians “miraculously” made
+inflation and deficits “disappear” to enable Greece to join the European Union’s single currency, the
+euro, in the late 1990s. Greece faced dire economic consequences during the 2008 global financial crisis
+when it had to submit to numerous austerity measures in order for the IMF and EU to rescue its
+economy with multiple loans. Similarly, in Argentina, doctored inflation numbers were disseminated for
+multiple years to mask the breadth of its economic problems, with it ultimately being censored by the
+IMF, risking expulsion, and being rendered ineligible for much needed loans. The trustworthiness of U.S.
+federal statistics allows the U.S. to enjoy a reputation as a stable economy and global partner. Erosion of
+that trust could lead to results much like those of Greece and Argentina.
+Policymakers are among the most influential users of data, making the objectivity of statistical products
+essential. Without access to impartial and reliable information, their decisions risk being misguided,
+potentially undermining the effectiveness of public policy.
+C. Federal Research Funding Agencies and Offices: Program Officers
+This section presents a substantive argument against the inclusion of federal research program officers
+and scientists in the proposed reclassification of "policy-influencing positions" to at-will employment
+status at the agencies that oversee or carry out the research. These agencies include the National
+Science Foundation (NSF) and National Institutes of Health (NIH) as well as entities within the
+Departments of Agriculture, Defense, Education, Energy, and Justice as well as NASA and others. The
+proposed rule defines policy-influencing positions as those of a "confidential, policy-determining, policy-
+making, or policy-advocating character" and specifically identifies grantmaking with "substantive
+participation and discretionary authority" as policy-influencing.
+This argument focuses specifically on a subset of grant making personnel, that of program officers or the
+equivalent in research funding agencies whose responsibilities include carrying out the work to write
+and distribute solicitations (based on priorities already determined by agency leadership), directing and
+overseeing the review of proposals, and ranking proposals based on established merit criteria and peer
+evaluation processes.
+8
+While acknowledging the administration's legitimate interest in ensuring alignment between political
+appointees and career staff in truly policymaking roles, this proposal articulates why program officers
+who administer research funding should be excluded from this classification. The fundamental nature of
+research missions at NSF and NIH, their distinctive role in informing rather than making policy, and the
+rigorous conflict-of-interest protections in their peer review processes all support exempting these
+positions to preserve scientific integrity, institutional knowledge, and the stability of America's research
+enterprise. Further, there is harm in including them in this change–specifically to the agencies’ ability to
+carry out their missions with the appropriate level of scientific expertise–and a loss of international
+competitiveness.
+C.1: Basic Science Program Officers Inform and Implement, not Set, Policy
+Key Distinction from the Proposed Rule's Definition
+The proposed rule defines policy-influencing positions as those of a "confidential, policy-determining,
+policy-making, or policy-advocating character" and includes those with "substantive participation and
+discretionary authority in agency grantmaking." However, this definition would benefit from recognizing
+the fundamental distinction between:
+● Grantmaking that allocates funds based on political or policy priorities (properly subject to
+political direction)
+● Grantmaking that allocates funds based on scientific merit and peer review (which should
+remain insulated from political pressure)
+Federal research program officers at agencies like NSF and NIH fundamentally implement—rather than
+create—policy priorities that are already established through proper democratic channels. This is further
+supported by the typical distinction between decision-making authority and implementation within an
+agency. Research priorities and funding allocations are set at higher levels through Congressional
+appropriations, an annual interagency process led by the Office of Science and Technology Policy, and
+agency leadership directives. Program officers then translate these priorities into operational funding
+programs and peer review processes. Their role is technical and administrative implementation of
+already-determined priorities, not the creation of new policy directions. Unlike true policy positions,
+program officers operate within constrained parameters set by political leadership.
+Specific Role Definition of Program Officers in Research Agencies
+Program officers in research funding agencies perform a set of highly specialized but fundamentally
+policy implementation functions: writing and distributing solicitations after research funding priorities
+have been determined by agency leadership; directing and overseeing the review of proposals according
+to established criteria; ranking proposals based on merit evaluations from peer reviewers; managing the
+administrative processes that support scientific peer review; ensuring funded work complies with
+proposal's original scope of the award; measuring achievements of research in annual progress reports;
+9
+determining award's adherence to human subjects protections; and overseeing close-out of awards
+when research completes or requires termination.
+.
+These functions lack the discretionary policymaking authority that would justify classification as "policy-
+influencing positions." Their work is to implement already-established research priorities through
+standardized processes, not to determine which areas of research deserve funding in the first place.
+NSF's Statutory Role as Policy Informer, Not Policy Maker
+As explicitly stated in US Code regarding the Office of Science and Technology Policy, the office "will look
+to the Foundation [NSF] to provide studies and information on which sound national policies in science
+and technology can be based." This statutory language clearly positions NSF as an informer of policy
+made by others, not as a policymaking entity itself. Program officers who facilitate this information-
+gathering function should not be classified as having a "policy-making" role when their explicit purpose
+is to provide information to the actual policymakers.
+C.2: Legal and Procedural Firewalls between Policymaking and Policy-implementing and Informing:
+Scientific Merit and Peer Review Integrity
+The credibility of federal research funding depends on program officers who fulfill these responsibilities:
+(i) apply rigorous, politically neutral peer review processes based on scientific merit; (ii) make decisions
+based on established evaluation criteria rather than political preferences; (iii) maintain independence
+from political pressure in evaluating scientific quality; and (iv) uphold public trust in the objectivity of
+federal research investments. Moving their positions to at-will would preclude a program officer’s ability
+to meet these duties.
+Further, a critical element of NSF and NIH grant review processes is the strict conflict-of-interest
+protocols where peer reviewers must recuse themselves from discussions when they know proposal
+investigators well. This fundamental scientific integrity protection demonstrates that these processes
+are deliberately designed to minimize personal influence or bias—the opposite of "policy-influencing"
+positions. Program officers who administer these conflict-of-interest protocols are guardians of scientific
+objectivity, not policy advocates.
+At-will status would create actual or perceived pressure to favor politically expedient research over
+scientifically meritorious work, undermining the fundamental integrity of these programs and
+contradicting the conflict-of-interest safeguards that are central to their operation.
+C.3: Harm Resulting from Moving Positions to Career/Policy: Erosion of Required Specialized Expertise
+and Institutional Knowledge
+To be effective, program officers possess these qualities: (i)advanced scientific/technical degrees and
+research experience in relevant fields; (ii) deep knowledge of research landscapes, emerging
+10
+technologies, and scientific communities; and (iii) networks and relationships with academic, industry,
+and government stakeholders. The research funding agencies also benefit enormously from program
+officers with institutional memory regarding past funding programs, successes, and failures. Therefore, a
+fundamental concern arising from reclassification and subsequent personnel changes is the potential
+erosion of institutional knowledge and expertise. The replacement of experienced career civil servants
+with new and, presumably, less experienced appointees creates a substantial risk of disrupting
+continuity and undermining the operational capacity of agencies. Without an established baseline of
+performance metrics and historical context provided by seasoned personnel, the effective evaluation of
+new appointees' performance or instances of misconduct becomes demonstrably more challenging. This
+absence of a consistent reference point could impede objective assessments and potentially foster an
+environment where accountability is diminished, thereby impacting the agency's ability to fulfill its
+statutory obligations efficiently and effectively. Similarly, high turnover resulting from at-will status
+would systematically deprive agencies of this critical expertise and historical knowledge; again,
+diminishing the effectiveness of federal research investments.
+C.4: Harm Resulting from Moving Positions to Career/Policy: Reduced International Competitiveness
+America's global leadership in research and innovation depends on stable, consistent administration of
+research programs that span administrations; long-term vision and planning beyond political cycles;
+credibility with international research partners; and ability to develop and execute multi-year research
+initiatives. Political volatility in research program staffing would undermine these foundations of
+American scientific competitiveness and cede advantage to nations with more stable research
+ecosystems.
+While the administration has legitimate interest in ensuring alignment in truly policy-creating roles,
+program officers who technically implement rather than create research priorities should be excluded
+from this classification to preserve the integrity, stability, and effectiveness of federal research
+investments. The research missions of agencies like NSF and NIH, combined with their scientific merit
+review processes and conflict-of-interest protections, fundamentally separate them from policy-
+influencing functions.
+D. Federal Positions Who Conduct Scientific Assessments
+This section presents a legal and governance-based argument for why scientific assessment personnel in
+regulatory agencies such as the FDA and EPA should be exempted from classification as "policy-
+influencing positions" subject to at-will employment status. The argument establishes that while these
+scientists conduct evaluations that inform regulatory decisions, their role is fundamentally separate
+from policy formulation, being constrained by the very definition and culture as well as binding legal
+frameworks, procedural safeguards, and institutional structures designed specifically to maintain the
+independence and integrity of scientific processes from policy influences. Further, including these
+positions in the new at-will category will reduce scientific integrity and regulatory effectiveness and
+eventually reduce public health and safety.
+11
+D.1: Fundamental Separation of Scientific Assessment and Policy Determination
+Scientists performing scientific assessments do so to inform policy and, in some cases, to implement it.
+Their roles are designed to avoid policy making. As such, regulatory agencies maintain a deliberate
+separation between scientific assessment and policy determination:
+● Distinct Organizational Structure: Scientific review divisions are typically separate from
+regulatory action offices within agencies like FDA and EPA.
+● Role Definition: Scientific assessment personnel evaluate evidence, analyze data, and
+characterize findings according to established methodological frameworks rather than
+recommending specific policy outcomes. Although scientific assessment personnel may be
+asked for input on whether a submission meets specific regulatory requirements (e.g., has the
+company demonstrated their product is safe and effective), this is distinct from setting policy
+within their agency.
+● Functional Boundaries: Scientific staff determine "what is" (empirical facts and converging
+scientific evidence) while policymaking officials determine "what should be done" (regulatory
+action).
+● Documentation Practices: Agencies maintain clear records delineating where scientific
+assessment ends and policy considerations begin in decision documents.
+D.2: Binding Legal Frameworks Governing Scientific Functions
+Scientific assessment personnel operate under multiple binding legal frameworks, both agency specific
+and government-wide, that constrain any potential policy influence. The statutory guidance often
+prescribes methodologies, evidence standards, and review procedures. For example, the Clean Air Act,
+Clean Water Act, and other environmental statutes mandate specific scientific determination processes
+for EPA.
+The Food, Drug, and Cosmetic Act emphasizes the importance of science and establishes specific
+scientific standards and evaluation procedures for FDA. The Act is updated every several years to reflect
+scientific advances and developments. Among the 287 mentions of “scientific” in the Food, Drug, and
+Cosmetic Act are 42 mentions of “scientific evidence” and 19 mentions of “experts qualified by scientific
+training and experience”, to evaluate such issues as safety and effectiveness of drugs, food additives,
+medical devices, cosmetics, and animal drugs. In one case, the law specifies that the Secretary may
+promulgate regulations for a claim “only if the Secretary determines, based on the totality of publicly
+available scientific evidence (including evidence from well-designed studies conducted in a manner
+which is consistent with generally recognized scientific procedures and principles), that there is
+significant scientific agreement, among experts qualified by scientific training to evaluate such claims,
+that the claim is supported by such evidence.”
+The Information Quality Act and implementing guidelines from OMB require the "quality, objectivity,
+utility, and integrity" of scientific information. In addition to requiring agencies to publish and follow
+their own procedures for meeting these requirements, it creates administrative appeal processes for
+12
+challenging scientific determinations and establishes standards for peer review of influential scientific
+information.
+D.3: Institutional Safeguards Preventing Policy Influence
+To implement these legal requirements, several institutional mechanisms are in place that prevent
+scientific assessment personnel from exercising policy influence. These include peer review processes,
+which are an important part of scientific agency culture. These processes leverage external scientific
+peer review panels that validate scientific conclusions using standardized methodologies that constrain
+subjective judgments. These processes also require documentation requirements for scientific
+rationales.
+These implementing processes also include mandatory conflict-of-interest protocols, that provide
+transparency of any financial involvement and require recusals for scientists with potential conflicts of
+interest. As the IQA requirements establish legal liability to the agency, these requirements establish
+legal liability for the individual scientist.
+These laws, policies, and processes create and reinforce the space between scientific assessment and
+policy making, with clear delineation of where scientific assessment ends and policy formulation begins.
+D.4: Harm: Integrity of Science Underlying Regulatory Policy and Ultimately the Effectiveness of
+Regulations in addressing Public Health and Safety
+At-will employment status for scientific assessors and other scientific personnel could facilitate potential
+pressure on scientific personnel to align findings with policy preferences, which could result in three
+interrelated harms. The first is undermining scientific integrity in the agency because of the appearance
+of, or actual, political interference with scientific assessments. Indeed, the classification as "policy-
+influencing" would contradict agencies' own scientific integrity policies, which could undermine public
+trust in regulatory science. Further, if scientific positions were made at-will, those in the positions may
+hesitate to provide their open, honest scientific opinion if asked by policy-influencing staff for their input
+on whether a submission meets specific regulatory requirements. They might also feel or be pressured
+to provide a different response than the science would suggest.
+The second harm would be to regulatory effectiveness from the potential reduction in the quality of
+scientific assessments provided to policy makers. Scientific expertise in regulatory contexts requires
+deep technical knowledge and institutional memory. High turnover in scientific positions could therefore
+impair agencies' ability to fulfill statutory mandates. Third, when regulations are based less on strong
+science, they fail to protect public health and safety effectively.
+Questions or comments may be directed to ASA Director of Science Policy Steve Pierson:
+spierson@amstat.org.
+13
+
+
+Originial Link: https://www.regulations.gov/comment/OPM-2025-0004-30028
