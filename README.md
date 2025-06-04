@@ -1,3 +1,40 @@
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+1. [Description](#description)
+1. [Installation](#installation)
+1. [Usage](#usage)
+   1. [Command-line Options](#command-line-options)
+   1. [Examples](#examples)
+1. [Data Format](#data-format)
+1. [Project Structure](#project-structure)
+1. [Dependencies](#dependencies)
+1. [Logging](#logging)
+
+</details>
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+- [Journals Scraping](#journals-scraping)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Command-line Options](#command-line-options)
+    - [Examples](#examples)
+  - [Data Format](#data-format)
+  - [Project Structure](#project-structure)
+  - [Dependencies](#dependencies)
+  - [Logging](#logging)
+
+</details>
 # Journals Scraping
 
 A Python-based web scraper for extracting and processing content from academic journals.
@@ -63,8 +100,7 @@ python Journals.py -i 37493 -G
 The script reads journal information from `WebsiteData.csv`. Each row in the CSV should contain:
 
 1. Journal ID
-2. URLs (landing page URL and base URL for article links, separated by `|`)
-3. CSS class for article links
+2. URLs (landing page URL and base URL for article links, separated by `|`) 3. CSS class for article links
 4. CSS class for article content container
 
 Example CSV format:
