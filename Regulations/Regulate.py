@@ -5,6 +5,7 @@ import logging
 import time
 import requests
 import pdfplumber
+from openai import OpenAI
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -25,7 +26,25 @@ selenium_logger.setLevel(logging.WARNING)
 urllib3_logger = logging.getLogger('urllib3')
 urllib3_logger.setLevel(logging.WARNING)
 
+with open ("key", "r") as f:
+    OPEN_API_KEY = f.read().strip()
 
+openai_client = OpenAI(api_key=OPEN_API_KEY)
+allowGPT = False
+def parse_arguments():
+    global allowGPT
+    filter_id = None
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "G", ["gpt"])
+        for opt, arg in opts:
+            if opt in ("-G"):
+                allowGPT = True
+                logging.info("GPT Processing: Enabled")
+    except getopt.GetoptError:
+        print('Usage: python Regulate.py -G')
+        print('  -G: Enable GPT processing')
+        sys.exit(2)
+    return filter_id
 # Then your existing logging setup
 logfile = "./logs/scrape_log.{}.log".format(
     datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -53,6 +72,20 @@ def selenium_config() -> webdriver:
     return driver
 
 driver = selenium_config()
+
+def ask_chat_gpt(PDF_Text):
+    prompt = (
+ # waiting on prompt
+    )
+    try:
+        response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
+            {"role": "system", "content": prompt},
+            {"role": "user", "content": PDF_Text}])
+        msg = response.choices[0].message.content
+        logging.info(msg)
+    except Exception as e:
+        logging.error(f"Error: {e}")
+
 
 
 def retrieve_site_html(URL):
@@ -191,9 +224,19 @@ if __name__ == "__main__":
             logging.info(f"Saved pdf to {pdf_path}")
 
             with pdfplumber.open(pdf_path) as pdf:
+                PDF_TEXT = ""
                 for i, page in enumerate(pdf.pages):
                     text = page.extract_text()
-                    logging.info(f"------PDF PAGE {i + 1} ---\n{text}\n")
+                    if text:
+                        logging.info(f"------PDF PAGE {i + 1} ---\n{text}\n")
+                        PDF_TEXT += text + "\n"
+                    else:
+                        logging.info("No text found on page")
+
+                logging.info("---------FINISHED PDF PAGE {i + 1} ---\n")
+                if allowGPT:
+                    logging.info("GPT proccessing")
+
         except Exception as e:
             logging.error(f"Failed to process PDF for {current_link}")
             continue
