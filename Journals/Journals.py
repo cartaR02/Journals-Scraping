@@ -4,6 +4,9 @@ from bs4 import BeautifulSoup, NavigableString
 import logging
 import time
 import requests
+from web_requests import get_website
+from scrapers.container_scraper import get_containers
+from scrapers.content_scraper import scrape_content
 from openai import OpenAI
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
@@ -23,8 +26,10 @@ selenium_logger.setLevel(logging.WARNING)
 urllib3_logger = logging.getLogger('urllib3')
 urllib3_logger.setLevel(logging.WARNING)
 
-with open ("key", "r") as f:
-    OPEN_API_KEY = f.read().strip()
+OPEN_API_KEY = ""
+
+# with open ("key", "r") as f:
+#     OPEN_API_KEY = f.read().strip()
 
 openai_client = OpenAI(api_key=OPEN_API_KEY)
 # Then your existing logging setup
@@ -126,7 +131,7 @@ def retrieve_site_html(URL):
         accept_cookies(driver)
 
         # Continue with the rest of your code...
-        time.sleep(5)
+        time.sleep(2)
     except Exception as e:
         logging.error(f"{URL} Failed to access: {e}")
         return None
@@ -227,44 +232,112 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             continue
 
         counter += 1
-        URLS = journal_row[1]
-        URL, Pre_url = URLS.split("|")
         JOURNAL_INFO = {
             "JOURNAL_ID": journal_row[0],
-            "URL": URL,
-            "PRE_URL": Pre_url,
-            "LINK_CLASS": journal_row[2],
-            "HEADLINE_CONTAINER": journal_row[3],
-            "DOC_CONTAINER": journal_row[4],
+            "URL_FIELD": journal_row[1],
+            "JOURNAL_CONTAINERS": journal_row[2],
+            "LANDING_PAGE_GATHERING": journal_row[3],
+            "LINK_DATA": journal_row[4],
+            # "HEADLINE_CONTAINERS": journal_row[3],
+            # "DOC_CONTAINER": journal_row[4],
         }
 
-        html = retrieve_site_html(JOURNAL_INFO["URL"])
-        if html is None:
-            logging.error("HTML LENGTH: " + str(len(html)) ) # type: ignore
-            print("HTML LENGTH: " + str(html) )
-            logging.error("Failed to retrieve HTML for: " + JOURNAL_INFO["URL"])
+        # handling url data
+        url_field_split = JOURNAL_INFO["URL_FIELD"].split("|")
+        JOURNAL_INFO["FULL_URL"] = url_field_split[0]
+        JOURNAL_INFO["URL_PRE"] = "" if len(url_field_split) < 2 else url_field_split[1]
+        JOURNAL_INFO["LANDING_PAGE_GATHERING"] = (
+            True if JOURNAL_INFO["LANDING_PAGE_GATHERING"] == "True" else False
+        )
+
+        # if find_all is in one of the fields, we need to use a different path
+        # TODO setup for journal dict ; setup journal containers in dict
+        single_gather = (
+            True if "find_all" in JOURNAL_INFO["JOURNAL_CONTAINERS"] else False
+        )
+
+        # getting landing page html
+        webpage_html = get_website(JOURNAL_INFO["FULL_URL"], driver, JOURNAL_INFO)
+        if webpage_html is None:
+            logging.error(f"html is None")
             continue
 
+        # parsing through article containers
+        # TODO change dict to work with journals
+        issue_html = get_containers(
+            JOURNAL_INFO["JOURNAL_CONTAINERS"], webpage_html
+        )
+        if issue_html is None or len(issue_html) == 0:
+            logging.error("landing page getting containers html is none")
+            continue
 
-        logging.info("HTML GATHERED")
-        url_list = html.find_all(class_=JOURNAL_INFO["LINK_CLASS"])
+        # journal data will exculsively be stored in this dict
+        journal_contents = {}
 
-        for link in url_list:
-            logging.info("LINK GATHERED")
-            href = link.get('href')
-            logging.info(href)
-            full_url = JOURNAL_INFO["PRE_URL"] + href
-            site_html = retrieve_site_html(full_url)
-            journal_head = site_html.find(class_=JOURNAL_INFO["HEADLINE_CONTAINER"])
-            logging.info(journal_head.get_text())
-            site_html = site_html.find(class_=JOURNAL_INFO["DOC_CONTAINER"])
+        if single_gather:
 
-            if site_html is None:
-                logging.error("Failed to retrieve HTML for: " + full_url)
-                continue
-            if allowGPT:
-                ask_chat_gpt(journal_head.get_text(), str(site_html))
-            else:
-                logging.info("GPT disabled not processing data")
+            for issue in issue_html:
+
+                # getting the link from the issue
+                landing_page_link = scrape_content(
+                    JOURNAL_INFO["LINK_DATA"], issue, JOURNAL_INFO["JOURNAL_ID"], "LINK"
+                )
+
+                try:
+                    if isinstance(landing_page_link, list):
+                        landing_page_link = landing_page_link[0]
+
+                    if landing_page_link.get("href") is None:
+
+                        landing_page_link = landing_page_link.find("a")
+                        if landing_page_link is None:
+                            logging.error(
+                                f"SKIP: landing_page_link.get('href') is giving a 'None' value: {JOURNAL_INFO['JOURNAL_ID']}"
+                            )
+                            break
+
+                    article_link = JOURNAL_INFO["URL_PRE"] + landing_page_link.get("href").strip()
+
+                except (TypeError, AttributeError) as err:
+                    globals.article_link_href_typeerror_none.append(
+                        f"{JOURNAL_INFO['JOURNAL_ID']} {JOURNAL_INFO['LINK_DATA']}"
+                    )
+                    logging.error(
+                        f"SKIP: landing_page_link.get('href') is giving a 'None' value: {JOURNAL_INFO['JOURNAL_ID']}\n{err}"
+                    )
+                    break
+
+
+        else:
+            logging.info("gather all")
+
+        # html = retrieve_site_html(JOURNAL_INFO["URL"])
+        # if html is None:
+        #     logging.error("HTML LENGTH: " + str(len(html)) ) # type: ignore
+        #     print("HTML LENGTH: " + str(html) )
+        #     logging.error("Failed to retrieve HTML for: " + JOURNAL_INFO["URL"])
+        #     continue
+
+
+        # logging.info("HTML GATHERED")
+        # url_list = html.find_all(class_=JOURNAL_INFO["LINK_CLASS"])
+
+        # for link in url_list:
+        #     logging.info("LINK GATHERED")
+        #     href = link.get('href')
+        #     logging.info(href)
+        #     full_url = JOURNAL_INFO["PRE_URL"] + href
+        #     site_html = retrieve_site_html(full_url)
+        #     journal_head = site_html.find(class_=JOURNAL_INFO["HEADLINE_CONTAINER"])
+        #     logging.info(journal_head.get_text().strip())
+        #     site_html = site_html.find(class_=JOURNAL_INFO["DOC_CONTAINER"])
+
+        #     if site_html is None:
+        #         logging.error("Failed to retrieve HTML for: " + full_url)
+        #         continue
+        #     if allowGPT:
+        #         ask_chat_gpt(journal_head.get_text(), str(site_html))
+        #     else:
+        #         logging.info("GPT disabled not processing data")
 
 driver.quit()
