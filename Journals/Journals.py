@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup, NavigableString
 import logging
 import time
 import requests
+import gather_path.gather_article
+import configs.config as config
 from web_requests import get_website
 from scrapers.container_scraper import get_containers
 from scrapers.content_scraper import scrape_content
@@ -19,12 +21,27 @@ import getopt
 # At the beginning of your script, before setting up your own logging:
 import logging
 
-# Disable Selenium's debug logging
-selenium_logger = logging.getLogger('selenium')
-selenium_logger.setLevel(logging.WARNING)
+# tracking times for logging purposes
+start = datetime.now()
+# selenium webdriver
+driver = config.selenium_config()
 
-urllib3_logger = logging.getLogger('urllib3')
-urllib3_logger.setLevel(logging.WARNING)
+# try calling the function again
+if driver == None:
+    driver = config.selenium_config()
+
+# exit program call if driver cannot be initiated
+if driver == None:
+    sys.exit(2)
+
+config.log_config()
+
+# Disable Selenium's debug logging
+# selenium_logger = logging.getLogger('selenium')
+# selenium_logger.setLevel(logging.WARNING)
+
+# urllib3_logger = logging.getLogger('urllib3')
+# urllib3_logger.setLevel(logging.WARNING)
 
 OPEN_API_KEY = ""
 
@@ -33,32 +50,32 @@ OPEN_API_KEY = ""
 
 openai_client = OpenAI(api_key=OPEN_API_KEY)
 # Then your existing logging setup
-logfile = "./logs/scrape_log.{}.log".format(
-    datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-)
-logging.basicConfig(level=logging.DEBUG,
-                    format="%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
-                    datefmt="%m-%d %H:%M:%S",
-                    filename=logfile,
-                    filemode="w")
+# logfile = "./logs/scrape_log.{}.log".format(
+#     datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+# )
+# logging.basicConfig(level=logging.DEBUG,
+#                     format="%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
+#                     datefmt="%m-%d %H:%M:%S",
+#                     filename=logfile,
+#                     filemode="w")
 
-console = logging.StreamHandler()
-console.setLevel(logging.INFO)
-formatter = logging.Formatter("%(name)-12s: %(levelname)-8s %(message)s")
-console.setFormatter(formatter)
-logging.getLogger("").addHandler(console)
+# console = logging.StreamHandler()
+# console.setLevel(logging.INFO)
+# formatter = logging.Formatter("%(name)-12s: %(levelname)-8s %(message)s")
+# console.setFormatter(formatter)
+# logging.getLogger("").addHandler(console)
 
-def selenium_config() -> webdriver:
-    options: Options = Options()
-    # Uncomment the next line for headless testing
-    # options.add_argument("--headless")
-    firefox_profile = webdriver.FirefoxProfile()
-    firefox_profile.set_preference("permissions.default.image", 1)
-    options.profile = firefox_profile
-    driver: webdriver = webdriver.Firefox(options=options)  # type: ignore
-    return driver
+# def selenium_config() -> webdriver:
+#     options: Options = Options()
+#     # Uncomment the next line for headless testing
+#     # options.add_argument("--headless")
+#     firefox_profile = webdriver.FirefoxProfile()
+#     firefox_profile.set_preference("permissions.default.image", 1)
+#     options.profile = firefox_profile
+#     driver: webdriver = webdriver.Firefox(options=options)  # type: ignore
+#     return driver
 
-driver = selenium_config()
+# driver = selenium_config()
 
 csvFileName = "WebsiteData.csv"
 
@@ -238,7 +255,8 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             "JOURNAL_CONTAINERS": journal_row[2],
             "LANDING_PAGE_GATHERING": journal_row[3],
             "LINK_DATA": journal_row[4],
-            # "HEADLINE_CONTAINERS": journal_row[3],
+            "HEADLINE_DATA": journal_row[5],
+            "HEADLINE_FORMATTING_DATA": journal_row[6]
             # "DOC_CONTAINER": journal_row[4],
         }
 
@@ -264,10 +282,10 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
 
         # parsing through article containers
         # TODO change dict to work with journals
-        issue_html = get_containers(
+        issue_container_html = get_containers(
             JOURNAL_INFO["JOURNAL_CONTAINERS"], webpage_html
         )
-        if issue_html is None or len(issue_html) == 0:
+        if issue_container_html is None or len(issue_container_html) == 0:
             logging.error("landing page getting containers html is none")
             continue
 
@@ -276,37 +294,8 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
 
         if single_gather:
 
-            for issue in issue_html:
-
-                # getting the link from the issue
-                landing_page_link = scrape_content(
-                    JOURNAL_INFO["LINK_DATA"], issue, JOURNAL_INFO["JOURNAL_ID"], "LINK"
-                )
-
-                try:
-                    if isinstance(landing_page_link, list):
-                        landing_page_link = landing_page_link[0]
-
-                    if landing_page_link.get("href") is None:
-
-                        landing_page_link = landing_page_link.find("a")
-                        if landing_page_link is None:
-                            logging.error(
-                                f"SKIP: landing_page_link.get('href') is giving a 'None' value: {JOURNAL_INFO['JOURNAL_ID']}"
-                            )
-                            break
-
-                    article_link = JOURNAL_INFO["URL_PRE"] + landing_page_link.get("href").strip()
-
-                except (TypeError, AttributeError) as err:
-                    globals.article_link_href_typeerror_none.append(
-                        f"{JOURNAL_INFO['JOURNAL_ID']} {JOURNAL_INFO['LINK_DATA']}"
-                    )
-                    logging.error(
-                        f"SKIP: landing_page_link.get('href') is giving a 'None' value: {JOURNAL_INFO['JOURNAL_ID']}\n{err}"
-                    )
-                    break
-
+            for issue_html in issue_container_html:
+                journal_contents = gather_path.gather_article(JOURNAL_INFO, issue_html, driver)
 
         else:
             logging.info("gather all")
