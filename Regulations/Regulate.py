@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup, NavigableString
 import logging
 import time
 import requests
+import pdfplumber
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
@@ -16,7 +17,7 @@ import getopt
 
 # At the beginning of your script, before setting up your own logging:
 import logging
-
+print("Running from: ", sys.executable)
 # Disable Selenium's debug logging
 selenium_logger = logging.getLogger('selenium')
 selenium_logger.setLevel(logging.WARNING)
@@ -179,3 +180,20 @@ if __name__ == "__main__":
         logging.info(f"pdf download link: {pdf_download_link}")
 
 
+        try:
+            response = requests.get(pdf_download_link)
+            response.raise_for_status()
+
+            pdf_path = f"./pdf_downloads/{current_id}.pdf"
+            with open(pdf_path, "wb") as f:
+                f.write(response.content)
+
+            logging.info(f"Saved pdf to {pdf_path}")
+
+            with pdfplumber.open(pdf_path) as pdf:
+                for i, page in enumerate(pdf.pages):
+                    text = page.extract_text()
+                    logging.info(f"------PDF PAGE {i + 1} ---\n{text}\n")
+        except Exception as e:
+            logging.error(f"Failed to process PDF for {current_link}")
+            continue
