@@ -1,0 +1,126 @@
+**Group Pens Letter to CMS Urging Reform of Medicare Policy on Rural Floor Adjustments**
+
+A letter from CORE FINANCE TEAM AFFILIATES, LLC addressed to Dr. Mehmet Oz, Administrator of the Centers for Medicare and Medicaid Services, raises concerns regarding proposed changes to the Hospital Inpatient Prospective Payment System for the federal fiscal year 2026. The letter, submitted electronically on June 5, 2025, highlights perceived unlawful interpretations of the Rural Floor provision affecting Medicare reimbursement rates for hospitals.
+
+Robert Brad Bowman, the managing partner of CORE FINANCE, stated, “In the Proposed Rule, CMS calculates wage indexes and payment rates using an unlawful interpretation and application of the Rural Floor, which results in lower Medicare wage indices and reimbursements for many providers.” He emphasized that this misapplication has a ripple effect, impacting not only hospitals but also Medicare Advantage plans and other governmental programs reliant on the Medicare wage index.
+
+The letter details how CMS’s current policy disregards the stipulations of the Balanced Budget Act of 1997, specifically Section 4410, which mandates that urban hospitals cannot receive a lower wage index than their rural counterparts in the same state. “Despite knowing this, the Secretary is misinterpreting the rural floor provision and unlawfully lowering wage indices of specific hospitals entitled to receive these rates,” Bowman pointed out, calling for immediate corrective actions by the Secretary and CMS.
+
+Bowman placed considerable weight on the broad impact of CMS’s noted policies, stating, “The Secretary and CMS’s unlawful policy has wide-reaching reimbursement effects, resulting in the provider receiving less reimbursement than lawfully required.” The letter advocated for adherence to the provisions of Section 4410 to rectify the negative financial implications faced by various healthcare providers.
+
+CORE FINANCE TEAM represents 159 providers nationwide, voicing the urgent need for transparency and compliance in Medicare reimbursement practices. Bowman, along with team members, including other unspecified professionals in their firm, signed the letter which insists on a rapid reevaluation of the methodology underlying the Rural Floor Budget Neutrality Factor.
+
+The communication was sent to the federal agency on June 5, 2025, to Dr. Mehmet Oz, with the intent of influencing policy that impacts numerous healthcare facilities across the country.
+
+
+----------------INPUT:----------------
+
+ ◼ 3901 West 86th Street, Suite 310 ◼ Phone (317) 876-0670
+Indianapolis, Indiana 46268
+June 5, 2025
+By Electronic Submission
+The Honorable Dr. Mehmet Oz
+Administrator
+Centers for Medicare and Medicaid Services
+Hubert H. Humphrey Building
+725 17th Street, NW
+Washington, D.C. 20503
+RE: CMS-1833-P
+Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute
+Care Hospitals and the Long- Term Care Hospital Prospective Payment System
+and Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality
+Programs; and Other Policy Changes
+Dear Administrator Oz,
+Thank you for the opportunity to comment on the Centers for Medicare & Medicaid Services’ (“CMS”)
+proposed rule for the Hospital Inpatient Prospective Payment System (“IPPS”) for federal fiscal year
+(“FFY”) 2026. 90 Fed. Reg. 18.002 (April 30, 2025) (“Proposed Rule”).
+In the Proposed Rule, CMS calculates wage indexes and payments rates to hospitals using an unlawful
+interpretation and application of the Rural Floor and the Rural Floor Budget Neutrality Factor
+(“RFBNF”), which for certain hospitals results in a lower Medicare wage index and lower Medicare
+reimbursement than those providers are lawfully entitled to receive. Since Medicare Advantage
+HMOs, TriCare, and other governmental programs reimbursement rates are tied to the Medicare wage
+index, these providers are also receiving lower reimbursement for these programs than they are
+lawfully entitled to receive. Our firm represents 159 providers from across the country that have been
+negatively impacted by CMS’ failure to follow the letter of the law and clearly articulated intent of the
+relevant statute. We request that the Secretary of Health and Human Services and CMS immediately
+follow the requirements of the relevant statute, as explained below.
+I. The Secretary and CMS are Unlawfully Interpreting and Applying the Rural Floor and
+the Rural Floor Budget Neutrality Factor.
+In 1997, Congress enacted the Balanced Budget Act of 1997 (“BBA 1997”), Pub. L. No. 105-33. This
+comment concerns Section 4410 of BBA 1997, and in particular, the intersection of paragraphs (a) and
+(b) of Section 4410.
+Section 4410(a) of BBA 1997, commonly known as the rural floor, provides:
+For purposes of [the Medicare inpatient wage index statute] . . . , the area wage index
+applicable under such section to any hospital which is not located in a rural area . . .
+may not be less than the area wage index applicable under such section to hospitals
+located in rural areas in the State in which the hospital is located.
+Section 4410(b) of BBA 1997 imposes a budget neutrality factor, frequently referred to as the Rural
+Floor Budget Neutrality Factor, on certain hospitals to offset the increase that the rural floor would
+otherwise have on total Medicare program payments:
+The Secretary of Health and Human Services shall adjust the area wage index referred
+to in subsection (a) for hospitals not described in such subsection in a manner which
+assures that the aggregate payments made. . . in a fiscal year for the operating costs of
+inpatient hospital services are not greater or less than those which would have been
+made in the year if this section did not apply. (Emphasis added).
+Section 4410(b) explicitly prohibits the Secretary and CMS from applying the RFBNF in a way that
+reduces the wage index of certain hospitals (i.e. those hospitals described in subsection (a)), as the
+Secretary has acknowledged: “Thus, taken as a whole, subsection (a) of Section 4410 increases
+Medicare payments to certain urban hospitals through application of the rural-floor adjustment; and
+subsection (b) of the statute decreases Medicare payments to other hospitals so that the rural-floor
+provision remains budget neutral.” St. Mary Medical Center v. Becerra, 581 F. Supp. 119 (D.D.C.
+2022).
+In a legal brief filed in St. Mary Medical Center v. Becerra, 581 F. Supp. 119 (D.D.C. 2022), the
+Secretary agrees that “Section 4410(b) provides that only hospitals ‘not described in’ Section 4410(a)
+are subject to the budget neutrality adjustment. On the Secretary’s interpretation, a hospital is
+‘described in’ Section 4410(a) if its wage index is raised to the rural floor by that subsection. Section
+4410(a) therefore describes low-wage urban hospitals...” Secretary’s Reply Brief in Support of
+Summary Judgment, at 2. Despite this admission, the Secretary is misinterpreting and misapplying the
+rural floor, and the subsequent application of the RFBNF, and unlawfully lowering the wage indices
+of low wage index urban hospitals and certain reclassified rural hospitals that are statutorily exempt
+from the application of the RFBNF.
+Once the Secretary and CMS set the rural floor in a state as required by Section 4410(a), that is the
+minimum wage index that low wage index urban hospitals and reclassified rural hospitals that receive
+the rural floor must receive. The wage index of other hospitals (i.e., non-reclassified rural hospitals
+and non-rural floor urban hospitals) may be reduced through the application of Section 4410(b), but
+the Secretary may not reduce the wage index of the low wage index urban hospitals and reclassified
+rural hospitals that receive the rural floor.
+The Secretary and CMS’s unlawful policy has wide-reaching reimbursement effects, resulting in the
+provider receiving less reimbursement than lawfully required in the areas of Medicare FFY, IME,
+DSH, OPPS, and capital, among others, as reflected in the accompanying impact calculation.
+II. The Secretary and CMS’s Rural Floor and RFBNF Methodology and How the
+Calculation might Change if Section 4410 were Applied Properly.
+The following example reflects CMS’s current RFBNF methodology and how that methodology might
+be corrected if Section 4410 were applied properly. In the example, once the Secretary and CMS set
+the rural floor in a state as required by Section 4410(a), that is the wage index that urban hospitals that
+receive the rural floor receive. The example adjusts the Secretary and CMS’s current methodology to
+apply budget neutrality only to rural hospitals and high wage index urban hospitals, with no reduction
+in the wage index of the low wage index urban hospitals that receive the rural floor.
+• The Secretary and CMS's current method results in this outcome:
+o Rural Wage Index Floor Payments = N * (X + Y + Z)
+▪ N = The percentage decrease in the area wage index because of the Rural Floor Budget
+Neutrality Factor calculated for a given Federal Fiscal Year using the current method
+▪ X = Value of 1% change in the wage indices to hospitals paid the Rural Floor wage index
+▪ Y = Value of 1% change in the wage indices to hospitals paid the Rural wage index
+▪ Z = Value of 1% change in the wage indices to hospitals paid an Urban wage index
+higher than the Rural Floor wage index
+• Adjustment necessary to correct the current methodology:
+o Rural Wage Index Floor Payments = 2% * ((X + Y + Z) / (Y + Z)) * (Y + Z)
+• Example of the adjustment necessary to correct the current methodology:
+o CMS’s current method results in this outcome:
+12 = 2% * (1 + 2 + 3) with N=2%, X=1, Y=2, Z=3
+12 = 2% * ((1 + 2 + 3) / (2 + 3)) * (2 + 3)
+12 = 2% * 1.2 * (2 + 3)
+12 = 2.4% * (2 + 3)
+12 = 2.4% * (X + Y)
+In this example, the Rural Floor Budget Neutrality Factor would need to be adjusted by the Secretary
+and CMS from 2% (0.9800) to 2.4% (0.9760).
+We request that the Secretary and CMS immediately begin complying with the requirements of Section
+4410 of BBA 1997 as detailed in this comment and stop applying the Rural Floor Budget Neutrality
+Factor to providers who are paid a rural floor wage index.
+Respectfully submitted,
+CORE FINANCE TEAM AFFILIATES, LLC
+By: Robert Brad Bowman
+Managing Partner
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0166

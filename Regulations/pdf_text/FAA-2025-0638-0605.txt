@@ -1,0 +1,248 @@
+June 4, 2025
+Tina Amereihn
+Acting Associate Administrator for Aviation Safety
+Federal Aviation Administration
+800 Independence Avenue, SW
+Washington, DC 20054
+RE: Federal Aviation Administration; Request for Comment
+Request for Comment to Withhold Certain Aircraft Registration Information from
+Public Dissemination
+Docket No. FAA-2025-0638 (Apr. 3, 2025)
+Dear Acting Associate Administrator Amereihn:
+The American Association of Airport Executives (AAAE) is the world’s largest
+professional organization for airport executives, representing more than 10,000 airport
+professionals at nearly 875 public-use commercial service and general aviation airports. We
+appreciate the opportunity to respond to the Federal Aviation Administration’s (FAA) request
+for comment, issued April 3, 2025, regarding the proposed removal of certain aircraft
+registration information from public dissemination.1
+Executive Summary
+At the outset, it is important to emphasize that airports are owned and operated by
+public entities, including state, regional, and local government agencies. Our inherently
+governmental airport members are important partners with FAA, the Transportation Security
+Administration (TSA), U.S. Customs and Border Protection (CBP), and other federal agencies in
+ensuring the air transportation system functions in a safe, secure, and efficient manner. Indeed,
+airport operators play a critical role in ensuring the safety of aircraft operations near their
+facilities and while they operate on the ground, providing necessary infrastructure that protects
+the safety and security of aircraft that are not being operated, safeguarding access to airport
+facilities where aircraft operate, helping FAA promote and enforce noise mitigation programs
+and rules, and coordinating emergency response on the ground in the event of an accident,
+among many other functions. To carry out these responsibilities, airport operators have a very
+real and justifiable need and right to know the identity of individuals and companies operating
+at their facilities.
+1 Request for Comment to Withhold Certain Aircraft Registration Information from Public Dissemination, 90 Fed.
+Reg. 14590 (Apr. 3, 2025); Request for Comment Extension of Comment Period, 90 Fed. Reg. 18632 (May 1, 2025).
+Acting Associate Administrator Amereihn
+June 4, 2025 | Page 2 of 7
+AAAE recognizes that FAA is responding to a congressional mandate designed to provide
+protections for the “personally identifiable information” (PII) of individuals who are owners and
+operators of FAA-registered aircraft. However, we believe that FAA’s current implementation of
+the directive does not recognize the substantial legitimate uses of this data, especially for
+government agencies specifically permitted to receive access under the law. To that end, we
+strongly urge the agency to establish and maintain a secure database for verified airport staff to
+continue to access aircraft registration data. This access is vitally important to maintaining
+airport safety, supporting timely emergency response, protecting grant funding for nonprimary
+airports, ensuring compliance with federal and local regulations, and promoting accountability
+throughout the National Airspace System (NAS). Without access to this information, airport
+operators would be less effective in their role and FAA would see an increased burden to
+ensure safety, security, and noise mitigation at airports at a time when the agency is
+increasingly pressed for resources.
+Background
+Under 49 U.S.C. § 44114, recently added by section 803 of the FAA Reauthorization Act
+of 2024,2 Congress directed FAA to take three specific actions:
+• (1) Establish a process by which, upon request of a private aircraft owner or operator,
+FAA “withholds the registration number and other similar identifiable data or
+information” from “any broad dissemination or display” for the non-commercial flights
+of the owner or operator (§ 44114(a));
+• (2) Establish a procedure by which, upon request of a private aircraft owner or operator,
+FAA must withhold from broad dissemination or display by the agency the “personally
+identifiable information of such individual, including on a publicly available website of
+the FAA” (e.g., aircraft registry) (§ 44114(b)); and
+• (3) Establish a program for aircraft owners and operators to apply for a new ICAO
+aircraft identification code if, among other things, “a safety or security need” exists
+(§ 44114(c)).
+Under § 44114(a)–(b), Congress carved out an exception allowing FAA to share the data
+or information in cases where it is “made available to or from a Government agency pursuant
+to a government contract, subcontract, or agreement, including for traffic management
+purposes.”
+AAAE Response to Request for Comments
+Given the significant potential impact of the changes proposed for the airport
+community, AAAE solicited input from its membership to respond to FAA’s inquiry. Based on
+responses received from our members, AAAE’s key recommendations and areas of emphasis
+are provided below.
+2 Pub. L. No. 118-63, § 803, 138 Stat. 1025, 1321 (codified at 49 U.S.C. § 44114).
+Acting Associate Administrator Amereihn
+June 4, 2025 | Page 3 of 7
+1. Airport operators have a significant number of legitimate uses for aircraft registration
+data that are critical to maintaining the safety and efficiency of aircraft operations and
+complying with federal and local regulations.
+Aircraft registration information is essential for airport operators to conduct their day-
+to-day operations and functions. Based on AAAE member feedback, airport operators use the
+registration data regularly—in many cases, daily—for a myriad of purposes. FAA’s statement
+that its websites receive over 1 million visits per month for aircraft-related inquiries
+substantiates the information we received from our members. Indeed, the following provides
+an overview of how airport operators use the registration data and potential impacts if the data
+is no longer available:
+Incident Response and Safety Coordination: Aircraft registration data allows airport
+staff to quickly contact owners in the event of aircraft damage, emergency situations, or
+violations of airport rules. Restricting this data from airports could delay emergency response,
+complicate safety investigations, make it more challenging to track down offenders of
+environmental laws or potential human trafficking operations, and reduce the ability to verify
+or enforce compliance with airport rules, particularly for transient general aviation users.
+Indeed, transient operators can currently land and access services at many airports without
+having to interact with airport staff. Without the registry data, staff may not be able to locate
+operators that violate airport rules or commit unsafe acts at the facility. We have significant
+concerns that improper implementation of section 803 could increase operator anonymity at
+airports, which would decrease safety and accountability throughout the system.
+Lease and Tenant Oversight: Many airport operators limit hangar or tie-down space
+access to aircraft owners. This means, for example, the registered aircraft owner must be a
+named party to any lease agreement. Aircraft registration data enables our members to verify,
+on an ongoing basis, the proper owner of an aircraft, which allows airport operators to confirm
+continued eligibility for parking and hangar leases, enforce airport rules against its tenants,
+provide important notifications, place liens on aircraft when necessary, and prevent the overall
+misuse of limited airport infrastructure. Without the data, airport operators would struggle and
+may be unable to lease their hangar and tie-down space and conduct oversight of the
+registered owner to ensure they are complying with their lease obligations.
+Compliance with FAA’s National Based Aircraft Inventory Program (NBAIP): FAA uses
+the number of “based aircraft” at nonprimary airports as one key factor for determining the
+“category” of an airport for purposes of the National Plan of Integrated Airport Systems
+(NPIAS).3 The NPIAS categories play an important role in funding decisions under the Airport
+Improvement Program (AIP) and the Infrastructure Investment and Jobs Act (IIJA). Indeed,
+under the NBAIP, FAA requires nonprimary airports to regularly verify and report their based
+3 See Fed. Aviation Admin., National Plan of Integrated Airport Systems (2025-2029), at 6 (2024).
+Acting Associate Administrator Amereihn
+June 4, 2025 | Page 4 of 7
+aircraft.4 One important program requirement is for airport operators to conduct oversight
+over their tenants to ensure they are actually a “based aircraft.” Without access to registration
+data, airport operators would be unable verify these aircraft and fulfill FAA’s mandate. It would
+also jeopardize funding availability for nonprimary airports.
+Noise and Complaint Management: Many airport operators have implemented and
+maintain noise abatement procedures, voluntary curfews, or other mitigation programs.
+Indeed, many operators spend significant amounts of time working with FAA and their local
+communities to address noise-related concerns, especially in noise-sensitive residential areas
+around the airport. These airports rely heavily on aircraft registration data to (a) identify
+operators that do not follow rules for noise mitigation and (b) conduct outreach and education
+on best practices for operating near the airport. If airport operators lacked access to this data,
+they would instead direct inquiries and complaints to the FAA, shifting more of the burden for
+noise mitigation onto the agency. However, we do not believe FAA has the resources to
+respond to these concerns, and our members’ inability to track down operators will only lead to
+more noise impacts on communities. Again, the registration data is critical for airport operators
+to reduce noise-related concerns, and it helps promote accountability.
+Billing and Invoicing for Services Rendered: Finally, airport operators rely on
+registration data to identify the appropriate aircraft owner or operator that is responsible for
+landing fees, tie-down charges, customs-related user fees, or other fees associated with
+services rendered. This is especially important for transient aircraft, which often depart before
+airport staff or an FBO can make contact with the operator and assess charges. A lack of access
+to registration data would lead to an increase in costs for airport operators to find alternative,
+less efficient methods for finding the identity of aircraft operators, if it were even possible to
+locate them. Moreover, removing our members’ access to the data only decreases
+accountability throughout the system because it creates opportunities for aircraft operators to
+anonymously land at airport facilities and access services at no charge—a result that could
+impinge on the ability of airport operators to comply with grant obligations requiring self-
+sufficiency.
+Under FAA grant obligations, which apply to airport sponsors that receive AIP funding,
+sponsors have an obligation to “maintain a fee and rental structure for their facilities and
+services at the airport which will make the airport as self-sustaining as possible under the
+circumstances.”5 Access to aircraft registration data is critical for sponsors to meet this
+requirement, particularly for identifying and invoicing transient aircraft for landing fees, parking
+charges, and fees for other services. Removing access would undermine the ability of airport
+sponsors to recover these costs from the appropriate users. Indeed, sponsors may need to
+indirectly shift costs to other airport users, leading to increased fees on based tenants and long-
+4 See Fed. Aviation Admin., National Based Aircraft Inventory Program: Frequently Asked Questions,
+https://www.basedaircraft.com/public/FrequentlyAskedQuestions.aspx (last visited May 30, 2025); Fed. Aviation
+Admin., Order 5010.4A, Airport Data and Information Management 8–11 (2015).
+5 Fed. Aviation Admin., Airport Sponsor Assurances, ¶ 24, at 12 (2025).
+Acting Associate Administrator Amereihn
+June 4, 2025 | Page 5 of 7
+term users to offset losses from transient users. This outcome not only undermines fairness but
+also disrupts the financial stability of airport operations.
+2. AAAE strongly urges FAA to create a secure database for airport operators to continue
+to access aircraft registration data, including the PII of individuals who are registered
+aircraft owners and operators.
+a. FAA must continue to provide airport operators, as government agencies, with
+access to aircraft registration data in accordance with § 44114(b).
+Under § 44114(b), Congress recognized that some organizations must continue to have
+the ability to access aircraft registration data because there are legitimate uses and needs for
+this information. This is why the statute includes an exception for “data or information made
+available to or from a Government agency pursuant to a government contract, subcontract, or
+agreement.” Indeed, AAAE members overwhelmingly support the creation of a secure FAA
+database that enables verified airport staff to retrieve aircraft registration data. This system
+could be modeled after existing FAA platforms, such as Airport Data and Information Portal
+(ADIP), System of Airports Reporting (SOAR), or the NBAIP website, which already protect
+sensitive data from public disclosure by only allowing properly credentialed users to access the
+system. We believe this would be a practical and balanced solution, one that fulfills the
+mandate in § 44114 while ensuring that airport operators can continue to meet their
+obligations safely, efficiently, and in full compliance with federal requirements.
+b. FAA may only withhold PII of individuals from the registration database, not
+companies, partnerships, or any other entity, in accordance with § 44114(b).
+Under § 44114(b), Congress directed FAA to establish a procedure by which, upon
+request of a private aircraft owner or operator, the FAA must withhold from broad
+dissemination or display “the personally identifiable information of such individual, including on
+a publicly available website of the FAA.” Congress defined PII to mean the (a) “mailing address
+or registration address of an individual”; (b) an “electronic address (including an email address)
+of an individual”; (c) the “telephone number of an individual”; or (d) the “names of the aircraft
+owner or operator, if the owner or operator is an individual.”6 The clear intent of the provision
+is to provide privacy protection for PII associated with an individual, not entities, such as a
+corporation, partnership, LLC, or other organization.
+On March 28, FAA announced that the agency implemented the provision by creating
+this option through the “Civil Aviation Registry Electronic Services” (CARES) system.7 However,
+neither the press release nor the CARES system explains whether FAA limited this option to
+individuals or any aircraft owner operator. To be consistent with congressional intent and a
+6 49 U.S.C. § 44114(d)(3).
+7 Fed. Aviation Admin., Press Release, FAA Moves to Protect Aircraft Owners’ Private Information (Mar. 28, 2025),
+https://www.faa.gov/newsroom/faa-moves-protect-aircraft-owners-private-information.
+Acting Associate Administrator Amereihn
+June 4, 2025 | Page 6 of 7
+plain reading of the statute, AAAE urges FAA to clarify that requests permitted under
+§ 44114(b) may only apply to individuals.
+3. Airport operators should continue to receive access to registration numbers (or other
+similar data) for private aircraft that are operating to or from, or in the vicinity of,
+their facilities.
+Under § 44114, Congress provided several directives to FAA. The requirement in
+subsection (b), which AAAE has already discussed, addresses privacy protection for individual
+PII of aircraft owners and operators in the FAA’s aircraft registration database. FAA has begun
+to implement this provision by creating an option for individuals to request that the agency
+remove such PII. By contrast, subsection (a) of § 44114 directed FAA to establish a second
+process for owners or operators to request that FAA withhold the “registration number and
+other similar identifiable data or information” from broad dissemination or display “for the
+non-commercial flights of the owner or operator.” AAAE interprets the intent of this provision
+as limiting the ability of the general public to identify the specific registration number for a
+private aircraft operating in the NAS.
+To date, AAAE is not aware of any actions that FAA has taken to implement the required
+process under § 44114(a). Indeed, FAA’s request for comment does not mention or seek input
+from industry stakeholders on this provision even though it is equally as important as the
+question of access to aircraft registration data. Nevertheless, we believe both provisions are
+intertwined and have several recommendations for FAA on implementation of the process in
+subsection (a):
+• First, airport operators currently access the registration numbers, or similar information,
+for private aircraft that have flight plans to operate to or from, or in the vicinity of, the
+airport through third-party software providers. Access to this information is critical for
+many of the same reasons that airport operators need access to the PII of private
+aircraft owners. These include coordinating the provision of safety and emergency
+support services and staffing, identifying aircraft operators that are not following noise
+mitigation programs, and properly billing or invoicing operators for services rendered.
+Restricting access to this information for airport operators would jeopardize their
+important responsibilities and decrease accountability in the system.
+• Second, Congress contemplated that airport operators would continue to receive access
+to this data because subsection (a) contains the same exception for “data or information
+made available to or from a Government agency pursuant to a government contract,
+subcontract, or agreement.” We strongly believe airport operators fall within the
+purview of this exception. Any implementation by FAA of this provision must address
+how airport operators will continue to receive registration numbers (or other similar
+data) for private aircraft operating to or from, or in the vicinity of, their facilities.
+Acting Associate Administrator Amereihn
+June 4, 2025 | Page 7 of 7
+• Finally, FAA should develop a proposed plan for the required process under § 44114(a)
+before the agency begins implementation. We think it is important for industry
+stakeholders to have the opportunity to weigh in on the agency’s interpretation and
+plan for developing the process before it is implemented. This would help FAA
+understand the full range of potential impacts that could result and the most effective
+way of creating access for the airport operators, or government agencies, that are
+entitled to the information.
+* * *
+AAAE appreciates the opportunity to provide comments to FAA on this important topic,
+and stands ready, willing, and able to assist FAA in any way possible. Please do not hesitate to
+reach out if you have any questions or require any additional information. I can be reached at
+justin.barkowski@aaae.org or at (703) 824-0504.
+Sincerely,
+Justin T. Barkowski
+Legislative and Regulatory Counsel

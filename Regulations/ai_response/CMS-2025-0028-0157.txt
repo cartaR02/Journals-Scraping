@@ -1,0 +1,171 @@
+**MultiCare Health System Requesting Changes to Medicare Payment System**
+
+MultiCare Health System has submitted a letter to the Centers for Medicare & Medicaid Services, advocating for significant changes to improve the hospital inpatient prospective payment system for FY 2026. The organization is seeking a more equitable market basket increase and adjustments to productivity cuts. 
+
+In the letter, Ingrid S. Gourley Mungia, vice president of public policy and advocacy at MultiCare, expressed concern over the proposed payment updates, stating, “Unfortunately, this update lags far behind actual increases in the cost of providing hospital-based care.” She highlighted that MultiCare experienced substantial losses over the past few years, totaling $287.4 million in 2022 and $116.5 million in 2024 alone.
+
+Gourley Mungia urged CMS to reconsider the proposed 3.2 percent market basket increase, emphasizing the impact of inflation on operational expenses. “The enduring impacts of high inflation for wages, utilities, and other supplies have dramatically increased our operational expenses,” she said, noting that inadequate reimbursement rates create a gap between the costs of care and payments received.
+
+The letter also proposes reducing the high productivity adjustment of 0.8 percent for FY 2026. “Productivity adjustments penalize hospitals when costs increase more quickly than efficiency gains,” Gourley Mungia stated. This concern is compounded by MultiCare's escalating operational costs, which increased by 5.4 percent from 2023 to 2024.
+
+Additionally, the health system expressed reservations about modifications to the Transforming Episode Accountability Model, suggesting some changes may unduly burden certain hospitals. The letter encourages CMS to consider a more favorable treatment for newly established hospitals and those classified as Medicare Dependent Hospitals.
+
+“Together, these policies minimize the financial risk for rural and safety-net hospitals mandated to participate,” Gourley Mungia said, highlighting the need for stable and supportive frameworks for such critical healthcare providers.
+
+The letter concludes with a call for CMS to implement changes that would support the long-term sustainability of healthcare services, particularly for vulnerable communities served by MultiCare.
+
+This correspondence was sent to CMS on June 4, 2025, with recipients including Dr. Mehmet Oz, the agency's administrator. The letter emphasizes the need for urgent action to ensure the availability and quality of care for patients across the healthcare system.
+
+
+----------------INPUT:----------------
+
+ June 4, 2025
+VIA REGULATIONS.GOV
+Dr. Mehmet Oz
+Administrator
+Centers for Medicare & Medicaid Services
+Department of Health and Human Services
+7500 Security Boulevard
+Baltimore, MD 21244-1850
+Re: Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care
+Hospitals and the Long-Term Care Hospital Prospective Payment System and Policy Changes
+and Fiscal Year 2026 Rates; Requirements for Quality Programs; and Other Policy Changes
+[CMS–1833–P
+Dear Administrator Oz,
+On behalf of MultiCare Health System, we appreciate the opportunity to comment on the hospital
+inpatient prospective payment system (IPPS) proposed rule for fiscal year (FY) 2026 issued on April
+11.
+Below we note specific provisions that we support as well as the following recommended changes:
+• Implement a market basket increase that better aligns with the actual cost of providing care
+• Reduce the productivity adjustment
+• Re-consider TEAM modifications that may threaten access to care or cause hospitals to
+assume unsustainable levels of risk
+Market basket increase
+For FY 2026, the Centers for Medicare & Medicaid Services (CMS) proposes a market basket
+increase of 3.2 percent, less a productivity reduction of .8 percent resulting in an update of 2.4
+percent.
+Unfortunately, this update lags far behind actual increases in the cost of providing hospital-based
+care. We urge CMS to consider current health care system dynamics and their effects on hospitals
+as it determines these figures.
+The enduring impacts of high inflation for wages, utilities, construction materials, pharmaceuticals,
+medical equipment and other supplies have dramatically increased our operational expenses in
+recent years.
+MultiCare experienced losses from operations of $287.4 million in 2022, $187.5 million in 2023, and
+1
+$116.5 million in 2024. Through the first three months of 2025, we experienced a loss from
+operations of $89.8 million. We continue to make progress on returning our organization to a
+positive margin — a necessary step so that we can expand existing services; add new services that
+our communities need; and keep our facilities, technology platforms and equipment up to date.
+However, inadequate reimbursement rates continue to hinder those efforts and create an ever-
+increasing gap between the costs of providing care and the payments provided for that care. In
+2024, our Medicaid payment shortfall was $435 million. Our Medicare shortfall increased by 3.2
+percent from 2023 to 2024.
+Further, we currently have nearly $2 billion in deferred capital needs that will need to be addressed
+in the near future so that we can continue providing the safe, effective care our patients need and
+deserve.
+We ask CMS to use its exceptions and adjustments authority to implement a market basket
+increase for FY 2026 that better aligns with the actual increases to the cost of providing hospital
+care.
+Productivity adjustment
+MultiCare asks that CMS reduce the high productivity cut of 0.8 percent for FY 2026. Productivity
+adjustments penalize hospitals when costs that are largely outside of our control increase more
+suddenly and rapidly than efficiency and productivity gains can occur. For example, our overall
+operating costs increased by 5.4 percent from 2023 to 2024.
+We are concerned about the magnitude of the proposed productivity cut and its impact on our
+ability to care for our communities. We urge CMS to reconsider this adjustment.
+Transforming Episode Accountability Model (TEAM) modifications
+CMS has proposed several modifications to the Transforming Episode Accountability Model
+(TEAM), set to go into effect in 2026. MultiCare supports some modifications yet has concerns
+about other changes that may force some hospitals to assume unsustainable risk, jeopardizing
+their ability to care for their communities.
+We provide feedback about specific TEAM provisions as follows:
+1. Limited deferment period for certain hospitals and expiration of the Medicare Dependent
+(MDH) program.
+Together, the limited deferment period policy and the expiration of the MDH program minimize the
+financial risk for new, rural and safety-net hospitals mandated to participate in TEAM. MultiCare
+supports the limited deferment period for newly established hospitals. Allowing one full calendar
+year after establishment to participate will provide new hospitals with time to prepare for the
+model.
+2
+However, we suggest that newly established hospitals’ first performance years have no downside
+risk — as all TEAM participants in their first performance year of the model are allowed. We believe
+the first year of no downside risk allows an important learning experience to best optimize care
+without risk of financial loss. In addition, it will have a lesser impact on a hospital’s decision of
+whether and when to open a facility in a mandatory core-based statistical area (CBSA).
+Further, we strongly support CMS’ decision to offer rural and safety net hospitals three years
+without downside risk. We also appreciate that these hospitals will be offered lower financial risk
+in Track 2, although we remain concerned that this financial risk may still cause harm to some
+hospitals.
+In the CY26 IPPS proposed rule, we support CMS’ proposed approach for MDH hospital
+designations to ensure these hospitals are not inadvertently harmed by TEAM. We also encourage
+CMS to offer technical assistance to any hospitals that may lose MDH status.
+2. Episode definitions
+CMS is considering but has not yet proposed two policies that would impact how episodes are
+defined under Team — low-volume exclusions and changes to Indian Health Service (HIS) hospital
+outpatient episodes.
+If these policies were proposed and finalized, they would collectively have the impact of maximizing
+the number of TEAM episodes — mandating financial risk for relatively low-volume hospitals and
+IHS facilities, which are typically rural and safety-net providers.
+MultiCare believes the minimum viable option for the low-volume threshold is 31 episodes in the
+baseline for each clinical episode (rather than all clinical episodes in aggregate.) This is consistent
+with the Bundled Payment for Care Improvement Advanced (BPCIA) low-volume threshold.
+MultiCare also supports CMS offering hospitals upside-only risk on episodes below this threshold. If
+CMS sets the threshold any lower, the results would not accurately reflect participants’
+performance, because they would instead be driven by small number variation. Even with adequate
+risk adjustment, numbers this small lead to unreliable results, and it would be unfair to assess
+hospitals’ financial performance on measures that do not accurately assess their performance.
+In addition, Multicare believes that IHS hospitals should be exempt from TEAM. Because TEAM is a
+model with known financial risk and unknown benefits for patients, it is critical that CMS act with
+caution when mandating participation from rural and safety net providers.
+If CMS does not exempt IHS hospitals entirely, the agency should at minimum exclude all lower
+extremity joint replacements (LEJR) and spinal fusion episodes at IHS hospitals. It is not possible to
+apply standardized target prices across hybrid LEJR and spinal fusion episodes at IHS hospitals,
+and CMS cannot fairly assess IHS hospital performance on these episodes.
+3
+Limiting the episode to inpatient-only would harm IHS hospitals in two ways. First, inpatient LEJR
+and spinal fusion episodes have adverse selection relative to outpatient episodes in ways that are
+not captured in claims-based risk adjustment, because clinical decisions on site of care are based in
+part on patient-level factors like having a caregiver at home, which are not captured in claims.
+Second, because LEJR and spinal fusion are increasingly performed in the outpatient setting,
+limiting these episodes to inpatient only would further reduce the volume of these episodes, which
+prevents accurate assessment of performance due to small number variation.
+3. Care delivery
+CMS is considering but has not yet proposed changes that would impact care delivery for patients
+treated under TEAM. Under the current CY25 IPPS final rule, TEAM participants must determine a
+patient’s primary care physician (PCP) status and refer patients to a PCP as part of the discharge
+planning process for the initial admission of a clinical episode.
+CMS is considering two potential alternatives: (1) requiring TEAM participants refer patients to a
+PCP they’ve seen in the past two years to avoid potential gaming and (2) removing this
+requirement entirely.
+MultiCare supports the current policy requiring hospitals to connect patients to PCPs prior to
+discharge because it recognizes the important role PCPs play in providing continuity of care to
+patients in all settings.
+To ensure continuity and alignment across care settings for patients, we encourage CMS to clarify
+that TEAM participants ensure the PCP referral is consistent with the beneficiary’s PCP status
+recorded at initiation of the hospitalization or procedure.
+However, we do not believe that CMS should mandate that hospitals refer patients specifically to a
+PCP they have visited in the past two years, as shown in the claims. This would substantially
+increase the participant burden, since the claims are not integrated with the electronic health
+record.
+More importantly, patients may have moved or deliberately changed their usual source of care in
+the previous two years, which means this requirement could prevent hospitals from connecting
+patients to a more appropriate source of care. Due to claims lag, patients that recently switched
+PCPs would not necessarily have their current PCP reflected in the claims available to the hospital
+at the time of discharge.
+Disproportionate share hospital payment charges
+CMS is proposing an increase in disproportionate share hospital (DSH) and uncompensated care
+payments of $1.5 billion as compared to FY 2025. As the largest provider of Medicaid-related care
+in the state of Washington, MultiCare supports this increase. DSH payments are critical in helping
+to offset the costs of providing care to Medicaid recipients and those who are uninsured, helping to
+ensure access to care for our most vulnerable community members.
+4
+Thank you for considering our comments. The changes we recommend to the IPPS proposed rule
+would help facilitate MultiCare’s success in providing quality, cost-effective care to our
+communities. Please let us know if there is additional information we can provide.
+Sincerely,
+Ingrid S. Gourley Mungia, JD
+VP, Public Policy and Advocacy
+5
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0157

@@ -1,0 +1,1225 @@
+**Pasco County Resource Recovery Facility Receives Final Air Construction Permit for New Waste Combustor**
+
+The U.S. Department of Environmental Protection has granted a final air construction permit for the Pasco County Resource Recovery Facility, enabling the construction of a new municipal waste combustor unit. This permit authorizes the enhancement of the existing facility located at 14230 Hays Road in Spring Hill, Florida, with the aim of increasing efficiency in waste management and energy recovery.
+
+David Lyle Read, the Environmental Administrator in the Permit Review Section, stated, “This permit is issued under provisions ensuring that the facility operates within set emissions limits and adheres to air quality standards.” The new unit will be known as Municipal Waste Combustor Unit No. 4, and its operation is expected to enhance the overall waste processing capabilities of the facility.
+
+Justin Roessler, Solid Waste Director for Pasco County, expressed his support. “The expansion reflects our commitment to managing waste responsibly while producing clean energy and minimizing environmental impact,” he noted.
+
+The new combustor unit will feature the latest emissions control technology, including Covanta's Low-Nitrogen Oxide Technology and a selective non-catalytic reactor system. These advancements aim to reduce harmful emissions significantly and meet stringent regulatory standards. 
+
+The facility, originally launched in 1991, comprises three existing municipal waste combustors, designed to handle over a thousand tons of waste daily. The installation of Unit No. 4 will also involve ancillary expansions, enhancing current capabilities further.
+
+Alongside Roessler, other stakeholders involved in this initiative include Steven Power, Justin Roessler and Brian Stormwind from AECOM, who will support technical aspects of the project. Legal counsel David Dee from Gardner, Bist, Bowden, Dee, LaVia, Wright, Perry & Harper, P.A. will also oversee compliance matters related to the construction and operation of the new unit. 
+
+This air construction permit stipulates numerous conditions to ensure environmental safeguards, including performance requirements, monitoring, reporting, and recordkeeping associated with emissions. The project is subject to continual oversight to ensure adherence to the established environmental regulations.
+
+The final air construction permit was sent to government officials, including the Office of General Counsel (Mail Station #35, 3900 Commonwealth Boulevard, Tallahassee, Florida) on the date of issuance. Recipients of the communication include Justin Roessler and representatives from AECOM and environmental legal services.
+
+
+----------------INPUT:----------------
+
+ FLORIDA DEPARTMENT OF Ron DeSantis
+Governor
+Environmental Protection
+Jeanette Nuñez
+Lt. Governor
+Bob Martinez Center
+Shawn Hamilton
+2600 Blair Stone Road
+Secretary
+Tallahassee, FL 32399-2400
+PERMITTEE
+Pasco County Air Permit No. 1010056-016-AC
+14230 Hays Road Expires: December 31, 2025
+Spring Hill, Florida 34610 PSD-FL-454
+Pasco County Resource Recovery Facility
+Authorized Representative:
+Facility ID No. 1010056
+Justin Roessler, Solid Waste Director
+New Municipal Waste Combustor
+PROJECT
+This is the final air construction permit, which authorizes the construction of a new municipal waste combustor
+unit. The proposed work will be conducted at the existing Pasco County Resource Recovery Facility, which is a
+municipal waste combustor plant categorized under Standard Industrial Classification No. 4953. The existing
+facility is located in Pasco County at 14230 Hays Road in Spring Hill, Florida. The UTM coordinates are Zone
+17, 347.11 kilometers (km) East, and 3,139.21 km North.
+This final permit is organized into the following sections: Section 1 (General Information); Section 2
+(Administrative Requirements); Section 3 (Emissions Unit Specific Conditions); and Section 4 (Appendices).
+Because of the technical nature of the project, the permit contains numerous acronyms and abbreviations, which
+are defined in Appendix A of Section 4 of this permit. As noted in the Final Determination provided with this
+final permit, only minor changes and clarifications were made to the draft permit.
+STATEMENT OF BASIS
+This air pollution construction permit is issued under the provisions of: Chapter 403 of the Florida Statutes
+(F.S.) and Chapters 62-4, 62-204, 62-210, 62-212, 62-296, and 62-297 of the Florida Administrative Code
+(F.A.C.). The permittee is authorized to conduct the proposed work in accordance with the conditions of this
+permit. This project is subject to the general preconstruction review requirements in Rule 62-212.300, F.A.C.
+and the preconstruction review requirements for major stationary sources in Rule 62-212.400, F.A.C. for the
+Prevention of Significant Deterioration (PSD) of Air Quality.
+Upon issuance of this final permit, any party to this order has the right to seek judicial review of it under Section
+120.68 of the Florida Statutes by filing a notice of appeal under Rule 9.110 of the Florida Rules of Appellate
+Procedure with the clerk of the Department of Environmental Protection in the Office of General Counsel (Mail
+Station #35, 3900 Commonwealth Boulevard, Tallahassee, Florida, 32399-3000) and by filing a copy of the
+notice of appeal accompanied by the applicable filing fees with the appropriate District Court of Appeal. The
+notice must be filed within 30 days after this order is filed with the clerk of the Department.
+Executed in Tallahassee, Florida.
+David Lyle Read, P.E., Environmental Administrator
+Permit Review Section
+Division of Air Resource Management
+FINAL PERMIT
+CERTIFICATE OF SERVICE
+The undersigned duly designated deputy agency clerk hereby certifies that this Final Air Construction Permit
+package was sent by electronic mail, or a link to these documents made available electronically on a publicly
+accessible server, with received receipt requested before the close of business on the date indicated below to the
+following persons.
+Mr. Justin Roessler, Pasco County Solid Waste: jroessler@pascocountyfl.net
+Mr. Steven Power, Pasco County Solid Waste: spower@pascocountyfl.net
+Mr. David Dee, Esq., Gardner, Bist, Bowden, Dee, LaVia, Wright, Perry & Harper, P.A.: ddee@gbwlegal.com
+Mr. Brian Stormwind, AECOM: brian.stormwind@aecom.com
+Mr. Gary Pierce, Covanta: gpierce@covanta.com
+Mr. Jason Gorrie, P.E., JMG Engineering: jason@jmg-eng.com
+DEP Southwest District Office: SWD_Air@dep.state.fl.us
+DEP Siting Office: SCO@dep.state.fl.us
+EPA Region 4 NSR/PSD: NSRsubmittals@epa.gov
+Ms. Amy Hilliard, DEP OPC: Amy.Hilliard@FloridaDEP.gov
+Clerk Stamp
+FILING AND ACKNOWLEDGMENT FILED, on
+this date, pursuant to Section 120.52(7), Florida Statutes,
+with the designated agency clerk, receipt of which is
+hereby acknowledged.
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 2 of 26
+SECTION 1. GENERAL INFORMATION
+FACILITY DESCRIPTION
+The Pasco County Resource Recovery Facility (PCRRF) began operation in May 1991. The three existing
+municipal waste combustor (MWC) units at the facility can process a nominal design rated capacity of 1,050 tons
+per day (TPD) of solid waste having an average higher heating value (HHV) of 5,000 British thermal units per
+pound (Btu/lb), generating up to 31.2 megawatts (MW). The facility is owned by Pasco County and operated by
+Covanta Pasco, Inc. The three existing MWC units produce power by sending steam to a single steam turbine
+generator with a 3-cell, wet cooling tower. The facility includes two landfills that are permitted to accept ash and
+municipal solid waste. The facility typically accepts delivery of waste six days a week and processes the waste 24
+hours per day, seven days a week. The facility also operates an ash building and handling system that manages
+the ash generated from the existing MWC units. The facility has an existing storage silo for storage of activated
+carbon used for emissions control from the existing MWC units.
+PROPOSED PROJECT
+Pasco County submitted an application for an air construction permit subject to the preconstruction review
+requirements of the PSD of Air Quality pursuant to Rule 62-212.400, F.A.C. Pasco County is proposing to
+construct one additional MWC unit (Unit No. 4) at the PCRRF. The project will involve the construction of
+additional ancillary units for Unit No. 4, including a new activated carbon storage silo, hydrated lime storage silo,
+and a 2-cell expansion of the PCRRF’s existing wet cooling tower. The project will also involve the installation
+of Covanta’s low nitrogen oxide (NO ) technology (LNTM) on MWC Unit Nos. 1 – 3 in order to meet a new
+X
+federally enforceable NO emission limit for those units.
+X
+This project will affect the following existing emissions units.
+Facility ID No. 1010056
+EU No. Emission Unit Description
+001 Municipal Waste Combustor Unit #1
+002 Municipal Waste Combustor Unit #2
+003 Municipal Waste Combustor Unit #3
+This project will add the following new emissions units.
+Facility ID No. 1010056
+EU No. Emission Unit Description
+015 Municipal Waste Combustor Unit #4
+016 Activated Carbon Storage Silo
+017 Cooling Tower (2-Cell)
+018 Fugitive Emissions from Switchgear
+FACILITY REGULATORY CLASSIFICATION
+ The facility is a major source of hazardous air pollutants (HAP).
+ The facility does not operate units subject to the acid rain provisions of the Clean Air Act.
+ The facility is a Title V major source of air pollution in accordance with Chapter 62-213, F.A.C.
+ The facility is a major stationary source in accordance with Rule 62-212.400, F.A.C. for the Prevention of
+Significant Deterioration (PSD) of Air Quality.
+ The facility operates units subject to the New Source Performance Standards (NSPS) of Title 40 Part 60 of the
+Code of Federal Regulations (40 CFR 60).
+ The facility operates units subject to the National Emissions Standards of Hazardous Air Pollutants
+(NESHAP) of 40 CFR 63.
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 3 of 26
+SECTION 2. ADMINISTRATIVE REQUIREMENTS
+1. Permitting Authority: The Permitting Authority for this project is the Permit Review Section in the Division
+of Air Resource Management of the Department of Environmental Protection (Department). The mailing
+address for the Permit Review Section is 2600 Blair Stone Road, MS #5505, Tallahassee, Florida 32399-
+2400.
+2. Compliance Authority: All documents related to compliance activities such as reports, tests, and notifications
+shall be submitted to the Department’s Southwest District Office at: 13051 North Telecom Parkway, Temple
+Terrace, Florida 33637-0926. Email: SWD_Air@dep.state.fl.us.
+3. Appendices: The following Appendices are attached as a part of this permit: Appendix A (Citation Formats
+and Glossary of Common Terms); Appendix B (General Conditions); Appendix C (Common Conditions);
+Appendix D (Common Testing Requirements); Appendix E (Final BACT Determinations); Appendix F (40
+CFR 60 NSPS Subpart A); and Appendix G (40 CFR 60, NSPS Subpart Eb).
+4. Applicable Regulations, Forms, and Application Procedures: Unless otherwise specified in this permit, the
+construction and operation of the subject emissions units shall be in accordance with the capacities and
+specifications stated in the application. The facility is subject to all applicable provisions of: Chapter 403,
+F.S.; and Chapters 62-4, 62-204, 62-210, 62-212, 62-213, 62-296, and 62-297, F.A.C. Issuance of this permit
+does not relieve the permittee from compliance with any applicable federal, state, or local permitting or
+regulations.
+5. New or Additional Conditions: For good cause shown and after notice and an administrative hearing, if
+requested, the Department may require the permittee to conform to new or additional conditions. The
+Department shall allow the permittee a reasonable time to conform to the new or additional conditions, and on
+application of the permittee, the Department may grant additional time. [Rule 62-4.080, F.A.C.]
+6. Modifications: No emissions unit shall be constructed or modified without obtaining an air construction
+permit from the Department. Such permit shall be obtained prior to beginning construction or modification.
+[Rules 62-210.300(1) and 62-212.300(1)(a), F.A.C.]
+7. Construction and Expiration: The expiration date shown on the first page of this permit provides time to
+complete the physical construction activities authorized by this permit, complete any necessary compliance
+testing, and obtain an operation permit. Notwithstanding this expiration date, all specific emissions
+limitations and operating requirements established by this permit shall remain in effect until the facility or
+emissions unit is permanently shut down. For good cause, the permittee may request that a permit be
+extended. Pursuant to Rule 62-4.080(3), F.A.C., such a request shall be submitted to the Permitting Authority
+in writing before the permit expires. [Rules 62-4.070(3) & (4), 62-4.080, & 62-210.300(1), F.A.C.]
+8. Source Obligation:
+a. Authorization to construct shall expire if construction is not commenced within 18 months after receipt of
+the permit, if construction is discontinued for a period of 18 months or more, or if construction is not
+completed within a reasonable time. This provision does not apply to the time period between
+construction of the approved phases of a phased construction project except that each phase must
+commence construction within 18 months of the commencement date established by the Department in
+the permit.
+b. At such time that a particular source or modification becomes a major stationary source or major
+modification (as these terms were defined at the time the source obtained the enforceable limitation)
+solely by virtue of a relaxation in any enforceable limitation which was established after August 7, 1980,
+on the capacity of the source or modification otherwise to emit a pollutant, such as a restriction on hours
+of operation, then the requirements of subsections 62-212.400(4) through (12), F.A.C., shall apply to the
+source or modification as though construction had not yet commenced on the source or modification.
+c. At such time that a particular source or modification becomes a major stationary source or major
+modification (as these terms were defined at the time the source obtained the enforceable limitation)
+solely by exceeding its projected actual emissions, then the requirements of subsections 62-212.400(4)
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 4 of 26
+SECTION 2. ADMINISTRATIVE REQUIREMENTS
+through (12), F.A.C., shall apply to the source or modification as though construction had not yet
+commenced on the source or modification.
+[Rule 62-212.400(12), F.A.C.]
+9. Title V Air Operation Permit: This permit authorizes specific modifications and/or new construction on the
+affected emissions units as well as initial operation to determine compliance with conditions of this permit. A
+Title V air operation permit is required for regular operation of the permitted emissions unit. The permittee
+shall apply for a Title V air operation permit revision at least 90 days prior to expiration of this permit, but no
+later than 180 days after completing the required work and commencing operation. To apply for a Title V air
+operation permit, the applicant shall submit the appropriate application form, compliance test results, and such
+additional information as the Department may by law require. The application shall be submitted to the
+appropriate Permitting Authority with copies to each Compliance Authority. [Rules 62-4.030, 62-4.050, and
+Chapter 62-213, F.A.C.]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 5 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+A. MWC Unit Nos. 1 – 3 (EU Nos. 001 – 003)
+This section of the permit addresses the following emissions units.
+EU No. Emission Unit Description
+001 Municipal Waste Combustor Unit #1
+002 Municipal Waste Combustor Unit #2
+003 Municipal Waste Combustor Unit #3
+EQUIPMENT
+1. Low-NO Technology: The permittee is authorized to install, calibrate, maintain, and operate the Covanta
+X
+Low-NO Technology (LNTM) for each of these emissions units and to perform ancillary changes to each unit
+X
+necessary to accommodate the LNTM system, including, but not limited to, upgrades to refractory materials
+and waterwalls, relocation of SNCR nozzles, and a new control system. [Application No. 1010056-016-AC]
+EMISSIONS STANDARDS
+2. NO Emissions: These emissions units shall not exceed any of the following limits for all periods of
+X
+operation including periods of startup, shutdown, and malfunction.
+a. NO emissions from each unit shall not exceed:
+X
+(1) 120 parts per million by volume, dry, corrected to 7% oxygen (ppmvd @ 7% O ), based on a 24-hour
+2
+daily arithmetic average; and
+(2) 27.06 lb/hour based on a 30-operating day rolling average.
+b. NO emissions from Unit Nos. 1 – 3, combined, shall not exceed 355.6 tons/year, based on a 12-month
+X
+rolling total.
+[Rules 62-212.300(1)(e) and 62-212.400(12)(c), (avoid PSD), F.A.C.; and Application No. 1010056-016-AC]
+3. Startup and Shutdown NO Emissions: This specific condition replaces the NO emission limit established in
+X X
+paragraph c of Specific Condition A.3 of Permit No. 1010056-012-AC. Emissions of NO from each unit
+X
+during Prospective Startup Periods and Retrospective Shutdown Periods shall not exceed 80 ppmvd
+(uncorrected for oxygen), as a single 24-hour block arithmetic average. [Rules 62-212.300(1)(e) and 62-
+212.400(12)(c), (avoid PSD), F.A.C.]
+TESTING REQUIREMENTS
+4. Initial Compliance Tests: These emissions units shall be tested to demonstrate initial compliance with the
+emissions standards for NO in paragraph a of Specific Condition 2 of this permit section. The initial tests
+X
+shall be conducted within 60 days after achieving permitted capacity, but not later than 180 days after initial
+operation of each unit. Compliance shall be determined by using the NO continuous emissions monitoring
+X
+system (CEMS) to measure NO and calculating a 24-hour daily arithmetic average emission concentration
+X
+and 30-operating day rolling average emission rate using applicable procedures of EPA Method 19. [Rule 62-
+297.310(8), F.A.C.]
+5. Test Requirements: The permittee shall notify the Compliance Authority in writing at least 15 days prior to
+any required tests. Tests shall be conducted in accordance with the applicable requirements specified in
+Appendix D (Common Testing Requirements) of this permit. [Rule 62-297.310(9), F.A.C.]
+{Permitting Note: Air compliance test notifications can be completed online in the Department’s Business
+Portal. To access this online process, go to http://www.fldepportal.com/go/home and sign in (or register if
+you’re a new user) from the link in the upper right corner of the page. On the Welcome page select the
+Submit option, then select Registration/Notification, and then click on Air Compliance Test Notifications.
+Once in the process, read the instructions on each screen (and under the Help tabs) to complete the
+notification.}
+6. Test Methods: Required tests shall be performed in accordance with the following reference methods.
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 6 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+A. MWC Unit Nos. 1 – 3 (EU Nos. 001 – 003)
+Method Description of Method and Comments
+1-4 Traverse Points, Velocity and Flow Rate, Gas Analysis, and Moisture Content
+7E Determination of Nitrogen Oxide Emissions from Stationary Sources
+Determination of Carbon Monoxide Emissions from Stationary Sources
+10
+{Note: The method shall be based on a continuous sampling train.}
+The above methods are described in Appendix A of 40 CFR 60 and are adopted by reference in Rule 62-
+204.800, F.A.C. No other methods may be used unless prior written approval is received from the
+Department. [Rules 62-204.800, F.A.C.; and Appendix A of 40 CFR 60]
+COMPLIANCE REQUIREMENTS
+7. Carbon Monoxide (CO) – Determination of Emission Rate Change: For each emissions unit, the permittee
+shall record continuous CO CEMS emission rates (in lb/hour) for 2 time periods. The first time period shall
+use data representative of the highest achievable capacity prior to conducting the authorized work, and the
+second time period shall use data representative of the highest achievable capacity after normal operation has
+resumed subsequent to completion of the authorized work. The number (n) of data points shall be between 20
+and 29 for each time period. Each data set shall be used to conduct a Student’s t-test with a 95% confidence
+interval. For any unit whose Student’s t-test shows that CO emissions have increased on a lb/hour basis, then
+that unit will become subject to the municipal waste combustor operating standards in 40 CFR 60, Subpart Eb
+(40 CFR 60.53b). In such case(s), the applicable provisions of Subpart Eb will be incorporated into the
+facility’s Title V air operation permit during the next revision. [Rule 62-4.070(3), F.A.C., and 40 CFR
+60.14(b)(2) and Appendix C to 40 CFR 60]
+{Permitting Note: These emissions units are currently subject to regulation under Rule 62-204.800(9)(b),
+F.A.C., which implements 40 CFR 60, Subpart Cb, Emissions Guidelines and Compliance Times for Large
+Municipal Waste Combustors that are Constructed on or Before September 20, 1994. The CO emission
+standard under Subpart Eb is identical to the standard under Subpart Cb.}
+8. Continuous Compliance with NO Standards: Compliance with the NO standards under Specific Condition
+X X
+2 of this permit section shall be demonstrated by the existing NO CEMS for each unit. Data shall be
+X
+collected and validated according to the applicable requirements of 40 CFR 60.58b(h). Operating day means
+a 24-hour period between 12:00 midnight and the following midnight during which any MSW fuel is
+combusted at any time in the unit. It is not necessary for MSW fuel to be combusted continuously for the
+entire 24-hour period. Compliance with the 12-month rolling total NO emissions cap shall be determined
+X
+once all three units have been operating for 12 full calendar months following the resumption of normal
+operation after completion of the authorized work. [Rule 62-4.070(3), F.A.C.; and 40 CFR 60.58b(h)]
+RECORDKEEPING AND REPORTING REQUIREMENTS
+9. Test Report: The permittee shall prepare and submit reports for all required tests in accordance with the
+requirements specified in Appendix D (Common Testing Requirements) of this permit. [Rule 62-
+297.310(10), F.A.C.]
+10. Determination of Emission Rate Change Report: The permittee shall prepare and submit a report for the
+procedures required in Specific Condition 7 of this permit section in accordance with the requirements
+specified in Appendix D of this permit. The report shall include the Student’s t-tests, the data sets used, and
+the load generated by each unit (steam production rate). The report shall be submitted to the Compliance and
+Permitting Authorities within 45 days of completion of the required procedures. [Rules 62-4.070(3) & 62-
+297.310(10), F.A.C.]
+11. Actual Emissions Reporting: This permit is based on an analysis that compared baseline actual emissions
+with projected actual emissions and avoided the requirements of subsection 62-212.400(4) through (12),
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 7 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+A. MWC Unit Nos. 1 – 3 (EU Nos. 001 – 003)
+F.A.C. for several pollutants. Therefore, pursuant to Rule 62-212.300(1)(e), F.A.C., the permittee is subject
+to the following monitoring, reporting and recordkeeping provisions.
+a. The permittee shall monitor the emissions of NO from Unit Nos. 1 – 3; and, using the most reliable
+X
+information available, calculate and maintain a record of the annual emissions, in tons per year on a
+calendar year basis, for a period of 5 years following resumption of regular operations after the change.
+Emissions shall be computed in accordance with the provisions in Rule 62-210.370, F.A.C., which are
+provided in Appendix C of this permit.
+b. The permittee shall report to the Department’s permitting and compliance authority within 60 days after
+the end of each calendar year during the 5-year period setting out the unit’s annual emissions during the
+calendar year that preceded submission of the report. The report shall contain the following:
+(1) The name, address and telephone number of the owner or operator of the major stationary source;
+(2) The annual emissions as calculated pursuant to the provisions of 62-210.370, F.A.C., which are
+provided in Appendix C of this permit;
+(3) If the emissions differ from the preconstruction projection, an explanation as to why there is a
+difference; and
+(4) Any other information that the owner or operator wishes to include in the report.
+c. The information required to be documented and maintained pursuant to subparagraphs 62-212.300(1)(e)1
+and 2, F.A.C., shall be submitted to the Department, which shall make it available for review to the
+general public.
+d. The permittee shall compute and report annual emissions in accordance with Rule 62-210.370(2), F.A.C.
+as provided by Appendix C of this permit. For this project, the permittee shall use the following methods
+in reporting the actual annual NO emissions for Unit Nos. 1 – 3:
+X
+(1) NO CEMS data.
+X
+(2) As defined in Rule 62-210.370(2), F.A.C., the permittee shall use a more accurate methodology if it
+becomes available.
+e. These requirements are based on a netting analysis for NO that resulted in a net decrease of NO that
+X X
+avoided the requirements of PSD preconstruction review.
+[Rules 62-212.300(1)(e) and 62-210.370, F.A.C.; and Application No. 1010056-016-AC]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 8 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+This section of the permit addresses the following emissions unit.
+EU No. Emission Unit Description
+015 Municipal Waste Combustor Unit #4
+This emissions unit will be the fourth municipal waste combustor unit (MWC) (Unit No. 4) installed at the
+PCRFF. The unit will have its own dedicated steam electrical turbine generator rated at 18 megawatts (MW,
+nominal). The nominal design capacity of Unit No. 4 will be 475 tons per day of municipal solid waste (MSW),
+based on the following nominal design characteristics: heat input capacity of 205.8 million British thermal units
+per hour (MMBtu/hour); steam output of 140,000 lb/hour; and MSW heating value of 5,200 Btu/lb. All of these
+capacities are descriptive and may change based on the characteristics of the MSW charged to the unit.
+Unit No. 4 will be integrated into the existing PCRFF, including use of the fourth flue in the existing facility air
+pollution stack. Emissions of NO will be controlled by Covanta’s LNTM technology and a selective non-catalytic
+X
+reactor system. Emissions of sulfur dioxide (SO ), sulfuric acid mist (SAM), hydrochloric acid (HCl), other acid
+2
+gases, mercury, and dioxins/furans (D/F) will be controlled by a circulating dry scrubber system, which includes
+hydrated lime injection and powdered activated carbon (PAC) injection, in conjunction with a fabric filter system
+(baghouse). Emissions of particulate matter (PM/PM /PM ) and MWC metals (cadmium, lead, mercury) will
+10 2.5
+be controlled by the fabric filter system (baghouse). Emissions of CO and volatile organic compounds (VOC)
+will be minimized by good combustion practices, including proper operation and maintenance of the unit.
+Emissions of greenhouse gases (GHG) will be minimized by implementation of efficient design and proper
+operation and maintenance of the unit (combustion improvements).
+{Permitting Note: In accordance with Rule 62-212.400(PSD), F.A.C., the above emissions unit is subject to Best
+Available Control Technology (BACT) determinations for the following pollutants: SO , MWC Acid Gases (as
+2
+SO and HCl), SAM, PM , PM , D/F, and GHG. The final BACT determinations are presented in Appendix E of
+2 10 2.5
+this permit. Emissions standards and performance restrictions specified in this permit allow the emission unit to
+avoid PSD preconstruction review for the following pollutants: NO , CO, VOC, and total fluorides (Fl).
+X
+The unit is also subject to regulation under 40 CFR 60, Subpart A, General Provisions, and Subpart Eb,
+Standards of Performance for Large Municipal Waste Combustors for Which Construction is Commenced After
+September 20, 1994, both adopted and incorporated by reference in Rule 62-204.800, F.A.C.; and Rule 62-
+296.416, F.A.C., Waste-to-Energy Facilities.}
+EQUIPMENT
+1. MWC Unit No. 4: The permittee is authorized to construct, operate, and maintain a new municipal waste
+combustor unit and associated turbine generator unit, including ancillary equipment. Ancillary equipment
+includes, but is not limited to, quench reactor vessel(s), air pollution control equipment, piping, conveyors
+and/or conveyor systems, ductwork, pumps, fans, performance testing facilities (e.g., sampling ports and/or
+platforms), monitoring equipment including control systems, and other support structures. [Application No.
+1010056-016-AC]
+FEDERAL RULE APPLICABILITY
+2. 40 CFR 60 Subparts A and Eb: This emissions unit shall comply with all applicable requirements of 40 CFR
+60, Subparts A and Eb. See Appendices F and G of this permit. [40 CFR 60.50b(a)]
+CONTROL EQUIPMENT
+3. Circulating Dry Scrubber System: To meet the emission limits in Specific Conditions 15, 16, 17, 19c, and 20
+of this permit section, the permittee shall install, calibrate, maintain, and operate a circulating dry scrubber
+(CDS) system for this emissions unit. The system shall include a dry reactor vessel(s), hydrated lime silo and
+injection system, powdered activated carbon injection system, recirculation system to recover unreacted
+reagent from the reactor vessel and baghouse (FF), and ancillary equipment (e.g., piping). The dry reactor
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 9 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+vessel shall vent to the baghouse (FF). [Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-
+AC]
+4. Selective Non-Catalytic Reactor System: To meet the emission limits in Specific Condition 13 of this permit
+section, the permittee shall install, calibrate, maintain, and operate a selective non-catalytic reactor (SNCR)
+system for this emissions unit. The system shall include a flow meter to measure and record the ammonia or
+urea injection rate for the SNCR system. [Rule 62-4.070(3), F.A.C.; and Application No. 1010056-016-AC]
+5. Low-NO Technology: To meet the emission limits in Specific Condition 13 of this permit section, the
+X
+permittee shall install, calibrate, maintain, and operate the Covanta Low-NO Technology (LNTM) for this
+X
+emissions unit. [Rule 62-4.070(3), F.A.C.; and Application No. 1010056-016-AC]
+6. Fabric Filter: To meet the emission limits in Specific Conditions 18 and 19 of this permit section, the
+permittee shall install, calibrate, maintain, and operate a fabric filter (FF) system for this emissions unit,
+including a device for measuring on a continuous basis the temperature of the flue gas stream at the inlet to
+the system, a device for measuring on a continuous basis the pressure drop across the FF system, and a bag
+leak detection system for the FF system. [Rule 62-212.400(BACT), F.A.C.; 40 CFR 60.58b(i)(7); and
+Application No. 1010056-016-AC]
+{Permitting Note: Operation of the fabric filter (baghouse) will also reduce emissions of MWC acid gases
+and D/F due to further reaction with the filter cake.}
+7. Good Combustion Practices and Boiler Design: To meet the emission limits in Specific Condition 21 of this
+permit section, the permittee shall design and operate the MWC unit consistent with good combustion
+practices, including, but not limited to, standard operating procedures and proper operation and maintenance.
+The boiler design shall incorporate a system for automated combustion control. [Rule 62-212.400(BACT),
+F.A.C.; and Application No. 1010056-016-AC]
+{Permitting Note: Good combustion practices will also minimize emissions of CO and VOC.}
+8. Circumvention: The permittee shall not circumvent the air pollution control equipment or allow the
+emissions of air pollutants without this equipment operating properly. [Rule 62-210.650, F.A.C.]
+PERFORMANCE RESTRICTIONS
+9. Permitted Capacity: The maximum allowable steam production rate from this emissions unit is 171,400
+lb/hour (4-hour block average basis). This unit shall not operate at a load level greater than the steam
+production rate in this specific condition, or, if it is less, 110% of the unit’s maximum demonstrated unit load,
+as determined according to Specific Condition 35 of this permit section. [Rule 62-210.200(PTE), F.A.C.; 40
+CFR 60, Subpart Eb; and Application No. 1010056-016-AC]
+10. Hours of Operation: The hours of operation for this emissions unit are not limited. [Rules 62-4.070(3) and
+62-210.200(PTE), F.A.C.; and Application No. 1010056-016-AC]
+11. Methods of Operation – Fuels:
+a. Allowable Fuels.
+(1) The only fuels allowed to be burned in Unit No. 4 are municipal solid waste (MSW), with natural gas
+as an auxiliary fuel. Other fuels or wastes, not specifically listed herein, shall not be burned without
+prior written approval from the Department. Fuels or wastes specifically authorized herein do not
+require prior Department approval before combustion.
+(2) The primary fuel for Unit No. 4 is MSW, including the items and materials that fit within the
+definition of MSW contained in either 40 CFR 60.51b or Section 403.706(5), Florida Statutes (2022).
+b. Unauthorized Fuels. Subject to the limitations contained in this permit, the authorized fuels for Unit No.
+4 also include the other solid wastes that are not MSW, which are described in paragraphs d through g of
+this specific condition. However, Unit No. 4:
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 10 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+(1) Shall not burn:
+(a) Those materials that are prohibited by state or federal law;
+(b) Those materials that are prohibited by this permit;
+(c) Lead acid batteries;
+(d) Hazardous waste;
+(e) Nuclear waste;
+(f) Radioactive waste;
+(g) Used oil, except for what is generated onsite;
+(h) Explosives; and
+(i) Beryllium-containing waste, as defined in 40 CFR 61, Subpart C.
+(2) And shall not knowingly burn:
+(a) Untreated biomedical waste from biomedical waste generators regulated pursuant to Chapter
+64E-16, F.A.C., and from other similar generators (or sources). See Appendix BW of the
+facility’s current Title V air operation permit; and
+(b) Segregated loads of biological waste.
+c. Fuel Handling. The fuel may be received either as a mixture or as a single-item stream (segregated load)
+of discarded materials. If the facility intends to use an authorized fuel that is segregated non-MSW
+material, the fuel shall be either:
+(1) Well-mixed with MSW on the tipping floor; or
+(2) Alternately charged with MSW in the hopper.
+(3) For the purposes of this permit, a segregated load is defined to mean a container or truck that is
+almost completely or exclusively filled with a single item or homogeneous composition of waste
+material, as determined by visual observation.
+d. Other Solid Waste. Subject to the conditions and limitations contained in this permit, the following other
+solid waste may be used as fuel for Unit No. 4:
+(1) Confidential, proprietary, or special documents (including but not limited to business records, lottery
+tickets, event tickets, coupons, and microfilm);
+(2) Contraband which is being destroyed at the request of appropriately authorized local, state, or federal
+governmental agencies, provided that such material is not an explosive, a propellant, a hazardous
+waste, or otherwise prohibited at the facility. For the purposes of this permit, contraband included but
+is not limited to drugs, narcotics, fruits, vegetables, plants, counterfeit money, and counterfeit
+consumer goods;
+(3) Wood pallets, clean wood, and land clearing debris;
+(4) Packaging materials and containers;
+(5) Clothing, natural and synthetic fibers, fabric remnants, and similar debris, including but not limited to
+aprons or gloves; or
+(6) Rugs, carpets, and floor coverings, but not asbestos-containing materials or polyethylene or
+polyurethane vinyl floor coverings.
+e. Waste Tires. Subject to the conditions and limitations contained in this permit, waste tires may be used as
+fuel for Unit No. 4. The total quantity of waste tires received as segregated loads and burned at the
+facility shall not exceed 3%, by weight, of the facility’s total fuel. Compliance with this limitation shall
+be determined on a calendar month basis.
+f. Biosolids (includes Class B, A, and AA Biosolids) that are not Liquid Biosolids. Subject to the conditions
+and limitations contained in this permit, biosolids (includes Class B, A, and AA biosolids) that are not
+liquid biosolids may be used as fuel for Unit No. 4 (i.e., an authorized fuel that is a segregated non-MSW
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 11 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+material). The total quantity of biosolids that are not liquid biosolids received as segregated loads and
+burned at the facility shall not exceed 5%, by weight, of the facility’s total fuel. Compliance with this
+limitation shall be determined on a calendar month basis.
+Biosolids and liquid biosolids under this permit are specifically defined in Rule 62-640.200, F.A.C., as
+follows:
+(1) Biosolids means the solid, semisolid, or liquid residue generated during the treatment of domestic
+wastewater in a domestic wastewater treatment facility, formerly known as “domestic wastewater
+residuals” or “residuals.” Not included is the treated effluent or reclaimed water from a domestic
+wastewater treatment plant. Also not included are solids removed from pump stations and lift
+stations, screenings and grit removed from the preliminary treatment components of domestic
+wastewater treatment facilities, other solids as defined in subsection 62-640.200, F.A.C., and ash
+generated during the incineration of biosolids. Biosolids include products and treated material from
+biosolids treatment facilities and septage management facilities regulated by the Department.
+(2) Liquid biosolids means any biosolids that are less than 12% solids by weight, or that are determined
+to contain free liquids as defined by Method 9095B (Paint Filter Liquids Test), November 2004, as
+described in “Test Methods for Evaluating Solid Wastes, Physical/Chemical Methods” (EPA Pub.
+No. SW-846), January 3, 2008, 73 FR 486, which is hereby adopted and incorporated by reference
+and is available from the Department of Environmental Protection, Domestic Wastewater Section,
+M.S. 3540, 2600 Blair Stone Road, Tallahassee, Florida 32399-2400 or any of the Department’s
+District Offices.
+(3) Liquid biosolids as defined in Rule 62-640.200, F.A.C., shall not be unloaded onto the tipping floor
+or combusted in the municipal solid waste combustor Unit No. 4.
+g. Non-MSW Material. Subject to the conditions and limitations contained in this permit, the following
+other solid waste materials may be used as fuel for Unit No. 4 (i.e., the following are authorized fuels that
+are non-MSW material). The total quantity of the following non-MSW material received as segregated
+loads and burned at the facility shall not exceed 5%, by weight, of the facility’s total fuel. Compliance
+with this limitation shall be determined on a calendar month basis.
+(1) Unsorted mixtures of construction and demolition debris, or that fraction of sorted construction and
+demolition debris that is predominantly non-combustible. Non-combustible construction and
+demolition debris shall include concrete, metals, gypsum products, plaster, rock, brick, and masonry.
+(2) Oil spill debris from aquatic, coastal, estuarine or river environments. Such items or materials
+include but are not limited to rags, wipes, and absorbents.
+(3) Items suitable for human, plant or domesticated animal use, consumption or application where the
+item’s shelf-life has expired or the generator wishes to remove the items from the market. Such items
+or materials include but are not limited to off-specification or expired consumer products,
+pharmaceuticals, medications, health and personal care products, cosmetics, foodstuffs, nutritional
+supplements, returned goods, and controlled substances.
+(4) Consumer-packaged products intended for human or domesticated animal use or application but not
+consumption. Such items or materials include but are not limited to carpet cleaners, household or
+bathroom cleaners, polishes, waxes and detergents.
+(5) Waste materials that:
+(a) are generated in the manufacture of items in categories (3) or (4), above and are functionally or
+commercially useless (expired, rejected or spent); or
+(b) are not yet formed or packaged for commercial distribution. Such items or materials must be
+substantially similar to other items or materials routinely found in MSW.
+(6) Waste materials that contain oil from:
+(a) the routine cleanup of industrial or commercial establishments and machinery; or
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 12 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+(b) spills of virgin or used petroleum products. Such items or materials include but are not limited to
+rags, wipes, and absorbents.
+(7) Used oil and used oil filters. Used oil containing a polychlorinated biphenyls (PCB) concentration
+equal or greater than 50 parts per million (ppm) shall not be burned, pursuant to the limitations of 40
+CFR 761.20(e).
+(8) Waste materials generated by manufacturing, industrial, or agricultural activities, provided that these
+items or materials are substantially similar to items or materials that are found routinely in MSW,
+subject to written prior approval of the Department.
+[Rules 62-210.200(PTE) and 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+12. Methods of Operation – Auxiliary Burners: Auxiliary burners for Unit No. 4 shall be fired only with natural
+gas. Natural gas may be used as a supplemental fuel during periods of startup, shutdown, and at other times
+when necessary and consistent with good combustion practices. [Rules 62-212.200(PTE) and 62-
+212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+EMISSIONS STANDARDS
+13. NO Emissions: NO emissions from this emissions unit shall not exceed the following limits:
+X X
+a. 110 ppmvd @ 7% O , based on a 24-hour daily arithmetic average; [Rules 62-212.300(1)(e) and 62-
+2
+212.400(12)(c), (avoid PSD), F.A.C.; and Application No. 1010056-016-AC]
+b. 180 ppmvd @ 7% O , based on a 24-hour daily arithmetic average, during the first year of operation; and
+2
+[40 CFR 60.52b(d)(1)]
+c. 150 ppmvd @ 7% O , based on a 24-hour daily arithmetic average, after the first year of operation. [40
+2
+CFR 60.52b(d)(2)]
+{Permitting Note: For the purposes of paragraphs b and c of Specific Condition 13, the first year of
+operation begins after the date on which the initial NO performance test is completed or required to be
+X
+completed under 40 CFR 60.8.}
+14. CO Emissions: CO emissions from this emissions unit shall not exceed the following limits:
+a. 90 ppmvd @ 7% O , based on a 30-operating day rolling average; and [Rules 62-212.300(1)(e) and 62-
+2
+212.400(12)(c), (avoid PSD), F.A.C.; and Application No. 1010056-016-AC]
+b. 100 ppmvd @ 7% O , based on a 4-hour block arithmetic average. [40 CFR 60.53b(a)]
+2
+15. SO Emissions: SO emissions from this emissions unit shall not exceed the following limits:
+2 2
+a. 24 ppmvd @ 7% O , based on a 24-hour daily geometric average; [Rule 62-212.400(BACT), F.A.C.; and
+2
+Application No. 1010056-016-AC]
+b. 14.2 lb/hour based on a 24-hour daily geometric average; and [Rule 62-212.400(BACT), F.A.C.; and
+Application No. 1010056-016-AC]
+c. 30 ppmvd @ 7% O or 80% reduction in emissions (by weight or volume), whichever is less stringent,
+2
+based on a 24-hour daily geometric average. [40 CFR 60.52b(b)(1)]
+16. HCl Emissions: HCl emissions from this emissions unit shall not exceed the following limits:
+a. 20 ppmvd @ 7% O , based on initial and annual stack test; and [Rule 62-212.400(BACT), F.A.C.; and
+2
+Application No. 1010056-016-AC]
+b. 25 ppmvd @ 7% O or 95% reduction in emissions (by weight or volume), whichever is less stringent,
+2
+based on initial and annual stack test. [40 CFR 60.52b(b)(2)]
+17. SAM Emissions: SAM emissions from this emissions unit shall not exceed 5 ppmvd @ 7% O , based on
+2
+stack test. [Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+18. PM Emissions: PM emissions from this emissions unit shall not exceed the following limits:
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 13 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+a. PM (filterable only).
+(1) 12 milligrams per dry standard cubic meter, corrected to 7% oxygen (mg/dscm @ 7% O , based on
+2
+initial and annual stack test. [Rules 62-212.300(1)(e) and 62-212.400(12)(c), (avoid PSD), F.A.C.;
+and Application No. 1010056-016-AC]
+(2) 20 mg/dscm @ 7% O , based on initial and annual stack test. [40 CFR 60.52b(a)(1)(ii)]
+2
+b. PM (filterable and condensable).
+10
+(1) 30 mg/dscm @ 7% O , based on initial and annual stack test.
+2
+(2) 6.67 lb/hour based on initial and annual stack test.
+[Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+c. PM (filterable and condensable).
+2.5
+(1) 30 mg/dscm @ 7% O , based on initial and annual stack test.
+2
+(2) 6.67 lb/hour based on initial and annual stack test.
+[Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+19. MWC Metal Emissions: Emissions of the following MWC metals shall not exceed their respective limits.
+a. Cadmium. 10 micrograms per dry standard cubic meter, corrected to 7% oxygen (µg/dscm @ 7% O ),
+2
+based on initial and annual stack test.
+b. Lead. 140 µg/dscm @ 7% O , based on initial and annual stack test.
+2
+c. Mercury.
+(1) 50 µg/dscm @ 7% O or 85% reduction by weight, whichever is less stringent, based on initial and
+2
+annual stack test.
+(2) 70 µg/dscm @ 7% O , based on initial and annual stack test.
+2
+[Rule 62-296.416(3)(a)1, F.A.C.; and 40 CFR 60.52b(a)(3)(ii), (4)(ii), & (5)(ii)]
+20. MWC Organic Emissions (D/F): D/F emissions from this emissions unit shall not exceed the following
+limits:
+a. 7.5 nanograms per dry standard cubic meter, corrected to 7% oxygen (ng/dscm @ 7% O ), based on
+2
+initial and annual stack test; and [Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-
+AC]
+b. 13 ng/dscm @ 7% O , based on initial and annual stack test. [40 CFR 60.52b(c)(2)]
+2
+21. Greenhouse Gas Emissions: GHG emissions (CO equivalent [CO e]) from this emissions unit shall not
+2 2
+exceed the following limits:
+a. 0.30 lb CO e/lb measured steam, based on a 12-month rolling average basis; and
+2
+b. 210,459 tons CO e in any consecutive 12-month period, based on a 12-month rolling total basis.
+2
+[Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+22. Volatile Organic Compounds Emissions: VOC emissions from this emissions unit shall not exceed 20 ppmvd
+@ 7% O (as propane), based on stack test. [Rules 62-212.300(1)(e) and 62-212.400(12)(c), (avoid PSD),
+2
+F.A.C.; and Application No. 1010056-016-AC]
+23. Total Fluorides Emissions: Total fluorides emissions from this emissions unit shall not exceed 3.5 ppmvd @
+7% O , based on stack test. [Rules 62-212.300(1)(e) and 62-212.400(12)(c), (avoid PSD), F.A.C.; and
+2
+Application No. 1010056-016-AC]
+24. Visible Emissions: Visible emissions (VE) from this emissions unit shall not exceed 10% opacity, based on a
+6-minute average. [Rule 62-212.400(BACT), F.A.C.; 40 CFR 60.52b(a)(2); and Application No. 1010056-
+016-AC]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 14 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+25. Fugitive Ash Emissions: Visible emissions of combustion ash from an ash conveying system (including
+conveyor transfer points) shall not exceed 5% opacity, based on EPA Test Method 22. This emission limit
+does not cover visible emissions discharged inside buildings or enclosures of ash conveying systems;
+however, this emission limit does cover visible emissions discharged to the atmosphere from buildings or
+enclosures of ash conveying systems. This emission limit does not apply during maintenance and repair of
+ash conveying systems. [40 CFR 60.55b]
+26. Startup and Shutdown Emission Limits: These limits do not utilize any diluent correction. Compliance with
+these limits shall be demonstrated by CEMS. The 3-hour (NO ) and 24-hour block average (CO and SO )
+X 2
+emission concentrations shall be calculated according to the applicable requirements of 40 CFR 60.58b,
+except that the averages are not required to be daily (meaning the 24-hour period between 12:00 midnight and
+the following midnight).
+a. Carbon Monoxide. 100 ppmvd, as a single 24-hour block arithmetic average. [Rules 62-212.300(1)(e)
+and 62-212.400(12)(c), (avoid PSD), F.A.C.; and Application No. 1010056-016-AC]
+b. Sulfur Dioxide. 29 ppmvd, as a single 24-hour block geometric average. [Rule 62-212.400(BACT),
+F.A.C.; and Application No. 1010056-016-AC]
+c. Nitrogen Oxides. 95 ppmvd, as a single 3-hour block arithmetic average. [Rules 62-212.300(1)(e) and
+62-212.400(12)(c), (avoid PSD), F.A.C.; and Application No. 1010056-016-AC]
+{Permitting Note: The 24-hour block averages for CO and SO apply to the 24-hour periods immediately
+2
+following each startup event and preceding each shutdown event, and these 24-hour averages are not
+required to be daily (meaning midnight to midnight). The 3-hour average for NO applies to the 3-hour
+X
+period that is allowed under NSPS Subpart Eb to be excluded during startup and shutdown event as defined
+under that subpart. Specifically, there may be up to 3 hours of excludable NO emissions for each
+X
+startup/shutdown event during a daily 24-hour period (midnight to midnight).}
+27. Startup and Shutdown Periods: These definitions apply only for limits specified in Specific Condition 26 of
+this permit section.
+a. The Prospective Startup Period commences when boiler operation is initiated with firing of auxiliary fuel
+or waste, after a shutdown, for the purpose of supplying useful thermal energy and ends when 24 hours of
+continuous emission monitoring data have been collected.
+b. The Retrospective Shutdown Period commences 24 hours prior to when the operator secures the
+municipal waste combustor unit offline, after which no continuous combustion of waste is occurring or no
+useful thermal energy is being generated by the combustion of waste.
+[Rule 62-4.070(3), F.A.C.; and Application No. 1010056-016-AC]
+28. Startup, Shutdown, and Malfunction Work Practice Requirements: The permittee shall comply with the
+following requirements:
+a. All CEMS and COMS shall be operated during all periods of operation, including periods of startup,
+shutdown, and malfunction.
+b. The natural gas-fired auxiliary burner shall be utilized to stabilize combustion during routine startup and
+shutdown periods.
+c. All air pollution control equipment shall be in operation during all periods of waste firing, including
+startup, shutdown, and malfunction.
+[Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+29. NSPS Subpart Eb Startup, Shutdown, and Malfunction Provisions:
+a. The standards under Subpart Eb apply at all times except during periods of startup, shutdown, and
+malfunction. Duration of startup, shutdown, or malfunction periods are limited to 3 hours per occurrence,
+except as provided in paragraph c of this specific condition. During periods of startup, shutdown, or
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 15 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+malfunction, monitoring data shall be dismissed or excluded from compliance calculations but shall be
+recorded and reported in accordance with the provisions of 40 CFR 60.59b(d)(7).
+b. For NSPS limits only, the startup period commences when the affected facility begins the continuous
+burning of municipal solid waste and does not include any warmup period when the affected facility is
+combusting fossil fuel or other nonmunicipal solid waste fuel, and no municipal solid waste is being fed
+to the combustor. Continuous burning is the continuous, semicontinuous, or batch feeding of municipal
+solid waste for purposes of waste disposal, energy production, or providing heat to the combustion system
+in preparation for waste disposal or energy production. The use of municipal solid waste solely to
+provide thermal protection of the grate or hearth during the startup period when municipal solid waste is
+not being fed to the grate is not considered to be continuous burning.
+c. For the purposes of compliance with the CO emission limit in paragraph b of Specific Condition 14, if a
+loss of boiler water level control or a loss of combustion air control is determined to be a malfunction, the
+duration of the malfunction period is limited to 15 hours per occurrence. During such periods of
+malfunction, monitoring data shall be dismissed or excluded from compliance calculations but shall be
+recorded and reported in accordance with the provisions of 40 CFR 60.59b(d)(7). During a loss of boiler
+water level control or a loss of combustion air control malfunction period, a diluent cap of 14% oxygen or
+5% carbon dioxide may be used in the emission calculations for SO and NO .
+2 X
+[40 CFR 60.58b(a)(1)]
+TESTING REQUIREMENTS
+30. Initial Compliance Tests: The emissions unit shall be tested to demonstrate initial compliance with the
+emissions standards for PM, PM , PM , cadmium, lead, mercury, SO , HCl, SAM, D/F, NO , VOC, total
+10 2.5 2 X
+fluorides, VE, and fugitive ash. The initial tests shall be conducted within 60 days after achieving permitted
+capacity, but not later than 180 days after initial operation of the unit. [Rules 62-4.070(3) and 62-
+297.310(8)(b)1, F.A.C.; and 40 CFR 60.8 and 40 CFR 60.58b]
+31. Subsequent Compliance Tests:
+a. Annual. During each calendar year (January 1st to December 31st), the emissions unit shall be tested to
+demonstrate compliance with the emissions standards for PM, PM , PM , cadmium, lead, mercury, HCl,
+10 2.5
+D/F, VE, and fugitive ash. For pollutants regulated under 40 CFR 60, Subpart Eb, annual compliance
+tests shall be conducted no less than 9 calendar months and no more than 15 calendar months following
+the previous annual test; and five compliance tests must be completed in each 5-year calendar period.
+[Rule 62-297.310(8)(a)1, F.A.C.; and 40 CFR 60.58b]
+b. Prior to Title V Renewal. This emissions unit shall be tested to demonstrate compliance with the
+emissions standards for SAM and total fluorides prior to obtaining a renewed Title V air operation permit.
+[Rule 62-297.310(8)(b)1, F.A.C.]
+32. Test Requirements:
+a. Compliance with BACT/PSD Avoidance Limit. The permittee shall notify the Compliance Authority in
+writing at least 15 days prior to any required tests. Compliance with the 30-day requirement in paragraph
+b of this specific condition, when applicable, shall ensure compliance with the 15-day requirement. Tests
+shall be conducted in accordance with the applicable requirements specified in Appendix D (Common
+Testing Requirements) of this permit. [Rule 62-297.310(9), F.A.C.]
+b. Compliance with NSPS Standard. The permittee shall notify the Compliance Authority in writing at least
+30 days prior to any required tests. [40 CFR 60.8(d)]
+33. Test Methods: Required tests shall be performed in accordance with the following reference methods.
+Method Description of Method and Comments
+1-4 Traverse Points, Velocity and Flow Rate, Gas Analysis, and Moisture Content
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 16 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+Method Description of Method and Comments
+5 Method for Determining Particulate Matter Emissions
+6C Method for Determining SO2 Emissions (Instrumental)
+7E Determination of NO Emissions from Stationary Sources
+X
+8 Determination of SAM and SO Emissions from Stationary Sources
+2
+9 Visual Determination of the Opacity of Emissions from Stationary Sources
+Determination of Carbon Monoxide Emissions from Stationary Sources
+10
+{Note: The method shall be based on a continuous sampling train.}
+Determination of Total Fluoride Emissions from Stationary Sources – SPADNS Zirconium Lake
+13A
+Method
+13B Determination of Total Fluoride Emissions from Stationary Sources – Specific Ion Electrode Method
+Determination of Sulfur Dioxide Removal Efficiency and Particulate Matter, Sulfur Dioxide, and
+19 Nitrogen Oxides Emission Rates (Optional F-factor method may be used to determine flow rate and
+gas analysis to calculate mass emissions in lieu of Methods 1-4.)
+22 Visual Determination of Fugitive Emissions from Material Sources and Smoke Emissions from Flares
+Determination of Polychlorinated Dibenzo-p-Dioxins and Polychlorinated Dibenzofurans from
+23
+Stationary Sources
+25A Method for Determining Gaseous Organic Concentrations (Flame Ionization)
+26 Determination of HCl Emissions from Stationary Sources
+Determination of Hydrogen Halide and Halogen Emissions from Stationary Sources – Isokinetic
+26A
+Method
+29 Determination of Metals Emissions from Stationary Sources
+Determination of PM and PM Emissions from Stationary Sources (Constant Sampling Rate
+201A 10 2.5
+Procedure)
+202 Dry Impinger Method for Determining Condensable Particulate Emissions from Stationary Sources
+The above methods are described in Appendix A of 40 CFR 60 and Appendix M of 40 CFR 51 and are
+adopted by reference in Rule 62-204.800, F.A.C. No other methods may be used unless prior written
+approval is received from the Department. [Rules 62-204.800, F.A.C.; Appendix A of 40 CFR 60; and
+Appendix M of 40 CFR 51]
+COMPLIANCE REQUIREMENTS
+34. Continuous Monitoring Systems (CMS): The permittee shall install, calibrate, maintain, and operate the
+following CEMS and CMS for this emissions unit:
+a. Oxygen or carbon dioxide (diluent) monitor according to the requirements of 40 CFR 60.58b(b).
+b. Nitrogen oxides monitor according to the requirements of 40 CFR 60.58b(h).
+c. Sulfur dioxide monitor according to the requirements of 40 CFR 60.58b(e).
+d. Carbon monoxide monitor according to the requirements of 40 CFR 60.58b(i)(3).
+e. Continuous opacity monitor according to the requirements of 40 CFR 60.58b(c)(8).
+f. A monitor to measure the steam production of the emissions unit according to the requirements of 40
+CFR 60.58b(i)(6).
+g. A monitor to measure the PM control device inlet temperature according to the requirements of 40 CFR
+60.58b(i)(7).
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 17 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+h. A monitor to measure PAC injection system operating parameters that can be used to estimate the carbon
+mass feed rate according to the requirements of 40 CFR 60.58b(m).
+[Rule 62-212.400(BACT), F.A.C.; 40 CFR 60.58b; and Application No. 1010056-016-AC]
+35. MWC Unit Load: The permittee shall not operate this emissions unit at a load level greater than 110% of the
+maximum demonstrated MWC unit load as defined in 40 CFR 60.51b, except as specified in 40 CFR
+60.53b(b)(1) and (2). The MWC unit load means the steam load of the MWC unit measured as specified in
+40 CFR 60.58b(i)(6). The maximum MWC unit load shall be demonstrated during the initial performance
+test for D/F and each subsequent performance test during which compliance with both of the D/F emission
+limits specified in Specific Condition 20 of this permit section is achieved. The maximum demonstrated
+MWC unit load shall be the highest 4-hour arithmetic average load achieved during four consecutive hours
+during the most recent test during which compliance was achieved. Compliance with the MWC unit load
+level shall be demonstrated by following the procedures specified in 40 CFR 60.58b(i)(6). [40 CFR 60.51b,
+60.53b(b), and 60.58b(i)(6) & (i)(8)]
+36. Flue Gas Temperature: The permittee shall not operate this emissions unit at a temperature, measured at the
+PM control device inlet, exceeding 17 degrees Celsius above the maximum demonstrated PM control device
+temperature as defined in 40 CFR 60.51b, except as specified in 40 CFR 60.53b(c)(1) and (2). The maximum
+demonstrated PM control device temperature shall be the highest 4-hour arithmetic average flue gas
+temperature measured at the PM control device inlet during four consecutive hours during the most recent
+D/F performance test demonstrating compliance with both of the D/F emission limits specified in Specific
+Condition 20 of this permit section. The permittee shall install, calibrate, maintain, and operate a device for
+measuring on a continuous basis the temperature of the flue gas stream at the inlet to each PM control device
+utilized by the affected facility. Temperature shall be calculated in 4-hour block arithmetic averages. [Rule
+62-296.416(4)(a) & (b), F.A.C.; and 40 CFR 60.51b, 60.53b(c), and 60.58b(i)(7)]
+37. Carbon Usage Rate: The powdered activated carbon (PAC) injection system that is part of the CDS system
+shall meet the applicable requirements of 40 CFR 60.58b(m). [Rule 62-296.416(5), F.A.C.; and 40 CFR
+60.58b(m)]
+38. NO Compliance:
+X
+a. Initial Compliance. Initial compliance with the NO emission limits in Specific Condition 13 of this
+X
+permit section shall be demonstrated by initial compliance test required under 40 CFR 60.58b(h)(3) and
+Specific Condition 30 of this permit section. Compliance shall be determined by using the NO CEMS to
+X
+measure NO and calculating a 24-hour daily arithmetic average emission concentration using the
+X
+applicable procedures of EPA Method 19.
+b. Continuous Compliance. Continuous compliance with the NO emission limits in Specific Condition 13
+X
+of this permit section shall be demonstrated by NO CEMS, according to the applicable requirements of
+X
+40 CFR 60.58b(h), including the calculation of 24-hour daily arithmetic averages. The limits in Specific
+Condition 13 apply during all periods of operation, excluding periods of startup, shutdown, and
+malfunction as specified in Specific Condition 29, during which the limit in paragraph c of Specific
+Condition 26 shall apply.
+[Rule 62-212.400(BACT), F.A.C.; 40 CFR 60.58b(h); and Application No. 1010056-016-AC]
+39. CO Compliance: Compliance with the CO emission limits in Specific Condition 14 of this permit section
+shall be demonstrated by CO CEMS, according to the applicable requirements of 40 CFR 60.58b(i), including
+the calculation of 4-hour block arithmetic averages. The 30-operating day rolling average shall be the average
+of all valid 24-hour daily arithmetic averages during the 30-operating day period that are calculated according
+to the applicable requirements of 40 CFR 60.58b(i). The limit in paragraph a of Specific Condition 14 applies
+during all periods of operation, excluding periods of startup and shutdown as defined in Specific Condition
+27, during which the limit in paragraph a of Specific Condition 26 shall apply. The limit in paragraph b of
+Specific Condition 14 applies during all periods of operation, excluding periods of startup, shutdown, and
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 18 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+malfunction as specified in Specific Condition 29, during which the limit in paragraph a of Specific Condition
+26 shall apply. [Rules 62-212.300(1)(e) and 62-212.400(12)(c), (avoid PSD), F.A.C.; 40 CFR 60.58b(i)(1)
+through (5); and Application No. 1010056-016-AC]
+40. SO Compliance:
+2
+a. Initial Compliance. Initial compliance with the SO emission limits in Specific Condition 15 of this
+2
+permit section shall be demonstrated by initial compliance test required under 40 CFR 60.58b(e)(4) and
+Specific Condition 30 of this permit section. Compliance shall be determined by using the SO CEMS to
+2
+measure SO and calculating a 24-hour daily geometric average emission concentration or a 24-hour daily
+2
+geometric average percent reduction using the applicable procedures of EPA Method 19.
+b. Continuous Compliance. Continuous compliance with the SO emission limits in Specific Condition 15
+2
+of this permit section shall be demonstrated by SO CEMS, according to the applicable requirements of
+2
+40 CFR 60.58b(e), including the calculation of 24-hour daily geometric averages.
+(1) The limits in paragraphs a and b of Specific Condition 15 apply during all periods of operation,
+excluding periods of startup and shutdown as defined in Specific Condition 27, during which the limit
+in paragraph b of Specific Condition 26 shall apply.
+(2) The limit in paragraph c of Specific Condition 15 applies during all periods of operation, excluding
+periods of startup, shutdown, and malfunction as specified in Specific Condition 29, during which the
+limit in paragraph b of Specific Condition 26 shall apply.
+[Rule 62-212.400(BACT), F.A.C.; 40 CFR 60.58b(e); and Application No. 1010056-016-AC]
+41. HCl Compliance: Compliance with the HCl emission limits in Specific Condition 16 shall be demonstrated
+by initial and annual compliance tests according to EPA Method 26 or 26A and the requirements in 40 CFR
+60.58b(f). Continuous compliance shall be demonstrated by proper operation and maintenance of the
+CDS/FF system and compliance with the SO emission limits. [Rule 62-212.400(BACT), F.A.C.; 40 CFR
+2
+60.58b(f); and Application No. 1010056-016-AC]
+42. SAM Compliance: Compliance with the SAM emission limit in Specific Condition 17 shall be demonstrated
+by initial compliance test and compliance tests prior to renewal of the Title V permit according to EPA
+Method 8. Continuous compliance shall be demonstrated by proper operation and maintenance of the
+CDS/FF system and compliance with the SO emission limits. [Rule 62-212.400(BACT), F.A.C.; and
+2
+Application No. 1010056-016-AC]
+43. PM Compliance:
+a. PM (filterable only). Compliance with the PM limits in paragraph a of Specific Condition 18 shall be
+demonstrated by initial and annual compliance tests according to EPA Method 5 and the requirements in
+40 CFR 60.58b(c). Compliance with the VE standard via the COMS shall demonstrate continuous
+compliance with the PM limits. [40 CFR 60.58b(c)]
+b. PM and PM (filterable and condensable). Compliance with the PM and PM limits in paragraphs b
+10 2.5 10 2.5
+and c of Specific Condition 18 shall be demonstrated by initial and annual compliance tests according to
+EPA Methods 201A and 202. Compliance with the VE standard via the COMS shall demonstrate
+continuous compliance with the PM and PM limits. [Rule 62-212.400(BACT), F.A.C.; and
+10 2.5
+Application No. 1010056-016-AC]
+44. MWC Metals Compliance: Compliance with the limits in Specific Condition 19 shall be demonstrated by
+initial and annual compliance tests according to EPA Method 29 and the requirements in 40 CFR 60.58b(d).
+The permittee has the option to use ASTM D6784-02 as an alternative for determining compliance with the
+mercury standard. Compliance with the VE standard via the COMS shall demonstrate continuous compliance
+with the MWC metals limits. [Rule 62-296.416(3)(d), F.A.C.; and 40 CFR 60.58b(d)]
+45. D/F Compliance: Compliance with the limits in Specific Condition 20 shall be demonstrated by initial and
+annual compliance tests according to EPA Method 23 and the requirements in 40 CFR 60.58b(g). Continuous
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 19 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+compliance shall be demonstrated by complying with the requirements of Specific Conditions 35 and 36.
+[Rule 62-212.400(BACT), F.A.C.; 40 CFR 60.58b(g); and Application No. 1010056-016-AC]
+46. VOC Compliance: Initial compliance with the VOC limit in Specific Condition 22 shall be demonstrated by
+compliance test according to EPA Method 25A. After successful demonstration of initial compliance,
+compliance with the VOC limit will be demonstrated by maintaining compliance with the CO limits in
+Specific Condition 14. No further testing is required. [Rules 62-212.300(1)(e) and 62-212.400(12)(c), (avoid
+PSD), F.A.C.; and Application No. 1010056-016-AC]
+47. Total Fluorides Compliance: Initial compliance with the total fluorides limit in Specific Condition 23 shall be
+demonstrated by compliance test according to EPA Method 13A or 13B. Subsequent compliance tests shall
+be conducted prior to renewal of the Title V permit (i.e., every 5 years). Continuous compliance shall be
+demonstrated by complying with the requirements of Specific Conditions 35 and 36. [Rules 62-212.300(1)(e)
+and 62-212.400(12)(c), (avoid PSD), F.A.C.; and Application No. 1010056-016-AC]
+48. GHG Compliance: Compliance with the GHG limits in Specific Condition 21 shall be demonstrated as the
+total CO e emissions from Unit No. 4, as determined using EPA’s Tier 2 calculation methodology in 40 CFR
+2
+98.33. The permittee shall keep and maintain records of the Tier 2 calculations performed to generate
+monthly total CO e emissions, including data and supporting information, to demonstrate compliance with the
+2
+GHG limits in Specific Condition 21. The records shall be kept for 5 years from the date of each record. The
+records shall be made available on request to the Department. [Rule 62-212.400(BACT), F.A.C.; and
+Application No. 1010056-016-AC]
+49. VE Compliance: Initial and annual compliance with the VE limit in Specific Condition 24 shall be
+demonstrated by conducting a compliance test according to EPA Method 9. In lieu of conducting a Method 9
+test, the permittee may submit, for compliance purposes, COMS data produced during any compliance test
+required under this permit section in Specific Conditions 30 and/or 31. Continuous compliance with the VE
+limit in Specific Condition 24 shall be demonstrated during all periods of operation by the COMS. [Rule 62-
+212.400(BACT), F.A.C.; 40 CFR 60.11(e)(5) and 40 CFR 60.58b(c); and Application No. 1010056-016-AC]
+{Permitting Note: The opacity standard under Subpart Eb and BACT are the same numerical limit (i.e.,
+10%). However, the opacity standard under Subpart Eb does not apply during periods of startup, shutdown,
+and malfunction under that subpart, but the opacity standard under BACT applies at all times. Therefore,
+noncompliance with the opacity standard during a period of startup, shutdown, or malfunction under Subpart
+Eb would not constitute noncompliance with Subpart Eb but would constitute noncompliance with the BACT
+opacity standard.}
+50. Fugitive Ash Compliance: Compliance with the fugitive ash standard in Specific Condition 25 shall be
+demonstrated by meeting the requirements of 40 CFR 60.58b(k). [40 CFR 60.58b(k)]
+RECORDKEEPING AND REPORTING REQUIREMENTS
+51. Operator Training and Certification: The permittee shall comply with the operator and training certification
+requirements of 40 CFR 60.54b. [40 CFR 60.54b]
+52. Test Reports: The permittee shall prepare and submit reports for all required tests in accordance with the
+requirements specified in Appendix D (Common Testing Requirements) of this permit. For the initial
+compliance tests under 40 CFR 60.59b(f), the permittee shall submit the information specified in 40 CFR
+60.59b(f) in the initial compliance test report. [Rule 62-297.310(10), F.A.C.; and 40 CFR 60.59b(f)]
+53. Emission Limit Noncompliance Notification and Report: In the event that the permittee does not comply with
+or will be unable to comply with any non-NSPS limit (i.e., BACT, PSD avoidance, or reasonable assurance)
+for any reason based on the applicable averaging time, the permittee shall notify the Compliance Authority
+within 1 business day of the noncompliance, including a description and cause of the noncompliance, the
+period of noncompliance, the anticipated time of noncompliance if it has not been corrected at the time of
+notification, and the steps being taken to reduce, eliminate, and prevent recurrence of the noncompliance.
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 20 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+Additionally, the permittee shall submit a report to the Compliance Authority on a semi-annual basis
+describing each instance of noncompliance and the corrective action(s) (if any) taken to return to compliance
+with the emission limit(s). This report can be submitted with the NSPS Subpart A report required in Specific
+Condition 58 of this permit section. [Rule 62-212.400(BACT), F.A.C.]
+54. Segregated Solid Waste Recordkeeping: The permittee shall keep the following records to demonstrate
+compliance with the segregated non-MSW percentage limitations in Specific Condition 11 of this permit
+section:
+a. General. Each segregated load of non-MSW materials, subject to a percentage weight limitation in
+paragraphs e, f, and g of Specific Condition 11, which is received for processing, shall be documented as
+to waste description and weight. The weight of all waste materials received for processing shall be
+measured and recorded using the facility truck scale.
+b. Tires. Each day the total weight of segregated tires received shall be computed, and the daily total shall
+be added to the sum of the daily totals from the previous days in the current calendar month. At the end
+of each calendar month, the resultant monthly total weight of tires shall be divided by the total weight of
+all waste materials received in the same calendar month, and the resultant number shall be multiplied by
+100 to express the ratio in percentage terms. The percentage computed shall be compared to the 3%
+limitation.
+c. Biosolids. Each day the total weight of segregated biosolids that meet the requirements of paragraph f of
+Specific Condition 11 received shall be computed, and the daily total shall be added to the sum of the
+daily totals from the previous days in the current calendar month. At the end of each calendar month, the
+resultant monthly total weight of biosolids shall be divided by the total weight of all waste materials
+received in the same calendar month, and the resultant number shall be multiplied by 100 to express the
+ratio in percentage terms. The percentage computed shall be compared to the 5% limitation.
+d. Non-MSW. Each day the total weight of segregated non-MSW materials received shall be computed, and
+the daily total shall be added to the sum of the daily totals from the previous days in the current calendar
+month. At the end of each calendar month, the resultant monthly total weight of segregated non-MSW
+materials shall be divided by the total weight of all waste materials received in the same calendar month,
+and the resultant number shall be multiplied by 100 to express the ratio in percentage terms. The
+percentage computed shall be compared to the 5% limitation.
+[Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+55. NSPS Subpart Eb Annual Report: Following the first year of MWC operation, the permittee shall submit an
+annual report that includes the applicable information in 40 CFR 60.59b(g) no later than February 1st of each
+year following the calendar year in which the data were collected. Once the unit is subject to permitting
+requirements under Title V, the permittee must submit this report semi-annually. [40 CFR 60.59b(g)]
+56. NSPS Subpart Eb Semi-Annual Report: The permittee shall submit a semi-annual report that includes the
+information in 40 CFR 60.59b(h)(1) through (h)(5) for any recorded pollutant or parameter that does not
+comply with the pollutant or parameter limit under Subpart Eb, according to the schedule in 40 CFR
+60.59b(h)(6). [40 CFR 60.59b(h)]
+57. NSPS Subpart Eb Records: The permittee shall maintain the applicable records required under 40 CFR
+60.59b(d) for a period of at least 5 years. [40 CFR 60.59b(d)]
+58. NSPS Subpart A Excess Emissions Report: The permittee shall submit an excess emissions and monitoring
+systems performance report and/or summary report form on a semi-annual basis. The report shall contain the
+information in 40 CFR 60.7(c)(1) through (c)(3) and 40 CFR 60.8(d) as applicable. [40 CFR 60.7(c) and (d)]
+59. Actual Emissions Reporting: This permit is based on an analysis that compared baseline actual emissions
+with projected actual emissions and avoided the requirements of subsection 62-212.400(4) through (12),
+F.A.C. for several pollutants. Therefore, pursuant to Rule 62-212.300(1)(e), F.A.C., the permittee is subject
+to the following monitoring, reporting and recordkeeping provisions.
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 21 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+B. MWC Unit No. 4 (EU No. 015)
+a. The permittee shall monitor the emissions of the following Unit No. 4 pollutants: NO , CO, VOC, and
+X
+total fluorides; and, using the most reliable information available, calculate and maintain a record of the
+annual emissions, in tons per year on a calendar year basis, for a period of 5 years following resumption
+of regular operations after the change. Emissions shall be computed in accordance with the provisions in
+Rule 62-210.370, F.A.C., which are provided in Appendix C of this permit.
+b. The permittee shall report to the Department’s permitting and compliance authority within 60 days after
+the end of each calendar year during the 5-year period setting out the unit’s annual emissions during the
+calendar year that preceded submission of the report. The report shall contain the following:
+(1) The name, address and telephone number of the owner or operator of the major stationary source;
+(2) The annual emissions as calculated pursuant to the provisions of 62-210.370, F.A.C., which are
+provided in Appendix C of this permit;
+(3) If the emissions differ from the preconstruction projection, an explanation as to why there is a
+difference; and
+(4) Any other information that the owner or operator wishes to include in the report.
+c. The information required to be documented and maintained pursuant to subparagraphs 62-212.300(1)(e)1
+and 2, F.A.C., shall be submitted to the Department, which shall make it available for review to the
+general public.
+d. The permittee shall compute and report annual emissions in accordance with Rule 62-210.370(2), F.A.C.
+as provided by Appendix C of this permit. For this project, the permittee shall use the following methods
+in reporting the actual annual emissions for Unit No. 4:
+(1) NO CEMS data.
+X
+(2) CO CEMS data.
+(3) Results of the initial VOC compliance test.
+(4) Results of the initial total fluorides compliance test.
+(5) As defined in Rule 62-210.370(2), F.A.C., the permittee shall use a more accurate methodology if it
+becomes available.
+e. These requirements are based on the following analysis:
+Pollutant Increase in Emissions Significant Emission Rate
+NO --* 40
+X
+CO 92.7 100
+VOC 32.4 40
+Fl 2.6 3
+*The results of a netting analysis for NO resulted in a net decrease of NO that avoided the requirements
+X X
+of PSD preconstruction review.
+[Rules 62-212.300(1)(e) and 62-210.370, F.A.C.; and Application No. 1010056-016-AC]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 22 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+C. Activated Carbon Storage Silo
+This section of the permit addresses the following emissions unit.
+EU No. Emission Unit Description
+016 Activated Carbon Storage Silo
+{Permitting Note: In accordance with Rule 62-212.400(PSD), F.A.C., the above emissions unit is subject to a
+BACT determination for the following pollutants: PM and PM . The final BACT determinations are presented
+10 2.5
+in Appendix E of this permit.}
+EQUIPMENT
+1. Storage Silo: The permittee is authorized to install one storage silo for powdered activated carbon (PAC)
+storage. The silo shall be equipped with a vent fabric filter. [Rule 62-212.400(BACT), F.A.C.; and
+Application No. 1010056-016-AC]
+PERFORMANCE RESTRICTIONS
+2. Hours of Operation: The hours of operation for this emissions unit are not limited. [Rules 62-4.070(3) and
+62-210.200(PTE), F.A.C.; and Application No. 1010056-016-AC]
+{Permitting Note: This emissions unit will only operate during silo filling events, which are estimated to
+occur 48 times per year.}
+EMISSIONS STANDARDS
+3. Visible Emissions: Visible emissions from this emissions unit shall not exceed 5% opacity. [Rule 62-
+212.400(BACT), F.A.C.]
+TESTING REQUIREMENTS
+4. Initial Compliance Tests: The emissions unit shall be tested to demonstrate initial compliance with the
+emissions standards for visible emissions. The initial tests shall be conducted within 60 days after achieving
+permitted capacity, but not later than 180 days after initial operation of the unit. [Rules 62-4.070(3) and 62-
+297.310(8)(b)1, F.A.C.]
+5. Annual Compliance Tests: During each calendar year (January 1st to December 31st), the emissions unit shall
+be tested to demonstrate compliance with the emissions standards for visible emissions. [Rule 62-
+297.310(8)(a)1, F.A.C.]
+6. Test Requirements: The permittee shall notify the Compliance Authority in writing at least 15 days prior to
+any required tests. Tests shall be conducted in accordance with the applicable requirements specified in
+Appendix D (Common Testing Requirements) of this permit. [Rule 62-297.310(9), F.A.C.]
+7. Test Methods: Required tests shall be performed in accordance with the following reference method.
+Method Description of Method and Comments
+9 Visual Determination of the Opacity of Emissions from Stationary Sources
+The above methods are described in Appendix A of 40 CFR 60 and are adopted by reference in Rule 62-
+204.800, F.A.C. No other methods may be used unless prior written approval is received from the
+Department. [Rules 62-204.800, F.A.C.; and Appendix A of 40 CFR 60]
+RECORDKEEPING AND REPORTING REQUIREMENTS
+8. Test Reports: The permittee shall prepare and submit reports for all required tests in accordance with the
+requirements specified in Appendix D (Common Testing Requirements) of this permit. [Rule 62-
+297.310(10), F.A.C.]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 23 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+C. Activated Carbon Storage Silo
+9. Fabric Filter Certification: The permittee shall maintain documentation from the fabric filter manufacturer
+that the fabric filter is certified to meet a grain loading factor of 0.01 grains per dry standard cubic foot
+(gr/dscf) or less. [Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 24 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+D. Cooling Tower (2-Cell)
+This section of the permit addresses the following emissions unit.
+EU No. Emission Unit Description
+017 Cooling Tower (2-Cell)
+{Permitting Note: In accordance with Rule 62-212.400(PSD), F.A.C., the above emissions unit is subject to a
+BACT determination for the following pollutants: PM and PM . The final BACT determinations are presented
+10 2.5
+in Appendix E of this permit.}
+EQUIPMENT
+1. Cooling Tower Expansion: The permittee is authorized to construct a 2-cell addition to the existing cooling
+tower. The new cells shall be equipped with high-efficiency drift eliminators and have a design drift rate of
+no more than 0.0005%. [Rule 62-212.400(BACT), F.A.C.; and Application No. 1010056-016-AC]
+PERFORMANCE RESTRICTIONS
+2. Hours of Operation: The hours of operation for this emissions unit are not limited. [Rules 62-4.070(3) and
+62-210.200(PTE), F.A.C.; and Application No. 1010056-016-AC]
+3. Drift Rate: Within 60 days of commencing operation of Unit No. 4, the permittee shall submit certification to
+the Department that the cooling tower addition was constructed to achieve the specified drift rate of no more
+than 0.0005% of the circulating water flow rate. [Rule 62-212.400(BACT), F.A.C.; and Application No.
+1010056-016-AC]
+RECORDKEEPING REQUIREMENTS
+4. Drift Rate Certification: The permittee shall maintain documentation from the manufacturer that the cooling
+tower addition meets the specified drift rate of 0.0005%. [Rule 62-212.400(BACT), F.A.C.]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 25 of 26
+SECTION 3. EMISSIONS UNIT SPECIFIC CONDITIONS
+E. Switchgear
+This section of the permit addresses the following emissions unit.
+EU No. Emission Unit Description
+018 Fugitive Emissions from Switchgear
+{Permitting Note: In accordance with Rule 62-212.400(PSD), F.A.C., the above emissions unit is subject to a
+BACT determination for the following pollutant: GHG. The final BACT determinations are presented in
+Appendix E of this permit.}
+EQUIPMENT
+1. Switchgear: The permittee is authorized to construct, operate, and maintain an expansion to the existing
+facility switchgear to accommodate Unit No. 4. The switchgear will contain sulfur hexafluoride (SF ). The
+6
+equipment must have a manufacturer-designed SF leak rate of no more than 0.5% per year. The switchgear
+6
+must be equipped with a leakage detection system. [Rule 62-212.400(BACT), F.A.C.; and Application No.
+1010056-016-AC]
+PERFORMANCE RESTRICTIONS
+2. Hours of Operation: The hours of operation for this emissions unit are not limited. [Rules 62-4.070(3) and
+62-210.200(PTE), F.A.C.; and Application No. 1010056-016-AC]
+MONITORING REQUIREMENTS
+3. Monitoring Plan: Within 180 days after the switchgear expansion is placed into service, the permittee shall
+submit to the Department a switchgear monitoring plan detailing the procedures for detecting leaks and
+expected corrective actions after leaks are detected. [Rule 62-212.400(BACT), F.A.C.]
+Pasco County Air Permit No. 1010056-016-AC (PSD-FL-454)
+Pasco County Resource Recovery Facility New Municipal Waste Combustor
+Page 26 of 26
+
+
+Originial Link: https://www.regulations.gov/comment/EPA-HQ-OAR-2017-0183-0203

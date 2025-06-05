@@ -1,0 +1,38 @@
+**FAA Faces Call for Balanced Access to Aircraft Ownership Data**  
+
+In a recent letter addressed to the Federal Aviation Administration, Dawoud Stevenson expressed the necessity for continued public access to registered aircraft owner information amidst potential changes. The correspondence highlights the critical role this data plays in monitoring airport usage and identifying business growth opportunities.
+
+Stevenson pointed out that "registered owner information is frequently accessed by airport senior management and is critical for monitoring who is using the airport." He emphasized that the data helps in predicting and identifying business opportunities and service needs, such as air service development and expanded charter and flight operations. 
+
+Given ongoing concerns regarding privacy, Stevenson outlined a recommendation for the FAA regarding how to approach any reductions in data availability. He suggested a tiered access method, stating, "Should the FAA proceed with limiting data availability, we recommend a tiered access approach. Sensitive personal details could be redacted from public view while preserving full access for verified users through a secure portal." 
+
+The letter asserts that maintaining access to aircraft ownership data is essential for key stakeholders, while also addressing privacy issues to ensure a balanced approach. This sentiment underscores the need for careful consideration as the FAA weighs its options regarding public access to this information.
+
+Dawoud Stevenson is affiliated with Savannah/Hilton Head International Airport, where he serves in a capacity that involves oversight of airport operations. This letter was sent to the FAA on a date not specified in the correspondence.
+
+
+----------------INPUT:----------------
+
+ To Whom It May Concern,
+Thank you for the opportunity to provide feedback regarding the FAA’s consideration of
+changes to the public availability of registered aircraft owner information.
+1. How often do people or organizations access or use registered owner
+information, and how is this information used?
+Registered owner information is frequently accessed by airport senior
+management and is critical for monitoring who is using the airport. The data
+is imperative in predicting and identifying business opportunities and service
+needs, such as air service development, and expanded charter and flight
+operations.
+4. How should the FAA implement the removal of identified categories of
+registered owner information from public availability?
+Should the FAA proceed with limiting data availability, we recommend a tiered
+access approach. Sensitive personal details could be redacted from public
+view while preserving full access for verified users through a secure portal.
+In summary, it is essential to maintain access to aircraft ownership data for key
+stakeholders while carefully addressing privacy concerns.
+Sincerely,
+Dawoud Stevenson
+Savannah/Hilton Head International Airport
+
+
+Originial Link: https://www.regulations.gov/comment/FAA-2025-0638-0589

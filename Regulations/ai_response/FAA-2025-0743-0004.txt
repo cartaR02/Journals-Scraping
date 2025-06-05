@@ -1,0 +1,82 @@
+**Bell Expresses Concerns Over FAA Proposed Airworthiness Directive**
+
+Bell has raised significant concerns regarding a proposed airworthiness directive (AD) from the Federal Aviation Administration (FAA) outlined in Docket No. FAA–2025–0743. The company's letter to the Department of Transportation details specific observations on the FAA’s proposed changes that they deem unnecessary and burdensome for operators.
+
+In the letter, Michael Deer, the manager of airworthiness at Bell, stated, "The addition of an MPI at every 50 hours is an unnecessary and burdensome requirement for operators. Not all operators will have ready access to MPI capability." Deer emphasized that a sufficient level of safety is already achieved when considering that all clevises were initially magnetic particle inspected when this issue was first identified and that any suspect clevises have since been removed from the fleet. 
+
+Deer urged the FAA to reconsider the additional magnetic particle inspection requirement, suggesting that “the detailed visual inspection is conducted using 10x magnification, which is sufficient to detect corrosion damage that may act as crack initiation sites.” He recommended that the added requirements in line (h)(4) be removed entirely.
+
+The company further addressed issues regarding reidentification of main rotor pitch link assemblies and sub-components mentioned in the proposed directive. Deer stated, "The exception is not correct," highlighting that re-identification is not conducted as suggested, and that it is only required when performing specific parts of the Transport Canada AD.
+
+In regards to another section of the proposal, Deer pointed out inaccuracies, stating, "The requirement does not apply to M/R assemblies part numbers 430-010-411-109, -109FM, -111, and -111FM." Again, he advised removing the inappropriate requirements listed in line (h)(7).
+
+The feedback provided by Bell illustrates a commitment to aviation safety while advocating for regulations that are sensible for operators. 
+
+The letter was sent on June 5, 2025, and was addressed to the Department of Transportation, Docket Operations in D.C. The communication was authored solely by Michael Deer, manager of airworthiness at Bell.
+
+
+----------------INPUT:----------------
+
+ June 5, 2025 A/W: 2025:58
+File: 430/H
+Department of Transportation, Docket Operations,
+M–30, West Building Ground Floor, Room
+W12–140, 1200 New Jersey Avenue SE,
+Washington, DC 20590.
+Subject: Docket No. FAA–2025–0743; Project Identifier MCAI-2024-00711-R
+Reference: A. Transport Canada AD; CF–2024-40; dated 17 December 2024
+B. Bell Service Bulletin; ASB 430-22-61; dated 6 November 2023
+C. Bell 430 Maintenance Manual BHT-430-MM-2, Chapter 4, ALS, Rev. 23, dated
+28 September 2023
+To whom it may concern,
+Bell has reviewed the subject proposed FAA AD and have the following comments:
+Reference AD Text: Comment
+(h)(4) Where any paragraph in Transport The addition of an MPI at every 50 hrs is an
+Canada AD CF-2024-40 specifies performing unnecessary and burdensome requirement
+a magnetic particle inspection (MPI) “if any for operators. Not all operators will have
+suspected defects are found” after ready access to MPI capability. An
+performing a detailed visual inspection, this acceptable level of safety is achieved when
+AD requires performing an MPI after we consider that:
+performing each detailed visual inspection. 1. All clevises were magnetic particle
+inspected when this issue was first identified
+(Ref. TCCA AD CF 2021-26 and FAA AD
+2021-24-09). Any suspect clevises will have
+been removed from the fleet at that time.
+2. The detailed visual inspection is conducted
+using 10x magnification (IAW Bell ASB 430-
+22-61) which is sufficient to detect corrosion
+damage which may act as crack initiation
+sites.
+3. Operators are instructed to do an MPI if
+any suspected defects are found during the
+10x visual inspection.
+It is therefore recommended to remove the
+additional MPI requirements at line (h)(4).
+12,800 rue de l’Avenir, Mirabel (Québec) J7J 1R4 CANADA
+(450) 971-6500
+Reference AD Text: Comment
+(h)(6) Where Part I paragraph A.9. of The exception is not correct. Re-
+Transport Canada AD CF-2024-40 specifies identification is not conducted in Part I
+to re-identify the main rotor pitch link paragraph A.2 through A.4 of the TCCA AD.
+assemblies and sub-components, for this AD Those paragraphs only require replacement
+those actions are not required if already with serviceable parts. Reidentification is
+accomplished when doing Part I paragraphs only conducted in paragraph A.9.
+A.2. through A.4. of Transport Canada AD CF- It is recommended to remove (h)(6).
+2024-40.
+(7) Where Part I paragraph B. of Transport The exception is not correct since Table 4-1
+Canada CF-2024-40 specifies “replace each of the Bell 430 ALS does not have a life
+component listed in Table 1 of the Bell ASB assigned to the -109, -111 part numbers.
+before exceeding the applicable It is recommended to remove (h)(7).
+airworthiness life limit indicated in Table 4-1
+of the applicable pitch link ALS,” for this AD
+that requirement does not apply to M/R
+assemblies part numbers 430-010-411-109,
+-109FM, -111, and -111FM.
+Should you have any question, please contact the undersigned.
+Sincerely,
+Michael Deer
+Manager, Airworthiness
+2
+
+
+Originial Link: https://www.regulations.gov/comment/FAA-2025-0743-0004

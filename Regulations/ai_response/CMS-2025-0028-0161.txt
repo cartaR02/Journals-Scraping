@@ -1,0 +1,59 @@
+**Physician Urges Centers for Medicare & Medicaid Services to Reevaluate Payment Rates for Heart Valve Procedures**
+
+A prominent physician has called on the Centers for Medicare & Medicaid Services to reassess its proposed payment rates for heart valve procedures as part of the Medicare Hospital Inpatient Prospective Payment System for fiscal year 2026. In a letter addressed to Administrator Mehmet Oz, Alan Zajarias, co-director of the Center of Valvular Heart Disease at Barnes Jewish Hospital, argues for changes that could significantly impact patients with aortic regurgitation.
+
+In his letter, Zajarias points out critical miscalculations in the agency’s analysis of cases involving transcatheter aortic valve replacement (TAVR) for aortic regurgitation. "CMS should reconsider its rejection of the request to reassign cases reporting TAVR procedures for aortic regurgitation from MS-DRGs 266 and 267 to a more clinically and cost cohesive MS-DRG," he states. 
+
+The physician highlights that the agency's current approach improperly includes diagnosis codes that could skew data. "The inclusion of I35.2 increased the dataset volume... [CMS] identified 8,137 discharges. In 2023, only ~180 TAVR for AR cases were done," noted Zajarias, emphasizing the need for a clearer analysis to ensure that payment models better reflect patient needs and realities.
+
+He recommends that the agency refine its data analysis by excluding cases of aortic stenosis, thereby providing a more accurate picture of the costs associated with predominantly aortic regurgitation cases. "If the data supports, assign these cases to a more clinically and cost cohesive MS-DRG," he concluded, advocating for changes that would benefit patients undergoing complex valve replacement procedures.
+
+This letter was sent to the Centers for Medicare & Medicaid Services regarding Medicare payment policy changes, reflecting the concerns of practitioners in the medical community concerning the proposed updates. The correspondence was submitted electronically on June 6, 2025.
+
+
+----------------INPUT:----------------
+
+ June 6, 2025
+Via Electronic Submission
+The Honorable Mehmet Oz, MD
+Administrator, Centers for Medicare & Medicaid Services
+Department of Health and Human Services
+Attention: CMS–1833–P
+P.O. Box 8013
+Baltimore, MD 21244–8013
+RE: Medicare Program; Hospital Inpatient Prospective Payment Systems for Acute
+Care Hospitals and the Long-Term Care Hospital Prospective Payment System and
+Policy Changes and Fiscal Year 2026 Rates; Requirements for Quality Programs; and
+Other Policy Changes [CMS–1833–P]
+Dear Administrator Oz,
+I am pleased to submit comments on the proposed update to payment rates and policies for the
+Medicare Hospital Inpatient Prospective Payment System (IPPS) for fiscal year 2026 (“the
+Proposed Rule.”)[1] I have treated patients with valvular heart disease since the inception of
+transcatheter aortic valve replacement and lead a large academic valve center.
+CMS should reconsider its rejection of the request to reassign cases reporting transcatheter
+aortic valve replacement (TAVR) procedures for aortic regurgitation (AR) from MS-DRGs 266
+and 267 to a more clinically and cost cohesive MS-DRG.
+In the Proposed Rule, CMS considered a proposal to move cases with TAVR for Aortic
+Regurgitation (AR) from MS-DRGs 266/267 to MS-DRG 215.[2] As analyzed by CMS, the cases
+identified do not warrant a move, however it appears the CMS analysis includes diagnosis code
+I35.2 (Nonrheumatic aortic (valve) stenosis with insufficiency), which inadvertently identified
+beneficiaries with mixed valvular heart disease and predominant AS. Including diagnosis code
+I35.2 as part of this consideration doesn’t allow an understanding of the costs of patients with
+predominant AR.
+The inclusion of I35.2 increased the dataset volume (e.g., the requestor identified 280 cases in
+their analysis, but CMS identified 8,137 discharges). In 2023, only ~180 TAVR for AR cases
+were done during the continued access protocol for the ALIGN-AR, which was the only
+approved (Category B IDE) use of TAVR for AR. There have never been >8,000 TAVR for AR
+cases performed.
+I encourage CMS to refine their analysis to exclude cases with aortic stenosis by analyzing the
+discharges without ICD-10 CM code I35.2 and, if the data supports, assign these cases to a
+more clinically and cost cohesive MS-DRG.
+Sincerely,
+Alan Zajarias MD
+Co-Director Center of Valvular Heart Disease
+Barnes Jewish Hospital
+[1] 90 Fed. Reg. 18,002 (April 30, 2025).
+[2] Id. at 18,035.
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0161

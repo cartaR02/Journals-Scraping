@@ -1,0 +1,417 @@
+**Aviation Groups Urge Caution on Privacy Regulations for Aircraft Registration Information**
+
+The International Aircraft Dealers Association (IADA) is raising alarms about the Federal Aviation Administration’s (FAA) proposed regulations to withhold certain aircraft registration data from public access. In a letter addressed to the U.S. Department of Transportation, IADA expressed its concerns regarding the implications for transparency in aircraft transactions.
+
+“IADA supports reasonable efforts to protect individual privacy, but we are concerned that an overly broad implementation of the proposed policy could significantly hinder the aircraft transaction process,” said Louis C. Seno, executive director of IADA. "Access to aircraft ownership and registration records is essential for dealerships, title companies, law firms, and other aviation professionals to conduct safe and lawful transactions.”
+
+The organization emphasized the importance of maintaining a balance between protecting personal privacy and providing essential information to stakeholders in the aviation industry. Seno urged the FAA to prioritize transparency in the aviation marketplace while accommodating legitimate privacy interests.
+
+IADA has also endorsed the feedback submitted by the Aircraft Title Lawyer & Title Company Coalition, emphasizing a collaborative call for clarity and balance in the FAA's proposal.
+
+“Our specialized knowledge provides the aviation community and the FAA itself with accurate transactional documentation and trusted guidance,” the coalition stated in its response to the FAA. “The FAA's initiative invites stakeholders to weigh in on critical questions related to privacy, safety, and commerce."
+
+The coalition included multiple firms and professionals from Oklahoma City. Notable members include McAfee & Taft, Crowe & Dunlevy, and Gilchrist Aviation Law. They collectively stress that access to aircraft ownership data is crucial for the integrity of the aviation market.
+
+The FAA is mandated to implement privacy protections for aircraft owners under the FAA Reauthorization Act of 2024. However, industry stakeholders are concerned that the proposed regulations might overly limit public access to important ownership information. They caution that such a move could impair the safety, compliance, and commercial functions of aviation transactions.
+
+The letter from both organizations was transmitted to the U.S. Department of Transportation on June 4, 2025, and highlights the contributors' desire to ensure that any changes enhance privacy without complicating essential industry operations.
+
+
+----------------INPUT:----------------
+
+ INTERNATIONAL AIRCRAFT DEALERS ASSOCIATION
+June 4, 2025
+Docket Operations, M-30
+U.S. Department of Transportation
+1200 New Jersey Avenue SE, Room W12-140
+Washington, DC 20590
+Subject: Docket No. FAA–2025–0638 – Response to Request for Comment to Withhold Certain Aircraft
+Registration Information from Public Dissemination
+To Whom It May Concern:
+The International Aircraft Dealers Association (IADA) is a professional organization composed of more
+than one hundred accredited aircraft dealers, brokers, and business aviation product and service
+providers. All IADA members must meet rigorous standards to ensure ethical, efficient, and effective
+aircraft transactions.
+IADA submits this comment in response to the Federal Aviation Administration’s Request for Comment
+on the proposed withholding of certain aircraft registration information from public dissemination. We
+write to express our concerns and to endorse the response submitted by the Aircraft Title Lawyer & Title
+Company Coalition, which is attached hereto.
+While IADA supports reasonable efforts to protect individual privacy, we are concerned that an overly
+broad implementation of the proposed policy could significantly hinder the aircraft transaction process.
+Access to aircraft ownership and registration records is essential for dealers, title companies, law firms,
+and other aviation professionals to conduct safe, efficient, and lawful transactions.
+IADA urges the FAA to strike a careful balance that protects legitimate privacy interests while preserving
+the transparency and accessibility that are critical to trust and efficiency in the aviation marketplace.
+Respectfully,
+Louis C. Seno
+Executive Director
+International Aircraft Dealers Association
+770 S 13th St #6530, Boise ID 83707-6530 P 866.284.4744 F 866.447.1777 / IADA.aero
+AIRCRAFT TITLE LAWYER & TITLE COMPANY COALITION
+May 23, 2025
+Docket Opera(cid:415)ons, M-30
+U.S. Department of Transporta(cid:415)on
+1200 New Jersey Avenue SE, Room W12-140
+West Building Ground Floor,
+Washington, DC 20590
+Subject: Docket No. FAA–2025–0638 – Comments on Proposal to Withhold Certain Aircra(cid:332)
+Registra(cid:415)on Informa(cid:415)on from Public Dissemina(cid:415)on
+To Whom It May Concern:
+We are wri(cid:415)ng in response to the Federal Avia(cid:415)on Administra(cid:415)on’s (“FAA”) Request for Comment
+regarding the proposal to withhold certain aircra(cid:332) registra(cid:415)on informa(cid:415)on from public
+dissemina(cid:415)on (Docket No. FAA–2025–0638). We appreciate the FAA’s efforts to enhance privacy
+protec(cid:415)ons for aircra(cid:332) owners as mandated by Congress, and we welcome this opportunity to
+provide input. In doing so, we aim to support a balanced approach that protects “individual”
+privacy while preserving the access to informa(cid:415)on necessary for legal, commercial, and safety-
+related ac(cid:415)vi(cid:415)es. The following comments summarize key concerns and offer recommenda(cid:415)ons,
+drawing on recent industry analyses and our professional experience in avia(cid:415)on law and finance.
+Introduc(cid:415)on and Background
+Oklahoma City serves as a cri(cid:415)cal hub for the avia(cid:415)on industry, not only because it is home to the
+FAA Mike Monroney Aeronau(cid:415)cal Center and the FAA Aircra(cid:332) Registry, but also due to its well-
+established avia(cid:415)on legal and (cid:415)tle community. The avia(cid:415)on legal and (cid:415)tle community in
+Oklahoma City work together in what we refer to as the Aircra(cid:332) Title Lawyer & Title Company
+Coali(cid:415)on (“ATLTCC”) (A representa(cid:415)ve list of law firms and companies of the ATLTCC is provided
+at the end of this comment)1. The par(cid:415)cipa(cid:415)ng law firms and companies of ATLTCC play an
+essen(cid:415)al role for an overwhelming majority of aircra(cid:332) registered in the United States with the
+FAA Aircra(cid:332) Registry. The par(cid:415)cipants use their exper(cid:415)se in the Federal Avia(cid:415)on Regula(cid:415)ons (the
+“FARs”), the U.S. Transporta(cid:415)on Code, and the Cape Town Conven(cid:415)on and its Avia(cid:415)on Protocol
+(collec(cid:415)vely the “Cape Town Conven(cid:415)on”). Par(cid:415)cipants of the ATLTCC are recognized globally for
+their services to the avia(cid:415)on transac(cid:415)on industry and their counsel and professionalism, ensuring
+compliance with the FARs in aircra(cid:332) transac(cid:415)ons. Our specialized knowledge provides the
+avia(cid:415)on community and the FAA itself with accurate transac(cid:415)onal documenta(cid:415)on and trusted
+guidance. This work of the ATLTCC makes us an invaluable part of maintaining the integrity and
+1 The ATLTCC is not a formal en(cid:415)ty or associa(cid:415)on.
+efficiency of aircra(cid:332) transac(cid:415)ons worldwide. Our exper(cid:415)se allows us a unique perspec(cid:415)ve to
+present the following comments in response to your request.
+In the FAA Reauthoriza(cid:415)on Act of 2024, Congress added 49 U.S.C. § 44114(b), which requires the
+FAA to establish a procedure for “private aircra(cid:332) owners or operators” to request their personally
+iden(cid:415)fiable informa(cid:415)on (“PII”) be withheld from “broad dissemina(cid:415)on or display … including on
+a publicly available website of the FAA.” In accordance with this mandate, the FAA’s proposal
+would remove from its public-facing websites the following data for those who elect privacy
+protec(cid:415)on: (A) the mailing or registra(cid:415)on address of the owner; (B) the owner’s email address;
+(C) the owner’s telephone number; and (D) the name of the aircra(cid:332) owner. This represents a
+significant change for the FAA Aircra(cid:332) Registry, which has historically made such informa(cid:415)on
+openly available to support over 1 million public inquiries per month.
+It is important to note that although § 44114(b) allows “private aircra(cid:332) owner(s) or operator(s)”
+to request the withholding of certain informa(cid:415)on, it narrowly iden(cid:415)fies the specific PII
+informa(cid:415)on that may be withheld. § 44114(b)defines PII as:
+ the mailing address or registra(cid:415)on address of an individual;
+ an electronic address (including an email address) of an individual;
+ the telephone number of an individual;
+ the names of the aircra(cid:332) owner or operator, if the owner or operator is an individual.
+Despite the narrow list set forth in § 44114(b), the FAA’s Request for Comment makes unclear
+whether these PII categories of informa(cid:415)on might be removed for any registered owner,
+individual or en(cid:415)ty. This calls for clarifica(cid:415)on whether the intent is to limit the new privacy
+protec(cid:415)ons to natural persons (as the term “private aircra(cid:332) owner” implies, and which is clarified
+by the PII categories listed therein), or if the FAA intends to extend the privacy protec(cid:415)ons to all
+non-governmental owners, including but not limited to business en(cid:415)(cid:415)es, partnerships and trusts.
+Many in the industry believe the privacy concerns are most acute for individual owners, and a
+one-size-fits-all removal of owner informa(cid:415)on for every aircra(cid:332) would have unintended
+consequences on transparency and commerce.
+Addi(cid:415)onally, under longstanding public record prac(cid:415)ces in the United States, names and
+addresses generally, but especially for corporate en(cid:415)(cid:415)es, have never been treated as confiden(cid:415)al
+informa(cid:415)on. Real estate ownership records, UCC filings for security interests, vessel registries,
+and corporate en(cid:415)ty records all publicly disclose names and addresses as part of ensuring
+transparency and no(cid:415)ce to third par(cid:415)es. The FAA Aircra(cid:332) Registry, which is a fundamental public
+no(cid:415)ce system for (cid:415)tle and lien interests in aircra(cid:332), has historically aligned with these other public
+systems. Shielding iden(cid:415)fying informa(cid:415)on for aircra(cid:332) ownership might be helpful in some
+circumstances, but the industry has determined over the last few years that aircra(cid:332) are tracked
+in many different ways, regardless of whether the ul(cid:415)mate owner’s informa(cid:415)on is reflected as
+the registered owner on the FAA website.
+Finally, the aircra(cid:332) privacy issues are complex and must be balanced against other obliga(cid:415)ons and
+uses of the FAA Aircra(cid:332) Registry. The FAA’s ini(cid:415)a(cid:415)ve is a posi(cid:415)ve development in that it invites
+stakeholders to weigh in on cri(cid:415)cal ques(cid:415)ons such as how o(cid:332)en owner data is used, the impacts
+on privacy, safety, and commerce, and how best to implement the changes. In that spirit, we offer
+the following specific comments and recommenda(cid:415)ons to ensure the final outcome achieves the
+appropriate balance between privacy protec(cid:415)on and necessary informa(cid:415)on access.
+Ensuring Access for Legal and Commercial Stakeholders
+Preserving Title and Liens Transparency: The FAA Aircra(cid:332) Registry’s core purpose extends beyond
+registering aircra(cid:332) for opera(cid:415)onal and safety purposes – it serves, together with the Interna(cid:415)onal
+Registry under the Cape Town Conven(cid:415)on, as the central registry for ownership rights and
+security interests in aircra(cid:332). Par(cid:415)es file bills of sale, leases, and lien documents with the FAA
+Aircra(cid:332) Registry to provide no(cid:415)ce under 49 U.S.C. § 44107 to third par(cid:415)es and to perfect interests
+in aircra(cid:332). Unlike filings under the Uniform Commercial Code and other registries that allow
+simple no(cid:415)ce of interest, the FAA is similar to a real estate registry where for over sixty (60) years
+the actual conveyances/documents have been filed and recorded with the FAA Aircra(cid:332) Registry.
+All of these cumula(cid:415)ve, historical records are available for examina(cid:415)on and vital for every
+transac(cid:415)on in aircra(cid:332). It is impera(cid:415)ve that buyers, sellers, lenders, lessees, law firms and (cid:415)tle
+companies con(cid:415)nue to have a reliable way to determine who owns an aircra(cid:332) and what liens or
+claims exist on it. The U.S. Supreme Court has underscored this role, describing the FAA Aircra(cid:332)
+Registry as “a central clearing house for recorda(cid:415)on of (cid:415)tles” so that anyone can readily discover
+“claims against, or liens, or other legal interests in an aircra(cid:332).” Philko Avia(cid:415)on, Inc. v. Shacket, 462
+U.S. 406, 411 (1983).
+Addi(cid:415)onally, US courts have determined that par(cid:415)es are not simply deemed to be on no(cid:415)ce of
+documents recorded with the FAA Aircra(cid:332) Registry, but actual no(cid:415)ce “under sec(cid:415)on 1403(c)
+includes not only knowledge that one's seller lacks good (cid:415)tle but also knowledge of facts that
+would lead a reasonable person to inquire further into the seller's (cid:415)tle.” Shacket v. Philko
+Avia(cid:415)on, Inc., 841 F.2d 166, 169 (7th Cir. 1988). Courts have also determined a document
+recorded with the FAA provides not only “construc(cid:415)ve no(cid:415)ce of its own existence and contents”,
+but also “gives rise to implied no(cid:415)ce of such other facts as would be disclosed by duly prosecuted
+inquiries suggested by it.” McCausland v. Davis, 204 So. 2d 334 (Fla. Dist, Ct. App. 1967). It is
+therefore essen(cid:415)al par(cid:415)es have access to the complete documents filed with the FAA Aircra(cid:332)
+Registry.
+Although recording with the FAA is a prerequisite for perfec(cid:415)on or possibly enforceability against
+third par(cid:415)es, it does not determine the underlying validity of a conveyance. Philko Avia(cid:415)on, Inc.
+v. Shacket, 462 U.S. 406, 411 (1983). In addi(cid:415)on, 49 U.S.C. § 44103(c) confirms that “A cer(cid:415)ficate
+of registra(cid:415)on issued under this sec(cid:415)on is not evidence of ownership of an aircra(cid:332) in a proceeding
+in which ownership is or may be in issue.” A thorough examina(cid:415)on of the FAA records rela(cid:415)ng to
+(cid:415)tle and conveyances necessitates par(cid:415)es verify not only what documents have been recorded
+by the FAA Aircra(cid:332) Registry in connec(cid:415)on with an aircra(cid:332), but also a review of all the documents
+in the record along with the ancillary documents mandated under FARs Part 47 and Part 49.
+These ancillary documents contain powers of a(cid:425)orney, signature authority statements, trust
+agreements, court orders, merger documents and other records that must also be examined
+along with the recorded documents. It is essen(cid:415)al to assess whether the recorded documents
+create valid interests, are properly executed, comply with the FARs, and refer to other rights or
+interests that warrant further inves(cid:415)ga(cid:415)on.
+If owner or operator names and contact details are broadly withheld without an alterna(cid:415)ve and
+convenient means for legi(cid:415)mate stakeholders to obtain that informa(cid:415)on, there is a risk of
+confusion and uncertainty in aircra(cid:332) transac(cid:415)ons. With over 300,000 aircra(cid:332) on the FAA Aircra(cid:332)
+Registry – collec(cid:415)vely valued in the hundreds of billions of dollars – transparency in ownership
+and lien status is crucial for maintaining confidence in the validity of recorded interests.
+We urge the FAA to ensure that the new privacy measures do not erode the ability to quickly
+verify (cid:415)tle and encumbrances in real (cid:415)me for the purpose of aircra(cid:332) sales, financing, and leasing
+transac(cid:415)ons. This may be achieved by con(cid:415)nuing to provide complete access to the data for
+authorized users at the FAA Public Documents Room. Without such assurances, the well-intended
+privacy ini(cid:415)a(cid:415)ve could inadvertently disrupt essen(cid:415)al commercial func(cid:415)ons in the avia(cid:415)on
+industry.
+Impact on Safety and Maintenance: In addi(cid:415)on to commerce, public availability of owner
+informa(cid:415)on has tradi(cid:415)onally aided safety and opera(cid:415)onal needs. For example, maintenance
+providers, manufacturers, airports, or authori(cid:415)es may use the FAA Aircra(cid:332) Registry data to
+contact owners about urgent safety bulle(cid:415)ns, Airworthiness Direc(cid:415)ves, or other cri(cid:415)cal
+informa(cid:415)on. If owner contact data is removed from public view, the FAA should consider how
+those with safety and maintenance responsibili(cid:415)es can s(cid:415)ll (cid:415)mely reach aircra(cid:332) owners when
+needed. While privacy is of importance, it should not come at the expense of being able to no(cid:415)fy
+an owner of a safety issue with their aircra(cid:332).
+Specific Concerns and Recommenda(cid:415)ons
+Below we address specific issues raised by the proposal and offer recommenda(cid:415)ons to refine the
+privacy program. These points echo concerns voiced by industry experts and stakeholders in
+recent analyses of the FAA’s privacy ini(cid:415)a(cid:415)ve. Each item is cri(cid:415)cal to striking the right balance
+between protec(cid:415)ng personal data and preserving the func(cid:415)onal u(cid:415)lity of the FAA Aircra(cid:332)
+Registry.
+1. Third-Party Assistance via CARES
+The FAA has indicated that private aircra(cid:332) owners must submit privacy requests through the Civil
+Avia(cid:415)on Registry Electronic Services (“CARES”) system, likely by crea(cid:415)ng a CARES account and
+uploading a request form. Many owners rely on a(cid:425)orneys, trust companies, or (cid:415)tle service
+companies to handle their registra(cid:415)on ma(cid:425)ers. Will third-party agents such as those in the
+ATLTCC (e.g., a(cid:425)orneys, (cid:415)tle companies, etc.) be able to create CARES accounts and submit privacy
+requests on behalf of their clients? We strongly encourage the FAA to allow authorized
+representa(cid:415)ves to u(cid:415)lize CARES for their clients’ privacy requests. This could entail a mechanism
+for an owner to grant permission or a power-of-a(cid:425)orney to their chosen representa(cid:415)ve to create
+and maintain the CARES account. Allowing third-party facilita(cid:415)on will ensure that individuals who
+desire privacy of their PII can submit such a request at the (cid:415)me documents which require this
+informa(cid:415)on are being filed with the FAA Aircra(cid:332) Registry. This would also help law firms and
+corporate service providers to efficiently manage privacy se(cid:427)ngs for mul(cid:415)ple aircra(cid:332) owners.
+Establishing a CARES account is very similar to the process u(cid:415)lized by the Interna(cid:415)onal Registry
+under the Cape Town Conven(cid:415)on, and allowing third party administrators to establish and
+maintain the accounts has proven to be crucial to the industry for efficiently closing transac(cid:415)ons.
+2. Immediate Ac(cid:415)va(cid:415)on/Deac(cid:415)va(cid:415)on of Privacy Se(cid:427)ngs
+It is crucial that the privacy preference can be turned on or off without delay when circumstances
+change. For example, if an owner has opted to withhold their name but is now in the process of
+selling the aircra(cid:332), they may need to reveal their iden(cid:415)ty quickly so that a buyer, lender, or escrow
+agent can verify the chain of ownership. In the current proposal, it’s not clear how quickly the
+FAA Aircra(cid:332) Registry would process a request to restore informa(cid:415)on to public view (or vice versa).
+We recommend that the FAA Aircra(cid:332) Registry implement an immediate or near-real-(cid:415)me
+ac(cid:415)va(cid:415)on/deac(cid:415)va(cid:415)on capability via CARES. Ideally, an owner (or their agent) could log in and
+toggle privacy off before a pending transac(cid:415)on, and the FAA Aircra(cid:332) Registry lis(cid:415)ng would update
+promptly. Likewise, a(cid:332)er the transac(cid:415)on or whenever appropriate, the owner could reac(cid:415)vate
+the privacy se(cid:427)ng. The ability to “li(cid:332)” the privacy flag on short no(cid:415)ce – even temporarily – will
+prevent delays in closings and ensure that privacy measures do not hinder (cid:415)me-sensi(cid:415)ve deals.
+In prac(cid:415)ce, this might involve an automated update to the online registry database once a request
+is submi(cid:425)ed, rather than wai(cid:415)ng days or weeks for manual processing. The FAA should clarify this
+process. Speed and flexibility in managing privacy se(cid:427)ngs will greatly reduce poten(cid:415)al
+commercial fric(cid:415)on while s(cid:415)ll giving owners (past and present) control over their data exposure.
+3. FAA Public Documents Room Access and Use of Data
+The Request for Comment suggests that informa(cid:415)on removal is specifically from FAA websites,
+implying that data might s(cid:415)ll be available for public review in the FAA’s Public Documents Room
+or via other non-web avenues. In line with this, it is essen(cid:415)al that FAA-approved Public
+Documents Room Permi(cid:425)ees (individuals and companies who have been ve(cid:425)ed and granted
+access to the full FAA Aircra(cid:332) Registry records) con(cid:415)nue to have full access to owner names and
+contact informa(cid:415)on, even if such details are no longer visible on the public website. Furthermore,
+these Permi(cid:425)ees must be allowed to disclose the per(cid:415)nent owner informa(cid:415)on in their reports to
+third par(cid:415)es, such as (cid:415)tle search reports, escrow closing reports, or lien status reports.
+If Permi(cid:425)ee firms (who o(cid:332)en serve as the researchers and intermediaries for aircra(cid:332) buyers and
+financiers) could access the data but were prohibited from sharing it with their client who
+requested the search, their services will lose much of their u(cid:415)lity. Such an outcome would defeat
+the purpose of having permi(cid:425)ees. We urge the FAA to explicitly confirm that nothing in the
+privacy program will prevent FAA Public Documents Room Permi(cid:425)ees from retrieving owner
+informa(cid:415)on and relaying it to par(cid:415)es with a legi(cid:415)mate need. These professionals are already
+trusted with sensi(cid:415)ve informa(cid:415)on under exis(cid:415)ng agreements, and they play a key role in the
+aircra(cid:332) (cid:415)tle system. Preserving their ability to func(cid:415)on will help balance privacy with commerce
+– the general public might not see an owner’s name on a website, but an interested buyer or
+lender can obtain a comprehensive (cid:415)tle report through an authorized channel. This approach s(cid:415)ll
+limits broad public dissemina(cid:415)on while ensuring that cri(cid:415)cal informa(cid:415)on flows through ve(cid:425)ed,
+responsible par(cid:415)es.
+4. Limi(cid:415)ng Public Access to Authorized Par(cid:415)es
+Building on the above, we suggest the FAA consider implementa(cid:415)on where the general public’s
+access to owner data is curtailed as required by the 2024 Reauthoriza(cid:415)on Act, from “publicly
+available websites,” but ve(cid:425)ed and authorized par(cid:415)es have privileged access. This could mean
+that the FAA’s online lookup tools and downloadable databases simply omit or redact the
+personal data of owners who requested privacy, whereas those who have a bona fide need can
+obtain unredacted records by request or through a secure portal. In effect, the informa(cid:415)on would
+be withheld from “broad dissemina(cid:415)on” (e.g. casual browsing or bulk public data), sa(cid:415)sfying 49
+U.S.C. § 44114(b), but it would not be absolutely secret. Instead, access would be (cid:415)ered: open
+access for non-PII data, and controlled access for PII data. Such a system might involve expanding
+the role of the FAA Public Documents Room or crea(cid:415)ng a digital equivalent where users are
+required to register, agree to terms of use, and possibly demonstrate a permissible purpose to
+retrieve sensi(cid:415)ve owner informa(cid:415)on. The FAA could limit this higher (cid:415)er of access to the
+established Permi(cid:425)ees (law firms, (cid:415)tle companies, escrow agents, etc., that regularly use the FAA
+Aircra(cid:332) Registry) and perhaps other categories of requestors such as owners themselves, lessees,
+or lienholders on an aircra(cid:332)-by-aircra(cid:332) basis. By limi(cid:415)ng access to only ve(cid:425)ed individuals and
+organiza(cid:415)ons, the FAA can greatly reduce the risk of misuse of personal data while s(cid:415)ll enabling
+legi(cid:415)mate stakeholders to get the informa(cid:415)on they need. This concept aligns with prac(cid:415)ces in
+other domains (for example, the Driver’s Privacy Protec(cid:415)on Act limits motor vehicle record data
+to certain approved users). Implemen(cid:415)ng a similar ve(cid:425)ed-access model for aircra(cid:332) registra(cid:415)on
+data would help strike an op(cid:415)mal balance between privacy and transparency.
+On October 31, 2024, the FAA announced the loss of access to certain documents filed with the
+FAA for no(cid:415)ce purposes, generally known as Work in Process (“WIP”). The loss of WIP access
+serves as a clear example of the FAA’s recent shi(cid:332) toward a privacy-first approach, which has
+already begun to impact everyday func(cid:415)ons of the FAA Aircra(cid:332) Registry and the ability of the
+ATLTCC to close transac(cid:415)ons in certain circumstances. As listed above, the ve(cid:425)ed par(cid:415)es would
+be able to have privileged access to PII data. It would then be logical and consistent to restore
+access to WIP, ensuring a comprehensive view of the available data on the FAA Aircra(cid:332) Registry,
+for the same reasons of commercial necessity discussed at length above.
+5. Scope of Privacy Requests – Current and Prior Owners/Operators
+Clarity is needed on whether a privacy request, once granted, applies only to the current
+owner/operator of the aircra(cid:332) or also to historical ownership data. The FAA no(cid:415)ce focuses on
+withholding an aircra(cid:332) owner’s informa(cid:415)on, presumably in the context of the current registered
+owner. However, many aircra(cid:332) have been bought and sold mul(cid:415)ple (cid:415)mes; their records contain
+a chain of previous owners and operators. Some aircra(cid:332), for example, have dozens of prior
+individual owners in the historical records. (See example N669QS). Will individuals who owned or
+operated an aircra(cid:332) in the past be able to request that their names be hidden in the historical
+records? And if a current owner who obtained privacy protec(cid:415)on sells the aircra(cid:332), will that
+owner’s name remain suppressed in the records going forward?
+These scenarios have implica(cid:415)ons for the completeness and accuracy of the FAA Aircra(cid:332) Registry
+from a historical perspec(cid:415)ve. Removing historical informa(cid:415)on from the FAA records would
+obscure aircra(cid:332) ownership verifica(cid:415)on and make (cid:415)tle research virtually impossible (e.g. a gap in
+the ownership chain if names are redacted, or fraud in selling aircra(cid:332) never purchased/owned).
+Our recommenda(cid:415)on is that the FAA define clearly the scope of a privacy request. In our view,
+privacy requests should apply to the current owner/operator record, and the FAA should not
+retroac(cid:415)vely mask previous owner names or maintain privacy requests once (cid:415)tle has passed to a
+new owner. If a prior owner is an individual with con(cid:415)nuing privacy concerns (for example,
+someone who sold the aircra(cid:332) recently), perhaps they could be given the op(cid:415)on to request
+privacy from broad dissemina(cid:415)on for the period they were listed as owner, with access only given
+to the Permi(cid:425)ees noted above. But this must be weighed against the need to maintain a chain of
+(cid:415)tle and verify ownership. We encourage the FAA to develop a policy that respects privacy
+without erasing essen(cid:415)al historical data especially for (cid:415)tle repor(cid:415)ng and legal opinion purposes
+addressing the status of the FAA Aircra(cid:332) Registry records.
+6. Access for Par(cid:415)es with Current or Past Interests: It is important to allow access to relevant
+registra(cid:415)on records for individuals or en(cid:415)(cid:415)es with a current or past interest in an aircra(cid:332), even if
+those records contain PII that is not publicly displayed. For example, a lender or lienholder listed
+on an aircra(cid:332) should be able to obtain full details of the owner (current or any previous) to
+enforce their rights or to send required no(cid:415)ces. Similarly, a co-owner, beneficiary of a trust, or
+past lessor/operator might have a legi(cid:415)mate need to retrieve documents from the FAA record
+that include names and addresses. The new privacy procedures should accommodate such needs.
+This could be achieved by a verifica(cid:415)on process: e.g., if someone is listed on a document (such as
+a lien or lease) in the aircra(cid:332)’s file, they could, upon proof of iden(cid:415)ty, request the file or view the
+records in the FAA Public Documents Room even if the owner’s name is otherwise suppressed
+online. We recommend the FAA explicitly allow owners, operators, lessors, lessees, lenders,
+lienholders, and other interest holders – both current and former – to access all registra(cid:415)on
+documents pertaining to aircra(cid:332).
+7. Transparency and Acknowledgment of Public Record: As a procedural safeguard, the FAA
+should consider requiring any party submi(cid:427)ng documents to the FAA Aircra(cid:332) Registry (such as
+registra(cid:415)on applica(cid:415)ons, bills of sale, or security agreements) acknowledge that submi(cid:425)ed
+informa(cid:415)on, including PII, will become part of the public record. Today, many owners and
+signatories may not fully realize that when they file a document with the FAA, their name,
+address, and signature could be viewable by anyone. An explicit acknowledgment (for instance,
+a checkbox on a form or an advisory in the filing instruc(cid:415)ons) would serve to inform filers of the
+public nature of the FAA Aircra(cid:332) Registry. Importantly, this would also highlight the availability of
+the new privacy op(cid:415)on – filers should be made aware that if they are a private individual and
+have concerns about their personal informa(cid:415)on, they have the right to request confiden(cid:415)ality
+under the new system. This step does not change any legal rights but promotes transparency and
+informed consent. In essence, if one chooses to register an aircra(cid:332) or record a document, one
+should do so with the understanding that certain details will be accessible to the public, or at
+minimum to authorized searchers.
+8. Clarifica(cid:415)on of “Private Aircra(cid:332) Owner or Operator”
+The FAA should clarify the intended scope of the term "private aircra(cid:332) owner or operator" under
+the proposed privacy framework. Specifically, we ask the FAA to confirm whether eligibility for
+privacy protec(cid:415)ons is determined based on the type or model of the aircra(cid:332), or based on the
+opera(cid:415)onal use of the aircra(cid:332) (i.e., whether it is operated under Part 91, Part 135, or Part 121 of
+the FARs). Many aircra(cid:332) are operated primarily under Part 91 for private use but may also conduct
+limited opera(cid:415)ons under Part 135 (on-demand charter). Others may transi(cid:415)on between private
+and commercial use over their lifespan. We seek clarifica(cid:415)on whether an aircra(cid:332) used part-(cid:415)me
+under Part 135 remains eligible for privacy protec(cid:415)ons, and whether aircra(cid:332) operated exclusively
+under Part 121 (scheduled airline service) are categorically excluded from the privacy program.
+Clear guidance on whether "private" refers to aircra(cid:332) use, opera(cid:415)onal cer(cid:415)fica(cid:415)on, or both, will
+be cri(cid:415)cal to ensuring consistent applica(cid:415)on of privacy protec(cid:415)ons across the avia(cid:415)on industry.
+9. Proof of "Operator" Status
+Addi(cid:415)onally, the FAA should clarify what documenta(cid:415)on or evidence will be required to
+demonstrate "operator" status for purposes of reques(cid:415)ng privacy protec(cid:415)ons. Many aircra(cid:332) are
+operated by par(cid:415)es other than the registered owner, such as lessees, management companies,
+or beneficial owners under trusts. It would be helpful for the FAA to specify acceptable forms of
+proof — such as lease agreements, management contracts, or operator declara(cid:415)ons — that
+would allow non-owner operators to request protec(cid:415)on of their PII. Providing clear guidelines on
+how operator status is established will ensure consistency in the applica(cid:415)on of privacy rights and
+will avoid unnecessary confusion or delays.
+10. Special Purpose En(cid:415)(cid:415)es for Aircra(cid:332) Ownership
+The FAA has issued numerous legal interpreta(cid:415)ons confirming a company formed solely to
+operate an aircra(cid:332), with no other business or purpose, is providing common carriage when
+carrying passengers or property and must conduct those flights under Part 121 or Part 135 of the
+FARs. See Legal Interpreta(cid:415)on to James E. Cooling by Lorelei Peter, Assistant Chief Counsel for
+Regula(cid:415)ons, AGC-200 (August 22, 2017 ); and Legal See Legal Interpreta(cid:415)on to James W. Dymond,
+Esq. by Rebecca B. MacPherson, Assistant Chief Counsel Regula(cid:415)ons Division, AGC-200 (March 9,
+2007 ). Many owners don’t understand that a special purpose company is not restricted from
+owning an aircra(cid:332) and registering the aircra(cid:332) in its name at the FAA Aircra(cid:332) Registry; only the
+opera(cid:415)on of the aircra(cid:332) out of the special purpose company is prohibited under 14 CFR Part 91
+The FAA need only clarify to an applicant for registra(cid:415)on that ownership of an aircra(cid:332) in a special
+purpose en(cid:415)ty is acceptable so long as to the special purpose company does not operate the
+aircra(cid:332). This would allow any individual aircra(cid:332) owner wan(cid:415)ng to protect PII from public view to
+set up a special purpose en(cid:415)ty with a name, mailing address, e-mail address and telephone
+number associated with that en(cid:415)ty, rather than the individual’s personal informa(cid:415)on.
+The use of special purpose en(cid:415)(cid:415)es is not a novel concept as it is a common prac(cid:415)ce in real
+property ownership and is already used by many aircra(cid:332) owners. This prac(cid:415)ce prevents the prying
+or curious public from iden(cid:415)fying the true owner of property and puts the responsibility of privacy
+on the individual and not on the government agency.
+This solu(cid:415)on assumes of course that the FAA’s new policy would apply only to aircra(cid:332) registered
+to individuals, as opposed to a corpora(cid:415)on or LLC, which may fall under the FAA’s intended
+meaning if a “private aircra(cid:332) owner”.
+Balancing Privacy with Necessary Informa(cid:415)on Access
+Through these comments, the recurring theme is the balance between privacy and transparency.
+We support the FAA’s ini(cid:415)a(cid:415)ve to give aircra(cid:332) owners and operators more control over their
+personal data. In an era of increasing concerns about privacy, iden(cid:415)ty the(cid:332), and even personal
+safety (for example, high-profile individuals may not want their travel ac(cid:415)vi(cid:415)es publicized via
+easily accessible tail number data), these measures are (cid:415)mely and responsive to Congress’s
+mandate. Protec(cid:415)ng an owner’s name, address, and contact details from “broad dissemina(cid:415)on”
+can enhance personal security and peace of mind, par(cid:415)cularly for private individuals.
+At the same (cid:415)me, the FAA Aircra(cid:332) Registry exists for important public-interest reasons. It is the
+backbone of our (cid:415)tle and lien system for aircra(cid:332), and it supports safety, regulatory compliance,
+and commerce. The FAA itself recognizes that privacy measures must be weighed against the
+reasons that par(cid:415)es are required to submit informa(cid:415)on to the FAA Aircra(cid:332) Registry in the first
+place. In cra(cid:332)ing the final rule or policy, we urge the FAA to incorporate the safeguards discussed
+above so that we do not uninten(cid:415)onally impede maintenance of aircra(cid:332), performance of safety
+checks, due diligence in purchasing and financing, or law enforcement and na(cid:415)onal security
+checks. The good news is that these goals are not mutually exclusive. A well-designed system can
+shield sensi(cid:415)ve data from public view while s(cid:415)ll making it available to those who truly need it
+(whether via owner consent, authorized request, or limited-access channels).
+Thank you for considering these comments.
+Sincerely,
+Aircra(cid:332) Title Lawyer & Title Company Coali(cid:415)on
+McAfee & Ta(cid:332) A Professional Corpora(cid:415)on Crowe & Dunlevy
+8th Floor, Two Leadership Square Braniff Building, 324 N. Robinson Ave,
+211 N Robinson Ave, Suite 100, Oklahoma City, OK 73102
+Oklahoma City, OK 73102
+Gilchrist Avia(cid:415)on Law, P.C. Daugherty Fowler Peregrin Haught &
+1200 NW 63rd Street, Suite 4000, Jenson
+Oklahoma City, OK 73116 5801 N. Broadway Ext., Suite 100,
+Oklahoma City, OK 73118
+Lytle Soule & Felty Aero-Space Reports
+119 N Robinson Ave Suite 1200, 13320 N. MacArthur Blvd.
+Oklahoma City, OK 73102 Oklahoma City, OK 73142
+AIC Title Service AERO(cid:415)tle
+6350 W. Reno 1200 Metropolitan Ave,
+Oklahoma City, OK 73127 Oklahoma City, OK 73108
+U.S. Aircra(cid:332) Titles Inc. Aviators Title and Escrow
+3600 S Moulton Dr. 1304 Camelot Drive
+Oklahoma City, OK 73179 Yukon, OK 73099
+Dixie Aire Title Service Inc. Elite Aircra(cid:332) Title & Escrow LLC
+1220 Bell Dr, 10600 S. Pennsylvania Ave
+Newcastle, OK 73065 Suite, 16 #9042
+Oklahoma City, OK 73170
+Insured Aircra(cid:332) Title Service Powell Aircra(cid:332) Title Service
+21 East Main Street, Suite 100 10005 S. Pennsylvania Ave. Suite A
+Oklahoma City, OK 73104 Oklahoma City, OK 73159
+King Aircra(cid:332) Title, Inc. Interna(cid:415)onal Aircra(cid:332) Title & Escrow Inc.
+14801 SW 65th St. 10007 S. Penn, Suite F
+Mustang, OK 73064 Oklahoma City, OK 73159
+
+
+Originial Link: https://www.regulations.gov/comment/FAA-2025-0638-0594

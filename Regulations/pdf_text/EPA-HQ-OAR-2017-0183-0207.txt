@@ -1,0 +1,147 @@
+May 30, 2025
+Ms. Penny Lassiter
+Director, Sector Policy and Programs Division
+Office of Air Quality Planning and Standards (OAQPS)
+U.S. Environmental ProtecJon Agency
+EPA Docket Center, Docket ID No. EPA-HQ-OAR-2017-0183
+1200 Pennsylvania Avenue, NW
+Washington, DC 20460
+Re: Proposed Standards of Performance for New Sta1onary Sources and Emission Guidelines
+for Exis1ng Sources: Large Municipal Waste Combustor Units, 89 Fed. Reg. 4243 (Jan. 23,
+2024); EPA–HQ–OAR–2017–0183
+The Waste-To-Energy AssociaJon (“WTEA” or “we”) appreciates the opportunity to comment on
+this regulatory proposal (the “Proposal”). WTEA is a naJonal trade organizaJon represenJng
+municipal organizaJons and partnering companies with waste-to-energy (“WTE”) faciliJes across
+the United States. Our members own and operate the vast majority of the modern Large Municipal
+Waste Combustor (LMWC) WTE faciliJes naJonwide, safely disposing of over 30 million tons of
+municipal solid waste (“MSW”), while generaJng 2,500 MW of renewable electricity using modern
+combusJon technology equipped with state-of-the-art emission control systems. WTE is an
+important component of our country’s infrastructure, powering 2.3 million homes and employing
+approximately 6,000 American workers who strive every day to be a high-performing essenJal
+service provider to their local communiJes.
+Since the re-opening of the comment period, we have submi`ed supplemental comments on the
+proposed rule. Our first submi`al, dated May 13, 2025, addressed the proposed emission
+standard for nitrogen oxides (NOx). Our second submi`al, dated May 29, 2025, provided comment
+on the removal of the exisJng percent removal standard for sulfur dioxide (SO ), hydrochloric acid
+2
+(HCl) and mercury (Hg). This submi`al provides addiJonal comments based on a review of LMWC
+emissions data contained in 1990-1995 stack test documentaJon as well as other key elements of
+the proposed rule.
+Within the current rulemaking, the EPA has deliberately chosen not to assess whether there are
+“residual risks” from LMWCs acer the significant emission reducJons achieved from
+implementaJon of the 1995/1996 standards. Despite the remand of the 2006 standards, owners
+and operators of LMWCs have been through two standard seeng processes and spent
+5600 Connec*cut Ave., NW
+202-244-2114 www.wte.org
+Washington, DC 20015
+- 2 -
+approximately one billion dollars meeJng those standards. We believe that EPA should have
+completed the residual risk analysis it started in 2014 when EPA began a rulemaking process to
+revise the 2006 standards under a voluntary remand. CompleJng the residual risk analysis would
+meet the requirements of both the current consent order and address EPA’s obligaJons under CAA
+secJon 129. In our comments submi`ed March 25, 2024, we provided a residual risk analysis
+completed by a third party that shows there is no residual risk relaJve to the Agency’s thresholds
+based on the actual emissions levels achieved by LMWCs through the implementaJon of the
+1995/2006 standards.
+Instead, the EPA has chosen to recalculate MACT floors. As noted in our 2024 comments, we
+support aspects of EPA’s approach in the proposal. Specifically, we commend EPA for reestablishing
+MACT floors through a process that endeavors to reflect emission levels achieved in pracJce by the
+best-performing sources before the 1995 MACT standards were first promulgated. This is in
+keeping with the statute and is otherwise reasonable. To do otherwise would be to invite the illegal
+“MACT on MACT” approach, under which the MACT floor would be calculated based on emission
+levels achieved acer implementaJon of the 1995 MACT standards.
+However, we noted that EPA’s efforts here were incomplete. While EPA considered the impact of
+changes in installed air polluJon control devices (“APCD”), it relied on li`le to no actual data from
+1990-1995. As such, the EPA’s Proposal did not account for operaJonal changes and APCD
+improvements made in direct response to the 1995 MACT standards and failed to adequately
+capture the variability of the MSW feedstock both temporally and geographically. In pracJce, the
+EPA assumed the exact same efficiency of an APCD device in 1990-1995 as it did for 2000-2008. A
+comparison of the available 1990-1995 data to EPA’s 2000-2008 data clearly shows otherwise. As a
+result, the Proposal is overly stringent to the point of not being achievable. In fact, EPA’s proposal
+reduces emission limits for exisJng MWCs up to 85% below those of a brand new WTE unit that
+were recently developed, proposed, reviewed, and ulJmately permi`ed consistent with EPA
+prescribed procedures for determining Best Available Control Technology (“BACT”).
+Last year, the WTEA and its members were able to locate 1990-1995 data for 28 LMWC faciliJes
+that it provided as part of our comments. With the EPA’s decision this year to reopen the docket,
+we have been able to gather addiJonal 1990-1995 stack test data for 36 more faciliJes,
+represenJng 2,840 data points from the 64 faciliJes, roughly 53% of the total data theoreJcally
+available for the LMWC units operaJng in 1990-1995. This has been an exhausJve effort, focusing
+on obtaining as much 3rd party data as possible, pulling from facility and state records alike,
+without any bias in unit or facility selecJon.
+While we do not think that the available data is sufficient by itself to fully characterize the
+performance of all units as is necessary to evaluate MACT floors, it is imperaJve that this data fully
+inform the process to evaluate MACT floors. As described in more detail below, we propose that
+the EPA directly use actual 1990-1995 stack test data where available, and then augment this data
+with an adjustment to its proposed back-calculaJon approach to adjust 2000-2008 data to reflect
+actual performance levels in 1990-1995.
+5600 Connec*cut Ave., NW
+202-244-2114 www.wte.org
+Washington, DC 20015
+- 3 -
+The lack of 1990-1995 data has also proven to be a challenge for the EPA’s process in seeng
+emission guidelines for pollutants measured with conJnuous emissions monitoring systems
+(“CEMS”), including sulfur dioxide (“SO ) and carbon monoxide (“CO”). Instead of using its own
+2“
+established methodology, the EPA used the average of the highest annual maximum reported
+values required under 40 CFR Subpart Eb/Cb reporJng standards to calculate the MACT floors for
+pollutants measured via CEMS. Using a straight average of maximum values did not even account
+for the variability shown in the reported maximum annual values. Further, this approach does not
+fully account for emissions and waste stream variability nor variability in combustor and APCD
+operaJon. In its place, we recommend that the EPA assess variability of current emissions as a
+highly conservaJve esJmate of performance during 1990-1995. In the absence of any actual CEMS
+data from 1990-1995, we believe this is the most technically jusJfiable approach possible.
+Following the recalculaJon of the emissions limitaJon achieved in pracJce by the best performing
+units reflecJng the top 12 percent of units for emission guidelines and the top single unit for New
+Source Performance Standards (“NSPS”), EPA should use its discreJon to set limits no lower than
+those set through the most recent BACT determinaJon. For purposes of this rulemaking, the most
+recent BACT determinaJon represents an emission limitaJon that would result in the level of
+emissions achieved by the best controlled similar unit when considering various necessary factors,
+including variability in the waste stream. Therefore, EPA may properly consider the most recent
+BACT determinaJon for a LMWC as equal to or exceeding the level of control that would be
+required pursuant to CAA secJon 129(a)(5).
+In addiJon to the specific issues idenJfied above, we would like to call a`enJon to the following
+acJons the EPA must take, as previously outlined in our March 25, 2024 comments and
+summarized further in these comments, in order to promulgate legally defensible standards in
+accordance with Clean Air Act (“CAA”) §129:
+• Revise the proposed CO emission guideline for refuse derived fuel (“RDF”) units in
+recogniJon of their different combusJon technology.
+• Retain the current 95% annual availability requirement given the una`ainable proposed
+100% availability requirements for ConJnuous Emissions Monitoring Systems (“CEMS”).
+• Include needed flexibility for compliance with emissions during Warmup / Startup /
+Shutdown and MalfuncJon periods by revising the CEMS based emission limit averaging
+Jmes to 30-day rolling averages consistent with precedent set in the CISWI, MATS, and
+Boiler NESHAP MACT standards, including reporJng pollutant concentraJons at actual O
+2
+levels and not correcJng to 7%O to account for high excess air levels during such transiJon
+2
+periods.
+• Conduct a proper Regulatory Impact Analysis (“RIA”) that is based on the WTE industry and
+not derived from the pulp and paper industry. The EPA’s reliance on a surrogate modeling
+analysis introduces substanJal inaccuracies and uncertainJes because emissions, plant
+locaJons, stack configuraJons and dispersion pa`erns for the pulp and paper plants are
+significantly different than for LMWCs. The EPA also failed to discuss basic uncertainJes in
+the BenMAP methodology regarding dose-response assessment calling into quesJon the
+RIA’s esJmates of health benefits.
+5600 Connec*cut Ave., NW
+202-244-2114 www.wte.org
+Washington, DC 20015
+- 4 -
+We are eager to work with the EPA to ensure that its final regulaJon is environmentally and legally
+sound and that the standards the Agency establishes are achievable in pracJce and appropriately
+reflect the major emissions-performance progress that the WTE sector has achieved over the last
+generaJon.
+Please do not hesitate to contact us if we can be of any assistance to you and your staff as you
+work to finalize this proposal.
+Sincerely yours,
+Thomas P. Hogan
+President
+Waste-To-Energy AssociaJon
+AIachments:
+A: Detailed Comments from WTEA
+B: List of LMWC FaciliJes with 1990-1995 Data
+C: 1990-1995 Emissions Data
+D: Methodology for Data AggregaJon and RecalculaJon of Upper PredicJon Limits (UPLs)
+E: Recalculated UPL Spreadsheet
+5600 Connec*cut Ave., NW
+202-244-2114 www.wte.org
+Washington, DC 20015

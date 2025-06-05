@@ -1,0 +1,63 @@
+**Alaska Airmen's Association Advocates for Privacy in Aircraft Registration Data**
+
+The Alaska Airmen’s Association recently submitted a letter to the U.S. Department of Transportation, articulating concerns over the public dissemination of certain aircraft registration information. The group, which represents over 2,000 members, emphasizes the vital role of privacy in enhancing safety within the aviation industry.
+
+Adam White, representing the organization’s Government Affairs division, expressed gratitude for the opportunity to convey the association's viewpoint. "While we acknowledge that there may be legitimate needs for specific individuals and entities outside of the FAA to have access to the personal information included in the registry, we do not believe it is appropriate for this information to be made publicly available," he stated. The association advocates for procedures allowing legitimate access while ensuring personal identifying details remain confidential.
+
+White highlighted a pressing safety concern associated with the accessibility of aircraft owners' information. He stated, "ADS-B out enhances aviation safety," referencing Automatic Dependent Surveillance-Broadcast technology. He noted that Alaska's rate of ADS-B equipage is significantly lower than the national average due to privacy apprehensions among aircraft owners. "The primary and most vocal reason given by our membership and other aircraft owners and operators in Alaska for not equipping is personal privacy," White explained.
+
+Concerns were raised about the ease with which personal information can be linked to ADS-B data through publicly available tracking websites, increasing the potential for privacy violations. White compared the implications of tracking large commercial flights to those of smaller, personally owned aircraft, emphasizing, "Watching a transoceanic or transcontinental airline flight on a flight tracking website has different privacy implications than tracking a personally owned small aircraft used for business or pleasure."
+
+The letter also addressed the upcoming expansion of Anchorage Class C airspace set for the first quarter of 2027, which may heighten safety risks for unregistered aircraft flyers in the area. White warned that the expansion could lead those without ADS-B equipment to fly in more dangerous conditions. "This degradation of safety is directly tied to the privacy concerns of our membership," he noted.
+
+The letter was sent on June 3, 2025, to Docket Operations, M-30, at the U.S. Department of Transportation. The correspondence represents the collective voices of the Alaska Airmen’s Association, advocating for necessary changes in aircraft registration information access and privacy safeguards.
+
+
+----------------INPUT:----------------
+
+ June 03, 2025
+Docket Operations, M-30
+U.S. Department of Transportation (DOT)
+1200 New Jersey Avenue SE,
+Room W12-140, West Building Ground Floor
+Washington, DC 20590-0001
+RE: FAA-2025-0638 WITHHOLDING CERTAIN AIRCRAFT REGISTRATION
+INFORMATION FROM PUBLIC DISSEMINATION
+The Alaska Airmen’s Association is a not-for-profit General Aviation (GA) organization that represents over 2000
+members. Our mission is to “Promote, Protect, and Preserve General Aviation in Alaska." Membership includes
+pilots, mechanics, aircraft owners, and other aviation enthusiasts. On behalf of our membership, thank you for the
+opportunity to submit the following written comments concerning the withholding of certain aircraft registration
+information from public dissemination.
+While we acknowledge that there may be legitimate needs for specific individuals and entities outside of the FAA
+to have access to the personal information included in the registry, we do not believe it is appropriate for this
+information to be made publicly available. Therefore, we encourage the FAA to develop procedures and avenues
+for vetted and legitimate access to the personal identifying information included in the aircraft registry database
+and to, by default, remove that information for the public side of the registry. Aircraft owners should not have to
+opt out; it should happen by default.
+The Alaska Airmen’s Association strongly believes that a negative safety concern exists regarding the public
+accessibility of aircraft owners' personal information. It is widely accepted that Automatic Dependent
+Surveillance-Broadcast Out (ADS-B out) enhances aviation safety. The rate of ADS-B equipage in Alaska is
+considerably below the national average; some estimates by the FAA place it at one-third of the rate found in the
+rest of the United States. While the cost of equipping with ADS-B is often cited as a reason for the lack of
+participation, the primary and most vocal reason given by our membership and other aircraft owners and
+operators in Alaska for not equipping is personal privacy.
+ADS-B data is too easily tied to personal information through free public aircraft tracking websites that are then
+tied to the FAA’s Aircraft Registry, where the name and address of the owner are too easily obtained. Watching a
+transoceanic or transcontinental airline flight on a flight tracking website has different privacy implications than
+tracking a personally owned small aircraft used for business or pleasure. While there are some procedures in place
+to make it more difficult to tie an ADS-B target to a specific aircraft registration, it is still too easy to get personal
+information when the correlation has been made.
+With the planned expansion of Anchorage Class C airspace in the first quarter of 2027, the ADS-B mandated
+airspace in Alaska will significantly grow. Non-equipped users in the area of the expanded Class C airspace face a
+greater risk of mid-air collision and increased chances of controlled flight into terrain (CFIT) because they will be
+prohibited from entering Class C airspace and will be compelled to fly beneath it to access the two largest GA
+airports in Alaska, Lake Hood, and Merrill Field. This degradation of safety is directly tied to the privacy
+concerns of our membership.
+Sincerely,
+Adam White
+Government Affairs,
+Alaska Airmen’s Association
+4200 Floatplane Drive, Anchorage, AK 99502 907-245-1251 adam.white@alaskaairmen.org
+
+
+Originial Link: https://www.regulations.gov/comment/FAA-2025-0638-0596

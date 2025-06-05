@@ -1,23 +1,23 @@
-**Florida Department of Revenue Urges FAA to Protect Tax Compliance in Proposed Data Restrictions**
+**Florida Department of Revenue Urges FAA to Reconsider Privacy Proposal for Aircraft Registration Data**
 
-The Florida Department of Revenue recently submitted a letter to the Federal Aviation Administration regarding the proposed changes to withhold certain aircraft registration information from public dissemination. The changes stem from the FAA's commitment to protecting the personally identifiable information of private aircraft owners.
+In a recent letter to the Federal Aviation Administration, the Florida Department of Revenue expressed concerns regarding a proposed change that would allow private aircraft owners to withhold certain registration information from public access. The department's comments come in response to a Federal Register notice published on April 3, 2025, extending the comment period to June 4, 2025.
 
-Beth Baker, revenue program administrator II at the Florida Department of Revenue, expressed support for the FAA's focus on privacy protections. "This initiative aligns with broader societal demands for robust data protection and deserves commendation," said Baker. However, she also highlighted a critical concern, emphasizing that the proposal could severely impact the agency’s ability to maintain tax compliance.
+Beth Baker, revenue program administrator II at the Florida Department of Revenue, stated, "The FAA’s commitment to protecting the personally identifiable information of private aircraft owners is commendable. However, we must highlight the negative impact this proposal could have on our ability to enforce tax compliance." The department relies heavily on publicly accessible aircraft registration data to monitor ownership changes that indicate aircraft sales subject to Florida sales tax.
 
-"The inability to track aircraft sales could result in millions of dollars in uncollected sales tax, depriving Florida of critical funds for public services such as education, infrastructure, and healthcare," Baker stated. She warned that non-compliant taxpayers could exploit this lack of data, creating an "uneven playing field" that undermines tax equity.
+The letter outlined several issues that could arise if the proposal moves forward. Baker noted the potential for "substantial revenue losses," indicating that the inability to track aircraft sales could result in millions of dollars in uncollected sales tax. She emphasized, "Without access to this information, the state faces unfair competition and inequity as non-compliant taxpayers could exploit the lack of data, undermining the principle of tax equity."
 
-The proposed restrictions pose a threat to the state’s revenue, with Baker noting that aircraft sales represent significant taxable events. She stated, "Restricting access to this data would not only hamper enforcement but also create opportunities for tax evasion, directly contradicting the principles of fairness that underpin Florida’s tax policies."
+Furthermore, Baker warned of the erosion of public trust stating, "A tax system that fails to enforce compliance equitably risks losing public confidence." The department characterized aircraft sales as significant taxable events and argued that proper taxation of these transactions is crucial for maintaining a fair tax system.
 
-To mitigate these issues, the Florida Department of Revenue put forth several proposed solutions. Among them is the establishment of a secure data access portal for verified state agencies to access aircraft registration data while protecting personal information from public access. Data-sharing agreements and stakeholder engagement were also suggested to balance privacy and regulatory needs effectively.
+In response to the proposed changes, the department suggested solutions to balance privacy concerns with tax enforcement needs. These included establishing a secure data access portal for verified state agencies, creating data-sharing agreements with strict safeguards, and allowing owners to opt-in to share information for regulatory purposes.
 
-Baker acknowledged the conflicting interests at play, noting, "The FAA’s call for comments, with 331 submissions received by May 5, 2025, underscores the complexity of balancing privacy with regulatory needs." 
+The letter concluded with a call for stakeholder engagement, indicating that further discussions with state tax authorities are necessary to address both the privacy and operational requirements of agencies like the Florida Department of Revenue. 
 
-The Florida Department of Revenue is determined to ensure fairness in the tax system amidst these changes. Baker concluded, "FDOR strongly encourages the FAA to prioritize solutions that support both privacy and regulatory fairness."
-
-The letter was sent to the Federal Aviation Administration on April 3, 2025, and is part of the ongoing discussion regarding the proposed data changes.
+This letter was sent to the FAA and recipients included Beth Baker, along with other stakeholders involved in the ongoing discussion about aircraft registration data.
 
 
-INPUT: To: Federal Aviation Administration
+----------------INPUT:----------------
+
+ To: Federal Aviation Administration
 Re: Request for Comment to Withhold Certain Aircraft Registration Information From Public
 Dissemination – Docket FAA-2025-0638
 Please find the following comments below from the Florida Department of Revenue regarding

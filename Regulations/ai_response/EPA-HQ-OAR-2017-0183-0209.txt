@@ -1,0 +1,576 @@
+**Federal Agency Receives Letter on Updated Emission Estimates for Municipal Waste Combustors**
+
+In a recent letter addressed to the U.S. Environmental Protection Agency, Bradley W. Nelson from the Eastern Research Group has submitted national emission estimates for Municipal Waste Combustors (MWCs) that provide a detailed analysis of air pollutants over a fifteen-year period. The update aims to enhance the accuracy of dioxin and mercury emission estimates by incorporating new test data.
+
+Nelson stated, "This memorandum updates the 1996 national emission estimates for dioxins and mercury by including additional test data in the calculations and expanding the estimated emissions to eight pollutants." Those pollutants now include lead, cadmium, hydrochloric acid, particulate matter, sulfur dioxide, and nitrogen oxides.
+
+The memorandum outlines a timeline extending the original estimates from the years 1990 to 2000 to now encompass 1990 to 2005, aligning with significant compliance deadlines for large and small MWC facilities. According to the report, emissions have decreased notably since 1990, primarily attributed to retrofitting air pollution control devices, closing down several existing units, and initiatives to minimize dioxin and mercury emissions.
+
+The report also highlights that between 1990 and 2005, there has been a significant reduction in emissions of various pollutants. For instance, the estimated dioxin emissions are projected to decrease by 99 percent by 2000 and 2005. Other pollutants, such as cadmium and lead, are expected to see reductions of 78 and 94 percent, respectively.
+
+Nelson provided further insights into the methodology of emissions calculations, indicating that they were based on existing state and federal agency inventories as well as current stack test data. He emphasized the reliance on robust data to ensure transparency and reliability in emissions reporting.
+
+The letter, which carries the signatures of other key stakeholders including J. Tucker from the Eastern Research Group and D. Blevington from Radian Corporation, was submitted to the environmental agency on September 30, 1999. The detailed findings and recommendations within are anticipated to inform future regulatory measures regarding municipal waste combustion units.
+
+
+----------------INPUT:----------------
+
+ A-90-45
+VIII-B-I
+c *
+et'
+\ i
+NEMORANDUM
+I
+TO: Walt Stevenson, EPNCombustion Group 1
+i1 -"
+I
+! c.3 <E!'
+FROM: Bradley W. Nelson, Eastern Research Group L----- L - ­ ?I-,# \ yvv
+--------\
+DATE: September 30, 1999
+SUBJECT: Summary of the IYational Emission Estimates for Municipal Waste Combustion
+Units
+1.0 BACKGROUND
+The purpose of this memorandum is to present national emission estimates for Municipal
+Waste Combustor (MWC) units. The estimated emissions include both large MWC units
+regulated under 40 CFR part 60, subpart Cb (greater than 250 tons per day capacity) and small
+MWC units regulated under 40 CFR part 60, subpart BBBB (35 to 250 tons per day capacity).
+This memorandum updates the 1996 national emission estimates for dlioxins' and mercury by
+including additional test data in the calculations and expanding the estimated emissions to eight
+pollutants. The additional pollutant emissions that were estimated are lead (Pb), cadmium (Cd),
+hydrochloric acid (HCl), particulate matter (PM), sulfur dioxide (S02), and nitrogen oxides
+(NO,). Additionally, the time range of the emission estimates has been expanded from 10 years
+(1990-2000) to 15 years (1990-2005). This expanded time range addresses the regulatory
+compliance dates for both large MWC units (2000) and small MWC units (2005). The emission
+estimates in this memorandum include the most current available information and are considered
+to be more accurate than the earlier estimates.
+Emissions were calculated for the years 1990, 1993, 1996, 1999,2000 (large MWC unit
+compliance), and 2005 (expected small MWC unit compliance) using currently available test
+data and emission factors. For large MWC units, the compliance dates used in the emission
+estimates reflect actual retrofit dates and include staggered retrofit dates for MWC facilities with
+multiple MWC units, where appropriate. For estimating emissions of small MWC units, this
+memorandum assumes promulgation of the small MWC unit emission guidelines to occur in the
+I
+1
+klkK:\8597\28\18\EMISS-MW.MEM
+year 2000 with a 5-year comp1ia:nce schedule for all of the small MWC units. However,
+compliance could be earlier or later, based on the final promulgation schedule and individual
+source compliance schedules. Inventories of MWC units were obtained from existing inventory
+memoranda for both large and small MWC units. These inventories were then updated to
+include the most current status information for MWC units, including recent information on
+MWC unit closures and control device retrofits.
+2.0 RESULTS
+From the 1995 inventory of MWC units3, a database of large and small MWC units was
+developed for the years of 1990,,1993, 1996, 1999, 2000, and 2005. A, summary of the inventory
+for large and small MWC units and total capacity is presented in table 1. A graphical
+representation of capacity for large and small MWC units is shown in figure 1. It is assumed the
+number and total capacity of MWC.units would be the same in 2005 as it is in 2000. For the
+years 1990 to 1993, the number of facilities and units decreased, but the total combustion
+capacity increased. This is due to the fact that, 41 units (2 large, 39 small) with a total
+combustion capacity of 5,653 tons per day closed, and 38 units (35 large, 3 small) with a total
+combustion capacity of 17,055 opened. Since 1993, both the number of units and capacity have
+decreased.
+Table 1. Summary of the number of MWC Facilities, Units,
+and Total Combustion Capacity
+Total Combustion
+Number of MWC Number of MWC Capacity
+Year Facilities Units (tons per day)
+1990 126 302 93,274
+1993 125 299 - 104,676
+1996 123 286 103,335
+1999 108 259 100,102
+2000 106 256 99,082
+2005 106 256 99,082
+Using these inventories, emissions were calculated for eight pollutants using currently available
+test data and AP-42 emission factors. A summary of the emission estimates for the eight
+pollutants for the years 1990, 1993, 1996, 1999, 2000, and 2005 is presented in table 2.
+2
+Table 2. Summary of Emissions from MWC Units
+1 TEQ dioxin emissions based on 1989 NATO Toxic Equivalency Factors.
+g/yr = grams per year
+TPY = tons per year
+A graphical representation of the eight pollutant emissions for the above years is shown
+in figures 2 through 10. These emissions estimates include both large lMWC units (greater than
+250 tons per day) and small MWC units (35 to 250 tons per day). The emission results show that
+substantial reductions in MWC unit emissions have occurred since 1990 and additional
+reductions are projected in futurle years. These emission reductions are a result of (1) retrofit of
+air pollution control devices (AE’CD) on existing MWC units, (2)retirement of several existing
+MWC units, and (3) special actilons, most notably EPA’s dioxin initiative and the voluntary
+mercury reduction by battery manufacturers. A summary of the percent reductions achieved by
+the years 2000 (large MWC unit compliance) and 2005 (small MWC unit compliance) for the
+eight pollutant emissions is given in table 3.
+Table 3. Summary of Percent Reductions for the Years 2000 and 2005
+1990 Emissions (tons Percent Reduction by Percent Reduction by
+Pollutant per year) 2000 2005
++
+Dioxin* (g/yr, TEQ) 4,170 99 99
+I I I
+Cadmium 8.59 68 78
+I I I
+Lead 148 77 94
+51.2 88 92
+16,900 71 94
+3
+klk\K.\S597\28\18\EMISS-MW.MEM
+Table 3. Summary of Percent Reductions for the Years 2000 and 2005
+(Continued)
+I
+1990 Emissions (tons Percent Reduction b:y Percent Reduction by
+Pollutant per year) 2000 2005
+I I I I I
+HC1 51,900 88 95
+so2 34,500 72 77
+_NO, 58,500 24 26
+*The 1990 dioxin emission is presented on a g/yr, TEQ basis, all other emission reductions in TPY.
+Emissions for small MWC units were calculated assuming all existing small MWC units
+will retrofit APCD equipment based on the requirements in the August 30, 1999 proposed
+emission guidelines for small M:WC units (see 64 FR 47234). A summary of the estimated
+emissions reductions achieved for (1) large MWC units and (2) small MWC units is presented in
+table 4.
+Table 4. Summary of Emissions Reductions Achieved for Large and
+Small MWC Units
+TEQ dioxin emissions based on 1989 NATO Toxic Equivalency Factors.
+2 Emissions reductions achieved by large MWC units complying with Subpart Cb relative to
+1990 baseline emissions.
+3 Emissions reductions achieved by small MWC units complying with Subpart BBBB relative
+to 1990 baseline emissions.
+glyr = grams per year
+TPY = tons per year
+4
+klk\K:\8597\28\1BEMISS-MW.MEM
+' I . * ,
+3.0 CALCULATIONS
+National MWC unit emissions calculations are a function of three variables: (1) national
+MWC unit inventory, (2) emission factors, and (3) APCD retrofit or closure schedule. The
+inventory for large and small MWC units was obtained from the 1995 inventory of MWC units3.
+The inventory for small MWC units was updated using the 1998 Economic Impacts Analysis
+inventory4. The inventories were updated using current information from State and Federal
+agencies. Facility closures were obtained from State and Federal agency information. From
+these sources the number of active MWC units and the number of closures in each year of
+interest could be determined. Plant-specific stack test data were used where available and
+emission factors were obtained from AP-42 if stack test data were not available5. Additional
+emission factors were developed for units with carbon injection using data obtained from five
+MWC plants with spray dryerlfaibric filterjcarbon injection/select non-catalytic reduction air
+pollution control technologies6. For large MWC units, the retrofit sch!eduleswere obtained from
+the FederaVState plan7 For small MWC units, the expected schedule under the proposed subpart
+BBBB was used to determine when APCD retrofits would occur.
+To determine annual national emissions for the eight pollutants, emissions were
+calculated for each individual MWC unit. The emissions from individual units were then
+summed to give an annual national emission rate. The calculation of individual MWC unit
+emissions was conducted using plant-specific information such as rated unit capacity, unit
+capacity factor, type of combustor, and type of APCD. If plant-specific stack test data were
+available, the data were used to calculate emissions for the MWC units. If plant-specific data
+were not available, the appropriate emission factor for the type of MWC unit was used. Sources
+of test data include the national dioxin' and mercury2reports, the five plant study6,and plant-
+specific test reports.
+The following equation was used to convert pollutant stack concentrations or emission
+factors to tons per year (tons/yr) emitted:
+PE = C * V*T* CF *365* 1.1
+Where:
+PE = Pollutant emissions (tons/yr);
+C = Flue gas concentration or emission.factor (Mg/dscm @ 7% 02);
+V = Volumetric flow factor (dscm @ 7% 02/ton of waste fired);
+5
+klk\K:\8597\28\1 S\EMISS-MW.MEM
+T = MWC unit capacity (tondday);
+CF = Capacity factor (dimensionless);
+365 days/yr; and
+1.1 tons/Mg.
+The volumetric flow factor (V) is calculated as follows:
+Fd*HV*2000 20.9
+v= *
+35.31 *lo6 (20.9-7)
+Where:
+Fd = Fuel factor (9,570 dscf @ 0% O$MMBtu);
+HV = Heating value (4,500Btu/lb for MSW and 5,500 Btu/lb for RDF);
+35.3 1 dscf/dscm; and
+106 Btu/MMBtu.
+The volume flow factor (V) for RDF MWC units is;
+9,570 *5,500*2000 * 20.9
+V=
+35.31 * lo6 (20.9-7)
+V = 4,457 dscm @ 7% 02/ ton RDF.
+The volume flow factor (V) for non-RDF MWC units is;
+V=
+9,570*4,500*2000
+*
+20.9
+35.31 *lo6 (20.9-7)
+V = 3,670 dscm @ 7% 02/ ton MSW
+4.0 REFERENCES
+1. U. S. Environmental Protection Agency. National Dioxin Emission Estimates from
+Municipal Waste Combustors. A-90-45: VII-A-2. June 1996.
+6
+klk\K\8597\28\18EMISS-MW.MEM
+2. U. S. Environmental Prot.ectionAgency. National Mercury Emission Estimates for
+Municipal Waste Combustors. A-90-45: VU-A-1. October 1996.
+3. Memorandum from D. Blevington, Radian Corporation to Walt Stevenson, U. S.
+Environmental Protection Agency. Municipal Waste Combustor Inventory Database.
+.March 1, 1995.
+4. Memorandum from J. Tucker, Eastern Research Group to Walt Stevenson,
+U.S. Environmental Protiection Agency. Economic Impact Analysis - 1998 Inventory of
+Small MWC Units. March 31, 1999.
+5. U. S. Environmental Protection Agency. Compilation of Air Pollution Emission Factors
+AP-42, Fifth Edition, Vo81ume1: Stationary Point and Area Sources. February 1996.
+6. Memorandum from J. Tucker, Eastern Research Group to Walt Stevenson, U. S.
+Environmental Protection Agency. Long Term Performance of SD/FF/CI/SNCR Air
+Pollution Control Systems for 5 MWC Plants. September 1999.
+7. U.S. Environmental Protection Agency. Federal Plan Requirernents for Large Municipal
+Waste Combustors Constructed on or Before September 20, 19194. Federal Register
+Vol. 63, No. 218, pg. 63191-63209. November 12, 1998.
+7
+Wku(.\8597\28\ 18EMISS-MW.MEM
+'c
+0
+-
+(13
+.S-
+0
+CI
+(13
+Z
+L
+I I I I I
+4 1
+0
+-
+s lon
+0
+‘ c u
+.U-
+to
+to
+ca
+m
+CI
+7
+u1
+I­ . . . . .. . .. . . . . . . .. . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . .
+.. . . . . . . . . . .. . . . . .. . . . .. . . . . . . . . . . . . . .. . . . . .. . . ... . . . . . . . .. . . .. . . . .. .. . .. . . . . 0 a a , , ,
+.......
+smL
+7
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . .. . . . . . . . . . . .. . . . . . . .. . . . . . . . . . . .. . . . . .. .. . . . . . . .. . . . . a c a 7 o 3 ,
+I C : . r , ,. . - . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . _ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . 2 . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . .. . .. . . . . . . .. . . . . . . . . . ... . . . . . .. . . . . . . . . . ... . . . . . .. . . . . . . . . . . .. . . . . . .. . . . . . . . . . . .. . . . . . .. . . . . . . . . . . .. . . . . . .. . . . . . . . . . . .. . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . .. . . . . . . . . . . . m aQ,,
+I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . I . . . . . . .. . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . i - . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . .. . . . . . . . . . . :. . . .. . ... . . .. . . . . . . . . : .. . .. . .. . . .. . . . . . . . . . : .. . . . . .. . . . . . . . . . . :. . . . . . .. . . . . . . . . . . :. . . . . . .. . . . . . . . . . . .: . . . . . .. . . . . . . . . . . .: . . . . . .. . . . . . . . . . . .: . .. . . .. . . . . . . . . . . . : . .. . . . . . . . . . . . . . . . . : .. . . . . . . . . . . . . . . . : . . . . . . . . . . . . . . . . . . . . . . . .1 . . . . . . . . . . . . . : . . . . . . . : . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . : . . . . . . . . . . . . . . . . . . . . : . . . . . . . . . .. . . . . . . . : . . . . .. .. . .. . . . . . . . . . : . . . . . . . .. . . . . . . . . .. :. . . .. . .. . . . . . . . . .. :. . . . . . . .. . . . . . . . . . : . . . . . . . .. . . . . . . . . : . . . . . . . .. .. . . . . . . . : . . . . . . . . . .. . . . . . . . : . . . . . . . . . .. . . . . . . . . . . :. . . . . . . . . . . . . . . .: . . . . . . . . . . . . . . . . . . . . :. . . . . . . . . . . .. . . . . . .:. .. . . . . . . . .. . . . . . . .: .. . . . . . . . .. . . . . . . . . : . . . . . . . . . . . . . . . . . .. :. . . .. . . . . . . . . . . . .. :. . . .. . . . . . . . . . . . .. . .: . . . . . . . . . . . . . . .. . . . . : . . . . . . . . . . ... . . . . . . : . . . . . . . . . ... . . . . . . . . . : . . . . . . ... . . .. . . .. . : . . . . . . .. . . . . . . .. . . : . . . . . . .. . . . . . . ... : . . . . . . . . . . . . . . ... . . : . . . . . . . .. .. . ... . . . : . . . . . . . .. . . ... . . . : . . . . . . . .. . . . .. . . . . .: . . . . . . . . . . .. . . . . . . : . . . . . . .. . . .. . . . . . .. . :. . .. .. . . . . . . . . . . . . :. . .. .. . . . . . . . . . . . . :. . . .. . . . .. . . . . . . . : . . . . .. . . . . . . . . . . . . :. .. . .. . . .. . . . . . . . . .: .. . .. . . .. . . . . . . . . .: .. . .. . . .. . . . . . . . . .: .. . . . . . .. . . . . . . . . .: . . . . . . . ... . . . . . . . .: . . . . . . . . .. .. . . . . . . : . . . . . . . . .. .. . .. . .: . .. . . . . . . .. .. . .. . . . . : . . . . . . . .. .. . .. . . . . : . .. . . . . .. .. .. . . . : .. . . . . . . . . : . . . . : . . . : ... 0 c Q 7 n )
+I I
+0 0 0 0 0 0 0 0 ’ 0 0 0 0 0 0 0 0 0 0 In 0
+u Q , - 0 Q- - a m - 0 m - u rn - 0 rn - u T ), - 0 x- -
+7
+0
+co
+.........................
+[I
+0 :::::::I::
+m 7 a) - :.I.:.:.: : .. ..: .. .. : : .. .. : : .. .. I > .. . : : .
+-
+. . . . . . . . .- . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . .. . . . . . . . .. . . .. . . . . . .. . . . . . . . .. . .. . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . .. ... . . . . . . . . .. . . . . . . . . .. . . .. . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . .. . . . . .. . . . . . . . . . . . . .. . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+I I
+. . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . .. .. . . . . . . .. . . . . . . . . .. . .. . . . . . .. . . . . . . . . .. . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+0 0 0 0 0
+0 0 0 0
+8 0- 0- 9
+0 0 0
+0 ln 0 ln
+cv 7 7
+E
+.-
+3
+E
+73
+4
+d
+E
+7
+.-
+v)
+L
+...............*..-.;... ........................................I.........................................................................................................................................................................
+... . . ..... . .. .. ... . ... ... . .. .. . .. . . .. . .. . .... . .. . . .. . ... . ... . ... ... . ... . .... . .. ..... . . ..... . .. .. ... . .. .. .. . ... .. .. . .. .. .. . ..... ... . ... ... . .... ... . ... . .. . ... . . ... . .. ... . .. . ... .. . .... . . .... . .. .. ... . ...... ... . .. .. . .... . .... . ... . . ... . ... . .. .. . .... .. .... . .. . .. ... . .. . . . ... . .. . ... .. . .... ..... . ... ... . ... .. .. . ..... ... . .. .. ... . .. . . .. . .... ... . .. . . . .. . .. .. . .. . .. .. ... . .. .. ... . .. . . ... . .. .. . .. . . . .. . .... ... . . .. . ... . . .. . ... .... . .. . .. .. . .. . . . .. . .. . . ... . .. . . .. . ... .. .. . ... .... . ... ..... . . .. ... . .... ... . .. . . . .. . .. . . . . . ... .. .. . ... .. ... . .. . . ... . .. . . .. . .. . ... . ... . .. . . . . ... . . . . . . . . . . . . . . :... . :. . .. . .: ...: .: .......... 0 ­
+cd .....>......................................................................................................................................................................................................................................
+........................................................................................................................................................................................................................................................................................................................ .... Q)
+............................................................................................................................................................. .
+8 r z 2 2 2 2 : 9 9 9 8
+m N T-
+F­
+(Adl) suo!ss!urq lunpupe3 40 uns
+..............
+..........
+Y 2 .:>.I.:..:;:.;<.:;.:I . I 0 n
+......... 0
+..... N
+II
+. r . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . .. . . . . . . .. . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 0 0 0 N
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . .. .. . . . .. . . . . . . . . . . . .. .. . . . .. . . . . . . . . . . .. . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . m a Q r' )
+I I
+. ... ... ... ... ... ... ... ... ... ... ..... ... . I.. ... ... ... ... ... ... ... ... ... ... . . I I
+.
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+.... .... .... .... .... .... .... ...
+.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .. . . . . . . . . . . . .. . . . . . . . . . . . .. . . . . . . . . . . . .. . .. . . . . . . . . .. . .. . . . . . . . . .. . . . . . . . . . . . .. . . .. . . . . . . . .. . . .. . . . . . . . .. . . . . . . . . . . . . .
+I I
+I
+I
+0 0
+cu
+7'
+-~
+3 . . . . . . . . .. . .. . .. . .. . .. . .. . .. ... . .
+:::i:i<:i: In
+........... 0
+0
+p d:.:.:.:.:..I . . .. . . .. . . ." . . . .. . . .. . .
+. .. . . . .. . .. .. . .. .. . .. .. . .. .. . .. .. . .. .. . .. ... .
+. . . . . . . .. .. . .. .. . .. .. . . . .. . . . .. . . . .. .. ..... .. cv
+SF
+. . . . . . .. . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . ... . . . . . . ... . . . ..
+..................
+T : . . .. . : . . .. . : . . .. . : . . .. . : . . ..: .. . . .: .. . . .: .. . . .:. ... . .
+4
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ­ . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . a Q 0 y ) ,
+-
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . .. . ­ . . . . . . . . . . . . . . .. . .. . . . . . . . . . . . . . . . . . . .
+--
+c T In u - . . . . . . . . -. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . .. . . .
+4
+--
+.........................
+g ::;:;<:::
+Ln
+0
+0- 5:::::::: 0
+7
+.. ..:.
+.
+..:.
+.
+..:. ....I ...: N
+t
+.
+.
+. . . . . . . .
+..
+. . . . . . . . . .
+.
+. . . . . . . .
+..
+. . . . . . . . .
+.
+. . . . . . . .
+..
+. . . . . . . . .
+.
+. . . . . . . .
+..
+. . . . . . . . .
+.
+. . . . . . . .
+..
+. . . . . . . . . .
+.
+. . . . . . .
+..
+. . . . . . . . . .
+.
+. . . . . . .
+..
+. . . . . . . . . . .
+.
+.. . . . .
+..
+. . . . . . . . . . . .
+.
+. . . . .
+..
+. . . . . . . . . . .
+.
+. . . . . 0 0 0 cu
+.v-)
+c,
+S
+3
+Y
+I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . .. . . . . .. . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . .. . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ... . . . . . . . . . .. . . . . . . . . . . . . .. . . . . .. .. . . m m 0 7 ,
+. . .. . . . . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. . .. ... .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. . . . . .. . . . . . . . . . . . . . . . . .. .. . . .. .. . . .. .. . . .. .. . .I . . .. . . .. .. . . .... . . .... . . . .. . . . . .. .. .. .. .. . . .
+. . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . .. . . . . . . . . . . c Qm 0. ,
+. . . . . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . ... . . . .. . . . . .. . . . . .. . . . . .. . . . . .. . . . . .. .. .. .. .. .. .. .. .. . . l­
+I
+I
+N c = c 7 ?­ o u I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . .. . . .. . . . . .
+- 3
+r . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . .i . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . .. . . . .. . . . . . . . . . .. . . .. . . . ... . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . .. . . . . . .. . . . . . . . . . . . .. . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . .. . . . .. . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . .. . . . . . . 0m 0 l­ ,
+I I
+II
+7
+. ....
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+...
+.
+..
+.:.:.:.:.:.:.:-:.: 0
+v) >.:..:..>..:..:..:..:.:. 0
+0- >:.>:.:.>:.:.> 0
+CL) :..:.:..:.I.:..:.:..:.:..:.:.:.:::::@J
+c
+4 .......................
+.. .. . . . .. . . . . . . .. .. .. . . . . .. ... . . . . . . .. . . . . . . .. . . .. .. .. . . .. ... ..... .. ... .. ... .. . .
+(D_ .....................
+'I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . .
+I I I
+-
+I
+I .
+0 0 0 0 CD - 0 0 9 0 m 0 0 0 0 d - 0 0 0 0 0 - 0 0 9 0 c\1 0 0 0 0 7 " 0
+....................................
+i
+I
+I L
+I
+.
+.
+...
+.
+.
+.
+.
+..
+...
+.
+.
+..
+...
+. .
+.
+.
+...
+. .
+.
+.
+...
+. .
+.
+.
+...
+. ..
+....
+. ..
+....
+. ..
+...
+.
+.
+..
+..
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+..
+.
+.
+..
+...
+..
+.
+.
+...
+..
+.
+.
+...
+..
+.
+.
+...
+..
+. ...
+..
+.. ...
+..
+.. ...
+..
+.. ...
+..
+.. ...
+.
+..
+.
+. .
+. . . . .. . .. . . .. . .. . . .. . .. . . .. . .. . . .. . .. . ... . .. . ... . .. . ... . .. . ... . .. . ... . .. . ... . .. . ... . .. . ... . .. . ... . .. . ... . .. . ... . .. . .. . . .. . .. . . .. . .. . . .. . .. . . .. . .. . . . . . 0 0 0 "
+........................................................................... .
+i
+I
+i
+I
+I
+I
+I
+"[
+0 o 2m- ? : . : : . : < : .. : : : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . .. . . . . . . . . . . . . .. . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . .. . . . . . . . . . . . . .. . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . .. . . . . . . .. . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . .. . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . C I ­ a Q s 3 ¶
+. 7 = l
+I C E. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . .. . . . . . .. . .. . . . . . . . . .. . . . . . .. . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . . ... . . . . . . . . . . . . . . . . . . .. . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . .. .. . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. .. .. .. . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. .. . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . .. . . . . . . . . . .. . .. . . . . .. . . . . . . . . . . . . .. . . . . .. . . . . . .. . . . . . . . . . . . .. . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . . .. . . . . . . . . . .. . . . . . . ... . . . . . . . . . .. . . . .. . ... . . . . . . . . . .. . . . .. . ... . . . .. . .. . .. . . . . . . ... . . . .. . .. . .. . . . . . . ... . . . . . . .. . .. . . . . .. .. . . . . . . . .. . .. . . . . .. .. .. . . . . .. .. .. . . . . .. .. .. . . . . .. .. . . . . . . .. .. .. . . . . .. .. . . . . . . .. .. .. . . . . .. .. . . . . . . .. ... . . . . . .. .. . . . . . . .. .. . . . .. . .. .. . . . . . .. .. . . .. . . .. . . .. . . . . 0 Q Q 7 , ,
+i
+. .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . ... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... . .... .
+................................................................................................................................................................................................................................................................................................................ ....
+a
+.......................................................................................................................................................................................................................................
+c13
+. . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. .. ... .. ... .. .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. . . . .. .. ... .. ... .. .. . . . CTJ
+..........................................................................................................................................................
+.............................................................................
+
+
+Originial Link: https://www.regulations.gov/comment/EPA-HQ-OAR-2017-0183-0209

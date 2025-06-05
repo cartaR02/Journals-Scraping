@@ -1,0 +1,44 @@
+**Air Line Pilots Association Backs New Airbus Safety Directive** 
+
+The Air Line Pilots Association (ALPA) has voiced strong support for a new airworthiness directive proposed by the U.S. Federal Aviation Administration concerning Airbus A318, A319, A320, and A321 series airplanes. This supportive stance was articulated in a letter submitted to the U.S. Department of Transportation's Docket Operations regarding Docket No. FAA-2025-0626.
+
+Yonas Aboye, a staff engineer in the Engineering & Air Safety Department, stated, “The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A318, A319, A320, and A321 series airplanes. This proposed AD was prompted by a heavy maintenance check that found elongation on the upper section of the vertical member's assembly at the frame (FR) 24A cargo panel sub-structure.” 
+
+The proposed directive aims to ensure the safety of these aircraft following maintenance checks that have identified critical concerns. Specifically, it will require operators to check for certain repairs, carry out repetitive detailed visual inspections of the vertical member's upper part and the upper fittings at FR 24A located in the forward cargo compartment, and implement corrective actions as necessary.
+
+Aboye further noted, “ALPA supports the subject proposed AD,” highlighting the organization's commitment to maintaining high safety standards in aviation. Representing over 79,000 airline pilots across 42 airlines in the U.S. and Canada, ALPA emphasizes the importance of safety measures that directly impact pilots and passengers alike.
+
+The letter to the federal agency was sent on June 5, 2025. It was penned by Yonas Aboye, and although it bears a single signature, the message reflects the collective safety interests of thousands of professional airline pilots backed by the association's robust infrastructure and commitment to aviation safety.
+
+
+----------------INPUT:----------------
+
+ June 5, 2025
+U.S. Department of Transportation
+Docket Operations, M-30
+West Building Ground Floor
+Room W12-140
+1200 New Jersey Avenue, SE
+Washington, DC 20590
+Subject: Docket No. FAA-2025-0626; Project Identifier MCAI-2024-00713-T
+Airworthiness Directives: Airbus Model A318, A319, A320, A321 series airplanes.
+IN SUPPORT
+Dear Sir or Madam:
+The Air Line Pilots Association (ALPA), representing the safety interests of more than 79,000
+professional airline pilots flying for 42 airlines in the United States and Canada, has reviewed the
+subject document.
+The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A318,
+A319, A320, and A321 series airplanes. This proposed AD was prompted by a heavy
+maintenance check that found elongation on the upper section of the vertical member's assembly
+at the frame (FR) 24A cargo panel sub-structure. This proposed AD would require a check for
+certain repairs, and as applicable, repetitive detailed visual inspections of the vertical member's
+upper part and the upper fittings at FR 24A in the forward cargo compartment and corrective
+actions. ALPA supports the subject proposed AD.
+ALPA appreciates the opportunity to comment.
+Sincerely,
+Yonas Aboye
+Staff Engineer
+Engineering & Air Safety Department
+
+
+Originial Link: https://www.regulations.gov/comment/FAA-2025-0626-0005

@@ -1,0 +1,315 @@
+**U.S. Environmental Protection Agency Receives Update on National Waste Combustion Inventory**
+
+The U.S. Environmental Protection Agency is currently reviewing an update to the national inventory of large municipal waste combustion (MWC) units conducted by Eastern Research Group, Inc. The findings from the year 2000 inventory reflect significant changes since the previous assessment in 1995.
+
+“This inventory is an important step in tracking compliance and emissions from large MWC units as mandated by the Clean Air Act,” said Jason Huckaby, a representative from Eastern Research Group. “In 2000, the large MWC category contained 167 units, which is a slight increase from the 164 units reported in 1995.”
+
+The updated inventory emphasizes compliance with Subpart Cb emission guidelines. According to Huckaby, “States with large MWCs were required to adopt plans ensuring compliance with emission guidelines by December 2000. The results presented in this inventory highlight the efforts made by various states.”
+
+The memo specifies that the total operating capacity for these units reached 89,477 tons per day of municipal solid waste, showcasing a growth in the number of plants and overall capacity. “There is a 5 percent increase in the number of plants and a 1 percent rise in capacity compared to the last inventory,” Huckaby noted. The increase emphasizes the growing role of waste-to-energy plants in waste management strategies.
+
+With Florida, New York, and Pennsylvania leading in the number of MWC units, Huckaby explained regional distributions: “Region 4 has the highest number of large MWC units with 39, followed by Region 3 and Region 1.” The report also highlighted that 133 of the units are mass burn types, with 34 units utilizing refuse-derived fuel.
+
+The letter lays out an expansive summary, including plant locations, capacities, and technological descriptions of air pollution control devices used. In presenting this comprehensive overview, Huckaby stated, “We aim to provide a clear snapshot of the current landscape of large MWC units, essential for assessing compliance and emissions regulation.”
+
+This update was sent to Walt Stevenson of the EPA's Combustion Group on June 12, 2002. Jason Huckaby, among others from Eastern Research Group, was involved in compiling and presenting this critical data.
+
+
+----------------INPUT:----------------
+
+ m-a-6
+c
+EASTERN RESEARCH CROUP. INC.
+MEMORANDUM
+i
+1 ­
+i
+TO: Walt Stevenson, EPAlCombustion Group
+j
+FROM: Jason Huckaby. Eastern Research Group, Inc
+_d~
+-*.=
+DATE: June 12.2002
+SUBJECT: 2000 National Inventory of Large Municipal Waste Combustion (MWC) Units
+~
+This memorandum presents a year 2000 national inventory of large municipal waste
+combustion (MWC) units. This inventory is an update of the earlier 1995 inventory of large
+MWCs'. This 2000 inventory represents MWC units that are affected by the Subpart Cb
+emission guidelines for large MWC units'. The Subpart Cb emission guidelines were adopted
+December 19. 1995. States where large MWCs are located were required under Section 129 of
+the Clean Air Act (CAA) to adopt and implement a State plan that assures all large MWC units
+in the State are in compliance with the emission guidelines by December 19.2000. Many States
+adopted State plans, as listed in 40 CFR part 62. EPA adopted a Federal plan to assure
+compliance for large MWC units not covered by an approved State plan.' In this inventory and
+Subpart Cb. a large MWC unit is defined as an MWC unit with a municipal solid waste (MSW)
+combustion capacity greater than250 tons per day.
+This 2000 national inventory is based on updated data submitted by large -MWC units
+following maximum achievable control technology (MACT) compliance in December 2000. In
+creating the 2000 inventory. the previous large MWC database was updated including changes to
+-
+reflect MWC plant closings. combustor type. combustion unit capacity. and air pollution control
+device used kyear 2000 to comply with MACT requirements.
+Table A-1 provides summary information for each MWC type. In 2000, the large MWC
+category contains 167 units distributed into two groups of combustion unit types as follows:
+133 mass bum units and 34refuse-derived fuel units. Table A-2 shows the change that has
+occurred in the large MWC population since 1995.
+1
+kam\l;~\0i5$\11\07\2L0a0r1ge MWC Units-memo.qd
+Table B presents the MWC-specific data for year 2000 for this large MWC unit ~ t i o d
+inventory. This includes: plant location, plant capacity. number of large MWC unitsat each
+plant. iarge MWC unit capacity, large MWC unit type, air pollution control equipment,
+construction date, and start-up date. There are 167 large MWC unitsin the 2000 inventory
+located at 66 MWC plants with a total national operating capacity of 89,477 tons per day MSW.
+Compared to the 1995 large MWC national inventory’.this shows a 2 percent increase in the
+number of large MWC units (from 164 to 167). a 5 percent increase in the number of plants
+(from 63 to 66 plants), and a 1 percent increase in capacity (from 88,652 to 89,477 tpd)for large
+MWC units.
+By location, the States with the most large MWC unitsare Florida (29 units),New York
+(1 8 units). and Pennsylvania (1 6 Units), and Massachusetts (6 units). On a regional basis, the
+EPA regions with the most large MWC units areEPA Region 4 (39 units), Region 3 (33 units),
+and Region 1 (31 units)4.
+Attachment 1 provides a list of acronyms used in Table 3.
+References
+1. Memorandum fiom Laurie Cone and Colleen h e , E astern Research Group, Inc. to Walt
+Stevenson, EPA. “Large and SmaIl MWC Units in the 1995 MWC Inventory Database.”
+July 7, 1997. (Docket A-90-45; Item VI-B-2).
+2. Emission Guidelines and Compliance Timesfor Large Municipal Waste Combustion
+Units Constructed on or Before September 20. 1994. 40 CFR part 60, Subpart Cb or
+60 FR 65415. December 19, 1995.
+4 Federal Plan Requirementsfor Large Municipal Waste Combustors Constructed on or
+3.
+hqforr September 20. 1993. 40 CFR part 62, Subpart FFF.
+4. See Attachment 2 for EPA Region Listing.
+Table A-1: Summary of the National Inventory of Large MWC Units for year 2000
+(Distributed into typesof large MWC units)
+Mass bum 53 I33 67.968 76%
+Refke-derived fuel 13 34 2 1SO9 24%
+I
+- I
+Tots1 : 66 167 89.477
+Table A-2:Summary of the National Inventory of Large MWC Units
+for years 1995 and 2000
+I995 63 164 88,652
+2000 66 I67 89,477 I
+h; 0154.1 1\072001 Large MWC Unlu-memo.wpd 5
+6
+I;'OISJiI I\OA2001Large MWC Untis-mano.wpd
+ATTACHMENT I
+List of Acronyms Used in Table B
+--
+CI carbon injection (activated carbon)
+DSI = dry sorbent injection
+EA = excess-air
+ESP = electrostatic precipitator
+--
+FB fluidized bed
+--
+FF
+fabric filter (baghouse)
+MB = mass bum
+MOD = modular combustion
+MSW = municipal solid waste
+MWC = municipal waste combustor
+RC = rotary combustor
+RDF = refuse-derived he1
+REF = refiactory-walled combustor
+SA = starved-air
+SD = spray dryer (semi-dry scrubber)
+SNCR = selective non-catalytic reduction
+TPD = tons per day
+ws
+= wet scrubber
+ww
+= waterwall
+ATTACHMENT2
+Map of EPA Regions
+(available electronically at http://www.epagoviepahome/wbereyou~~h~)
+'
+EP.A : Ylhere You Live Page 2 of Z
+Each EPA Regional Office is responsible within its states for the execution of
+the Agency's programs. Select a region by clicking within the area of the map
+covered by the region, or use the links located below the map to go directly to
+a region.
+-
+-
+i . - ..cfhcr RCgrQIi 9 Ytcs ...other Rcgron 2 Y~CS
+Guam
+m Amortcan Samoa
+Trust Territorur
+0 Commonwealth of thr Norrhorn Hariano hbnds
+-
+Reaion 1 responsiblewithin the states of Connecticut. Maine,
+Massachusetts. New Hampshire. Rhode island. and Vermont.
+-
+Region 2 responsible within the states of New Jersey. New York. Puerto Rico
+and the U.S. Virgin Islands.
+-
+Reaion 3 responsible within the states of Delaware. Maryland. Pennsylvania.
+Virginia, West Virginia. and the District of Columbia.
+-
+Reaion 4 responsible within the states of Alabamz. Florida. Georgia.
+Kentucky, Mississippi. North CaroIina. South Carolina. and Tennessee.
+-
+Reaion 5 responsiblewithin the states of Illlnols. Indiana, Michigan
+Minnesota. Ohio. and Wisconsin.
+-
+Reaion 6 responsiblewtthin the states of ArKansas. Louisiana, New Mexico.
+Oklahoma. and Texas.
+-
+Reaion 7 responsiblewithin the states of Iowa. Kansas, Missouri. and
+Nebraska.
+-
+Reaion 8 responsiblewithii the states of Colorado. Montana. North Dakota,
+South Dakota. Utah. and Wyoming.
+-
+Reaion 9 responsible within the states of Arizona, California. Hawaii.
+Nevada. and the terntoriesof Guam and American Samoa.
+I
+http://www.epa.gov/epahome/whereyouli ve.htm 7/2/02
+EPA:,Where You Live Page 3 of 3
+-
+Reaion 10 responsible within the states of Alaska, Idaho, Oregon. and
+Washington.
+Last updated on Monday,June 24th. 2002
+UFk hnpYhvww.epa!pv/epwe.htm
+A-90-45
+EASTERN RESEARCH GROUP, INC.
+VIII-B-6
+MEMORANDUM
+TO: Walt Stevenson,EPNCombustion Group
+FROM: Jason Huckaby, Eastern Research Group, Inc
+DATE: June 12,2002
+SUBJECT: 2000 National Inventory of Large Municipal Waste Combustion (MWC) Units
+This memorandum presents a year 2000 national inventory of large municipal waste
+combustion (MWC) units. This inventory is an update of the earlier 1995 inventory of large
+MWCsl. This 2000 inventory represents MWC units that are affected by the Subpart Cb
+emission guidelines for large MWC units2. The Subpart Cb emission guidelines were adopted
+December 19, 1995. States where large MWCs are located were required under Section 129 of
+the Clean Air Act (CAA) to adopt and implement a State plan that assures all large MWC units
+in the State are in compliarice with the emission guidelines by December 19,2000. Many States
+adopted State plans, as listed in 40 CFR part 62. EPA adopted a Federal plan to assure
+compliance for large MWC units not covered by an approved State plan.3 In this inventory and
+Subpart Cb, a large MWC unit is defined as an MWC unit with a municipal solid waste (MSW)
+combustion capacity greater than 250 tons per day.
+This 2000 national inventory is based on updated data submitted by large MWC units
+following maximum achievable control technology (MACT) compliance in December 2000. In
+creating the 2000 inventory, the previous large MWC database was updated including changes to
+reflect MWC plant closings, combustor type, combustion unit capacity, and air pollution control
+device used in year 2000 to comply with MACT requirements.
+Table A-1 provides summary information for each MWC type. In 2000, the large MWC
+category contains 167 units distributed into two groups of combustion unit types as follows: 133
+mass bum units and 34 refuse-derived fuel units. Table A-2 shows the change that has occurred
+in the large MWC population since 1995.
+Table B presents the MWC-specific data for year 2000 for this large MWC unit national
+inventory. This includes: plant location, plant capacity, number of large MWC units at each
+plant, large MWC unit capacity, large MWC unit type, air pollution control equipment,
+construction date, and start-up date. There are 167 large MWC units in the 2000 inventory
+located at 66 MWC plants with a total national operating capacity of 89,477 tons per day MSW.
+Compared to the 1995 large MWC national inventory1, this shows a 2 percent increase in the
+number of large MWC units (from 164 to 167), a 5 percent increase in the number of plants
+(fiom 63 to 66 plants), and a 1 percent increase in capacity (from 88,652 to 89,477 tpd) for large
+MWC units.
+By location, the States with the most large MWC units are Florida (29 units), New York
+(18 units), and Pennsylvania (16 units), and Massachusetts (6 units). On a regional basis, the
+EPA regions with the most large MWC units are EPA Region 4 (39 units), Region 3 (33 units),
+and Region 1 (31 units)4.
+Attachment 1 provides a list of acronyms used in Table B.
+References
+1. Memorandum from Laurie Cone and Colleen Kane, Eastern Research Group, Inc. to Walt
+Stevenson, EPA. “Largeand Small MWC Units in the 1995 MWC Inventory Database.”
+July 7, 1997. (Docket A-90-45; Item VI-B-2).
+2. Emission Guidelines and Compliance Timesfor Large Municipal Waste Combustion
+Units Constructed on or Before September 20, 1994. 40 CFR part 60, Subpart Cb or 60
+FR 65415. December 19,1995.
+3. Federal Plan Requirementsfor Large Municipal Waste Combustors Constructed on or
+before September 20, 1994. 40 CFR part 62, Subpart FFF.
+4. See Attachment 2 for EPA Region Listing.
+Table A-1: Summary of the National Inventory of Large MWC Units for year 2000
+(Distributed into types of large MWC units)
+Large MWC Unit Type Number of Large Number of Capacity (tpd) Percent
+MWC Plants Large MWC Capacity
+Units of Total
+Mass burn 53 133 67,968 76%
+Refuse-derived fuel 13 34 2 1,509 24%
+-
+Total : 66 167 89,477
+Mass burn includes mass burn-water wall, mass bum-refi-actory,and mass burn-rotating combustion
+units.
+Refuse-derived fuel includes all combustion units that combust refuse-derived fuel.
+Table A-2: Summary of the National Inventory of Large MWC Units
+for years 1995 and 2000
+Year Number of Large MWC Number of Large MWC Capacity (tpd)
+Plants Units
+1995 63 164 88,652
+2000 66 167 89,477
+3000
+3
+30
+3­
+r­
+30
+r­
+m
+IQ I
+IQ IQ
+D 2 o t- w m r­
+3
+Do
+2 ­
+0 30 0
+Q 30 W
+rn N h
+N
+0 0
+N UY
+r- m
+I5 I5
+-
+I- In I- v, Iw Im
+e
+e
+c
+N
+bE
+$
+Uw
+.
+*r
+CC
+3 0
+vr 0
+vr
+Ei
+3
+21
+h
+9
+ATTACHMENT 1
+List of Acronyms Used in Table B
+CI -- carbon injection (activated carbon)
+DSI = dry sorbent injection
+EA = excess-air
+ESP = electrostaticprecipitator
+-
+FB ­ fluidized bed
+FF -- fabric filter (baghouse)
+MB = mass burn
+MOD = modular combustion
+MSW = municipal solid waste
+MWC = municipal waste combustor
+RC = rotary combustor
+RDF = refuse-derived fuel
+REF = refractory-walled combustor
+SA = stamed-air
+-- spray dryespemi-dry scrubber)
+SNCR = selective non-catalytic reduction
+TPD = tons per day
+WS = wet scrubber
+w w =
+watenvall
+ATTACHMENT 2
+Map of EPA Regions
+(available electronically at http://www.epa.gov/epahome/whereyoulive.htm)
+
+
+Originial Link: https://www.regulations.gov/comment/EPA-HQ-OAR-2017-0183-0211

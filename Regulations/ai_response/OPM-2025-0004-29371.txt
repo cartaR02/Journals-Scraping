@@ -1,21 +1,23 @@
 **Strong Opposition to Proposed Reclassification of Civil Service Employees**
 
-In a recent letter to the Office of Personnel Management, retired Colonel Ronald E. Myers expressed strong opposition to a proposed regulation titled "Improving Performance, Accountability, and Responsiveness in the Civil Service." He argues that the measure threatens the integrity of the federal workforce by potentially reintroducing Schedule F, a directive that could lead to the politicization of civil service roles.
+Ronald E. Myers, a retired colonel of the U.S. Public Health Service, has submitted a letter to the Office of Personnel Management expressing strong opposition to the proposed rule titled “Improving Performance, Accountability, and Responsiveness in the Civil Service.” Myers contends that the rule would undermine the integrity of the civil service by reintroducing Schedule F, which he claims threatens the foundational principles of U.S. governance.
 
-"Myers states, 'Despite its title, this proposed rule would do the opposite: it effectively eliminates long-standing safeguards against the politicization of the federal workforce,'" emphasizing the risks associated with such changes. He described Schedule F as "the greatest threat to the merit-based system since its inception," noting that it would convert critical civil service positions into political appointments, reversing over a century of progress established by the Pendleton Civil Service Act.
+According to Myers, "Schedule F represents the greatest threat to the merit-based system since its inception." He emphasizes that the rule would allow for the sweeping conversion of policy-influencing civil service roles into political appointments, effectively rolling back more than a century of progress established by the Pendleton Civil Service Act of 1883.
 
-The implications of Schedule F, according to Myers, are deeply concerning. He warns that it would produce "an unprecedented level of political interference in the daily operations" of federal agencies, which could weaken performance and accountability, undermining democratic values such as transparency and the rule of law. According to Myers, the proposal is not merely a reform but "an open-ended invitation to purge qualified, nonpartisan civil servants based on perceived political disloyalty."
+He outlines the far-reaching implications of Schedule F, suggesting that it would introduce a high level of political interference into federal operations. "It would lead to an unprecedented level of political interference in the daily operations of federal agencies," he states, warning that this shift would weaken accountability and threaten essential democratic norms such as transparency and impartiality.
 
-Myers presents alarming comparisons to other democracies, stressing that the United States already has a high number of political appointees compared to peer nations, limiting the effectiveness of governance. He urges for a reduction, citing concerns raised by the Volcker Commission in 1990 regarding the burgeoning number of politicos among top agency leaders.
+Highlighting the current state of political appointments in the U.S., Myers remarks, "The United States already stands out among developed nations for the sheer number of political appointees—around 4,000." He argues that expanding this number would exacerbate instability in federal leadership and lead to inefficiencies in governance.
 
-“The civil service system is not perfect, but its purpose is vital: to serve the American people through lawful, competent, and nonpartisan administration of federal programs,” Myers emphasizes, calling into question the ramifications of Schedule F on professional integrity within public service.
+Myers also criticizes the support for Schedule F from former President Donald Trump, who has openly described the federal workforce as a “deep state” that should be dismantled. "Schedule F is not an isolated initiative—it is the spearhead of a broader movement to erode civil service protections," Myers claims. He underscores the potential repercussions of eradicating these protections, warning that it could deter ethical dissent and lawful whistleblowing.
 
-The letter concludes with a call to action directed at the agency, stating, “For these reasons, I urge OPM to withdraw the proposed rule and to reaffirm its commitment to a nonpartisan, merit-based civil service.” 
+The letter reinforces the notion that the civil service system, though not perfect, is essential for maintaining a competent and nonpartisan administration of federal programs. In his final plea, Myers urges the Office of Personnel Management to withdraw the proposed rule, asserting, "If reform is needed, it should be led by Congress in a transparent and bipartisan manner—not imposed by executive fiat in pursuit of political loyalty."
 
-The letter was sent to the Office of Personnel Management on [insert date] and is addressed to the agency's administrators, whose names were not provided in the content presented.
+The letter was sent to the Office of Personnel Management on October 3, 2023.
 
 
-INPUT: Strong Opposition to Proposed Reclassification of Civil Service Employees
+----------------INPUT:----------------
+
+ Strong Opposition to Proposed Reclassification of Civil Service Employees
 OPM Rule (RIN 3206-AO80, Docket ID: OPM-2025-0004)
 I write in strong opposition to the proposed Office of Personnel Management (OPM)
 rule titled Improving Performance, Accountability, and Responsiveness in the Civil Service (RIN

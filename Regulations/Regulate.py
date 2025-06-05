@@ -16,9 +16,11 @@ import os
 import shutil
 import sys
 import getopt
+import date
 
 # At the beginning of your script, before setting up your own logging:
 import logging
+start_time = time.time()
 print("Running from: ", sys.executable)
 
 def clear_folders():
@@ -38,6 +40,9 @@ selenium_logger.setLevel(logging.WARNING)
 
 urllib3_logger = logging.getLogger('urllib3')
 urllib3_logger.setLevel(logging.WARNING)
+logging.getLogger("pdfminer.six").setLevel(logging.CRITICAL)
+logging.getLogger("pdfminer.pdfinterp").setLevel(logging.CRITICAL)
+logging.getLogger("pdfminer").setLevel(logging.CRITICAL)
 
 OPEN_API_KEY = ""
 
@@ -46,6 +51,7 @@ with open ("../key", "r") as f:
 
 openai_client = OpenAI(api_key=OPEN_API_KEY)
 allowGPT = True
+
 def parse_arguments():
     global allowGPT
     filter_id = None
@@ -89,10 +95,6 @@ def selenium_config() -> webdriver:
 
 driver = selenium_config()
 
-
-
-
-
 def ask_chat_gpt(PDF_Text, current_id, comments_link):
     prompt = (
  # waiting on prompt
@@ -114,8 +116,10 @@ If there are mutiple signers for the letter, create a paragraph that lists all o
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
-        msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_TEXT + "\n\nOriginial Link: " + comments_link
-        save_pdf_to_text("./ai_response/" + current_id, msg)
+        msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_Text + "\n\nOriginial Link: " + comments_link
+        filename_date = date.today().strftime('%Y-%m-%d')
+
+        save_pdf_to_text("./ai_response/" + current_id + "-" + filename_date, msg)
     except Exception as e:
         logging.error(f"Error: {e}")
 
@@ -188,52 +192,61 @@ def click_search_button() -> bool:
         logging.error(f"Failed to click search button: {e}")
         return False
 
-def go_to_next_page(driver, timeout=10):
+def go_to_next_page(driver, url, timeout=10):
     """
-    Clicks the 'Next' button to go to the next page in a paginated list.
+    Goes to a given URL, then clicks the 'Next' button to go to the next page.
+    Returns new page URL, or False on failure.
     """
+
+    # stops from continuing infity
+    if "pageNumber=40" in url:
+        logging.info("Reached end of page")
+        return False
     try:
-        # Wait until the button is clickable (using unique aria-label)
-        next_btn = WebDriverWait(driver, timeout).until(
+        driver.get(url)
+        logging.info(f"Navigated to {url}")
+        # Wait for the page to load before searching for the button
+        WebDriverWait(driver, timeout).until(
             EC.element_to_be_clickable((By.XPATH, '//button[@aria-label="Go to next page"]'))
         )
+        next_btn = driver.find_element(By.XPATH, '//button[@aria-label="Go to next page"]')
         next_btn.click()
-        print("Successfully clicked 'Next' to go to the next page.")
-        return True
+        logging.info("Successfully clicked 'Next' to go to the next page.")
+        time.sleep(2)
+        new_url = driver.current_url
+        logging.info(f"Current URL: {new_url}")
+        return new_url
     except Exception as e:
-        print(f"Could not click 'Next' button: {e}")
+        logging.error(f"Could not click 'Next' button: {e}")
         return False
 
 
 
-
-# Main start
-if __name__ == "__main__":
-
-    clear_folders()
-    url = "https://www.regulations.gov/search/comment?filter=Attach&sortBy=postedDate&sortDirection=desc"
-
+def process_current_page(url):
     html = retrieve_site_html(url)
 
     if not html:
         logging.info("Site did not search properly")
         sys.exit()
-    
 
     logging.info("Initial Page loaded")
 
     soup_html = BeautifulSoup(html, "html.parser")
-    time.sleep(2)
-    
+    time.sleep(3)
+
     container = soup_html.find(class_="results-container")
     # here is the wrapper container of the things we need
     attachments_list = container.find_all(class_="card card-type-comment ember-view")
-    
+
+    truncate = False
+
     logging.info("Attatchment docs found")
-    logging.info("Truncating List")
-    logging.info(len(attachments_list))
-    #attachments_list = attachments_list[:5]
-    logging.info(len(attachments_list))
+
+    if truncate:
+        logging.info("Truncating List")
+        attachments_list = attachments_list[:5]
+
+    logging.info(f"List length: {len(attachments_list)}")
 
     for article in attachments_list:
 
@@ -263,7 +276,7 @@ if __name__ == "__main__":
         # this state is id is good and link
 
         comment_html = retrieve_site_html(current_link)
-        
+
         if not comment_html:
             logging.error("Comment Page did not load")
             continue
@@ -275,6 +288,7 @@ if __name__ == "__main__":
             pdf_download_link = pdf_download.get("href")
         except:
             for pdf in parse_comment.find_all("a"):
+
                 if pdf.get("href").endswith(".pdf"):
                     pdf_download_link = pdf.get("href")
 
@@ -282,7 +296,6 @@ if __name__ == "__main__":
                 logging.error("PDF not found")
                 continue
         logging.info(f"pdf download link: {pdf_download_link}")
-
 
         try:
             response = requests.get(pdf_download_link)
@@ -321,4 +334,34 @@ if __name__ == "__main__":
         except Exception as e:
             logging.error(f"Failed to process PDF for {current_link}::: {e}")
             continue
+
+def process_all_pages(driver, base_url):
+    curr_url = base_url
+    while True:
+        process_current_page(curr_url)
+
+        success = go_to_next_page(driver, curr_url)
+        if not success:
+            logging.info("No more pages to process")
+            break
+        else:
+            curr_url = success
+            logging.info(f"Moving to next page: {curr_url}")
+        time.sleep(2)
+
+# Main start
+if __name__ == "__main__":
+
+    url = "https://www.regulations.gov/search/comment?filter=Attach&sortBy=postedDate&sortDirection=desc"
+    driver.get(url)
+    clear_folders()
+    process_all_pages(driver, url)
+
+    end_time = time.time()
+    total_time = end_time - start_time
+    logging.info(f"Total time: {total_time}")
+    logging.info("Finished")
+
+
+
 driver.quit()

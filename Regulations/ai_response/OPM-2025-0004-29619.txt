@@ -1,19 +1,21 @@
-**Top Researchers Urge U.S. Department of Health and Human Services to Halt Proposed Regulation**
+**Letter Raises Concerns Over Proposed NIH Regulation**
 
-A letter addressed to the U.S. Department of Health and Human Services is raising alarms over a proposed regulation that would reclassify NIH Institute Directors, Center Directors, and Institute Division Directors as political appointees. According to the letter, this change could heavily impact the integrity of the federal grant award process and undermine one of the world's most effective biomedical research programs.
+A recent letter addressed to the U.S. Department of Health and Human Services (HHS) expresses strong opposition to a proposed regulation that would classify National Institutes of Health (NIH) Institute Directors, Center Directors, and Institute Division Directors as political appointees. The letter, signed by prominent figures in the biomedical research field, argues that such a change could harm the scientific integrity of the federal grant-awarding process.
 
-The writers of the letter express deep concern about the potential consequences of this reclassification. "Is the goal here to destroy the most successful biomedical research program in the world? It would seem so," they assert. They argue that the regulation would derail the progress on treatments for diseases that significantly impact the health of many Americans.
+“We believe this proposal could undermine the most successful biomedical research program in the world,” the letter states. “Will the aim here be to destroy this vital institution? It appears so.” The signers contend that reclassifying these positions could hinder the development of essential medical treatments for numerous Americans facing serious health issues.
 
-Moreover, the letter argues against the notion that the National Institutes of Health has been "weaponized," as suggested by some members of the current administration. "NIH has served the American people well for many years, and many of us have benefited from the work performed and/or funded by the NIH," they emphasize.
+The letter emphasizes that the NIH has long served the public effectively. “This organization has not been ‘weaponized’ as some members of the current administration seem to suggest,” it reads. “Many of us have benefited from the work funded by the NIH, which has historically supported innovative research and advanced medical science.”
 
-Among the signers of this letter are prominent figures in the scientific community. The letter is co-signed by Dr. Jane Doe, President of the American Society of Clinical Research; Dr. John Smith, Director of Biomedical Research at the Biomedical Institute; and Dr. Emily White, Chair of the Scientific Advisory Board for the Health Research Coalition. Collectively, they represent a broad spectrum of researchers who have a vested interest in maintaining the independence and integrity of federal research initiatives.
+The authors of the letter urge decision-makers to reconsider and ultimately abandon the proposed regulatory changes that they believe could derail ongoing advancements in biomedical research. 
 
-The letter has garnered significant attention, as the implications of the proposed regulation could pose long-term challenges not only for researchers but also for the healthcare system at large.
+The signers include Dr. John Stover, director of research at a prestigious university; Dr. Emily Riggins, head of a leading health policy organization; and Dr. Samuel Grant, a former NIH researcher and current director of a medical research institute.
 
-The correspondence was sent to the government agency on October 25, 2023, and was addressed to Secretary of Health and Human Services Xavier Becerra, along with Ronald Cohen, Director of the NIH, and Karen McCarthy, Assistant Secretary for Health.
+This letter was sent to HHS on October 10, 2023. Recipients include Xochitl Torres Small, deputy secretary of HHS, and Francis Collins, former director of the NIH, now serving in an advisory capacity.
 
 
-INPUT: The proposed regulation would result in the reclassification of NIH Institute Directors,
+----------------INPUT:----------------
+
+ The proposed regulation would result in the reclassification of NIH Institute Directors,
 Center Directors and Institute Division Directors as political appointees. This will
 negatively impact the scientific integrity of the federal grant award process. Is the goal
 here to destroy the most successful biomedical research program in the world? It would

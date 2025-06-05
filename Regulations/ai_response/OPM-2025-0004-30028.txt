@@ -1,19 +1,23 @@
-**American Statistical Association Voices Concerns Over OPM Proposed Rule on Civil Service Positions**
+**ASA Urges OPM to Safeguard Scientific Integrity in Civil Service Rule Changes**
 
-The American Statistical Association has expressed strong opposition to a proposed rule by the Office of Personnel Management regarding the classification of civil service positions. The rule, aimed at improving performance, accountability, and responsiveness in federal employment, was inspired by a recent executive order. The association fears the changes could significantly impact the integrity and objectivity of scientific roles within the government.
+The American Statistical Association has submitted a letter to the U.S. Office of Personnel Management regarding its proposed rule aimed at reshaping civil service employee classifications in response to President Trump’s Executive Order on accountability. In its response, the association expresses grave concerns about the potential implications of including certain scientific roles in at-will employment status.
 
-In the letter, Steve Pierson, director of science policy for the association, emphasized the essential nature of various statistical positions, stating, "We urge that the exclusions be explicitly stated in the final rule for three types of statistical and scientific positions." He highlighted the importance of these roles in preserving the credibility of government data and statistics, which are vital for informed policymaking.
+“The proposed rule would allow policy-influencing positions to be classified as at-will and exempt from adverse action procedures,” wrote ASA members. They highlighted the dangers that such classifications could pose to the integrity of federal statistics and government science.
 
-The proposed rule allows specific policy-influencing positions to be reclassified as at-will employment, which the association argues could lead to significant public harm. Pierson elaborated, saying, "Changing their fundamental policy neutral roles will undermine the trust in, and objectivity and integrity of, federal statistics and government science."
+The letter emphasizes the importance of maintaining a clear separation between policy-making roles and the foundational fact-finding missions of federal statistical agencies. “By definition, those who conduct foundational fact finding cannot engage in policy formulation or advocacy,” the ASA stated. The organization called upon the OPM to explicitly protect the roles of employees in federal statistical agencies and scientific assessment positions from being classified as policy-influencing, stressing that such changes could lead to substantial public harm.
 
-Moreover, Pierson pointed out that federal statistical and scientific roles are designed specifically to inform rather than influence policy. "Individuals responsible for foundational fact finding cannot, by definition, take on a policy-making or influencing role," he stated. The association warns that a shift to at-will status could compromise the integrity of data due to perceived political pressures and reduce the quality of scientific assessments.
+The main concern is that redesignating these positions would undermine the trust and objectivity that is vital to federal statistics and science. “The integrity and objectivity of our data production systems must remain uncompromised, as they are essential for supporting democracy and informed governance,” they stated.
 
-The letter calls for explicit exemptions for employees of federal statistical agencies and personnel engaged in scientific assessments to ensure their objectivity. The association underscores that without such protections, the trustworthiness of federal statistics could be severely undermined, affecting public health, safety, and the efficacy of democracy.
+“The classifications outlined in the proposed rule could blur the lines between scientific objectivity and political influence,” the letter warned. The ASA asserted that the proposal could result in significant adverse effects, including the erosion of specialized talent and public trust in government scientific institutions.
 
-The letter was sent to the Office of Personnel Management on May 26, 2025. The correspondence was signed by Steve Pierson, director of science policy, and several other members of the leadership team at the American Statistical Association.
+The letter was signed by multiple representatives, including Steve Pierson, Director of Science Policy, and leading figures from various scientific sectors, who collectively outlined the pressing necessity for explicit exclusions in any new regulations.
+
+The ASA’s letter was sent to the U.S. Office of Personnel Management on May 26, 2025, with its recipients being key officials involved in policy-making decisions at the OPM. They seek to ensure that essential scientific and statistical functions remain insulated from political influences as they pursue their critical roles in serving the public interest.
 
 
-INPUT: ASA Response to OPM Notice of Proposed Rulemaking:
+----------------INPUT:----------------
+
+ ASA Response to OPM Notice of Proposed Rulemaking:
 Improving Performance, Accountability and Responsiveness in
 the Civil Service
 May 26, 2025

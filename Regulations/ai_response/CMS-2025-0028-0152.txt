@@ -1,0 +1,83 @@
+**Surgeon Urges Recognition of Long-Standing Atrial Fibrillation as Major Health Concern**
+
+A high-profile cardiothoracic surgeon has reached out to the U.S. Department of Health and Human Services, urging them to reconsider the classification of atrial fibrillation (AF) as it relates to surgical care and treatment. In a letter dated June 3, 2025, Dr. Edmond Owen, a cardiac surgeon with over three decades of experience at Baylor Scott & White Medical Center, called for a new understanding of the complexities involved with long-standing persistent and permanent atrial fibrillation.
+
+In his letter, Dr. Owen cited his extensive clinical experience with thousands of patients, stating, “My practice includes mitral and aortic valve replacements, coronary artery bypass grafting, and Cox-Maze IV procedures for atrial fibrillation. Over the years, I have seen firsthand how atrial fibrillation—particularly in its long-standing persistent or permanent forms—dramatically alters the surgical landscape and increases both procedural risk and postoperative complexity.” 
+
+Dr. Owen clarified the differences between newly diagnosed AF and its long-standing forms. He remarked, “Patients with newly diagnosed AF, including paroxysmal or early persistent types, generally present with relatively preserved atrial structure and function. These individuals often respond well to early rhythm control strategies.” For patients undergoing surgery for other indications, he noted that adjunctive procedures could be executed successfully and safely. 
+
+In contrast, Owen painted a concerning picture for patients with long-standing persistent or permanent AF. He explained, “These patients often require more extensive surgical interventions, including biatrial ablation, which are technically demanding and inherently higher risk.” He detailed the burdens these patients face, including a greater prevalence of comorbidities such as heart failure and renal dysfunction, which complicate their treatment.
+
+Concluding his letter, Dr. Owen stated, “These are not just advanced cases of AF—they are a distinct category of disease requiring a higher intensity of care, deeper planning, and greater resources.” He strongly urged that regulatory bodies acknowledge long-standing persistent and permanent AF as major comorbid conditions to improve care strategies for these high-risk patients.
+
+Dr. Owen's letter was sent to the U.S. Department of Health and Human Services on June 3, 2025.
+
+
+----------------INPUT:----------------
+
+ BaylorScott&White Cardiovascular and Thoracic Surgery
+-.JL MS-MB-3.009
+302 University Boulevard
+,~ MEDICAL CENTER
+Round Rock, TX 78665
+ROUND ROCK 512-509-0200 Phone
+512-509-5439 Fax
+Edmond Owen, MD
+Cardiac Surgery, Vascular Surgery, Thor~cic Surgery
+Baylor Scott & White Medical Center - Round Rock
+302 University Blvd, Round Rock, TX 78665
+June 3rd 2025
+,
+To Whom It May Concern,
+As a practicing cardiothoracic surgeon with over 30 years of experience, I have cared for
+thousands of patients requiring surgical treatment for complex cardiac conditions. My practice
+includes mitral and aortic valve replacements, coronary artery bypass grafting (CABG), and
+Cox-Maze IV procedures for atrial fibrillation (AF). Over the years, I have seen firsthand how
+atrial fibrillation-particularly in its long-standing persistent or permanent forms-dramatically
+alters the surgical landscape and increases both procedural risk and postoperative complexity.
+Newly Diagnosed Atrial Fibrillation ,
+Patients with newly diagnosed AF, including paroxysmal or early persistent types, generally
+present with relatively preserved atrial structure and function. These individuals often respond
+well to early rhythm control strategies, and when they undergo cardiac surgery for another
+indication, adjunctive procedures such as surgical ablation or left atrial appendage exclusion can
+be performed with a high likelihood of success and minimal additional risk. Their stroke risk is
+more manageable, and their postoperative course tends to be more straightforward.
+Long-standing Persistent or Permanent Atrial Fibrillation
+In contrast, patients with long-standing persistent or permanent AF-defined as sustained
+arrhythmia for over 12 months-represent a far more complex clinical challenge. By this stage,
+the atria are often significantly dilated and fibrotic, impairing mechanical function and reducing
+the effectiveness of rhythm control strategies. These patients often require more extensive
+surgical interventions, including biatrial ~blation, which are technically demanding and
+inherently higher risk.
+Importantly, these patients frequently have a greater burden of comorbidities such as heart
+failure, renal dysfunction, and prior strokes, all of which increase operative and postoperative
+risk. They often require lifelong anticoagulation and coordinated care involving multiple
+specialties. Managing these patients successfully requires not only surgical expertise but also a
+multidisciplinary approach before, during, and after surgery.
+Having performed Cox-Maze IV procedures as part of my routine surgical care, I know that the
+risks are significantly higher in patients with long-standing persistent AF. The complexity of the
+l
+'
+...L BaylorScott&White Cardiovascular and Thoracic Surgery
+MS-MB-3.009
+302 University Boulevard
+,~ MEDICAL CENTER
+Round Rock, TX 78665
+ROUND ROCK 512-509-0200 Phone
+512-509-5439 Fax
+procedure, coupled with the fragile state of the atria and accompanying comorbidities, means
+these patients consume more operative time, require longer hospital stays, and are at higher risk
+of postoperative complications and readmissions.
+Conclusion
+These are not just advanced cases of AF-they are a distinct category of disease requiring a
+higher intensity of care, deeper planning, and greater resources. I strongly urge the appropriate
+regulatory bodies to recognize long-standing persistent and permanent atrial fibrillation as major
+comorbid conditions. This classification would better reflect the clinical reality and support the
+comprehensive care these patients require.
+Sincerely,
+Edmond Owen, MD
+Cardiothoracic Surgeon
+Baylor Scott & White Medical Center - Round Rock
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0152

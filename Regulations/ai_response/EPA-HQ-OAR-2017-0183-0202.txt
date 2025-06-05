@@ -1,0 +1,2626 @@
+**Scientists Raise Concerns on Mercury Pollution's Impact on Public Health in Southern Florida**
+
+In a letter addressed to the U.S. Environmental Protection Agency, researchers from Florida Gulf Coast University have outlined alarming findings regarding mercury levels in Southern Florida's environment, especially highlighting the implications on public health. The letter was signed by Thomas M. Missimer, a professor at the U.A. Whitaker College of Engineering, and his colleagues James H. MacDonald Jr., Seneshaw Tsegaye, Serge Thomas, Christopher M. Teaf, Douglas Covert, and Zoie R. Kassis.
+
+According to Missimer, “Mercury is a toxic metal that can accumulate in the environment and has serious health impacts based on exposure.” The team's findings indicate that Southern Florida has one of the highest mercury deposition rates in the United States, with significant release occurring primarily due to both natural and anthropogenic sources.
+
+MacDonald Jr. emphasized the historical context of mercury in the region, stating, "Southern Florida contains a very large natural reservoir of legacy mercury in the peatlands of the Everglades." This mercury, deposited over thousands of years, has been exacerbated by modern activities such as agriculture and residential development that contribute to pollution.
+
+The article highlights the health risks of mercury exposure, particularly through consumption of contaminated fish. Teaf stated, “High levels of mercury have been recorded in various fish species, prompting health alerts about consumption rates.” These risks impact local communities, with recommended fish consumption limits often being exceeded in caught species.
+
+Kassis further pointed out that existing regulations and assessments may not fully account for the unique environmental conditions found in the region, stating, “Significant gaps in research on the impacts of atmospheric mercury deposition need urgent attention.” She urged for systematic studies to assess both ecological and health impacts.
+
+The letter concluded with a call to action for comprehensive research efforts to evaluate the dangers posed by mercury in Southern Florida, as well as a thorough reassessment of current regulations. The findings were formally presented to the environmental agency on January 22, 2024, addressing the need for heightened awareness about mercury pollution and public wellbeing.
+
+
+----------------INPUT:----------------
+
+ International Journal of
+Environmental Research
+and Public Health
+Review
+Natural Background and the Anthropogenic Enrichment of
+Mercury in the Southern Florida Environment: A Review with a
+Discussion on Public Health
+ThomasM.Missimer1,* ,JamesH.MacDonald,Jr.2,SeneshawTsegaye3 ,SergeThomas4,ChristopherM.Teaf5,
+DouglasCovert6andZoieR.Kassis1
+1 U.A.WhitakerCollegeofEngineering,FloridaGulfCoastUniversity,10501FGCUBoulevardSouth,
+FortMyers,FL33965-6565,USA;zkassis@fgcu.edu
+2 EnvironmentalGeologyProgram&HonorsCollege,FloridaGulfCoastUniversity,10501FGCUBoulevard
+South,FortMyers,FL33965-6565,USA;jmacdona@fgcu.edu
+3 DepartmentofBioengineering,CivilandEnvironmentalEngineering,FloridaGulfCoastUniversity,
+10501FGCUBoulevardSouth,FortMyers,FL33965-6565,USA;stsegaye@fgcu.edu
+4 DepartmentofEcologyandEnvironmentalStudies,FloridaGulfCoastUniversity,10501FGCUBoulevard
+South,FortMyers,FL33965-6565,USA;sthomas@fgcu.edu
+5 InstituteforScience&PublicAffairs,FloridaStateUniversity,Tallahassee,FL32310,USA;cteaf@hswmr.com
+6 HazardousSubstance&WasteManagementResearch,2976WellingtonCircleWest,
+Tallahassee,FL32309,USA;dcovert@hswmr.com
+* Correspondence:tmissimer@fgcu.edu;Tel.:+1-239-810-3009
+Abstract:Mercury(Hg)isatoxicmetalthatiseasilyreleasedintotheatmosphereasagasora
+particulate.SinceHghasserioushealthimpactsbasedonhumanexposure,itisamajorconcern
+whereitaccumulates. SouthernFloridaisaregionofhighHgdepositionintheUnitedStates.
+IthasenteredthesouthernFloridaenvironmentforover56MY.Forthepast3000to8000years,
+HghasaccumulatedintheEvergladespeatlands,whereapproximately42.3metrictonsofHg
+wasdeposited.Thepre-industrialsourceofmercurythatwasdepositedintotheEvergladeswas
+Citation:Missimer,T.M.;MacDonald,
+J.H.,Jr.;Tsegaye,S.;Thomas,S.;Teaf, fromtheatmosphere,consistingofcombinedSaharandustandmarineevasion. Drainageand
+C.M.;Covert,D.;Kassis,Z.R.Natural the development of the Everglades for agriculture, and other mixed land uses have caused a
+BackgroundandtheAnthropogenic 65.7%reductioninthequantityofpeat,thereforereleasingapproximately28metrictonsofHg
+EnrichmentofMercuryinthe intothesouthernFloridaenvironmentoveraperiodofapproximately133years. Bothnatural
+SouthernFloridaEnvironment:A andman-madefireshavefacilitatedtheHgrelease. Thecurrentrangeinmercuryreleaseinto
+ReviewwithaDiscussiononPublic
+thesouthernFloridaenvironmentliesbetween994.9and1249kg/yr. ThelargestsourceofHg
+Health.Int.J.Environ.Res.Public
+currently entering the Florida environment is from combined atmospheric sources, including
+Health2024,21,118. https://doi.org/
+Saharandust,aerosols,seaspray,andoceanflux/evasionat257.1–514.2kg/yr.Theremobilization
+10.3390/ijerph21010118
+ofHgfromtheEvergladespeatlandsandfiresisapproximately215kg/yr.Otherlargecontributors
+AcademicEditor:PaulB. includewastetoenergyincinerators(204.1kg/yr), medicalwasteandcrematoryincinerators
+Tchounwou (159.7+kg/yr),andcementplantstackdischarge(150.6kg/yr). Minoremissionsincludefuel
+emissions from motorized vehicles, gas emissions from landfills, asphalt plants, and possible
+Received:28November2023
+Revised:9January2024 others. NodataareavailableoncontrolledfiresintheEvergladesinsugarfarming, whichis
+Accepted:16January2024 lumpedwiththeoverallpeatlandlossofHgtotheenvironment. Hghasimpactedwildlifein
+Published:22January2024 southernFloridawithrecordedexcessconcentrationsinfish, birds, andapexpredators. This
+bioaccumulationofHginanimalsledtotheadoptionofregulations(totalmaximumloads)to
+reducetheimpactsonwildlifeandwarningsweregiventoconsumerstoavoidtheconsumption
+offishthatareconsideredtobecontaminated. ThedepositionofatmosphericHginsouthern
+Copyright: © 2024 by the authors.
+Floridahasnotbeenstudiedsufficientlytoascertainwhereithashadthegreatestimpacts. Hg
+Licensee MDPI, Basel, Switzerland.
+hasbeenfoundtoaccumulateonwillowtreeleavesinanaturalenvironmentinonerecentstudy.
+Thisarticleisanopenaccessarticle
+Nosignificantstudiesofthepotentialimpactsonhumanhealthhavebeenconductedinsouthern
+distributed under the terms and
+Florida, which should be started based on the high rates of Hg fallout in rainfall and known
+conditionsoftheCreativeCommons
+Attribution(CCBY)license(https:// recyclingfororganicsedimentscontaininghighconcentrationsofHg.
+creativecommons.org/licenses/by/
+4.0/).
+Int.J.Environ.Res.PublicHealth2024,21,118.https://doi.org/10.3390/ijerph21010118 https://www.mdpi.com/journal/ijerph
+Int.J.Environ.Res.PublicHealth2024,21,118 2of44
+Keywords: Hg; southern Florida; soils; geologic units; Everglades; groundwater; atmospheric
+deposition;exposure;publichealthrisk
+1. Introduction
+Mercury (Hg) is a naturally occurring elementthat can have major environmental
+andhumanhealthimpacts[1–10]. Itisubiquitousingaseousandparticulateforminthe
+atmosphereandhasconcentrationsatsimilarrangesovercontinental-scaleareasofthe
+Earth’s near-surface [11]. Complex chemical and biochemical interactions between the
+atmosphereandthelandmassestendtocontrollocalizedHgconcentrationsinthesurface
+biosphereandoceans[12–14]. Duetoitschemicalproperties,Hgisreadilytransportedfor
+greatdistancesintheatmosphere,whichmakesitbothalocalandglobalproblem. Three
+formsofHgareemittedintotheatmosphere,andincludeelementalHg(Hgo),reactive
+gaseousHg(RGM),andparticulateHg(PHg). Ofthesethree, Hgo constitutes>60%of
+atmosphericHgandhasaresidencetimeof1to2years[15]. TheotherformsofHgtendto
+bedepositedclosertotheirsources.
+BothnaturalandanthropogenicsourcesofHgemissiontotheatmospherehavevaried
+greatlyovertime. NaturalcontributionsofHgtotheatmospherecomeprimarilyfrom
+volcanos, geothermal vents, and point sources, some of which are Hg-bearing mineral
+deposits occurring at the land surface [16–21]. Additional natural Hg sources include
+geologicallyenrichedsoils[22,23],coaloutcrops,biomassfires[7,11,24–29],anddiffusion
+fromseasandoceans[13,30–35]. Gustin[20]suggeststhatthecontributionofHgfrom
+naturalmaterialsandsystemshasbeenunderestimatedinmanylocations. VariationinHg
+concentrationsintherockrecordbeforeanthropogenicinfluencesuggeststhatvolcanism
+wasthekeyfactorcontrollingenrichedstratainancientsedimentaryrocks[21,36–39].
+TheanthropogenicoriginsofHgrangefrommajorsources,suchascoal-firedandoil-
+firedpowerplants[40–43],iron-steelmanufacturing[42],non-ferrousmetalsmelters[44,45],
+causticsodaproduction[11,42],cementproduction[11,42,46],coal-bedfires[47],industrial
+municipalwastetoenergy,andbiomedicalwasteincinerators[48]. Morelocalizedsources
+includelandfillscontainingmunicipalandindustrialwaste[11,49–52],wastewatertreat-
+mentplantairoutflow[11,53],wastewatersludgeappliedtofields[54],minewaste[55,56],
+man-createdforestfires(seereferencesinbiomassfiressection),andmercuryandgold
+mining[45].
+TheatmosphericdepositionofHgoccursbothinwetanddryformsandisaglobal
+phenomenon[14,57]. ThreetypesofHgarefoundintheatmosphere,includinggaseous
+elemental Hg (GEM), gaseous oxidized Hg (GOM), and particle-bound Hg (PBM) [58].
+GOMhasanextensiveatmosphericlifetimewithlongtransportbutisgenerallyinsoluble
+and inert [59]. GOM is more associated with local or regional Hg emissions and has
+a shorter atmospheric residence time [60]. The formation of GOM can be enhanced by
+highertemperaturesandphotochemicalactivityrelatedtotheozone-inducedoxidationof
+GEM[61]. Mostofthetotaldrymercurydepositiononwater,soil,andplantsisGOMand
+PBM,whereasGEMisaminorcontributor[61–63].
+TheconcentrationofHgintheatmosphereiscontrolledbyacombinationofcomplex
+natural biogeochemical processes in combination with variation in the inputs of both
+naturalandanthropogenicsourcesofHg[64–69]. AnthropogenicgaseouselementalHg
+(GEM)emissionshavesignificantlyimpactedthebalanceofinputstoandoutputsfrom
+theatmosphere. ConcentrationsofGEMhavebeenestimatedtohaveincreasedbyafactor
+of3±1frompre-industrialtomoderntimesbasedonseveralstudies[14,70]. Masonand
+Sheu[33]developedasimplifiedglobalgeochemicalcycleformercurywithacomparison
+ofpre-industrialversusmoderntimes(Figure1). Itcanbeclearlyobservedthatindustrial
+activityimpactshavegreatlymobilizedHgtransportintotheenvironment.
+InInt.t.J .J.E Ennvviriornon..R Rese.s.P PuubblilcicH Heaealtlhth2 2002244,,2 211,,1 x1 8 33 ooff4 444
+FFigiguurere1 .1G. lGolboablagle goechocehmeimcailcacyl cclyecolef Hogf Hshgo wshinogwainpgp raopxpimroaxteimdavtaeldu evsafloureps rfeo-irn pdrues-tirniadluasntrdiaml oadn-d
+emrnotdimerens (mtimodesifi e(dmfordomifievda lufreosmco mvpaliuleeds incoMmapsoilneda nidnS hMeuas[o3n3 ]aasnadd aSphteeud in[3S3c]h wasa rtazdeanpdtreudb eirn
+aSncdhJwaaffretzee[n7d1]r)u.bTehre avnadl uJeasffeshe o[w71n]).i nTthhee vfiagluueres ashreowinnt oinn sthpee rfiygeuarre. Tarhee ipnr eto-innsd puestrr iyaelavra. lTuhees aprree-
+industrial values are contained within the parentheses.
+containedwithintheparentheses.
+AAs tsutuddyyo offt wtwooP Pyyrerenneeaannp peeaattb booggssi nins osouuththwweessteternrnE Euuroroppees usuggggeesststsa ah higighheerrr aratitoio
+frforommH Hoololocecenneet otom moodderenrnt itmimese.s.E Ennrirciocoe etta al.l.[ 7[722]]s stutuddieieddt wtwoop peeaattb booggs,s,t htheefi firsrstto offw whhicichh
+hhaadda a1 100,0,0000-0y-yeaerarr erceocrodrdo fosfp shpahgangunmumm mosossds edpeopsoitsiiotnio(nP (inPeintepte paet)aat)n adnads ae csoencodnbdo gbowga wsaas
+haig hhi-gahlt-iatultditeudspeh sapghnaugmnummo smsodsesp doseipto(Esistt i(bEesrteibpeeraet )p.eBaot)t.h Bpoetaht pbeoagts baoregslo acraet eldocianteadn ianr eaan
+oafrmeain oimf amliinndimusatlr iianldauctsitvriitayl aancdtivwiteyr eannodt swuberjeec tntoot instuebnjseicvte taon tihnrtoepnosigveen iacndthisrtouprboagnecnei.c
+Tdhiestruersbualtnscoef. tThhises rtuesduyltisn dofic tahteist hstautdthye inmdeiacnatGe EthMatc tohnec emnteraanti oGnEdMu rcionngctehnetrMatidiodnl edAugriensg
+(8th00e– M15i5d0dCleE A)gweass (800.308–1±5500.0 C8En)g wma − s 30.c3o8m ±p 0a.r0e8d ntgo m1.0−3 ±co0m.2pnargemd t − o3 1d.0u r±i n0g.2p nrge -min−d3 udsutrriianlg
+tipmree-sin(d15u5s0tr–i1a7l 8t0imCeEs )(w15i5th0–a17m80a xCimE)u wmitcho nac menatxraimtiounma cto3n.9ce±nt0r.a5tinogn mat − 33.9o c±c u0r.5ri nngg bme−-3
+twoceceunrr1i9n4g6 baentdw1e9e6n7 1,9a4n6d aandle v19el6i7n,g aonfdf tao le1v.5el±in0g. 6offn gtom 1 − .53 ±f r0o.6m n1g9 m90−–3 2fr0o1m1 [17929]0.–T2h0e1y1a [l7s2o].
+foTuhnedy tahlseob faocukngrdo uthned bcaocnkcgernoturantdio cnodnucreinntgratthioenH doulorcinenge thtoe bHeo0l.o2c7e±ne0 t.o11 bneg 0m.27 − 3 ±, 0w.1h1i cnhg
+emqu−3a, tweshtiocha e1q4u.4arteasti toob ae t1w4.e4e rnattihoe bHetowloeceenn ethaen Hdothloecemnaex aimndu mthec omnacxeinmtruamtio cnovnacleunet.raTthioen
+dveaplousei.t iTonher adteespoobsittaioinne draftreosm otbhteaiangeed- dfarotemd ctohree sagaere-dgaitveedn cinorTeasb alere1 .gIitvsehno uinld Tbaeblneo 1te. dIt
+thshatouthlde dbeep noostietido nthiastp trheed doempionsaintitolny disr pyr(eadpopmroixniamnatltye ldyr8y0 (%ap).proximately 80%).
+TTaabblele1 1.. AAnnnnuuaal lddeeppoosistiitoionn rartaetse sfofro HrgH ign tihnet PhienePti naentd aEnsdtibEesrtei bpeeraet pbeoagts b(mogosdi(fimeodd firfioemd Efrnormico
+Eentr aicl.o [e7t2]a)l.. A[7l2l ]v)a.lAuellsv ianl uµegs min−2µ yg−1m. C−E2 ym−e1a.nCs ECmomeamnosnC Eomram, soimniElarra ,tosi AmCil aorrt BoCA. CorBC.
+PPeeaatt BBoogg 8080080–81–0100000 CCEE 505000––11550000 CCEE 11776600––11888800 CCEE 11997711––22000101C CEE 22000011––22001111C CEE
+Pinet
+Pinet
+H
+H
+g
+g
+A
+AR
+Rtotal 1.
+1
+5
+.5
+±
+±
+1.
+1
+0
+. 0
+1
+1
+.7
+.7
+±
+±
+0
+0
+.1
+.1
+6
+6.
+.
+3
+3
+±
+± 2
+2
+.
+.
+4
+4 4
+4
+0
+0
+±
+±
+6
+6
+2
+2
+9
+9
+±
+±
+3
+3
+total
+HgARdry 1.1 ±0.4 1.22 ± 0.07 4.7 ± 1.8 36 ± 7 24 ± 2
+HgAR 1.1±0.4 1.22±0.07 4.7±1.8 36±7 24±2
+dry
+HgARwet 0.4 ± 0.2 0.46 ± 0.02 1.8 ± 0.7 5.1 ± 2.9 4.5 ± 0.9
+HgA Rwet 0.4 ±0.2
+80
+0
+0
+.
+–
+4
+1
+6
+5
+±
+00
+0 .
+C
+02
+E 176
+1
+0
+.8
+–1
+±
+88
+0
+0
+.7
+CE 19
+5
+4
+.
+6
+1
+–
+±
+19
+2
+6
+.9
+7 CE 19
+4
+9
+.
+0
+5
+–
+±
+20
+0
+1
+.9
+1 CE
+Estibere 800–1 500CE 1760–18 80CE 1946–196 7CE 1990–201 1CE
+HEgsAtibRe t r o e tal NA 2.4 ± 0.5 6.0 ± 1.3 24 ± 2 9.2 ± 3.5
+HHggAARR tdortya l NNAA 12.3.4 ±± 00.3.5 63..04± ±01..83 2144± ±2 1 95.2.2± ±3 2.5.0
+HHggAARRwet NNAA 11.1.3 ±± 00.3.3 23..46 ±± 00..68 1141± ±1 1 54.2.0± ±2 1.0.5
+dry
+HgARwet NA 1.1±0.3 2.6±0.6 11±1 4.0±1.5
+Common human exposure to Hg is by directly breathing atmospheric Hg or
+secondarily from ingestion of food [73–75]. Perhaps the most important event that
+Int.J.Environ.Res.PublicHealth2024,21,118 4of44
+CommonhumanexposuretoHgisbydirectlybreathingatmosphericHgorsecon-
+darilyfromingestionoffood[73–75]. Perhapsthemostimportanteventthathighlighted
+theneedtocontroldischargesofHgwasthesicknessanddeaththatresultedfromeating
+contaminatedfishfromMinamataBay,Japan. Between1953and1970,121peoplewere
+poisoned, resulting in 46 deaths. Another village in the area reported 47 cases and six
+deaths. Nelsonetal.[76]reportedthatthesicknessanddeathwascausedprimarilyby
+intakeofmethylmercury. Lambertetal.[77]foundthatmethylmercurycanbiomagnify
+upto1milliontimesintheaquaticfoodweb. IntheUnitedStates,highconcentrations
+ofHgwerefoundinvariousspeciesoffreshwaterfish,whichresultedinrestrictionson
+sportandcommercialfishingin18states[78]. BecauseofthediscoveryofHgincanned
+tunaandinswordfish,expertsfromtheU.S.FoodandDrugAdministrationsuggestedthat
+certaintypesoffishshouldnotbeeatenuntilfurtherresearchdemonstratedwhatsafety
+precautionsshouldbetaken. AnactivereviewofHgandaseriesofothertoxiccompounds
+wasinitiatedbytheU.S.EnvironmentalProtectionAgency(USEPA)beginningin1970[79].
+AseriesofrecommendationsontheuseofHgandavarietyofpesticideswaspublishedin
+1971[80]. ActionsthatledtothedenialofregistrationofvariousHg-containingproducts
+startedthecontrolofHgdischargeintotheenvironment.
+IntheFDAModernizationActof1972,anassessmentofHginfoodsanddrugswas
+mandatedintheUnitedStates. Theestimatedglobalemissionsofanthropogenicmercury
+in 1995 was approximately 1900 metric tons [43]. This quantity estimate helped guide
+concerted global regulatory efforts to reduce the quantity of mercury emissions to the
+atmosphere. In2004,theFDAbegantoissueguidanceonthemaximumamountoffish
+containingHgthatshouldbeconsumedinthedietofadultsandchildren. In1997,the
+USEPA[81]issuedareporttotheCongressoftheUnitedStatesonatmosphericemissionsof
+Hg. From2004to2006,aseriesofreportswereissuedbytheUSEPAinsupportoftheClean
+AirMercuryRule[82–85]. AseffortscontinuedtolimitHgemissionstotheenvironment,
+theUSEPAreleasedahealthassessmentforHgexposure[86]andanupdatedinventory
+of Hg emissions [87]. Following a global assessment of atmospheric Mg conducted by
+theUnitedNationsEnvironmentalGlobalMercuryPartnership,140nationsadoptedthe
+MinamataConventiononMercuryon16November2013[88,89]. Theprimarygoalofthe
+MinamataConventionwastoreducetheatmosphericemissionsofHgforthepurposeof
+reducingimpactstohumanhealth[90].
+Thus,withtheglobalandmorespecificUnitedStatesperspectiveasthebackground,
+the purpose of this paper is to provide a review of Hg in the environment of southern
+Floridaanditspotentialimpactsonpublichealth. SouthernFloridaisparticularlyrelevant
+sinceithasonlybeenrecentlyindustrialized,butmostlyintheformofpopulationmigration
+andtheassociatedinfrastructure(e.g.,electricpowerproduction,cementproduction,waste
+disposal). Historically,ithasnotbeenthelocationofahighdensityofheavyindustrial
+facilitiesassociatedwithhighatmosphericemissionsofHg. However,southernFlorida
+contains a very large natural reservoir of legacy Hg in the peatlands of the Everglades
+thathasbeenimpactedbyatmosphericdepositionofHgforthousandsofyears[91,92].
+WhilemanypeatlandsaroundtheworldalsocontainhighconcentrationsofHg[72,93–96],
+perhapstheEvergladespeatlandisuniqueinthatitisextensivelyfarmedinsomeareas,
+containsanextensivedrainagesystem,sugarcanecropsareburnedonaseasonalbasis,and
+thenaturalareasaresubjecttodryseasonfires. Theseprocessestendtorecycle,recirculate,
+anddischargeHgtosurroundinganddownwindenvironments. Becauseoftherelatively
+high concentrations of Hg found in the Florida environment, the Florida Atmospheric
+Mercury Study (FAMS) was conducted to measure Hg at seven stations across Florida
+atdifferenttimes between 1992and1996[97–99]. Basedonnumerous studies ofHgin
+the southern Florida environment, the addition of anthropogenic Hg and the recycling
+of natural Hg deposited in soils has impacted plants, animals (in particular fish), and
+publichealthtovariabledegrees. AninventoryofsourcesofHginsouthernFloridahas
+beencompiledanddiscussedwiththepurposeofdefiningwhatisknown, whatisnot
+Int.J.Environ.Res.PublicHealth2024,21,118 5of44
+known,andwhatresearchshouldbeconductedtolimitfutureimpactsonpublichealthin
+southernFlorida.
+2. GeochemistryofMercury
+2.1. ChemicalProperties
+Hgistheonlymetalthatisaliquidatroomtemperatureandhasasetofratherunique
+chemicalproperties(Table2). Althoughithasadensity13timesgreaterthanwater,ithasa
+ratherhighvaporpressure,whichhelpsmakeitubiquitousintheatmosphere. Hg(Hgo)
+hasratherlowsolubilityinwaterat50µg/Lat25◦C,soithasamorerobustpreference
+foratmospherictransport[100]. Theionicstatesof+1and+2aremorecommoninwater
+comparedtotheatmosphere[60].
+Table2.ChemicalPropertiesofHg.
+Property NumberorDescription
+Atomicnumber 80
+Atomicweight(std) 200.592(3)
+Oxidationstates −2,+1,+2
+Atomicradius 1.51angstrom
+Covalentradius 1.31±0.05angstrom
+VanderWaalsradius 1.55angstrom
+Electronegativity Pauling:2.00
+Meltingpoint 234.3210K
+Vaporpressure(std) 0.00243atm
+Heatoffusion 2.29kJ/mol
+Heatofvaporization 59.11kJ/mol
+Molarheatcapacity 27.893J(mol*K)
+Hgoccursasanumberofchemicalspeciesdependinguponwhethertheoccurrence
+isintheatmosphereorwithinwater. ElementalHg(Hgo)occursbothintheatmosphere
+andinwater. However, themostcommonformisgaseouselementalHg(GEM)inthe
+atmosphere. Natural surface water is nearly always saturated or supersaturated with
+elementalHgwithrespecttoatmosphericHgconcentrations[101]. DivalentHg(HgII)
+occurs in inorganic and organic forms under gaseous, dissolved, and solid states. The
+toxic methylated forms of Hg are of considerable interest because of biologic cycling
+andaccumulationbylivingorganisms[102]. Dimethylmercury(DMHg)isaformthatis
+consideredtobehighlytoxicbasedonitsabilitytoabsorbintothehumanguttissuewitha
+tendencytobioaccumulate[71]. Monomethylmercuryisalsomuchmoretoxiccompared
+toHoduetoitsrapidgutabsorptionandtoxicologicalproperties[103]. Thetotalairborne
+HgisthesumofHgo,Hg(II),andparticulateHg(PHg). WaterborneHgisrathercomplex
+withsomeportioningbetweenDMHg+Hgo,Hg(II),andMMhg+PHg[71].
+2.2. Oxidation–ReductionReactionsintheAtmosphere
+Within the atmosphere, a series of reactions impact the concentration of Ho and
+residencetimesofvariousformsofHg[38,104]. Whilegenterstheatmosphereprimarily
+in the elemental form Ho, it is oxidized to the more reactive forms Hg(I) and Hg(II).
+The photoreduction of Hg(I) and Hg(II) tends to offset the efficiency of bromine Hgo
+oxidation,therebymatchingtheobservedatmosphericvariabilityofHgoandtheobserved
+residencetimeof3to6months[38]. ThethermaloxidationofHgalsoplaysanimportant
+role in the atmospheric chemistry of Mg, which has a very complex cycle (Figure 2).
+This recent research suggests that even the best models of Hg chemical cycling in the
+Int.J.Environ.Res.PublicHealth2024,21,118 6of44
+Int. J. Environ. Res. Public Health 2024, a21tm, x o spherecontaingreatuncertaintyandwillrequiremoredatatoproducebetterest6im ofa t4e4s
+forresidencetimeandpredictedconcentrationsofthevariousmercurytypesindifferent
+regions[38,105,106].
+FFiigguurree 22. .AA ddeessccrripipttioionn ooff tthhee tthheerrmmaal laanndd pphhoottoocchheemmicicaal lrreeaaccttioionnss ooff mmeerrccuurryy iinn tthhee aattmmoosspphheerree
+((mmooddiififieedd ffrroomm SSaaiizz--LLooppeezz eett aall.. [[3388]],, rreeppuubblliisshheedd wwiitthh ppeerrmmiissssiioonn))..
+2.3. OxidationReactionsinSurfaceOceanWaterandOtherFreshwaterBodies
+2.3. Oxidation Reactions in Surface Ocean Water and Other Freshwater Bodies
+Since approximately one third of the Hg flux to the atmosphere occurs from the
+Since approximately one third of the Hg flux to the atmosphere occurs from the
+oceans[33],itisimportanttounderstandthekineticsofdissolvedgaseousHg(DGM)and
+oceans [33], it is important to understand the kinetics of dissolved gaseous Hg (DGM) and
+whatfactorsinfluencetheratesofrelease[32,107]. Fieldexperimentsandmodelingwere
+what factors influence the rates of release [32,107]. Field experiments and modeling were
+conductedbyQureshietal.[108]toassessthepathwaysofoceanicmercurytoatmospheric
+conducted by Qureshi et al. [108] to assess the pathways of oceanic mercury to
+Hg. Photooxidation–photoreductionwasfoundtonotbeasimplereversiblereactionbut
+atmospheric Hg. Photooxidation–photoreduction was found to not be a simple reversible
+involves an immediate reaction to a third form of Hg. The range in measured pseudo-
+reaction but involves an immediate reaction to a third form of Hg. The range in measured
+first-orderkineticrateconstantswasintherangeof0.15–0.93h−1. Theyconcludedthat
+pseudo-first-order kinetic rate constants was in the range of 0.15–0.93 h−1. They concluded
+microbes and colloids did not significantly impact the rate constants. This conclusion
+that microbes and colloids did not significantly impact the rate constants. This conclusion
+differsfromsomeresearchperformedinfreshwaterlakeswhereinmicrobialreductionis
+differs from some research performed in freshwater lakes wherein microbial reduction is
+consideredtobeanimportantprocess[109].
+considered to be an important process [109].
+2.4. Oxidation–ReductionReactionsinSoilsandBioavailabilityofMercury
+2.4. Oxidation–Reduction Reactions in Soils and Bioavailability of Mercury
+Redoxreactionsinsoilsandfreshwatersystems,includinglakesandwetlandareas,
+Redox reactions in soils and freshwater systems, including lakes and wetland areas,
+playanimportantroleinthetoxicityofHgandhowitcyclesintheseenvironments. These
+play an important role in the toxicity of Hg and how it cycles in these environments. These
+processesarebiochemicalinnatureandoccurunderavarietyofnaturalandman-altered
+processes are biochemical in nature and occur under a variety of natural and man-altered
+conditions. TheseprocessesplayamajorroleinHgtransportandtypeinthesouthern
+cFolnodriidtiaonens.v Tirhoensme epnrto[c1e1s0s]es(s peelaSye cat imonaj7o.r4 )r.ole in Hg transport and type in the southern
+FloridLaa eknevsiarnodnmweentlta [n1d10a]r (esaese cSoemctmioonn 7ly.4)h. avethreesourcesofmethylmercury,including
+interLnaaklepsr oadnudc wtioentl,ainndp uartseafrso cmomthmeownalyte hrsahveed t,harnede saotmurocsepsh oefr micewtheytlamnderdcuryryf,a ilnloculutd[1i1n1g] .
+iOntneernkaely pprroodceuscstiiosnth, einmpeuthtsy lfartoimon tohfeH wg,awtehrischhecdo, mamndo naltymoocscpuhrserinicl iwvientg aonrdga dnricym faaltleoruiatl
+[a1n11d].s Ooinlsea knedy cparnocbeesse xisa tcheerb mateetdhyblyatfioernt iolifz Hatgio, nwohficthh ecosmoiml[o1n12ly]. oAccnuirnsv iens ltiivgiantgio onrgoafnHicg
+mreadteurcitailo annadn sdoiclso manpdl ecxaant iboen ebxaycnerabtuatreadl obryg faenritcilimzaattitoenr oinf tahneo sxoiicl [e1n1v2i]r. oAnnm inenvtesstsihgoatwioend
+otfh aHtgH rge(dIIu)cctaionnb aenrded cuocmedplteoxaHtioonv iabya nthaitoulraatle olirggaanndic- inmdauttceerd inox aidnaotxioicn ecnovmirpolnemxaetniotsn
+sphroowceesds [t1h1a3t] .HFugr(tIhI)e rc,awni thbea lroewduccoendc etnot rHatoi onvioa fah utmhiioclaacteid loigfa0n.2d-mingd/uLc,eHd go(IxI)idcaatniobne
+croemadpillyexraetdiounc epdrotoceHssg o[1,1b3u]t. uFnudrtehrehr,i gwhietrh cao nlocwen ctroantcioennstrtahteiorne douf chtuiomnipc raoccieds sofis 0i.n2h mibgit/eLd, .
+HGgu(IeIt) acla.n[1 1b3e] raelsaodicloyn rceludduceeddt htaot Hthgeo,c obmutp luenxdateiro nhiogfhHerg cinonacneonxtircatsieodnism tehnet raendduwctaiotenr
+pbrootchesisn flisu iennhciebsitethde. GHug estp aelc. i[a1t1io3n] aalsnod cboinocllougdiceadl tuhpatta tkhee tchoamtpleleaxdastitoont hofe Hfogr mina atinoonxiocf
+smedeitmhyelnmt earncdur wy.aNteart ubroatlho irngflauneicnmceast ttehre( HNgO sMp)eacicatutiaolnly apnlda ybsioaldougiaclarlo ulepbtayksei mthualtt alenaedous stoly
+the formation of methylmercury. Natural organic matter (NOM) actually plays a dual role
+by simultaneously reducing and oxidizing Hg through two different mechanisms [114].
+The reduction of Hg(II) is caused by reduced state quinones and oxidation is caused by
+Int.J.Environ.Res.PublicHealth2024,21,118 7of44
+reducing and oxidizing Hg through two different mechanisms [114]. The reduction of
+Hg(II) is caused by reduced state quinones and oxidation is caused by low molecular
+weightthiolcompounds[115]. Therefore,theratherrapid(twotosixtimesfasterthanthe
+photochemicalreactioninsurfacewater)productionofreactiveHgenhancesmicrobial
+uptakeandmethylationinanoxicenvironments[114].
+Insomewetlandareas,otherprocessescanaffecttherateofHgmethylation. Inan
+artificiallymaintainedwetlandareainsouthernFlorida,Fengetal.[110]foundthatthe
+wettinganddryingcyclesandtheinfluxofsulfateinsurfacewaterenhancedtherateof
+Hgmethylation. Thisisatwo-stepprocessinwhichthesulfateincreasedinconcentration,
+which increased the occurrence of sulfate-reducing bacteria, ultimately increasing the
+rate of Hg methylation. Feng et al. [110] recommended the elimination of the drying
+process to reduce the methylation rate. Other research has suggested that upland soils
+canalsocontributetoHgmethylationduringwatersaturation,whichcreatesananoxic
+conditionconducivetothegrowthoftypicalHg-methylatingbacteria,includingClostridium,
+Acetonema,andGeobacter[116].
+3. OverviewofNaturalGlobalOccurrenceofMercuryinRocksandSoilswith
+EmphasisonCarbonateRocksandSediments
+InorganicHgintheenvironmentisdescribedindetailinFleischeretal.[117]. The
+Hgcontentofigneousrocksisgenerally<200µg/kgwithanaverageofapproximately
+100µg/kg. Deepmantlerockscanhaveconcentrationsinthehundredsofµg/kg. Sedi-
+mentaryrockscontainmercuryconcentrationsof<200µg/kgwiththeexceptionofshales,
+coals,organic-richclays,andorganic-richsoils. Highconcentrationshavebeenfoundin
+somepetroleum(California).
+Hgisclassifiedasachalcophilic(lowoxygenaffinity,highsulfuraffinity)elementand
+tendstooccurinsulfides[117]. ThemostcommonHg-containingmineralsarethesulfides
+cinnabarandmetacinnabar(HgS),andnativeHg. Hgformedfromhydrothermalprocesses
+cancommonlycrystalizeascorderoite(Hg S Cl ),livingstonite(HgSb S ),andwartzite
+3 2 2 4 7
+([HgCuFe] Sb S )[118]. TheminorcationicsubstitutionofHgcanalsooccurinother
+12 4 13
+sulfidessuchasschwartzite,sphalerite,andwurtzite[118]. TheU.S.GeologicalSurvey
+reportedtheconcentrationofHginavarietyofrocktypesfromtheliterature[119]. While
+thevariousigneousandmetamorphicrocktypesarenotrelevanttosouthernFlorida,they
+dooccurinsourceareasofSaharandustthatdoesimpactsouthernFlorida.
+ForcomparativepurposestogeologicdataforFlorida,acompilationofHgconcen-
+trationmeasurementsincarbonaterockshasbeenmade(Table3). Althoughthesedata
+have been published within the context of peer-review, the analytical methods used to
+measureHgconcentrationsinthepasthavebeenimprovedconsiderablysincesomeof
+thesemeasurementsweremade. BecauseofthedifficultyinquantifyingHginsediments
+inthepast,itwascommonlyomittedfromthelistofheavymetalsmeasured.
+Table3. Hgconcentrationinvariouscarbonaterocks(inµg/kg). Notethatmeasurementerrorin
+theseconcentrationsiscommonlynotreportedandisgenerallygreaterintheolderliteraturebased
+onmodernimprovementsindetection.
+No.
+Location Min. Max. Avg. Reference
+Samples
+StockandCucuel
+Unknownlocation 1 - - 33
+[120]
+Germany 14 28 220 66 Heideetel.[121]
+RussianPlatform Ozerovaand
+19 10 90 31
+(argillaceousmarls) Aidin’yan[122]
+1 10 8000 - Abuevetal.[123]
+Crimeanhighlands
+8 100 6400 2300 Bulkin[124]
+(limestones)
+Int.J.Environ.Res.PublicHealth2024,21,118 8of44
+Table3.Cont.
+No.
+Location Min. Max. Avg. Reference
+Samples
+Crimeanhighlands
+5 500 5000 1000 Bulkin[124]
+(marls)
+Karasikand
+DonetsBasin 314 <100 10,000 900
+Goncharov[125]
+SouthernFerghana
+(limestonesand 22 20 150 75 Nikiforovetal.[126]
+dolomites)
+Nekrasovand
+NortheastYakutia 26 <2 70 18
+Timofeeva[127]
+Vietnam(marble) 1 - - 500 Aidin’yanetal.[128]
+India(beachrock) 25 0.06 0.31 0.17 Sahayametal.[129]
+4. NaturallyOccurringHgConcentrationsinGeologicalUnitsandSoilsof
+SouthernFlorida
+4.1. HgOccurrenceinMajorStratigraphicUnits(MiocenetoEarlyEocene)inSouthernFlorida
+HgconcentrationsoccurringintheMiocenetoLowerEocenesedimentsofsouthern
+FloridaandsomeadjacentcountieshavebeenmeasuredbytheFloridaGeologicalSurvey
+(Table4). WiththeexceptionoftheHawthornGroup(lateOligocenetoMiddleMiocene),
+theseareprimarilycarbonatesedimentswithlimestonesbeingdominantintheSuwannee
+LimestoneandOcalaGroup(LateEocene)anddolostonesintheAvonParkFormation
+(MiddleEocene). TheHawthornGroupsedimentsareamixofsiliciclasticswithclayand
+carbonates. TheoverallaverageHgconcentrationforall46analysesis15.3µg/kg. The
+averageconcentrationsofHginthefourformationsareasfollows: HawthornGroupat
+23.6µg/kg,theSuwanneeLimestoneat17.3µg/kg,theOcalaGroupat6.9µg/kg,and
+theAvonParkFormationat21.1µg/kg. Incomparisonwiththemercuryconcentrations
+measuredinoldercarbonaterocks(Table3),thesevaluesaregenerallylower.
+Table4. HgconcentrationsmeasuredincarbonaterocksofEarlyEocenetoMioceneinagefrom
+southernFloridaandadjacentcountiesbytheFloridaGeologicalSurvey.Thedetectionofmercuryin
+rocksamplescanbeproblematicbasedonthemethodsusedandthesereportedvaluesappeartobe
+lowcomparedtomorerecentinvestigations(blsisdefinedasbelowlandsurfaceandBDLstandsfor
+BelowDetectionLimits).
+Depth Depth
+Hg(µg/kg)
+WellNo. Minimum Minimum Formation County
+Hg-FIMS
+(mbls) (mbls)
+W-17001 154.9 155.2 Hawthorn Highlands 5
+W-17001 168.4 168.6 Hawthorn Highlands 8
+W-17001 187.8 188.1 Hawthorn Highlands 12
+W-17001 201.7 202.1 Suwannee Highlands BDL
+W-17001 208.2 211.3 Suwannee Highlands BDL
+W-17001 210.7 211.3 Suwannee Highlands BDL
+W-17001 214.6 215.2 Ocala Highlands BDL
+W-17001 218.3 218.9 Ocala Highlands 5
+W-17001 225.3 226.8 Ocala Highlands 5
+W-17001 236.6 237.0 Ocala Highlands BDL
+W-17001 247.0 247.4 Ocala Highlands BDL
+Int.J.Environ.Res.PublicHealth2024,21,118 9of44
+Table4.Cont.
+Depth Depth
+Hg(µg/kg)
+WellNo. Minimum Minimum Formation County
+Hg-FIMS
+(mbls) (mbls)
+W-17001 261.3 281.9 Ocala Highlands BDL
+W-17986 309.5 309.8 Hawthorn PalmBeach 13
+W-17986 310.7 311 Hawthorn PalmBeach 8
+W-17986 311.6 311.9 Hawthorn PalmBeach 11
+W-17986 318 318.3 Hawthorn PalmBeach 145
+W-17986 318.9 319.5 Hawthorn PalmBeach 7
+W-17986 319.6 320.1 Hawthorn PalmBeach 9
+W-17986 344.5 344.8 AvonPark PalmBeach 9
+W-17986 345.4 345.7 AvonPark PalmBeach 6
+W-17986 352.1 352.4 AvonPark PalmBeach 10
+W-17986 356.7 357.0 AvonPark PalmBeach 76
+W-18253 266.5 266.8 Suwannee Glades BDL
+W-18253 267.4 267.7 Suwannee Glades 104
+W-18253 268.6 268.9 Suwannee Glades BDL
+W-18253 303.0 303.4 Ocala Glades BDL
+W-18253 304.3 304.6 Ocala Glades BDL
+W-18253 306.4 306.7 Ocala Glades 51
+W-18253 397.6 397.9 AvonPark Glades 33
+W-18253 399.1 399.4 AvonPark Glades 43
+W-18253 400.6 400.9 AvonPark Glades 15
+W-18255 176.8 178.4 Ocala Okeechobee BDL
+W-18255 209.1 209.5 Ocala Okeechobee BDL
+W-18255 210.4 210.7 Ocala Okeechobee BDL
+W-18255 225.6 234.8 Ocala Okeechobee BDL
+W-18255 243.9 253 Ocala Okeechobee BDL
+W-18255 260.7 269.8 AvonPark Okeechobee 19
+W-18256 194.5 184.7 Hawthorn Martin 23
+W-18256 196 196.2 Hawthorn Martin 19
+W-18256 243.3 243.6 Ocala Martin 20
+W-18256 244.5 244.8 Ocala Martin 24
+W-18256 245.4 245.7 Ocala Martin 20
+W-18256 278.7 279 Ocala Martin BDL
+W-18256 279.9 280.2 Ocala Martin 6
+W-18256 284.2 284.5 AvonPark Martin BDL
+W-18256 286.0 286.3 AvonPark Martin BDL
+Average 15.3
+Maximum 145
+Minimum BDL
+Int.J.Environ.Res.PublicHealth2024,21,118 10of44
+ArecentinvestigationwasconductedbyMacDonaldetal.[130,131]ontracemetals
+in a continuous core that penetrated approximately 457 m into the Miocene to Lower
+EocenestratigraphicsectionofsouthernFlorida. ThesiteofthecorewasjustnorthofLake
+OkeechobeealongTaylorCreek(CanalL63). Measurementsweremadeapproximately
+every 30 cm using a calibrated portable X-ray fluorescence (XRF) unit (Figure 3). The
+Hgconcentrationshadalargerangeinvaluesandwerefoundabovedetectionlimitsin
+1177ofthe1338measurementsmade. ThedetectionlimitforHgwas1µg/g[130]. The
+range in concentration above the detection limit was 4 to 237 µg/g with an average of
+9.91 µg/g. The highest values were located in the Avon Park Formation in the deeper
+partofthecore. TherewasastrongcorrelationbetweenhighconcentrationsofHgand
+theoccurrenceoforganiclayers([130,131]; Figure4). Fouroftheseorganiclayerswere
+located in the Ocala Limestone, while the majority (24) were located in the Avon Park
+Formation and Oldsmar Formation [130]. However, some non-organic clustered high
+values of Hg were measured in dolostones at various depths (Figure 3). There is clear
+evidencethatatmosphericdepositionofHghasbeenoccurringinsouthernFloridafor
+atleastthelast56MY(AvonParkFormationinTable4anddatafromtheLowerEocene
+section in Figure 3). Note that these measurements are substantially higher than those
+madebytheFloridaGeologicalSurvey(Table4; µg/gis1000timeslargerthanµg/kg).
+Int. J. Environ. Res. Public Health 2024, 21, x 10 of 44
+Thehighdegreeofinstrumentcalibrationforthesedata[130]suggeststheymaybemore
+reliablemeasurementsthanthepreviouslypublisheddata(Table4).
+FiFgiugruer e33. .HHgg mmeeaassuurreemmeennttss mmaaddeei ninco rceorLe- 6L3N-63nNor tnhoorfthL aokfe LOakkeee cOhokbeeeechinob µ ege/ gin( frµogm/gM (afrcoDmo n-
+MaalcdDeotnaal.ld[1 3e0t ,1a3l.1 ][)1.3G0,r1a3p1h])s. cGalreaipshs esmcailloeg iasr isthemmiilco.gTahreithyemlliocw. Tphoei nytselalorewi npdoivinidtsu aalrem einadsuivreidmueanl ts
+maenasdutrheemreendtsli nanedis tthhee rreudn lninineg isa vtheer arguen.ning average.
+Figure 4. Occurrence of Hg in organic layers within core L-63N from MacDonald et al. [130,131].
+Most organic layers occur in the Avon Park Graph and Oldsmar Formations. Scale is
+semilogarithmic.
+4.2. Atmospheric Deposition of Hg in the Southern Florida Environment
+Int. J. Environ. Res. Public Health 2024, 21, x 10 of 44
+Figure 3. Hg measurements made in core L-63N north of Lake Okeechobee in µg/g (from
+Int.J.Environ.Res.PublicHealth2024M,2a1c,D11o8nald et al. [130,131]). Graph scale is semilogarithmic. The yellow points are indiv1i1doufa4l4
+measurements and the red line is the running average.
+Figure4. OccurrenceofHginorganiclayerswithincoreL-63NfromMacDonaldetal.[130,131].
+Figure 4. Occurrence of Hg in organic layers within core L-63N from MacDonald et al. [130,131].
+MMoosstt oorrggaannicicl aylaeyrserosc cuorccinurt heinA vtohne PAarvkoGn raPpahrka ndGOralpdhsm aarnFdo rOmladtsiomnasr. ScFaolremisastieomnisl.o gSacraitlhem iisc .
+semilogarithmic.
+4.2. AtmosphericDepositionofHgintheSouthernFloridaEnvironment
+TheprimarynaturalsourceofHgdepositioninsouthernFloridaisfromtheatmo-
+4.2. Atmospheric Deposition of Hg in the Southern Florida Environment
+sphere[91,132]. However,hereinliesaparadoxconcerningwhatisdefinedasnaturaland
+whatisanthropogenic. ThemostrecentinvestigationsofHoloceneatmospheremercury
+concentrationsincomparisontothepeakconcentrationcausedbyanthropogenicimpacts
+isaratiorangingfrom3to14.4,withthebestestimateofHoloceneatmosphericHgcon-
+centrationbeing0.27±0.11ngm−3[72]. TheassociateddepositionratefortheHolocene
+(pre-man impacts) is 1.5 ± 1.0 µg m−2 y−1 (Table 1). This natural deposition rate only
+increasedby0.2ngm−3duringtheperiod1500to500CE;therefore,anthropogenicimpacts
+onatmosphericdepositionbecamesignificantafter500CE.
+Hg accumulation in the southern Florida environment is mostly concentrated in
+organicsoils,asdemonstratedoverthepast56MYbasedonthestratigraphicdistribution
+ofHginthecarbonaterocksunderlyingtheregion(Figures3and4). Thisimpliesthat
+organic soils associated with wetland environments are expected to have the highest
+concentrations of Hg [133]. Therefore, it is logical that the peatlands of the Everglades,
+whichisthelargestwetlandareainsouthernFlorida,isthelargestreservoirofaccumulated
+Hg[92,134–137]. ThereisageneralpaucityofHgdataonotherwetlandsoildepositsin
+southernFloridaforcomparisontotheEvergladesHgdatabase[138].
+ThehistoricalareaoftheEvergladespeatlandswasapproximately7000km2 [139],
+andthedepositiontimerangedfrom3000to8000yearscoveringthetotalpeatlandarea
+dependingonthelocation,originalthicknessofpeat,andtheaccuracyoftheagedeter-
+minations[140–144]. Therefore,Hgdepositedbeforeanysignificantglobalanthropogenic
+impacts occurred from between 2500 and 7500 years based only on the global changes,
+asshowninTable1. However,localizedimpactstoatmosphericHgconcentrationsonly
+begantobecomesignificantperhapsconservativelyat1900AD,leavingarangeof“natural”
+deposition from 2880 to 7880 y. Therefore, “natural” atmospheric Hg deposition in the
+Evergladeshasoccurredforapproximately4000y(averagetimeframebeforesignificant
+anthropogenicimpactsandconsideringtheentireareaoftheEverglades).
+IftheEnricoetal.[72]HolocenetotalHgdepositionrateof1.5µgm−2y−1isusedasa
+proxy,thetotalpre-anthropogenicdepositionforthe7000km2 peatlandsareawouldbeap-
+Int.J.Environ.Res.PublicHealth2024,21,118 12of44
+proximately42,000kg(42metrictons).IftheaverageHgdepositionratewas25µgm−2y−1
+duringthepast120years(Table1),thetotalamountofanthropogenicmercurydeposition
+wouldbe280kgor150timeslessthatofthe“natural”depositionquantity. Therefore,an
+estimatedreservoirofmercuryintheEvergladespeatsisapproximately42.3metrictons.
+ThismethodofestimatingtheatmosphericdepositionofHgintotheEvergladespeatlands
+cannotbeconsideredtobeaccuratebasedontheunknownpastconcentrationsoflocal
+Hgintheaerosolfallout,butdoesgiveageneralorderofmagnitudeestimate. Thisisan
+extremelylargereservoiroflegacyHg.
+Hg was and is transported to southern Florida within Saharan dust from Africa
+(Figure5),butfewdatahavebeencollectedtoascertaintheconcentrationsandtheform.
+Masonetal.[35]measuredtheHgcontentinparticlescollectedovertheNorthAtlantic
+thatareassumedtobefromSaharandust. Streetsetal.[145,146]estimatethatASGMdust
+emissionsfromtheSaharaandsub-Saharaarearangebetween0.154and0.300kt/yr. Hgin
+theSaharandustmaybeattachedtoclayminerals. TheestimatedSaharandustemission
+to the atmosphere, accounting for seasonal and annual fluctuations, ranges from 0.4 to
+2.0billiont/yr[147].
+StudiesofatmosphericHgoccurrencebytheUniversityofArizonaandtheU.S.Geologi-
+calSurveyhavefoundthatinthesmallestaerosolparticles(approximately1micrometer)in
+Africandust,Hgoccursataconcentrationofupto2µg/g[148]. Thesourceofthismercury
+isbelievedtobeopen-pitminesinAlgeriaandtherockformationfromwhichtheHgis
+mined[148]. SomeHganalyseshavebeenperformedonSaharandustsamplescollectedat
+Int. J. Environ. Res. Public Health 2024, 21, x 12 of 44
+CaboVerdeintheCanaryIslands. Bailey[149]reportedthattheCaboVerdedustsample
+hadameanHgconcentrationof49±31.9ng/gandacorrespondingatmosphericconcen-
+trationof2.7±2.37ngm−3. TwoadditionalsamplesofSaharandustwerecollectedat
+were collected at this location and yielded Hg concentrations of 37.5 and 51.8 ng/g. The
+thislocationandyieldedHgconcentrationsof37.5and51.8ng/g. TheCaboVerdedata
+Cabo Verde data are useful but may be enriched by local Hg sources in volcanic debris
+areusefulbutmaybeenrichedbylocalHgsourcesinvolcanicdebristhatiscommonin
+that is common in that area.
+thatarea.
+FFiigguurree 55.. IImmaaggee aaccqquuiirreedd bbyy NNAASSAA GGOOEESS--55 SSaatteelllliittee ooff SSaahhaarraann dduusstt pplluummee eexxtteennddiinngg ffrroomm AAffrriiccaa
+aaccrroossss tthhee AAttllaannttiicc OOcceeaann oonn 2288 JJuunnee 22001188 ((NNAASSAA oonnlliinnee)) [[115500]]..
+The rate of African dust deposition in North America may slow based on future
+The rate of African dust deposition in North America may slow based on future
+globalwarming. SomemodelingofvariouswindimpactscenariosappliedtotheAfrican
+global warming. Some modeling of various wind impact scenarios applied to the African
+land surface show lower rates of entrainment [151]. However, the warming surface of
+land surface show lower rates of entrainment [151]. However, the warming surface of the
+theoceannearlandoffshorefromFloridamayincreasethedischargeofvolatileHgdis-
+ocean near land offshore from Florida may increase the discharge of volatile Hg dissolved
+in the seawater. The Atlantic Ocean produces an annual flux of gaseous Hg of
+approximately 840 Mg/yr [152]. Therefore, the future rate of onshore movement of Hg
+from African dust and marine aerosols is an open issue with consideration to the southern
+Florida environment.
+4.3. Naturally Occurring Hg Sources in Southern Florida Soils, Wetland, Lake and Tidal Sediments
+An investigation of Florida’s soils to establish baseline concentrations of 15 trace
+elements was conducted by Chen et al. [153]. In the 443 samples analyzed for their Hg
+concentration, the range in concentration was 0.2–430 µg/kg, with a median value of 4.31
+µg/kg and a mean of 4.2 µg/kg. The baseline concentration range was 0.75–39.6 µg/kg
+compared to the range for the entire USA of 9.1–368 µg/kg. Note that the large range in
+values with some very high concentrations was caused by the sampling of some
+environments in which higher concentrations of all metals were found (e.g., accumulated
+urban runoff or agricultural sites with past pesticide use). Chen et al. [153] determined
+that the strongest relationship between Hg and other metals was for Fe and Al. Bacause
+of anthropogenic source of Hg in the Florida environment, the baseline upper values are
+likely not to be natural. However, the correlation of iron and aluminum suggests
+deposition from Saharan dust, based on general elemental enrichment linked to the
+composition of particulate matter in southern Florida [154]. Therefore, the natural
+concentration should be within the baseline range.
+The Chen et al. [153] dataset does suggest that an association occurs between the
+concentration of organic carbon in the soil and the higher Hg concentrations found in the
+peatlands of the Everglades. Two sediment cores were collected for Hg analysis, one from
+Int.J.Environ.Res.PublicHealth2024,21,118 13of44
+solved in the seawater. The Atlantic Ocean produces an annual flux of gaseous Hg of
+approximately840Mg/yr[152]. Therefore, thefuturerateofonshoremovementofHg
+fromAfricandustandmarineaerosolsisanopenissuewithconsiderationtothesouthern
+Floridaenvironment.
+4.3. NaturallyOccurringHgSourcesinSouthernFloridaSoils,Wetland,Lakeand
+TidalSediments
+AninvestigationofFlorida’ssoilstoestablishbaselineconcentrationsof15traceele-
+mentswasconductedbyChenetal.[153]. Inthe443samplesanalyzedfortheirHgconcen-
+tration,therangeinconcentrationwas0.2–430µg/kg,withamedianvalueof4.31µg/kg
+andameanof4.2µg/kg. Thebaselineconcentrationrangewas0.75–39.6µg/kgcompared
+to the range for the entire USA of 9.1–368 µg/kg. Note that the large range in values
+withsomeveryhighconcentrationswascausedbythesamplingofsomeenvironmentsin
+whichhigherconcentrationsofallmetalswerefound(e.g.,accumulatedurbanrunoffor
+agriculturalsiteswithpastpesticideuse). Chenetal.[153]determinedthatthestrongest
+relationshipbetweenHgandothermetalswasforFeandAl. Bacauseofanthropogenic
+sourceofHgintheFloridaenvironment, thebaselineuppervaluesarelikelynottobe
+natural. However,thecorrelationofironandaluminumsuggestsdepositionfromSaha-
+randust,basedongeneralelementalenrichmentlinkedtothecompositionofparticulate
+matterinsouthernFlorida[154]. Therefore,thenaturalconcentrationshouldbewithinthe
+baselinerange.
+The Chen et al. [153] dataset does suggest that an association occurs between the
+concentration of organic carbon in the soil and the higher Hg concentrations found in
+the peatlands of the Everglades. Two sediment cores were collected for Hg analysis,
+one from a location in Water Conservation Area 2A (WCA) in the Everglades (from T.
+AtkesonasreportedbyPollmanandEngstrom[92]),andonefromLakeAnnie,located
+approximately40kmnorthwestofthewesternedgeofLakeOkeechobee[155]. TheWCA
+coresuggeststhatthepre-industrialHgdepositionrateinsouthernFloridacouldbeas
+lowas10µg/m2-yr,buttheLakeAnniecoresuggestsitbeingslightlyover20µg/m2-yr
+(Figure6). Inbothcores,therateofmercurydepositionbegantoincreasesignificantlyin
+approximately1850andpeakedbetween1985and1990atapproximately40µg/m2/yr
+intheWCAcoreandat84µg/m2/yrintheLakeAnniecore. TheWCAcoregenerally
+followsthevaluesintheEuropeanbogasreportedbyEnricoetal.[72],buttheLakeAnnie
+core has a pre-industrial baseline concentration more than double of that measured by
+Enrico et al. [72]. The peak values of Hg in 1990 were also more than double of those
+found in Europe by Enrico et al. [72]. If the Lake Annie values would be correct, the
+pre-industrialHgdepositionintheEvergladescouldbedoubleofthatestimatedusingthe
+Enricoetal.[72]dataset,orover84kg. PollmanandEngstrom[91]suggestthattheLake
+Anniecoreswereimpactedby“sedimentfocusing”whichcausedapreferentialdeposition
+patternoffinesedimentsmovingintothedeeperpartofthelake,therebyincreasingthe
+concentrationsofHg. WhencorrectedtodatafromLamborgetal.[156],thevalueswere
+closertotheWCAcoredata. TheWCAcoreseemstoindicatethatthelowervaluehasa
+higherlikelihoodofbeingamoreaccurateestimate. Therewereafewothercorescollected
+insouthernFlorida,buttheydidnothaveafavorablesedimentologicalregimeandarenot
+consideredtobeasaccurateastheWCAandLakeAnniecores[92].
+InSection4.2,aproxyforthenaturalrateofatmosphericHgdepositioninsouthern
+Florida of 1.5 µg m−2 y−1 was used to estimate the natural amount of Hg occurring in
+theEvergladespeatlandsbeforemodernalteration. TheWCAcorepre-industrialvalueof
+10µgm−2y−1suggeststhattheestimatecouldbe90%higher. ThehigherinfluxofHgto
+southernFloridacould,infact,betruebasedontheimpactsofSaharandustandoceanflux,
+whereasthesefactorsdonotimpactthetwoPyreneanpeatbogswheretheestimatesfora
+“natural”conditionweremadebyEnricoetal.[72]. Ifthehighernaturalinfluxrateof10µg
+m−2y−1isused,thentheEvergladesreceivedapproximately280,000kg(280metrictons)
+ofHg. ThehistoricinfluxatahigherconcentrationofHgwouldnotbesignificantinthis
+Int. J. Environ. Res. Public Health 2024, 21, x 13 of 44
+a location in Water Conservation Area 2A (WCA) in the Everglades (from T. Atkeson as
+reported by Pollman and Engstrom [92]), and one from Lake Annie, located
+approximately 40 km northwest of the western edge of Lake Okeechobee [155]. The WCA
+core suggests that the pre-industrial Hg deposition rate in southern Florida could be as
+low as 10 µg/m2-yr, but the Lake Annie core suggests it being slightly over 20 µg/m2-yr
+(Figure 6). In both cores, the rate of mercury deposition began to increase significantly in
+approximately 1850 and peaked between 1985 and 1990 at approximately 40 µg/m2/yr in
+the WCA core and at 84 µg/m2/yr in the Lake Annie core. The WCA core generally follows
+the values in the European bog as reported by Enrico et al. [72], but the Lake Annie core
+has a pre-industrial baseline concentration more than double of that measured by Enrico
+et al. [72]. The peak values of Hg in 1990 were also more than double of those found in
+Europe by Enrico et al. [72]. If the Lake Annie values would be correct, the pre-industrial
+Hg deposition in the Everglades could be double of that estimated using the Enrico et al.
+[72] dataset, or over 84 kg. Pollman and Engstrom [91] suggest that the Lake Annie cores
+were impacted by “sediment focusing” which caused a preferential deposition pattern of
+fine sediments moving into the deeper part of the lake, thereby increasing the
+Int.J.Environ.Res.PublicHealth2024,2c1o
+,
+n
+11
+c
+8
+entrations of Hg. When corrected to data from Lamborg et al. [156], the value
+1
+s
+4 o
+w
+f
+e
+44
+re
+closer to the WCA core data. The WCA core seems to indicate that the lower value has a
+higher likelihood of being a more accurate estimate. There were a few other cores collected
+in southern Florida, but they did not have a favorable sedimentological regime and are
+case. Therefore,therangeofmassofHgintheEvergladespeatlandliesbetween42.3and
+not considered to be as accurate as the WCA and Lake Annie cores [92].
+280metrictons.
+2000 2020
+2000
+1980
+1980
+1960 1960
+1940
+1940
+1920
+1920 1900
+1880
+1900
+1860
+1880 1840
+1820
+1860 Core A
+1800
+1840 1780 Core B
+Wet + dry deposition
+1760
+1820 Core C
+Core 1740
+1800 1720
+5 15 25 35 45 10 30 50 70 90
+Hg accumulation rate (µg.cm−2.y−1)
+Figure 6. Hg accumulation from two cores collected and analyzed in southern Florida. The data on
+the left are from site 3 in Water Conservation Area 2A (from Abelak et al. and obtained by T.
+Atkeson) and the data on the right are compiled from 3 cores from the western edge of Lake Annie
+as analyzed by Engstrom et al. [155]. (Original government report as modified from Pollman and
+Engstrom [92]).
+In Section 4.2, a proxy for the natural rate of atmospheric Hg deposition in southern
+Florida of 1.5 µg m−2 y−1 was used to estimate the natural amount of Hg occurring in the
+Everglades peatlands before modern alteration. The WCA core pre-industrial value of 10
+µg m−2 y−1 suggests that the estimate could be 90% higher. The higher influx of Hg to
+southern Florida could, in fact, be true based on the impacts of Saharan dust and ocean
+flux, whereas these factors do not impact the two Pyrenean peat bogs where the estimates
+for a “natural” condition were made by Enrico et al. [72]. If the higher natural influx rate
+of 10 µg m−2 y−1 is used, then the Everglades received approximately 280,000 kg (280 metric
+raeY raeY
+Hg accumulation rate (µg.cm−2.y−1)
+Figure6.HgaccumulationfromtwocorescollectedandanalyzedinsouthernFlorida.Thedataon
+theleftarefromsite3inWaterConservationArea2A(fromAbelaketal.andobtainedbyT.Atkeson)
+andthedataontherightarecompiledfrom3coresfromthewesternedgeofLakeAnnieasanalyzed
+byEngstrometal.[155].(OriginalgovernmentreportasmodifiedfromPollmanandEngstrom[92]).
+Nohigh-qualityHgdatasetscouldbefoundforundisturbednaturalwetlandareas
+infreshwaterenvironmentsofSouthFlorida,suchascypressdomes,cypresssloughs,or
+other isolated wetland types. Stratigraphic samples need to be collected and analyzed
+fromwetlandsitesthatareundisturbedandremotefromtheEverglades. However,very
+highHgconcentrations(methylmercury)werefoundinaconstructedwetlandarea, as
+documentedbyRumboldandFink[138].
+HghasbeenmeasuredwithinfourcorescollectedinthesouthernEvergladesand
+FloridaBay[157]. Onlyoneofthesecores(CootBay)penetrateddeepenoughtoreach
+pre-industrial-age sediments. In this case, the measured Hg flux rate was between 20
+and30µgm−2y−1,whichistwotothreetimeshigherthanthatfoundintheWCAcore.
+ItisnotpossibletoassesstherelationshipbetweenthefreshwaterandmarineHgdata.
+Kang et al. [157] suggested that anthropogenic enrichment of Hg may be the result of
+thechemistryofrunoffenteringthenaturalsystem. However,inanotherinvestigation,
+Rumboldetal.[158]concludedthatatmosphericdepositionwasthemostimportantfactor
+causingHgenrichmentinthesedimentsandrunoffwasnotasignificantfactor.
+AtmosphericconcentrationsofparticulateHginairsamplescollectedattheshoreline
+inBrowardCountyaveraged34pgm−3[159]. ThelikelysourceforthisHgisSaharandust.
+Shinn[148]suggeststhatthedustcouldcontainupto2µg/gofHg,whichismuchhigher
+thatthemeasuredconcentrationsattheshoreline. IfthenaturalfluxofatmosphericHg
+depositionof10µgm−1y−1isassumedtobeaproxyforallofsouthernFlorida,including
+Monroe,Dade,Broward,PalmBeach,Hendry,Collier,andLeecounties,theannualHg
+fluxwouldbe257.1kg/y. IfthecurrentHgatmosphericfluxisgreaterthantheprehistoric
+value,theoveralldepositionrateinsouthernFloridacouldbeasgreatasdoublethevalue,
+or514.2kg/y.
+4.4. OceanicEvasionofHgintotheSouthernFloridaEnvironment
+Hgthatoccurswithinoceanicseawaterisrecycledbackintotheatmospherebysurface
+evasionprocesses. Whenevasionoccursinnearshorewaters,theprevailingwindcanmove
+theHginlandanditbecomesanothersourcewithintheHgbudget.
+Int.J.Environ.Res.PublicHealth2024,21,118 15of44
+Dvonchetal.[159]conductedaninvestigationofHgmeasuredasvaporphase,particle
+phase, and in-event precipitation. Their site 1 location was less than 100 m from the
+beach, and they assumed it was the baseline for Hg moving from offshore to onshore
+withconsiderationofthewinddirection. Thevaporconcentrationwas1.8ng/m3 atthe
+backgroundstation. Theparticleconcentrationattheshorelinesitewas34ng/m3,which
+was50%lowerthantheinlandsitemeasurements. Whiletheycouldnotdeterminethe
+absolutesourceoftheHg,thereisahighlikelihoodthatthevaporHgattheshorelineisthe
+combinationofmarineevasionandthevaporphaseoftheatmosphere. Theparticlephase
+HgmaybeaproxyforSaharandusttransportattheshoreline,basedontheassumption
+thatnoupwindindustrialoranthropogenicHgsourcesexist.
+SunderlandandMason[160]andMason[34]estimatedthattheevasionrateforthe
+North Atlantic Ocean is 0.15 to 19 ± 1.3 nmol/m2/day. Therefore, the onshore wind
+insouthernFloridadoescarryevasion-sourceHgonshoreatsignificantconcentrations.
+However,becauseofwatertemperaturevariability,whichcontrolstheevasionrate,and
+winddirectionchanges,itisnotpossibletoaccuratelyestimatethissourceofHgtosouthern
+Florida. However,basedonsomecalculationsofaverages,therangeofvaluesshouldlie
+somewherebetween2and4kg/yr.
+5. AnthropogenicSourcesofHgintheSouthernFloridaEnvironment
+5.1. AnthropogenicHgDepositioninSouthernFlorida: Sources,Accumulation,andRecycling
+NearlyallthefluxesofHgintothesouthernFloridaenvironmentarenowanthro-
+pogenicortheresultofrecyclingbecauseeventheatmosphericconcentrationisenriched
+comparedtothepre-industrialeraandhasnotdeclinedbacktohistoricbackgroundcon-
+centrations [33,92]. In fact, global Hg emissions have risen slightly between 2010 and
+2015[145,146]. Therefore,theHgbudgetforsouthernFloridacontainsthegrossevasion
+HgfromtheAtlanticOcean[34,152,160,161],whichbecomespartofthewetanddryatmo-
+sphericfallout,andmovesonshoreviathewind. Theinsituatmosphericfluxcomesfrom
+powerplants,incinerators,andcementplantdischarges,alongwithgaseousemissions
+from wastewater treatment facilities. Wildfire, muck fires, and sugar cane fires tend to
+remobilizeHgfromthesoilandplantstoragebackintotheatmosphere. Dischargesto
+the soil and aquifer system occurred through past practices, which included the use of
+pesticidescontainingHg,unlinedlandfillleachatedischarge,illegaldumpingofmaterials
+containingHg,anddischargesfromlargereservoirsofHg,suchastheEvergladespeatland
+area. TheinfluxofHgintosouthernFloridaisgreaterthantheoutflowwiththetendency
+forHgaccumulationinwetlandsoils,thelargestbeingtheEvergladespeatlands,natural
+andman-madelakeandpondsediments,estuarysediments,withinvegetation(bothinthe
+wood,stems,andleavematerial),andthroughaccumulationinperiphytonmats,fishes,
+andmacrophytes.
+Perhaps a good illustration of the Hg balance or budget in southern Florida is an
+examplefromtheEverglades(Figure7). Liuetal.[162]developedaHgmassbudgetfor
+theEvergladesasawhole,whichcanbeappliedtoothersite-specificlocationsinsouth
+Floridawheresomelocalfluxescouldbelowerorhigherwithinthebudget.
+AveryimportantfactorinHgrecyclingwithintheEvergladesistheevasionofHg,
+constituting only 10%, and 0.001–0.007% of the deposition. This loss likely occurs via
+diffusionfromsurfacewaterbodiesandperhapssomeviatranspirationfromplantleaves.
+Thereisanothercriticallyimportantfactormissingfromthismassbudget,whichisthe
+lossofsoilviaoxidationandmuckfirevolatilizationwithsubsequentdown-windremoval
+(arrows added). In some locations there has been a loss of several meters of peat due
+tooxidation[142,163]. Theestimatedvolumeofpeatlossis4 × 109 m3 [163]. Whether
+thismassofvolatileandmobilizedmercurystayedwithintheEvergladessystemorwas
+dischargedwestornorthwestawayfromtheEverglades,basedonthepredominantwind
+direction, is unknown, but an important issue. This same type of mass budget could
+be developed for other areas from small-scale wetlands to a full ecosystem. This is a
+critical issue impacting plant communities, wildlife, fish, and direct (soil ingestion or
+Int. J. Environ. Res. Public Health 2024, 21, x 15 of 44
+Nearly all the fluxes of Hg into the southern Florida environment are now
+anthropogenic or the result of recycling because even the atmospheric concentration is
+enriched compared to the pre-industrial era and has not declined back to historic
+background concentrations [33,92]. In fact, global Hg emissions have risen slightly
+between 2010 and 2015 [145,146]. Therefore, the Hg budget for southern Florida contains
+the gross evasion Hg from the Atlantic Ocean [34,152,160,161], which becomes part of the
+wet and dry atmospheric fallout, and moves onshore via the wind. The in situ atmospheric
+flux comes from power plants, incinerators, and cement plant discharges, along with
+gaseous emissions from wastewater treatment facilities. Wildfire, muck fires, and sugar
+cane fires tend to remobilize Hg from the soil and plant storage back into the atmosphere.
+Discharges to the soil and aquifer system occurred through past practices, which included
+the use of pesticides containing Hg, unlined landfill leachate discharge, illegal dumping
+of materials containing Hg, and discharges from large reservoirs of Hg, such as the
+Everglades peatland area. The influx of Hg into southern Florida is greater than the
+outflow with the tendency for Hg accumulation in wetland soils, the largest being the
+Everglades peatlands, natural and man-made lake and pond sediments, estuary
+sediments, within vegetation (both in the wood, stems, and leave material), and through
+accumulation in periphyton mats, fishes, and macrophytes.
+Int.J.Environ.Res.PublicHealth2024,21,118 16of44
+Perhaps a good illustration of the Hg balance or budget in southern Florida is an
+example from the Everglades (Figure 7). Liu et al. [162] developed a Hg mass budget for
+the Everglades as a whole, which can be applied to other site-specific locations in south
+contactandbreathinginMg)orindirect(ingestionofcontaminatedfood)humanhealthin
+Florida where some local fluxes could be lower or higher within the budget.
+southernFlorida.
+FiguFrieg u7.r eEs7t.imEsattiemda mteadsms (absosld(b, oinld k,gin) akngd) afnradctfiroanc t(i%on) (b%ud)bguetd ogfe ttootfalt oHtagl tHo gthteo EthveerEgvlaedrgelsa dine sthine the
+dry d(Ary) a(And) awnedt w(Be)t s(eBa)ssoenass ofonrs 2f0o0r52 0(f0r5om(fr Lomiu Leti uale. t[1a6l.2[]1).6 T2]h)e. Tsihzee soizf ethoef athrreoawrrso awnsd abnodxebso sxheoswsh ow
+the relative masses for seasonal comparison.
+therelativemassesforseasonalcomparison.
+5.2. HistoricalUseofHgCompoundsinAgricultureandCommonDomesticandIndustrial
+ProductsinSouthernFlorida
+Hg has been used as a preservative in products sold in southern Florida and as a
+pesticidefromthelate1890stothemid-1960s. Aseriesofhydroxymercurichlorophenol
+substanceswereusedasinsecticidesonsomevegetableandfieldcrops[80]. Theearlier
+useofthesecompoundsonsugarcanewascancelledinthe1960s. Therefore,legacyHgis
+containedwithinpermittedandunpermittedlandfills,soils,freshwaterbodysediments,
+estuarinesediments,andtidalwaterbodysedimentsinsouthernFlorida.
+OnecommonHgusewasthepreservationofgladiolusbulbstopreventmoldfor-
+mation using the compound mercuric arsenate. Several hazardous waste sites in Lee
+County,Floridacontainedthissubstancenearformerbulbharvestingfacilities. During
+interviews (for an environmental site assessment) of a former worker that engaged in
+soakingthebulbsatagladiolusproductionfacilitylocatedinnorthwestLeeCounty,itwas
+discoveredthatofthe42employeesthatworkedatthesiteformorethan5years,allhad
+diedofcancer(100%)within20yearsaftertheiremployment. Cyano(methylmercuric)
+guanidine,mercurouschloride,N-Methylmercuri-1,2,3,6-tetrahydro-3,6-endomethano-
+3,4,5,6,7,7-tetrachlorophthalimide,phenylmercuricacetate,phenylmerxcurictrithanolam-
+moniumlactate,andsodiummethylmercurythiosalicylatewerealsousedtosoakglad-
+iolusbulbs[80]. Cuttingsfromthegladiolusplantswerecommonlytreatedwithcyano
+(methymercuric)guanidineormethymercuryhydroxidepriortoshipment. VariousHg
+compoundswerealsousedonfloweringandfoliageplantsasafoliartreatmentbefore
+shipment. HydroxymercurychlorophenolwascommonlyusedinsouthernFloridainthe
+Int.J.Environ.Res.PublicHealth2024,21,118 17of44
+treatmentofsacks(burlap)containingseeds,andtheseedsusedtoraisecrops[80]. Orna-
+mentalflowerseedsweretreatedwithvariousHg-containingsubstances. Varioustrees
+andshrubshavereceivedsoildisinfectionwithHgcompounds,whilethedirecttreatment
+ofwoundsorfordiseaseprotectionwereotheruses,butthesecannotbedocumentedin
+southernFlorida.
+Golf course turf grass was widely treated in the past using fungicides containing
+Hg[80,164]. Whilerecentresearchhasfocusedontheuseofarsenic-containingcompounds
+ongolfcourses,thepastuseofHgcompoundshasresultedintheenrichmentofbiotain
+golfcoursepondsandwetlands[165]. Atonetime,Hg-containingsubstanceswereusedin
+turfweedcontrol,inparticularphenylmercuricacetate[80]. WhileSouthFloridacontains
+hundredsofgolfcourses,onlytheonesover30yearsinagearelikelytocontainresidues
+oftheHgappliedasafungicide.
+The domestic and industrial use of Hg compounds was very common until strict
+legislationandenvironmentalruleswereenactedtobanitsuse. Someofthemostcommon
+usesarelistedinTable5. Disposalofthewasteproductsfromthesematerialsisanother
+reasonwhyolddomesticsolidwasteandagriculturallandfillsaresoenrichedinHg.
+Table5.DomesticandindustrialusesofHgcompoundsaspreservatives,fungicides,mildewcontrol,
+andbacterialcontrol(fromUSEPA[80],notcompletelist).Thequestionmarkmeansthattheredata
+arenotavailable.
+ApplicationConcentration
+Compound Use
+(µg/g)
+Phenylmercuricacetate Preservation 45–250
+Phenylmercuricacetate Mildewcontrol 3500–15,000
+Phenylmercuricoleate Fungicideonfurniture 500–5000
+Bacterialpreservative
+Phenylmercurichydroxide 5000(est.)
+(paint)
+Bacterialpreservative
+Phenylmercuricacetate 1600(est.)
+(cement)
+Fungicide(cementand
+Phenylmercuricacetate 45–200
+plasterpreservation)
+Fungicide(cementand
+Phenylmercuricacetate 3500–15,000
+plasterafterapplication)
+Mercuricoxide Marineantifoulingcoating ?
+Bacterialpreservative
+Phenylmercuricoleate 1500(est.)
+(pint)
+Chloromethoy- Mildewcontrol(paints,
+?
+acetoxymercuipropane stains,varnishes)
+Di(phenylmercury) Mildewcontrol(paints,
+3750
+dodcylsuccinate stains,varnishes)
+Mildewcontrol(paints,
+Phenylmercuricacetate 1500(est.)
+stains,varnishes)
+Mildewcontrol(paints,
+Phenylmercuricborate 1500(est.)
+stains,varnishes)
+Mildewcontrol(paints,
+Phenylmercurichydroxide 4500–9000
+stains,varnishes)
+Mildewcontrol(paints,
+Phenylmercuricoleate ?
+stains,varnishes)
+Bacterialpreservative
+Phenylmercuricoleate 1500(est.)
+(marinepaint)
+Int.J.Environ.Res.PublicHealth2024,21,118 18of44
+Table5.Cont.
+ApplicationConcentration
+Compound Use
+(µg/g)
+Chloromethoy- Mildewcontrol(paints,
+3570
+acetoxymercuipropane stains,varnishes)
+Di(phenylmercury) Mildewcontrol(paints,
+3570
+dodcylsuccinate stains,varnishes)
+Mildewcontrol(paints,
+Phenylmercuricacetate 1500(est.)
+stains,varnishes)
+Mildewcontrol(paints,
+Phenylmercuricborate 1500(est.)
+stains,varnishes)
+Mildewcontrol(paints,
+Bacteriostatic(paint) 1500(est.)
+stains,varnishes)
+Phenylmercuricacetate Bacteriostatic(paint) 3000(est.)
+Bacteriostatic(latexpaint
+Phenylmercuricpropionate 5000(est.)
+onasbestos)
+Bacteriostatic(latexpaint
+Chloromethoxypropylmercuric 5000(est.)
+onasbestos)
+Phenylmercuricacetate Bacteriostatic(latexpaint) 5000(est.)
+Di(phenylmercury)
+Wallpapercoating ?
+dodcylsuccinate
+Fungicide(fabricsand
+Phenylmercuricacetate 25–225
+textiles)
+Phenylmercuricborateand Fungicide(industrial
+26.5
+chloride fabricsandtextiles)
+Fungicide(awnings,sail
+Phenylmercuricoleate 2000–2800
+covers,boatcovers)
+Phenylmercuricacetate Moldresistantpaper 150–225
+Fungicide(plastics
+Phenylmercuricacetate 150–225
+surface)
+Fungicide(plastics
+Phenylmercuricborate 50
+surface)
+Fungicide(plastics
+Phenylmercuricpropionate ?
+surface)
+Fungicide
+Phenylmercuricborate 50
+(plastics-polystyrene)
+Bacteriostaticsurface
+Phenylmercuricpropionate ?
+coating(plastics-PVC)
+Phenylmercurichydroxide Bacteriostatic(vinyl) ?
+Phenylmercuricacetate Fungicide(rubber) 125–225
+Phenylmercuricborate Fungicide(rubber) 50
+Phenylmercuricacetate Bacteriostatic(floorwax) High(undiluted)
+Bacteriostaticand
+Phenylmercuricacetate 305
+fungicide(tanneries)
+Ethylmercuryphosphate Moldcontrol(wood) 150–300
+Phenylmercuricacetate Moldcontrol(wood) 1600
+Phenylmercurichydroxide Moldcontrol(wood) High
+Phenylmercuriclactate Moldcontrol(wood) High
+Int.J.Environ.Res.PublicHealth2024,21,118 19of44
+Table5.Cont.
+ApplicationConcentration
+Compound Use
+(µg/g)
+Mercuricchloride Rotcontrol(fenceposts) High(soak)
+Phenylmercuricoleate Rotcontrol(fenceposts) High(soak)
+Phenylmercuricborate Dentaltooldisinfection High
+3-(hydroxymercuri)-4-nitro-o-
+Dentaltooldisinfection High
+cresol
+VariousHgcompoundswereusedinvariousointmentsapplieddirectlytohuman
+skin,suchasmetallicHgandammoniatedHgforlousecontrol[80]. BathingcausedHgto
+becleanedfromtheskinandenricheddomesticwastewaterwithHg,creatingapathway
+tostreamsandgroundwater(septictanks).
+HighconcentrationsofHgoccurindentalamalgamsbasedonthephaseofAg Hg
+2 3
+(18.9±1.5%)usedoranothercompoundsuchas(Hg,Cu)-S(7.1±1.7%)[166]. ThisHg
+occurrencecanimpactemissionsfrombiomedicalincineratorsorcrematoryfacilities,and
+soilsandgroundwaterinthevicinityofcemeteries.
+5.3. AtmosphericEmissionsandDepositionofHginSouthernFloridafromPowerPlants,Other
+LargeEmissionSites,andSources
+BasedondataobtainedfromtheFloridaDepartmentofEnvironmentalProtection,
+thereare11largeairdischargepermitsissuedinsouthernFlorida(Figure8). Thepermitted
+valuesforparticulatematter(PM )forthe24handannualaverageconcentrationsare
+2.5
+shown in the figure. Of the 11 facilities, 9 occur in the southeast coastal area, with one
+inthesouth-centralareanearBelleGladeandoneinthesouthwestareanearFortMyers.
+ManyofthesefacilitieshavesomelevelofatmosphericHgdischarge. Mostofthelargeair
+Int. J. Environ. Res. Public Health 2024, 21, x 19 of 44
+qualitypermitsareassociatedwithpowergenerationandtwoforcementplants.
+Figure 8. Major air emission facilities in southern Florida permitted by the Florida Department of
+Figure8.MajorairemissionfacilitiesinsouthernFloridapermittedbytheFloridaDepartmentof
+Environmental Protection, including power plants, industrial discharges, solid waste incinerators,
+EnvironmentalProtection,includingpowerplants,industrialdischarges,solidwasteincinerators,
+and cement kilns. Map from the Florida Department of Environmental Protection.
+andcementkilns.MapfromtheFloridaDepartmentofEnvironmentalProtection.
+A map showing most of the current air quality permits issued in southern Florida is
+shown in Figure 9. Many of these air discharge permits contain little or no Hg flux into
+the atmosphere. Some asphalt plants are also included in the permits. These facilities can
+discharge small quantities of Hg because the oil-based product contains some Hg, as
+found in emissions from oil-fired plants. The concentration of GeM in asphalt is
+approximately 0.27 ng/g [167]. The density of the permits is directly linked to large
+population centers, with the greatest number of facilities occurring in southeast coastal
+region.
+Int.J.Environ.Res.PublicHealth2024,21,118 20of44
+AmapshowingmostofthecurrentairqualitypermitsissuedinsouthernFloridais
+showninFigure9. ManyoftheseairdischargepermitscontainlittleornoHgfluxinto
+theatmosphere. Someasphaltplantsarealsoincludedinthepermits. Thesefacilitiescan
+dischargesmallquantitiesofHgbecausetheoil-basedproductcontainssomeHg,asfound
+inemissionsfromoil-firedplants. TheconcentrationofGeMinasphaltisapproximately
+Int. J. Environ. Res. Public Health 20240, .2217, xn g/g[167]. Thedensityofthepermitsisdirectlylinkedtolargepopulationc2e0n toef r4s4,
+withthegreatestnumberoffacilitiesoccurringinsoutheastcoastalregion.
+FFiigguurree9 9.. NNeeaarrllyy aallll ffaacciilliittiieess wwiitthh aaiirr eemmiissssiioonnss ppeerrmmiittss iinn ssoouutthheerrnn FFlloorriiddaa,, iinncclluuddiinngg ppoowweerr ppllaannttss,,
+and small and large industrial facilities which include animal and human crematories, asphalt
+andsmallandlargeindustrialfacilitieswhichincludeanimalandhumancrematories,asphaltplants,
+plants, bulk gasoline plants, cement batching plants, resource recovery and reclamation facilities,
+bulkgasolineplants,cementbatchingplants,resourcerecoveryandreclamationfacilities,printing
+printing operations, and others. Only a few of these facilities have actual Hg emissions. Map from
+operations,andothers.OnlyafewofthesefacilitieshaveactualHgemissions.MapfromtheFlorida
+the Florida Department of Environmental Protection.
+DepartmentofEnvironmentalProtection.
+Approximately 50% of atmospheric Hg emissions in the United States originate in
+Approximately50%ofatmosphericHgemissionsintheUnitedStatesoriginatein
+coal-fired power plants [168]. Gaseous oxidized Hg from large power plants commonly
+coal-firedpowerplants[168]. GaseousoxidizedHgfromlargepowerplantscommonly
+occurs as dry deposition and tended to decrease after these generation facilities invoked
+occursasdrydepositionandtendedtodecreaseafterthesegenerationfacilitiesinvoked
+mandated Hg discharge reductions [58]. Hg emissions were cut by nearly 90% with the
+mandatedHgdischargereductions[58]. Hgemissionswerecutbynearly90%withthe
+implementation of the Mercury and Air Toxics Standards rule [168]. Fortunately, southern
+implementationoftheMercuryandAirToxicsStandardsrule[168]. Fortunately,southern
+Florida no longer contains any operational coal-fired power plants. However, oil-fired and
+Florida no longer contains any operational coal-fired power plants. However, oil-fired
+gas-fired power plants, solid waste incinerators, and cement kilns are still operating. There
+andgas-firedpowerplants,solidwasteincinerators,andcementkilnsarestilloperating.
+are few studies of Hg discharges from southern Florida facilities, but annual stack
+TherearefewstudiesofHgdischargesfromsouthernFloridafacilities,butannualstack
+emissions tests are required for most facilities that have air quality permits issued by the
+emissionstestsarerequiredformostfacilitiesthathaveairqualitypermitsissuedbythe
+Florida Department of Environmental Protection.
+FloridaDepartmentofEnvironmentalProtection.
+Gustin et al. [9] conducted a study of Hg dry deposition at three sites including the
+Gustinetal.[9]conductedastudyofHgdrydepositionatthreesitesincludingthe
+PPoorrtt EEvveerrggllaaddeess//FFoorrtt LLaauuddeerrddaallee aarreeaa iinn ssoouutthheeaasstt FFlloorriiddaa.. TThhee ddeeppoossiittiioonn qquuaannttiittyy ooff
+GGOOMMv vaarrieieddb beetwtweeeennw wininteter,rs, psrpirnign,gs, usmummmere,ra,n adnfda lfla,lwl, iwthitthh ethhei ghhiegshtersatt erastoecsc oucrcruinrgrining
+tihne tfhalel (fFailgl u(rFeig1u0r).e F1iv0e). pFoiivnet -spoouinrcte-sdoiusrcchea rdgiescfahcairligteie sfawcielrietielos cwateedrei nlotchaeteadre ain,i nthcleu dairnega,
+tihnrceleuddionmg etshtirceew adsotme teosteicn ewrgaystein ction eernaetorgryp lainnctisn(eWrahtoere lapblarnattos r(NWohrethel,aWbrhateoerl abNroartothr,
+SWouhtehe,laabnrdatCoor vSaonuttah),, aannda Ctuorvaalngtaas),- fia rneadtuproawl gearsp-filarnedt (pFoowrteLr apuladnetr d(Faolert) ,Laanuddearndoaille-)fi, raendd
+paonw oeilr-fiprlaednt p(oPworetrE pvlaerngt l(aPdoerst) .ETvehregalandneusa).l Trahtee sanonfumael rrcauterys odfi smchearcrugery( TdoistaclhHargg,e G(TOoMta,l
+aHndg, PGBOMM)i,n an20d0 P2BfoMr)t hine 2fi0v0e2s fitoers tihnek figv/ey switeesre in4 6k,g2/6y, awnedre9 ,4563, ,2361, ,aanndd 91, 15,37,, 341,,a anndd1 1,1n,o 7t,
+r4e,c oanrdde d1,, annodt r1e3c,o4r,daendd, a3n,rde s1p3e, c4t,i vaenldy. 3T,h reesppreedctoivmeilny.a nTthwe ipnrdeddoirmecintiaonnt dwuirnindg dmiroecsttioofn
+tdhueryineagr matotsht iosfs titheei syefraorm at tthheise asistteo irs sforoumth ethaset .eIanstt hoer ssouumthmeearstm. Ionn tthhes, stuhmesmeaerb mreoeznethiss,
+the sea breeze is the dominant factor. Winter frontal passage tends to provide some strong
+winds from the northwest and northeast. The historical operation of power plants has
+contributed to the accumulation of Hg in the southern Florida environment but is not a
+significant factor in the legacy Hg in the Everglades.
+Int.J.Environ.Res.PublicHealth2024,21,118 21of44
+thedominantfactor. Winterfrontalpassagetendstoprovidesomestrongwindsfromthe
+northwestandnortheast. Thehistoricaloperationofpowerplantshascontributedtothe
+Int. J. Environ. Res. Public Health 2024, 21, x 21 of 44
+accumulationofHginthesouthernFloridaenvironmentbutisnotasignificantfactorin
+thelegacyHgintheEverglades.
+Figure 10. Seasonal means +/− of Tekan-GOM air concentrations (GOMT). GOM dry deposition to a
+surrogate surface (GOMSS), and GOM uptake to a passive sampler (GOMPS) measured at station
+DVE located at Fort Lauderdale, Florida (modified from Gustin et al. [9]). The symbols used are is
+the order of the Hg types mentioned in the caption.
+The last coal-fired power plant in southeast Florida (Martin County) closed on 1
+January 2021 and is being replaced by solar field facilities (from Florida Power & Light
+Company, Juno Beach, FL, USA). There are currently five gas-fired power plants operating
+in southern Florida. The facilities and estimated annual Hg emissions are as follows: Fort
+Myers (0.000002 tons in 2022, below threshold for past 3 years), West County, Palm Beach
+County (below threshold 2022–2015, 0.000230 tons in 2016, 0.000159 tons in 2017), Fort
+Lauderdale (below threshold 2017–2022, 0.000001 tons in 2015 and 0.000014 tons in 2016),
+Port Everglades (no H-114 emissions reported), and Turkey Point (no H-114 emissions
+reported for small gas-fired plant). The cumulative emissions from these plants on an
+annual basis are not significant. Nine waste incinerators are operated in southern Florida,
+and include the following: Broward, Wheelabrator South Broward (72.1 kg/yr); Hendry
+County, U.S. Sugar (49.9 kg/yr); Lee County (52.6 kg/yr); Lee County East Water
+Reclamation (35.8 kg/yr); Miami, Dade County (32.7 kg/yr); Palm Beach, County-#1 and
+#2 (46.7 kg/yr); Palm Beach County, Glades Sugar House (33.6 kg/yr); Palm Beach County,
+Okeelanta Cogeneration Plant (21.3 kg/yr); and Palm Beach County, Osceola Farms (19.1
+kg/yr). The estimated emissions of Hg from 2011 to 2020 in kg/yr is in brackets after each
+facility’s name (from the Florida Department of Environmental Protection based on 2011
+to 2020 data). The waste to energy incinerators emitted approximately 204.1 kg/yr and the
+other incinerators emitted approximately 159.7 kg/yr.
+5.4. Atmospheric Emissions of Hg from Cement Plants
+In China, the cement industry has become one of the largest emission sources for Hg
+[169,170], and is a source of mercury discharge in the United States [171–173]. The source
+of the Hg is not primarily from the limestone treated in the kiln, but from the fuel used to
+fire the kiln. There are two cement production facilities located in southern Florida run by
+Cemex and Titan America. The estimated annual emissions of Hg for these two facilities
+are 54.9 and 95.7 kg/yr, respectively [172]. Therefore, the atmospheric flux of Hg from
+cement plants into the southern Florida atmosphere is approximately 150.6 kg/yr.
+5.5. Hg in Soil Amendments (e.g., Wastewater Sludge) and Domestic Wastewater Used for Irrigation
+Hg commonly occurs in nearly all municipal wastewater treatment systems, with
+concentrations dependent on the percentage of industrial wastewater entering the system
+and the degree of pretreatment before entering the municipal system [174–176]. If the
+wastewater sludge is burned, Hg control is required within the system [177]. Soils
+impacted by wastewater treatment discharges and sludge can be enriched in
+methylmercury depending on the composition of the sludge and the amount of iron in the
+sludge [178]. Carpi et al. [54] documented the release of Hg into the atmosphere from soils
+amended with wastewater sludge. In 2021, the Hg concentration in wastewater sludge for
+)3−m
+gp(
+narkeT-MOG
+SS
+ot
+noitisopeD
+MOG
+1−rh
+2−m
+gn
+GOM
+Uptake
+to
+PS
+(pg
+hr
+)
+−1
+0.4 DVE 1.4
+10
+1.2
+8 0.3 1.0
+0.8 6
+0.2
+0.6
+4
+0.4
+0.1
+2
+0.2
+0 0.0 0.0
+Figure10.Seasonalmeans+/−ofTekan-GOMairconcentrations(GOMT).GOMdrydepositiontoa
+surrogatesurface(GOMSS),andGOMuptaketoapassivesampler(GOMPS)measuredatstation
+DVElocatedatFortLauderdale,Florida(modifiedfromGustinetal.[9]).Thesymbolsusedareisthe
+orderoftheHgtypesmentionedinthecaption.
+The last coal-fired power plant in southeast Florida (Martin County) closed on
+1January2021andisbeingreplacedbysolarfieldfacilities(fromFloridaPower&Light
+Company,JunoBeach,FL,USA).Therearecurrentlyfivegas-firedpowerplantsoperating
+insouthernFlorida. ThefacilitiesandestimatedannualHgemissionsareasfollows: Fort
+Myers(0.000002tonsin2022,belowthresholdforpast3years),WestCounty,PalmBeach
+County (below threshold 2022–2015, 0.000230 tons in 2016, 0.000159 tons in 2017), Fort
+Lauderdale(belowthreshold2017–2022,0.000001tonsin2015and0.000014tonsin2016),
+PortEverglades(noH-114emissionsreported),andTurkeyPoint(noH-114emissionsre-
+portedforsmallgas-firedplant). Thecumulativeemissionsfromtheseplantsonanannual
+basisarenotsignificant. NinewasteincineratorsareoperatedinsouthernFlorida,and
+includethefollowing:Broward,WheelabratorSouthBroward(72.1kg/yr);HendryCounty,
+U.S. Sugar (49.9 kg/yr); Lee County (52.6 kg/yr); Lee County East Water Reclamation
+(35.8kg/yr);Miami,DadeCounty(32.7kg/yr);PalmBeach,County-#1and#2(46.7kg/yr);
+PalmBeachCounty,GladesSugarHouse(33.6kg/yr);PalmBeachCounty,OkeelantaCo-
+generationPlant(21.3kg/yr);andPalmBeachCounty,OsceolaFarms(19.1kg/yr). The
+estimatedemissionsofHgfrom2011to2020inkg/yrisinbracketsaftereachfacility’s
+name(fromtheFloridaDepartmentofEnvironmentalProtectionbasedon2011to2020
+data). Thewastetoenergyincineratorsemittedapproximately204.1kg/yrandtheother
+incineratorsemittedapproximately159.7kg/yr.
+5.4. AtmosphericEmissionsofHgfromCementPlants
+In China, the cement industry has become one of the largest emission sources for
+Hg [169,170], and is a source of mercury discharge in the United States [171–173]. The
+sourceoftheHgisnotprimarilyfromthelimestonetreatedinthekiln,butfromthefuel
+usedtofirethekiln. TherearetwocementproductionfacilitieslocatedinsouthernFlorida
+runbyCemexandTitanAmerica. TheestimatedannualemissionsofHgforthesetwo
+facilitiesare54.9and95.7kg/yr,respectively[172]. Therefore,theatmosphericfluxofHg
+fromcementplantsintothesouthernFloridaatmosphereisapproximately150.6kg/yr.
+5.5. HginSoilAmendments(e.g.,WastewaterSludge)andDomesticWastewaterUsed
+forIrrigation
+Hg commonly occurs in nearly all municipal wastewater treatment systems, with
+concentrationsdependentonthepercentageofindustrialwastewaterenteringthesystem
+and the degree of pretreatment before entering the municipal system [174–176]. If the
+Int.J.Environ.Res.PublicHealth2024,21,118 22of44
+wastewater sludge is burned, Hg control is required within the system [177]. Soils im-
+pactedbywastewatertreatmentdischargesandsludgecanbeenrichedinmethylmercury
+dependingonthecompositionofthesludgeandtheamountofironinthesludge[178].
+Carpietal.[54]documentedthereleaseofHgintotheatmospherefromsoilsamendedwith
+wastewatersludge. In2021,theHgconcentrationinwastewatersludgeforthesouthwest
+FloridaCityofCapeCoralwasreportedtobe0.29mg/kg(personalcommunicationfrom
+JeffPearson,CityUtilityDirector). Dataonmercuryconcentrationsinwastewaterfrom
+otherfacilitiesweredifficulttoobtain. Therearenopublishedcompilations.
+In southern Florida, highly treated wastewater is commonly sprayed on fields for
+disposalandusedforirrigationonresidentialandvariousothermunicipalproperties,such
+ascommonlandscapes,parks,andschoolfacilities[179,180]. TheCityofCapeCoraluses
+100%ofitsdomesticwastewaterdischargeinthedryseasonforirrigation[181]. Typical
+Hg concentrations in the treated domestic wastewater effluent are low at 0.031 mg/L
+(personalcommunicationfromJeffPearson,CityUtilityDirector). Manyfacilitiesreport
+Hgconcentrationsbelowdetectionlimits.
+5.6. IndustrialandLandfillAerosolandGroundwaterDischarges
+GroundwatercanbecomecontaminatedwithvariouschemicalscontainingHg,partic-
+ularlyfromsiteswherewastematerialsareconcentrated. Nevondoetal.[182]documented
+theHgconcentrationsinsoilsandgroundwaterdischarge(leachate)fromdomesticlandfills.
+ThesourceoftheHgwasprimarilyfromdomesticwastematerialscontainingHg,suchas
+florescentlightblues,batteries,electricswitches,thermometers,andothermaterials[183].
+Lindbergetal.[54]documentedthepresentconcentrationofHginlandfillleachateandin
+internalgas. MonitoringofgasdischargesattheBrevardCountylandfillshowedconcen-
+trationsoftotalgaseousHgrangingbetween6600and7700ng/m3. TheHginleachate
+for14FloridasitesshowedmeasurableconcentrationsofHgbuttherewerenoreportsof
+meaningfulconcentrationvalues[184]. ReinhartandGrosh[185]testedlandfillleachate
+forthepresenceofHgat39sitesthroughoutFloridaandfoundameanconcentrationof
+0.696µg/L.
+AtmosphericdischargesofHgwerealsopresentthroughtheclaycapandthelandfill
+gas collection vents in Martin County and Palm Beach County sites [50]. The annual
+estimatedfluxofHgintotheenvironmentfortheMartinCountyandPalmBeachCounty
+landfills was 80–100 and 20 g/yr, respectively. The estimated total Hg discharge from
+all class I landfills in Florida was estimated to be 10 kg/yr and in southern Florida is
+approximately4kg/yr,whichissubstantiallylessthanothermajorsourcesofatmospheric
+emissionsincludingpowerplantsandwasteincinerators.
+5.7. AtmosphericAerosolEmissionsDepositionfromMuckandForestFires
+TheaverageannualglobalemissionofHgcausedbybiomassburningfortheperiod
+1997–2006is674±249Mg−1 [186]. Thisconstitutesapproximately8%ofthecombined
+naturalandanthropogenicemissions. TheissueofHgemissionscausedbybiomassfire
+mobilization is particularly relevant to southern Florida because of two issues: first, a
+large portion of the deposition of Hg originates from the onshore movement of atmo-
+sphericaerosolsincorporatedinSaharandust,andsecondly,theremobilizationofHgfrom
+vegetationandfrompeatisamajorprocessofconcern.
+ParticulateHgispartoftheSaharandustthatisdepositedinsouthernFlorida,butis
+likelyasmallportion,whereastheoverallatmosphericfalloutislikelyGEMassociated
+withtheatmosphericcirculationpatternthattransportsthedust[148]. Africansavanna
+grasseshaveHgconcentrationsrangingfrom6to9µg/kg[186]. Firemobilizationfrom
+Africanvegetationsurelyaddstothewestward-boundatmosphericaerosolsthatcrossthe
+AtlanticOcean. InsouthernFlorida,Greenplateetal.[187]measuredmercuryinwillow
+tree trunks with a mean value of 11.91 µg/kg and a mean of 4.26 µg/kg in the leaves.
+Approximately 90% of the mercury in the leaves was deposited on the leaf surface. It
+shouldbenotedthatthesamplinglocationsinsouthwesternFloridaaredownwindoflarge
+Int.J.Environ.Res.PublicHealth2024,21,118 23of44
+legacymercurydeposits(e.g.,theEvergladespeatlands). Fortunately,willowisawetland
+plantanddoesnotcommonlyburn;therefore,itreturnssomeHgbacktotheenvironment
+vialitterfallwithacontributiontothesoilbuthasaminimalatmosphericcontribution.
+A study of the dynamics of Hg uptake and movement within sawgrass
+(Cladium jamaicense) was undertaken by Meng et al. [188]. They used a multi-isotope
+technique to measure the uptake of Hg into the roots and translocation into the leaves.
+Significant quantities of mercury moved from the soil into the roots and upward into
+theleaves. Themercurydidnotexitthroughtheleavesintotheatmosphere. Thisisan
+importantissuewithregardtotheHgdynamicsoftheEvergladespeatlandHgreservoir
+becausetheHgtrappedinthesoilsistransportedtotheleaveswithintheconcentrationin
+theleafmassandisbasedontheplantageandtheconcentrationofHgintheunderlying
+soil. ThestorageofHginthesawgrassleavesexposestheHgtofire,whichthenconveys
+theHgbackintotheatmosphere,whereitmovesdownwinduntilitisdepositedaswet
+or dry fallout or by absorption or adsorption to plants’ leaves at a new location. This
+mechanismforwildfireHgmobilizationdoesnotnecessitatemuckfirestorecyclelegacy
+peak into the atmosphere and, therefore, affects natural and/or management areas of
+theEverglades.
+AnotherpotentialsourceofremobilizationofHgfromtheEvergladespeatlandsoils
+to the atmosphere is via controlled burning during sugarcane harvesting. No data in
+southernFloridacouldbefoundonthemetalconcentrationsinsugarcaneplants,buta
+studyconductedinAustraliafoundHgconcentrationsrangingfrom0.02to0.20mg/kg,
+basedononlysixanalyses[189]. IfsimilarconcentrationsarefoundinsouthernFlorida
+sugarcane, then the Hg mobilization from burning of the plant leaves would be low.
+However, the impact on oxidation of the upper part of the peat could create a greater
+degreeofmobilization.
+5.8. HgEmissionsfromVehicleExhaust
+Hgoccursasatraceelementinunrefinedpetroleumasinallnaturallyoccurringorgan-
+icsinrocks,sediments,condensate,andnaturalgas[190–192]. Themeanconcentrationof
+allformsofHgin170oilstreamsintheUnitedStatesin2004was3.5±0.6µg/kg[192].The
+measuredconcentrationsofHgincommonrefinedfuelsare571.1±4.5ng/Lforgasoline,
+185.7±2.6ng/Lfordiesel,and123.3±23.5ng/Lforliquefiednaturalgas(LPG)[193].
+Therefore,traceamountsofHgoccurinallrefinedpetroleumproducts. Hgis,therefore,
+releasedtotheatmospherebeginningattherefiningstage[194]. Inaddition,Hgdischarge
+occurs during burning to produce electricity and when burning as fuel in vehicles and
+duringotheruses(e.g.,homeheating,industrialuses,etc.).
+While the Hg emissions from the large-scale use of petroleum products for power
+generation and heating in the cement-making process are the largest point sources of
+atmosphericHgdischargeinsouthernFlorida,thedischargeofHgfromvehiclesisalso
+important. Inacontrolledtest,Wonetal.[193]measuredtheconcentrationofHginthe
+exhaustofvehiclesidlingandatdrivingspeedsusingdifferentfuels. Theresultsofthese
+testsshowedthatforidlingtheHgemissionsconcentrationsforgasoline,diesel,andLPG
+were1.5–9.1,1.6–3.5,and10.2–18.6ngm−3,respectively.Inthedrivingmode,theemissions
+for gasoline, diesel, and LPG were 3.8–16.8, 2.8–8.5, and 20.0–26.9 ngm−3, respectively.
+Whilethesevaluesaresignificant,evenelectricvehicleshaveindirectemissionsofHginto
+theatmosphericbecausetherechargerequireselectricpowergeneration[195]. Wherethe
+powergenerationiscoal-fired,theHgemissionsforelectricvehiclescanbe92%higher
+than using gasoline in the vehicles as fuel [195], but in southern Florida electric power
+generationisablendofnuclear,solar,andcombined-cyclenaturalgas,whichlessensthe
+impactofvehicleoperationonatmosphericHgdischarges.
+ThetotalHgemissionsforsouthernFloridacanbeestimatedusingthenumberof
+registered vehicles in Florida and estimating the number in southern Florida that are
+operatingandanestimateofthetotalvolumeofgasolineandotherfuelsconsumed. Based
+oncompiledstatisticsfromtheFloridaDepartmentofTransportation,therewasanaverage
+Int.J.Environ.Res.PublicHealth2024,21,118 24of44
+of17.6millionvehiclesregisteredinFloridaoverthepast10years. Astudydetermined
+thatlight-duty,gasoline-poweredvehiclesdischarge0.31–1.4ng/miofHg[196]. Diesel-
+poweredvehiclesdischarge6.3to11.0ng/mi[196].
+Approximately half of the registered vehicles operated at least part of the time in
+southernFlorida. InFlorida,193,841barrelsofgasolinewereconsumedin2020. There-
+fore,8.1milliongallonsofgasolinewereconsumed,withperhaps40%ofthisconsump-
+tionoccurringinsouthernFlorida. AtypicalconcentrationofHginrefinedgasolineis
+571±4.5ngL−1[193]. Therefore, a barrel of gasoline contains 158.9873 L and contains
+approximately90,782ngofmercury. Ifitisassumedthat100%oftheHginthegasoline
+isdischargedintotheatmosphere,approximately1114g(1.1kg)ofHgwasdischarged
+inthesouthernFloridaatmospherein2020,whichissmallcomparedtotheincinerator,
+cement plant, and power plant discharges. A calculation of diesel-drive discharges is
+approximately0.3kgofmercuryin2020.
+5.9. HginUrbanStormwaterManagementFacilitySedimentsandStreetSweepings
+As stormwater carries pollutants, it is regulated under the U.S. 1977 Clean Water
+Actunderthe1972NationalPollutantDischargeEliminationSystem(NPDES,EPA).One
+methodtocapturethispollutioncomingfromthe drainageofvariouscatchmentareas
+consistsofdivertingurbanrunoffintoreceivingbodieswhichactasdecantationpits,as
+wellasencouragingthephytoremediationofnutrientsinparticular. InsouthernFlorida,
+dry but mostly wet detention/retention areas are used to capture runoff and thus not
+onlyattempttomitigateflooding[197],butespeciallycapturepollutantsinthedissolved
+andparticulateforms. StatewidestormwaterregulationinFloridawasestablishedbythe
+EnvironmentalRegulationCommissionin1982(ERC;Chapter17–25F.A.C),followingthe
+earlierestablishmentofinterimguidelinesinChapter17–4.248,F.A.C.,revisedin1982as
+ruleChapter17–25F.A.C.Theformalrulespecifies,e.g.,theuseofwetdetentionponds
+(i.e., permanent water bodies dug below the water table, and which would discharge,
+at a certain elevation threshold, to receiving hydrosystems) as manmade structures to
+be built alongside the construction of residential and commercial developments. The
+WaterResourceImplementationRule(WRIR)establishedin1990furthersetsperformance
+standardswithan80%reductioninannualaverageloadingoftotalsuspendedsolidsfor
+mostdischargesbesidesthosedischargingintoOutstandingFloridaWaters(OFWs),for
+whichtheretentionissetto95%. Standardsforthereductionoftotalnitrogen(37–60%),
+totalphosphorus(TP,59–85%),andmetals(40–80%)havealsobeenimplemented. Even
+thoughitisestimatedthatthereareover70,000urbanstormwaterpondsinFlorida,littleis
+knownabouttheirsedimentaccumulationrateandcharacteristics[198]. Suchsediments
+arenetsourcesofcarbontotheatmosphere[199]thatarepronetophosphorusinternal
+loading[200]andthecollectionofmicroplastics[201].
+Besidessedimentanalysesmainlyperformedfordredgingpurposes[202–206],thereis
+nopublishedworkofHgaccumulationinstormwaterpondsediments.Hence,Hganalyses
+arepresentedfromfivedetentionpondslocatedintheCityofNaples,Florida,fromthe
+aforementionedreportswhichincludetheconcentrationofHgfoundintheorganicportion
+ofthesediment(i.e.,notincludingtheflocculatelayer,whichwasdiscardedinthefield)
+(Figure 11). Sediment was sampled with a handheld gravity coring device at various
+locationsofthepondtouniformlycovertheentirebenthicarea(Figure12).
+Once a sediment core was placed on the boat deck, it was extruded from its clear
+acryliccorebarrel(innerdiameterrangingfrom5.08cmto8.89cm)fromthebottomup.The
+organicportionofthesedimentwasthenvisuallyseparatedfromtherestofthesediment
+andplacedinaZiplock™gallonbag,whichwasthenstoredinacooler. Inthelaboratory,
+thesedimentcontentwashomogenizedbyhandinthebagandsenttoaNELACcertified
+laboratoryformetalanalyses,includingHg,usingtheEPA7471Hganalysismethod(Pace
+Analytical, Pompano Beach, FL, USA) and EPA 1631 (Florida International University,
+Bioinorganic and Environmental Analytical Facility, BEAF, Miami, FL, USA). The Hg
+Int.J.Environ.Res.PublicHealth2024,21,118 25of44
+Int. J. Environ. Res. Public Health 2024, c2o1n, xc e ntrationsvariedspatiallywithineachpond(Figure12)andacrossthem(Table256 )o.fH 4g4
+concentrationsrangedfrom0.009to0.776mg/kg,withanaverageof0.187±0.166mg/kg.
+Figure 11. Location of the five urban wet stormwater ponds in the City of Naples, Florida, from
+Figure11. LocationofthefiveurbanwetstormwaterpondsintheCityofNaples,Florida,from
+which a total of 51 sediment cores were sampled and analyzed for Hg. Note: ponds are referred to
+whichatotalof51sedimentcoresweresampledandanalyzedforHg.Note:pondsarereferredtoas
+as “lakes” and are numbered as well named.
+“lakes”andarenumberedaswellnamed.
+Table6.AverageHgconcentrationsandvar0.i5a8t9ions 0 a .1 c 6 r 6 ossstormwaterponds.*Notethatallvalues
+recordedwereabovetheMD0.2L27of0.016mg/kgbesidesLake9,withonevaluebeing0.0092mg/kg.
+Forthissample,thevalueofMDL/2(0.008mg/kg)wasusedforthestatisticalcomputations.
+0.50 0.116 0.162 0.80
+0.343
+0.123 0.431 Hg(mg/kg)
+0.45 0.088 0.72
+Lakes Mean±S.D.(n) Min Max Range EPAMethod
+0.40 0.64
+8 0.038±0.031(3) 0.020 0.074 0.054 7471
+0.35 9 0.039±0.022(6) 0.109 0.009* 0.068 0.059 704.7516
+11 0.322±00..233086(15) 0.087 0.776 0.689 1631
+0.30 19 0.072±0.048(7) 0.087 0.018 0.160 0.294 0.142 7 0 4 . 7 4 1 8
+0.25 22 0.190.308±1 0.101(20) 0.077 0.453 0.376 106.3410
+0.077
+0.20 Overall 0.187±0.166(51) 0.009 00..376736 0.767 0.32
+0.211
+0.15 0.24
+0.10
+There was a strong relat
+0
+i
+.0
+o
+8
+n
+6
+ship between Hg and total nitrogen (TN, Figu0r.e1613) as
+wellastotalphosphorus(TP,Figure14),suggesting0.3o3n6siteHgmethylation(MeHg)bythe
+0.05 0.776 0.08
+bacteriaandalgaelivinginthesediment[5,207–211]. TNandTPwerealsocorrelatedwith
+0.596
+0.0t0heorganiccontentofthesedimentforthesamplesforwhichthisattributewasde0te.0rm0ined
+0.261
+(R2of0.88and0.84,respectively,p<<0.001).
+0.174
+0.101 0.204 0.158 0.453 0.314
+0.093
+0.216 0.247 0.300 0.141
+0.288
+0.140
+0m 50m 100m 150m 200m 0m 25m 50m 75m 100m
+Int.J.Environ.Res.PublicHealth2024,21,118 26of44
+Int. J. Environ. Res. Public Health 2024, 21, x 27 of 44
+There was a strong relationship between Hg and total nitrogen (TN, Figure 13) as
+well as total phosphorus (TP, Figure 14), suggesting onsite Hg methylation (MeHg) by the
+bacteria and algae living in the sediment [5,207,208,209,210,211]. TN and TP were also
+Figure12. MercuryinsedimentinLakes11(right)and22(left). Sedimentcorelocations(closed
+correlated with the organic content of the sediment for the samples for which this attribute
+blackcircles)andHgconcentrationsatthoselocationsarerepresentedonthemapsaswellasthe
+was determined (R2 of 0.88 and 0.84, respectively, p << 0.001, data not shown).
+mercuryinterpolatedoverspaceforeachpond.Notethedifferentmercuryscalesforthetwoponds.
+Figure 13. Relationship between Hg and total nitrogen in stormwater pond sediments.
+Int. J. Environ. Res. Public Health 2024, 21, x. https://doi.org/10.3390/xxxxx www.mdpi.com/journal/ijerph
+Figure 14. Relationship between Hg and total phosphorus in stormwater pond sediments.
+6. Hg Concentrations in Sediment, Surface Water, and Groundwater in Southern
+Florida
+6.1. Atmospheric Hg Investigations in Southern Florida
+In a study of the sources of atmospheric Hg sources in the atmosphere of Broward
+and Dade counties in south Florida, Graney et al. [212] found that of the average Hg
+concentration measured at 16.3 pg/m3, approximately 12 ± 2% originated in Saharan dust.
+This is 1.9 ± 0.4 pg/m3 based on conditions during the sampling periods.
+Land use practices, and both natural and man-made fire, likely contribute to the
+movement of Hg in and out of the Everglades soils, hydraulically connected surface and
+groundwater, plants, and downwind regions in southern Florida.
+Wet deposition of Hg is monitored at three stations in southern Florida, with funding
+from the National Atmospheric Deposition Program ([213]; Figure 15). Note that the three
+)gk/gm(
+gH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+.9
+.8
+.7
+.6
+.5
+.4
+.3
+.2
+.1
+0
+0
+LLLLL aaaaa kkkkk eeeee 8
+9
+1
+1
+2
+(2 0 2 2 )
+(2 0 2 2 )
+1 (2 0 1 2
+9 (2 0 2 0
+2 (2 0 1 2
+5 0 0 0
+)))
+T o t a l n it
+1 0 ,0
+r o g e
+0
+n
+0
+( m g / k g )
+1 5 ,0 0 0
+yR = 0 .0 0 0
+² = 0 .9 1
+p < < 0 .0
+000 341 30 x2
+2 0 ,0 0 0
+Figure13.RelationshipbetweenHgandtotalnitrogeninstormwaterpondsediments.
+0.9
+Lake 8 (2022)
+0.8 Lake 9 (2022)
+Lake 11 (2012)
+0.7 Lake 19 (2020)
+Lake 22 (2012)
+0.6
+0.5
+0.4
+0.3
+y = 0.000185x
+0.2 R² = 0.861625
+p<<0.001
+0.1
+0
+0 500 1000 1500 2000 2500 3000 3500 4000
+Int. J. Environ. Res. Public Health 2024, 21, x 27 of 44
+There was a strong relationship between Hg and total nitrogen (TN, Figure 13) as
+well as total phosphorus (TP, Figure 14), suggesting onsite Hg methylation (MeHg) by the
+bacteria and algae living in the sediment [5,207,208,209,210,211]. TN and TP were also
+correlated with the organic content of the sediment for the samples for which this attribute
+was determined (R2 of 0.88 and 0.84, respectively, p << 0.001, data not shown).
+Int.J.Environ.Res.PublicHealth2 F 0 i 2 g 4, u 2 r 1, e 1 1 1 8 3. Relationship between Hg and total nitrogen in stormwater pond s2e7doifm44ents.
+Figure 14. Relationship between Hg and total phosphorus in stormwater pond sediments.
+6. Hg Concentrations in Sediment, Surface Water, and Groundwater in Southern
+Florida
+6.1. Atmospheric Hg Investigations in Southern Florida
+In a study of the sources of atmospheric Hg sources in the atmosphere of Broward
+and Dade counties in south Florida, Graney et al. [212] found that of the average Hg
+concentration measured at 16.3 pg/m3, approximately 12 ± 2% originated in Saharan dust.
+This is 1.9 ± 0.4 pg/m3 based on conditions during the sampling periods.
+Land use practices, and both natural and man-made fire, likely contribute to the
+movement of Hg in and out of the Everglades soils, hydraulically connected surface and
+groundwater, plants, and downwind regions in southern Florida.
+Wet deposition of Hg is monitored at three stations in southern Florida, with funding
+from the National Atmospheric Deposition Program ([213]; Figure 15). Note that the three
+)gk/gm(
+gH
+0
+0
+0
+0
+0
+0
+0
+0
+0
+.9
+.8
+.7
+.6
+.5
+.4
+.3
+.2
+.1
+0
+0
+LLLLL aaaaa kkkkk eeeee 8
+9
+1
+1
+2
+( 2 0 2 2 )
+( 2 0 2 2 )
+1 ( 2 0 1 2
+9 ( 2 0 2 0
+2 ( 2 0 1 2
+5 0 0 0
+)))
+T o t a l n it
+1
+r o
+0 ,0
+g e
+0
+n
+0
+( m g / k g )
+1 5 ,0 0 0
+yR = 0 .0 0 0
+² = 0 .9 1
+p < < 0 .0
+000 341 30 x2
+2 0 ,0 0 0
+0.9
+Lake 8 (2022)
+0.8 Lake 9 (2022)
+Lake 11 (2012)
+0.7 Lake 19 (2020)
+Lake 22 (2012)
+0.6
+0.5
+0.4
+0.3
+y = 0.000185x
+0.2
+R² = 0.861625
+p<<0.001
+0.1
+0
+0 500 1000 1500 2000 2500 3000 3500 4000
+Figure14.RelationshipbetweenHgandtotalphosphorusinstormwaterpondsediments.
+6. HgConcentrationsinSediment,SurfaceWater,andGroundwaterinSouthernFlorida
+6.1. AtmosphericHgInvestigationsinSouthernFlorida
+InastudyofthesourcesofatmosphericHgsourcesintheatmosphereofBroward
+and Dade counties in south Florida, Graney et al. [212] found that of the average Hg
+concentrationmeasuredat16.3pg/m3,approximately12±2%originatedinSaharandust.
+Thisis1.9±0.4pg/m3basedonconditionsduringthesamplingperiods.
+Land use practices, and both natural and man-made fire, likely contribute to the
+movementofHginandoutoftheEvergladessoils,hydraulicallyconnectedsurfaceand
+groundwater,plants,anddownwindregionsinsouthernFlorida.
+WetdepositionofHgismonitoredatthreestationsinsouthernFlorida,withfunding
+fromtheNationalAtmosphericDepositionProgram([213];Figure15). Notethatthethree
+valuesmeasuredfortheyear2021averaged16.0µg/m2andareamongthehighestvalues
+observedintheUnitedStates. BasedonthecombinedlandareaofMonroe,Dade,Broward,
+PalmBeach,Hendry,Collier,andLeecounties,thewetdepositionofHginsouthernFlorida
+in2021was411.4kg. Thisvaluerepresentsthecombinationofseveralsourcescontained
+withinTable7,whichcontainstheinfluxfactors. TheoveralldistributionofHgdeposition
+aswetdepositiondoesappeartofollowthegeneralpatternofSaharandustdistribution
+overthesoutheasternUnitedStates,particularlyduringthesummermonths[154].
+ThepresenceofHgaswetdepositioninFloridahasbeenstudiedbyGuentzeletal.[214]
+andDvonchetal.[215]inthepast. Theyhavedescribedsomeofthesourcesandeffectson
+concentration. ThehighrateofHgdepositioninsouthernFloridawasconfirmedusing
+measurementsmadeonthesoilsoftheEvergladesbyCohenetal.[137](Figure16). The
+organic soils of the Everglades tend to sequester the deposited Hg and bind it into the
+soils. Some Hg leaves via evasion and into surface water and groundwater (Figure 7).
+However,wildfires(muckfires)tendtocreatemajorevasionevents,thusreturningtheHg
+totheatmosphere. Whiletheemphasisofthisdiscussionhasbeenonwetdeposition,dry
+depositionisalsoafactorwithinthecontextofHginfluxinsouthernFlorida[69,132,216].
+The dry deposition of Hg in southern Florida is also impacted by the Saharan dust in-
+flux. Noreasonableestimateofdrydepositioncouldbeobtainedwithinthecontextof
+totaldeposition.
+Int. J. Environ. Res. Public Health 2024, 21, x 28 of 44
+Int.J.Environ.Res.PublicHealth2024,21,118 28of44
+FiguFriegu1r5e .15.M Meeaassuurreedd anannunalu waelt wdeeptosditeiopno osfi tmioenrcuorfy imncelurcduinrgy thinrecel ustdatiinongs tinh rsoeuethsetarnt iFolnorsidian [2s1o3u]. thern
+Florida[213].
+Table 7. Estimated atmosphere mercury influx for southern Florida. Where a question mark
+occurs, we could not find data to populate the table.
+Table7.EstimatedatmospheremercuryinfluxforsouthernFlorida.Whereaquestionmarkoccurs,
+Approximate Annual
+Sourcews ecouldnotfinddatatopopulatethetable. Notes References
+Inflows/kg yr−1
+ApproximateAnnual It is not possible to National Atmospheric
+Sea spSroauyr/coecsean flux/evasion excluding the Notes References
+Inflows/kgyr−1257.1–514.2 clearly quantify each of Deposition Program,
+Everglades/Saharan dust and aerosols
+these sources 2021; Section 4.3
+Seaspray/oceanflux/evasion
+Soil/dust/local sources ? Insufficient data NationalA tmospheric
+excludingthe Itisnotpossibletoclearly
+257.1–514.2 DepositionProgram,2021;
+EvergladesC/eSmaheanrta pnladnuts tstack discharge 150.6 quantifyeachofthese sources FDEP, 2023
+Section4.3
+andaerosols Most measurement
+Electrical power generation plants (natural
+0 a below the threshold for FDEP, 2023
+Soil/dust/localsougrcaess fired) ? Insufficientdata
+reporting
+Cementplantstackdischarge 150.6 FDEP,2023
+Incinerators/waste to energy 204.1 FDEP, 2023
+ElectricalpInocwineerrgateonresr/amtieodnical/crematories 0a 159.7+M ostmeasurementbe lowthe FD FD E E P P , , 2 2 0 0 2 2 3 3
+plants(naturalgasfired) thresholdforreporting
+Fuel emissions from vehicles 1.4 Calculated Section 5.7
+Incinerators/wastPeltaonet ntrearngsypiration 204.1 ? Contradictory data MFaDsoEnP,, 22000293
+IncineratorsM/muendiciicpaal/l clarenmdfaatollrsi/egsas discharge 159.7+ 4 SFeDctEioPn, 250.62 3
+Minor: asphalt plants, soil amendments
+Fuelemissionsfromvehicles 1.4 <1 CNaloctu flualtleyd characterized FDSeEcPti,o 2n0253.7
+evasion
+Planttranspiration ? Contradictorydata Mason,2009
+Remobilization via wildfire and peat loss in Based on loss of peat
+215 Section 6.2
+MunicipallaEndvefarlgllsa/des peatland over 133 years
+4 Section5.6
+gasdischarge Insufficient data (could
+MinRoerm:aosbpihliazlattpiolann itns ,ssuogilarland controlled fires ? be grouped into peat None available
+<1 Notfullycharacterized FDEP,2023
+amendmentsevasion loss)
+Approximate Totals 991.9–1249
+Remobilizationviawildfireand
+peatlossin a data below 2th1e5 threshold for reportBinags.e donlossofpeatover Section6.2
+133years
+Evergladespeatland
+Remobilizationinsugarland Insufficientdata(couldbe
+? Noneavailable
+controlledfires groupedintopeatloss)
+ApproximateTotals 991.9–1249
+adatabelowthethresholdforreporting.
+Int. J. Environ. Res. Public Health 2024, 21, x 29 of 44
+Minor: asphalt plants, soil amendments
+<1 Not fully characterized FDEP, 2023
+evasion
+Remobilization via wildfire and peat Based on loss of peat over
+215 Section 6.2
+loss in Everglades peatland 133 years
+Remobilization in sugarland controlled Insufficient data (could be
+? None available
+fires grouped into peat loss)
+Approximate Totals 991.9–1249
+The presence of Hg as wet deposition in Florida has been studied by Guentzel et al.
+[214] and Dvonch et al. [215] in the past. They have described some of the sources and
+effects on concentration. The high rate of Hg deposition in southern Florida was confirmed
+using measurements made on the soils of the Everglades by Cohen et al. [137] (Figure 16).
+The organic soils of the Everglades tend to sequester the deposited Hg and bind it into the
+soils. Some Hg leaves via evasion and into surface water and groundwater (Figure 7).
+However, wildfires (muck fires) tend to create major evasion events, thus returning the
+Hg to the atmosphere. While the emphasis of this discussion has been on wet deposition,
+dry deposition is also a factor within the context of Hg influx in southern Florida
+[69,132,216]. The dry deposition of Hg in southern Florida is also impacted by the Saharan
+dust influx. No reasonable estimate of dry deposition could be obtained within the context
+of total deposition.
+Int.J.Environ.Res.PublicHealth2024,21,118 29of44
+FiFgiugruer e1166.. TTootatlaHl gHpge rpmears sm(TaHssg M(T,Hmgg/Mk,g )mshgo/wkgin) gs(hAo)wpoiningt o(bAse) rvpaotiionnt s,o(bBs)emrvoadteiloendss,e m(Biv) armi-odeled
+segmraivmasri(g50r0a-mmsl a(5g0s)0,-amnd la(gCs))a, nanodrd (inCa)r aynk roigrdinignaprrye dkircitgioinngm papre(dfriocmtioCno mheanpe (tfarlo.m[13 C7]o).hen et al. [137]).
+6.2. SourcesandSinksofHginSouthernFlorida: AProposedMercuryBudget
+ThelargestreservoirofHginsouthernFloridaistheorganicsoilsoftheEverglades
+peatlands (Figure 16). Organic sediments, particularly modern peats and ancient coal
+depositsaregloballyknownasareasofheavymetalsenrichment,especiallyHg[72,95,217].
+TheprimarysourceofHgaccumulationisatmosphericfalloutcausedinthepastbyvolcanic
+inputs,withincreasedinputduringthelast700yearsfromanthropogenicsources,suchas
+theburningofcoalandpeat. SaharandustisalsoknowntocontainHgandwasandstillis
+amajorcontributortoHgaccumulationinthesouthernFloridaenvironment.
+The enrichment of the Everglades peats is the likely result of between 3000 and
+8000years[140–149]ofatmosphericdeposition[91,92],withtheconcentrationenrichment
+causedbyfire-inducedremobilizationandredeposition[218–220],alongwithoxidation
+andcompactionofthesoilmedia[163].
+SouthernFloridahasaveryhighatmosphericHgaccumulationrateof25µg/m2/y[207].
+The authors have stated that local sources of Hg, including medical, municipal, and
+industrialincinerators,landfills,powerplants,andurbanactivities,areresponsibleforthis
+highrate. Theyalsoincludeglobalsources.
+Since the Everglades peat deposit is the largest reservoir of legacy Hg in southern
+Florida,anyissuethatincreasestheoutfluxandmobilizationofHgawayfromthepeaty
+soils isof majorconcern. Floweret al. [220] hypothesizedthat climatechange-induced
+droughtcouldincreasethefrequencyofmuckfiresby49%,whichcouldmobilizemoreHg
+intheatmospheretobedepositedinthedownwinddirectiontothenorthwestandwest,
+Int.J.Environ.Res.PublicHealth2024,21,118 30of44
+perhapsenrichingsoilsandvegetationinareasdistantfromtheHgsource(Everglades).
+The total original reservoir of mercury in the Everglades peatland is estimated to be
+approximately42.3metrictons(orhigher)(Section4.2). Aichetal.[163]reportedthatthe
+totalvolumeofpeatintheEvergladeswasapproximately7×109 m3 inapproximately
+1880andreducedtoapproximately3×109 by2013. Iftheoriginalreservoirofmercury
+was42.3metrictons,ithasbeendepletedby65.7%inthelast133yearsfrom1880to2013,
+causingadischargetotheenvironment(principallytheatmosphere)of28.6metrictons. If
+thelossofpeatisaveragedoverthose133yearsandisusedasaproxyforHgremobilization,
+thentheannualrateofatmosphericdischargecouldbeashighas0.21metrictonsperyear,
+or215kg/y.
+Cohenetal.[137]suggestthatanthropogenicHgemissionsinsouthernFloridahave
+declinedfrom3000kg/yin1991to250g/yin2000.WhileLiuetal.[162]calculatedthatthe
+annualdepositionrateacrosstheEvergladeswas<140kg/y,Cohenatal.[137]concluded
+thattherewasnoevidencethattotalHgconcentrationsorsoilmassaredeclining. Astudy
+suggestedthatsourceatmosphericHgislikelybasedonbothgeneralatmosphericaerosol
+depositionfromSaharandust,withapossibleenrichmentbyEvergladesvegetationand/or
+muckfires[219]. Therefore,ifmuckfirescontinuetoincreaseinfrequency,theannualrate
+ofHgrecyclingfromtheEvergladesmayriseintime.
+AspartoftheHgbudgetinsouthernFlorida,thelossesofHgfromtheecosystemare
+mainlyviawindtransportthatoccursduringstrongwinterfrontalsystemsthatproduce
+northeastwindsacrosstheentirepeninsula. However,duringthesummerseason,when
+Saharandustmovementisgreatest,onshorewindsduringpartofthedayonboththeeast
+andwestcoastsofFloridatendtotrapgaseousandparticulateHgonthelandmassandin
+theatmosphere. Often,theHgisincorporatedintorainfall.
+The principal sink of Hg is deposition on soils and plants. Organic soils tend to
+sequestertheHg,sowetlandareasarepermanentlyenhancedwithHgaswellasother
+metals. Theonlydischargeoccursduringfiresthatinvadewetlands(e.g.,muckfiresinthe
+Everglades). Hgdepositiononvegetationisamorecomplexmatter. Greenplateetal.[187]
+recentlyfoundthat90%oftheHgfoundontheleavesofthewetlandplantwillowissurface
+depositedandwashedoffusingdeionizedwater. Therewas8.8timesmoreHginthewood
+ofthetreecomparedtothatincorporatedintotheleafmatter. Therehasbeennosystematic
+investigationofHginplantsinsouthernFlorida. Basedontheliterature,Hgcanremain
+withintheplantwoodorcanbeevadedfromtheleavesincertaincases(summarizedby
+Mason[152]). Indeciduoustrees,Hgincorporatedorsurface-adsorbedontheleavesis
+recycledintothesoils,whereitmaybepermanentlydepositedorentersthegroundwater
+orsurfacewaterinadissolvedform. Asurveyofmetalsconcentrationsinsoilsthrough-
+out Florida by Chen et al. [153] found that Hg varied from 0.00075 to 0.0396mgkg−1,
+with the highest concentrations found in organic soil types. As observed in Figure 14,
+southernFloridahasthehighestconcentrationofHginrainfallintheUnitedStatesonan
+annualbasis.
+ElevatedconcentrationsofHghavebeenfoundinestuarinesedimentsinsouthern
+Floridaaswellasmangrovepeatdeposits[221]. Kannanetal.[222]documentedthetotal
+Hgandmethylmercuryinwater,sediments,andfishinsouthernFloridaestuaries.
+7. HealthRiskAspectsofHgExposure
+7.1. PublicHealthPerspectiveofMercuryExposure
+Hgintheenvironmentposesriskstothehealthofhumansandwildlife,asdescribed
+intheGlobalMercuryAssessment(GMA)[223]andaccompanyingdocumentation[223].
+Hgtoxicityhasbeenasignificantglobalhealthissueforover2000years[8,80]. Thetoxicity
+of Mg and its adverse impacts have been documented in ancient times, as recorded by
+Hippocrates(460–37B.C.),PlinytheElder(23–79A.D.),Galen(131–200A.D.),Avicenna
+(980–1037A.D.),andParacelsus(1493–1541A.D.)[224,225]. TheU.S.PublicHealthService
+in 1941 documented the poisoning of workers exposed to Hg in the hat industry that
+resultedinthecolloquialstatement“madasahatter”. Thathazard,aswellasHgexposure
+Int.J.Environ.Res.PublicHealth2024,21,118 31of44
+concernsinmining,thermometer/barometermanufacturing,andlaboratoryincidents,has
+beeneliminatedorlargelyreducedovertheyears[80].
+Inmoderntimes,themostrelevantexposurepathwaysforHgtoenterthehuman
+bodyinthegeneralpopulationarethebreathingofcontaminatedairandtheconsumption
+ofcontaminatedfishandshellfish, orotherfoodstoalesserextent[224,226]. Themost
+toxicformofHginfoodismethylmercury. Hgcanalsoenterthebodyviadrinkingwater
+andcanbeabsorbedintothebodyfromoralordermalcontactwithcontaminatedsoils,
+whichisapotentialproblemforchildren[6].
+Dependingontheexposurecircumstances,Hgcanexhibitavarietyofhumanhealth
+impacts [227,228]. Sufficiently elevated blood concentrations can potentially result in
+myocardialinfarction[229],reproductiveandendocrineissues[230],increasedcolorectal
+cancerrisk[231],andapossibleassociationwithincreasesintype2diabetes[232]. Multiple
+epidemiological studies in e.g., Minamata (Japan), the Seychelle Islands, and the Faroe
+Islands,haveshownthatthedevelopingnervoussystemisanespeciallysensitivetargetof
+methylmercuryintakeduringpregnancy[233,234]. Thesignificantdifferencesinoutcomes
+ofthesestudiesmaybeexplainedbythevariedattentiontopotentialconfounderssuch
+as nutritional benefits of fish-based omega-3 fatty acids, concurrent exposure to other
+contaminantsinfishtissue(e.g.,selenium,PCBs),andsocialaspectsofchilddevelopment.
+Asnotedina2019studyspecifictotheconsumptionoffishbypregnantwomeninsouth
+Florida,Schaeferetal.[235]emphasizedthat“Educationaleffortsmustprovideabalanced
+approachtoincludethebenefitsoffishconsumptionwhileminimizingriskbyavoiding
+locallycaughtseafoodorfishspeciesknowntocontainhighlevelsofHg”.
+7.2. ExposuretoHginSoils,SurfaceWater,andDrinkingWaterinSouthernFlorida: Healthand
+RegulatoryPerspectives
+Although soil-based Hg may be a significant source of indirect human exposure
+(e.g.,inhalationofoff-gassedHg,andrunofftowaterwayswithsubsequentconsumption
+ofcontaminatedfishandshellfish), directhumanexposuretoHginsoilsviaingestion,
+inhalation,anddermalcontactgenerallyisnotacommonrouteofsignificantexposure.
+However,insouthernFlorida,withthenotedlegacyreservoirofHginEvergladesmucky
+soils, farming, recreational, and other activities may contribute in a notable way to the
+direct and indirect intake of Hg from soil. The Florida Department of Environmental
+Protection [236] has established health protective levels for mercury in soil, which are
+showninTable8.
+Table8.HealthprotectionmaximumconcentrationsofHgforresidentialandcommerciallandused
+establishedbytheFloridaDepartmentofEnvironmentalProtection.
+ResidentialLandUse Commercial/IndustrialLandUse
+mg/kg mg/kg
+Mercury(Hg) 3 17
+Methylmercury 1.1 6.1
+IncooperationwiththeUSEPA,theFDEPhasestablishedastatewideHgTotalDaily
+MaximumLoad(TMDL)forfreshandmarinesurfacewaters. TheTMDLaimstoassistin
+theidentificationofimpairedwaterbodiesandtofacilitatereductionsinpollutantloads
+so that a return to previous designated uses is possible [237]. The Hg TMDL is unique
+inthatitisnotbasedonactualsurfacewaterHgconcentrations. Infact,althoughwater
+qualitystandardsareinplaceforFlorida(e.g.,ClassIIIstandardsforfishconsumptionand
+recreationforfresh(≤0.012µg/L)andmarine(≤0.025µg/L)waters),therearenowater-
+bodiesinFloridathathavebeenidentifiedasimpairedbasedsolelyonHgconcentrations
+inthewater. Rather,theTMDLisbasedonexceedancesofFloridaDepartmentofHealth
+(FDOH)guidelinesregardingtheconsumptionoffishandshellfish[237]. Asdetailedin
+theMercuryTMDLFinalReport[237],waterbodiesaregenerallylistedasimpairedonlyif
+Int.J.Environ.Res.PublicHealth2024,21,118 32of44
+FDOHfishconsumptionadvisorieshavebeenestablishedduetoelevatedlevelsofHgin
+edibletissuesofspeciesinthatwaterbody.
+AsearchofdataforHgindrinkingwaterinsouthernFloridashowsverylowconcen-
+trationsinpublicdrinkingwater. Invirtuallyallcases,itoccursbelownotonlytheFederal
+andFloridadrinkingwaterstandardof2µg/L(2ppb),butbelowthedetectionlimitsof
+variousanalyticalmethods(e.g.,lessthan0.1µg/L).Someprivatewellsproducingwater
+fromshallow,unconfinedaquiferscanbecomecontaminatedwithdissolvedHg,especially
+wherelocatedneardomesticlandfillscontainingoldsolidwastedepositedbeforemodern
+Hgcontrollawswerepassed.
+Thus,althoughnoreportsofsignificantadversehumanhealtheffectsassociatedwith
+direct exposure to soil, surface water, or drinking water were found, regulations are in
+placeforeachofthosemediatoensurethatthepotentialhealthhazardsareminimized.
+7.3. ExposuretoHginAmbientAir: HealthandRegulatoryAspects
+AlthoughoccupationalstandardsexistforworkerexposuretoHginair(e.g.,OSHA
+8hTWAof0.1mg/m3),protectivelevelsforexposuretoHginambientoutdoorairare
+notavailable. Potentiallyapplicablehealth-protectiveguidelinesforHgintheairinclude
+theUSEPAinhalationreferenceconcentration(RfC)forelementalHgataconcentration
+of3.0×10−4g/m3,aswellastheresidentialandcommercialRegionalScreeningLevels
+(RSLs)thatarebasedontheRfC.TheresidentialindoorairRSLis0.31µg/m3,andthe
+commercialRSLis1.3µg/m3 [10]. AllofthesouthernFloridaatmosphericHgconcen-
+trationsdiscussedpreviouslyinSection6.1andelsewhereareconsiderablylessthanthe
+health-protectiveguidelinesforinhalationexposure.
+7.4. HgBioaccumulationinFishandAnimals
+Hgaccumulationinplantsandanimalstendstobiomagnifyupthefoodchaininboth
+marineandfreshwaterenvironments[101,102,111,222,238–240]. Commonly,elementaland
+particulateHgareinitiallydepositedinplantsandsoilsandundergotheprocessofmethy-
+lation,whichallowstheeasyuptakeoforganicHgintothefoodchain[4,41,42,241,242].
+Int. J. Environ. Res. Public Health 2024, 21, x 33 of 44
+StudiesconductedintheEvergladesdocumentedtheprocessesbywhichHgismethylated
+anddemethylated,aswellashowitentersthefoodchain[5,88,208–211];Figure17).
+FFiigguurree 1177. .FFoooodd wweebb bbioioaaccccuummuulalatitoionn oof fmmeeththyylmlmeercrcuuryry inin fifisshh, ,bbirirddss, ,aanndd ootthheerr oorrggaanniissmmss.. TThhee
+mmeetthhyylmlmeerrccuurryy oorriiggiinn iiss llooccaatteedd aatt sseeddiimmeenntt––ppeerriipphhyyttoonn iinntteerrffaaccee ((ffrroomm KKrraabbbbeennhhoofftt eett aall.. [[55]]))..
+TThhee bbiiooaaccccuummuullaattiioonn ofomf emtheytlhmyelmrceurrcyuirny thien Evtheerg lEadveersgbliaodteass hboiwotsat hsehaocwcus mtuhlea -
+atciocunmbeuglaintinoinn gbewgiitnhnsinmga wllifithsh s,msuacllh fiasshm, souscqhu aitso mfisohsq(eu.git.o,fiGsahm (be.ugs.i, aGhaomlbbruosoikai ;h[o2l0b9r,o2o1k1i];) ,
+[a2n09d,2t1h1e]n), laanrdg etrhefins hl,arsguecrh fiassh,l asrugcehm aosu ltahrgbeamssou[2th0 9b,2a1ss1 ,[224039],,2t1o1,w24a3d],i ntog wbiarddisn,gs ubcirhdsa,s
+seugcrhe tass [e2g4r4e,2ts4 5[2],4a4,n2d45u],l taimnda tuelltyimtoataenly atpoe axnp arpeedxa tporredsuactohr assucthhe aFs ltohreid Falopraidnath pearn[t2h4e6r] .
+[246]. In one study, it was reported that the Hg in game fish in the Everglades exceeded
+the recommended human consumption guideline of 1.5 µg/g (mg/kg), with a maximum
+reported detection of 4.4 µg/g in edible portions of largemouth bass (Figure 18; [247,248]).
+As illustrated in Figure 17, elevated concentrations of mercury in bass livers covered a
+wide portion of the Everglades and were associated with the sulfate concentration, which
+is involved in the methylation process.
+Figure 18. Hg concentrations in bass liver tissue in southern Florida [247].
+Int. J. Environ. Res. Public Health 2024, 21, x 33 of 44
+Figure 17. Food web bioaccumulation of methylmercury in fish, birds, and other organisms. The
+methylmercury origin is located at sediment–periphyton interface (from Krabbenhoft et al. [5]).
+The bioaccumulation of methylmercury in the Everglades biota shows the
+Int.J.Environ.Res.PublicHealth202a4c,c2u1,m11u8lation beginning with small fish, such as mosquitofish (e.g., Gambusia holbro3o3kofi;4 4
+[209,211]), and then larger fish, such as largemouth bass [209,211,243], to wading birds,
+such as egrets [244,245], and ultimately to an apex predator such as the Florida panther
+[2I4n6]o. nIne ostnued syt,uidtyw, aits wreaps orretpeodrttehda tththaet tHheg Hing gianm geamfiesh fiisnh tihne thEev eErvgelragdleasdeesx ceexecdeeeddetdh e
+three croecmommemnedneddedh uhmumananc ocnosnusmumptpiotinong guuidideleilnineeo off1 1.5.5 µµgg//gg ((mmgg//kkgg),) ,wwitihth a ammaxaixmimumum
+rerpeoprotretde ddedteetcetciotino nofo 4f.44. 4µgµ/gg/ ign iendeibdlieb lpeoprtoirotniosn osf olafrlgaergmeomuotuh tbhabsas s(sFi(gFuigrue r1e81; 8[2;4[274,274,284])8.] ).
+AAs silliullsutsrtartaetde dini nFiFgiugruer e171,7 e,leelveavtaetde dcocnocnecnetnratrtaiotinosn osfo mf merecrucruyr yini nbabsass slivlievresr scocvoevreerde da a
+wwidied epoprotriotino nofo tfhteh eEvEevregrlgaldaedse asnadn dwwereer aesassoscoicaitaetde dwwithit hthteh seuslufalftaet ceocnocnecnetnratrtaiotino,n w,whihcihc h
+is iisnivnovlovlevde dini nthteh emmetehtyhlyaltaiotino nprporcoecsess. s.
+FiFgiugruer 1e81. 8H.gH cgocnocnecnetnratrtaiotinosn isni nbabsass lsivlievre tristsisuseu ieni nsosuotuhtehrenr nFlFolroidriad [a2[4274]7. ].
+Sincelargemouthbasscommonlyareeatenbyfishermanandtheirfamilies,theState
+ofFloridahasissuedhealthwarningstotrytoeliminatethesevereimpactsofconsumption
+offishtaintedwithHg(FloridaDepartmentofHealth[249]. TheHginbassissueisnot
+limitedtotheEverglades,butalsoimpactsLakeOkeechobeeandriversandstreamsin
+southernFlorida.
+8. Conclusions
+Southern Florida has the highest Hg concentration in the atmosphere within the
+continentalUnitedStates,withanaverageannualwetdepositionrate(2021)of16.0µg/m2.
+Thetotaldepositionofallformsofnewmercuryisestimatedtobe411.2kg/yforthearea
+includingMonroe,Dade,Broward,PalmBeach,Hendry,Collier,andLeecounties,which
+is an area of 25,720 km2. The highest influx of naturally occurring Hg is from Saharan
+dust, marine evasion, and global aerosols, which in combination contribute between
+257.1 and 514.2 kg/y. Another major contributor of Hg to the atmosphere of southern
+Florida is the remobilization of legacy Hg from the Everglades. Prior to the impacts of
+man on the Everglades, it contained a reservoir of Hg of an estimated 42.3 metric tons.
+Thismercurywasboundwithintheorganicsoils(peat)whichhavehadareductionin
+volumeofapproximately65.7%,resultinginadischargetotheenvironment(principally
+theatmosphere)of28.6metrictonsofrecycledlegacyHg. Thisremobilizationhasoccurred
+overaperiodof133years,whichwouldmakeitsannualcontributiontotheHgbudgetof
+upto215kg/y. AnthropogenicsourcesofHgwithinsouthernFloridaincludeincinerators
+(waste to energy), other incinerators (medical waste, crematories), cement plants, and
+Int.J.Environ.Res.PublicHealth2024,21,118 34of44
+motor vehicle fuel emissions. These sources of Hg contribute 365.2 kg/y. Surprisingly,
+emissionsofHgfromthefivelargenaturalgas-firedpowerplantsinsouthernFloridaare
+trivialcomparedtootherHgsources(<2kg/yr). Therangeintotaladditionalorrecycling
+ofmercurytothesouthernFloridaenvironmentrangesfrom995.9to1253kg/y.
+AkeyunresolvedquestioniswhereHgwhichentersthesouthernFloridaenvironment
+isbeingdeposited,orwhattheprimarysinksare. SomeoftheatmosphericHgdoesleave
+during frontal systems during the winter months when strong northeast winds move
+it into the Gulf of Mexico or towards Mexico. However, Hg entering the system from
+Saharan dust and marine evasion occurs primarily during the summer months and is
+deposited mostly via wet deposition throughout the region. During a large part of the
+summer,windsblowonshoreonboththeeastandwestcoasts,therebytrappingHginthe
+atmosphereforatmosphericremovalbyrainfalland/orparticulatedeposition. Arecent
+study of willow trees in southwest Florida found that 90% of Hg found on leaves was
+surfacedepositedandnotincorporatedintotheleaftissue,whichsupportsasignificantrate
+ofatmosphericdeposition. ThesinkforHgdepositioninsouthernFloridarequiresamajor
+researchinitiative.
+The high rates of Hg deposition, and the legacy content in southern Florida envi-
+ronmentalmedia,combinedwithpotentialhealtheffectsviamultipleroutesofexposure,
+suggest that health impacts may be occurring without adequate research to define and
+quantifyalinktothispotentiallysignificanthealthhazard.
+AuthorContributions: T.M.M.wrotemostoftheinitialdraftandmadeeditsonthefinalpaper.
+J.H.M.J.wrotethesectionsofmercuryinthegeologicrecordandthegeochemistryofmercury.S.T.
+(SeneshawTsegaye)contributedvarioussectionsonmercuryinwaterandwastewater.S.T.(Serge
+Thomas)contributedthesectiononmercuryinstormwaterpondsedimentsandeditedthefinaldraft.
+C.M.T.andD.C.wrotethesectionsonpublichealthaspectsofmercuryandeditedthefinalpaper.
+Z.R.K.workedonthetextfiguresandperformedresearchtofindvariousdatacontainedwithinthe
+text.Allauthorshavereadandagreedtothepublishedversionofthemanuscript.
+Funding:FundingwasinitiallyprovidedbyT.M.M.fromfundsassociatedwithhisEminentScholar
+inHydrologypositionintheCollegeofEngineering. Nograntfundingwasobtainedtosponsor
+thisresearch.
+InstitutionalReviewBoardStatement:Notapplicable.
+InformedConsentStatement:Notapplicable.
+DataAvailabilityStatement:Alldatausedordevelopediscontainedwithinthepaper.
+Acknowledgments:TheauthorsthankHarleyMeansoftheFloridaGeologicalSurveyforproviding
+heavy metals concentrations from whole rock analyses conducted for the assessment of metals
+mobilizationinaquiferstorageandrecoveryprojectsinsouthernFlorida.
+ConflictsofInterest:Theauthorsdeclarenoconflictsofinterest.ChristopherM.Teaf(part-time)and
+DouglasCovert(full-time)workforacompanythatconductshazardouswastemanagement.They
+havenoprojectsthatinvolvethesubjectmaterialinthispaper.
+References
+1. NationalInstituteforOccupationalSafetyandHealth(NIOSH).CriteriaDocuments: CriteriaforaRecommendedStandard: Oc-
+cupational Exposure to Inorganic Mercury; DHHS (NIOSH) Publication No. 73-11024; NIOSH Publication: Washington, DC,
+USA,1973.
+2. National Institute for Occupational Safety and Health (NIOSH). Inorganic Mercury and Organic Mercury; DHHS (NIOSH)
+PublicationNo.81-123;NIOSHPublication:Washington,DC,USA,1981.
+3. NationalInstituteforOccupationalSafetyandHealth(NIOSH).HazardIDNo. 6: ExposuretoMercuryVaporduringtheUseof
+MercuryCarburetorSynchronizers;DHHS(NIOSH)PublicationNo.99-111;NIOSHPublication:Washington,DC,USA,1999.
+4. Zilloux,E.J.;Porcella,D.B.;Benoit,J.M.Mercurycyclingandeffectsinfreshwaterwetlandecosystems.Environ.Toxicol.Chem.
+1993,12,2245–2264.[CrossRef]
+5. Krabbenhoft,D.P.;Hurley,J.P.;Marvin-DiPasquale,M.;Orem,W.H.;Aiken,G.R.;Schuster,P.J.;Gilmour,C.C.;Harris,R.The
+aquaticcyclingofmercuryintheEverglades(ACME)project:Aprocess-basedinvestigationofmercurybiogeochemistryina
+complexenvironmentalsetting. InU.S.GeologicalSurvey,ProgramontheSouthFloridaEcosystem—ProceedingsofSouthFlorida
+Int.J.Environ.Res.PublicHealth2024,21,118 35of44
+RestorationScienceForum,BocaRaton,FL,USA,17–19May1999.;U.S.GeologicalSurveyOpen-FileReport99–181;Gerould,S.,
+Higer,A.,Eds.;U.S.GeologicalSurvey:Reston,VA,USA,1999;pp.54–56.
+6. Jones,R.L.;Sinks,T.;Schober,S.E.;Pickett,M.Bloodmercurylevelsinyoungchildrenandchildbearing-agedwomen-united
+States,1999–2002.Morb.Mortal.Wkly.Rep.2004,53,1018–1020.
+7. Pirrone,N.;Mahaffey,K.Wherewestandonmercurypollutionanditshealtheffectsonregionalandglobalscales.InDynamicsof
+MercuryPollutiononRegionalandGlobalScales:AtmosphericProcesses,HumanHealth,andPolicy;Pirrone,N.,Mahaffey,K.,Eds.;
+Springer:Norwell,MA,USA,2005;Chapter1;pp.1–21.
+8. Bernhoft,R.A.Mercurytoxicityandtreatment:Areviewoftheliterature.J.Environ.PublicHealth2012,2012,460508.[CrossRef]
+[PubMed]
+9. Gustin,M.S.;Weiss-Penzias,P.S.;Peterson,C.Investigatingsourcesofgaseousoxidizedmercuryindrydepositionatthreesites
+acrossFlorida,USA.Atmos.Chem.Phys.2012,12,9201–9219.[CrossRef]
+10. U.S.EnvironmentalProtectionAgency(USEPA).2023RegionalScreeningLevelsTable;U.S.EnvironmentalProtectionAgency:
+Washington,DC,USA,2023.Availableonline:https://www.epa.gov/risk/regional-screening-levels-rsls-generic-tables(accessed
+on1November2023).
+11. Pirrone,N.;Cinnirella,S.;Feng,X.;Finkelman,R.B.;Friedli,H.R.;Leaner,J.;Mason,R.;Mukherjee,A.B.;Stracher,G.;Streets,
+D.G.;etal.Globalmercuryemissionstotheatmospherefromnaturalandanthropogenicsources.InMercuryFateandTransportin
+theGlobalAtmosphere:EmissionsMeasurementsandModels;Pirrone,N.,Mason,R.,Eds.;SpringerScience+BusinessMedia:New
+York,NY,USA,2009;Chapter1;pp.3–49.
+12. Pirrone,N.;Sprovieri,S.;Hedgecock,I.;Trunfio,A.;Cinnirella,S.Dynamicprocessesofatmosphericmercuryanditsspeciesin
+theMediterraneanRegion.InDynamicsofMercuryPollutiononRegionalandGlobalScales:AtmosphericProcesses,HumanHealth,and
+Policy;Pirrone,N.,Mahaffey,K.,Eds.;Springer:Norwell,MA,USA,2005;Chapter23.
+13. Hedgecock,I.M.;Pirrone,N.;Trunfio,G.A.;Sprovieri,F.Integratedmercurycyclingtransport,andairbourneexchange(MER-
+CAWEx)model.J.Geophys.Res.2006,111,D20302.[CrossRef]
+14. Lindberg,S.;Bullock,R.;Ebinghaus,R.;Engstrom,D.;Feng,X.;Fitzgerald,W.;Pirrone,N.;Prestbo,E.;Seigneur,C.Asynthesisof
+progressanduncertaintiesinattributingthesourcesofmercuryindeposition.AMBIOJ.Hum.Environ.2007,36,19–32.[CrossRef]
+15. Lindqvist,O.;Rodhe,H.Atmosphericmercury—Areview.TellusB1985,31,36–159.[CrossRef]
+16. Lindqvist,G.;Johansson,K.;Astrup,A.;Anderson,A.;Bringmark,L.;Hovenius,G.;Iverfeldt,Å.;Meili,M.;Timm,B.Mercuryin
+theSwedishenvironment.WaterAirSoilPollut.1991,55,xi-261.[CrossRef]
+17. Rasmussen,P.E.;Edwards,G.C.;Kemp,J.R.;Fitzgerald-Hubble,C.R.;Schroeder,W.H.Towardsanimprovednaturalsource
+inventoryformercury.InProceedingsoftheMetalsintheEnvironment:AnInternationalSymposium,Montreal,QC,Canada,
+5–6May1998;Sheaff,J.,Ed.;CanadianInstituteofMining,MetallurgyandPetroleum,Montreal,CanadaPublisher:Montreal,
+QC,Canada,1998;pp.74–82.
+18. Gustin,M.S.;Lindberg,S.E.;Austin,K.;Coolbaugh,M.;Vette,A.;Zhang,Z.Assessingcontributionofnaturalsourcestoregional
+atmosphericmercurybudgets.Sci.TotalEnviron.2000,259,61–71.[CrossRef]
+19. Navarro-Flores,A.;Martinez-Frias,J.;Font,X.;Viladevakk,M.Modelingofmodernmercuryvaportransportinanancient
+hydrothermalsystem:Environmentalandgeochemicalimplications.Appl.Geochem.2000,15,281–294.[CrossRef]
+20. Gustin,M.S.Aremercuryemissionsfromgeologicsourcessignificant: Astatusreport. Sci. TotalEnviron. 2003,304,153–167.
+[CrossRef][PubMed]
+21. Shen,J.;Fe4ng,Q.;Algeo,T.J.;Liu,J.;Zhou,C.;Wei,W.;Liu,J.;Them,T.R.,II;Gill,B.C.;Chen,J.Sedimentaryhostphasesof
+mercury(Hg)andimplicationsforuseofHgasavolcanicproxy.EarthPlanet.Sci.Lett.2020,543,116333.[CrossRef]
+22. Gustin,M.S.;Maxey,R.A.;Rasmussen,P.;Biester,H.Mechanismsinfluencingthevolatilelossofmercuryfromsoils.InSymposium
+Volume,MeasurementofToxicandRelatedAirPollutants,AirWasteManagementAssociation;UnitedStatesEnvironmentalProtection
+Agency:Cary,NC,USA,1998;pp.224–234.
+23. Wallschläger,D.;Turner,R.R.;London,J.;Ebinghaus,R.;Kovk,H.H.;Sommar,J.;Xiao,J.Factorsaffectingthemeasurementof
+mercuryemissionsfromsoilswithfluxchambers.J.Geophys.Res.1999,104,21859–21871.[CrossRef]
+24. Viega,M.M.;Meech,J.A.;Onante,N.Mercurypollutionfromdeforestation.Nature1994,38,816–817.[CrossRef]
+25. Carvalho,J.A.;Higuchi,N.;Anaujo,T.;Santos,J.C.CombustioncompletenessinarainforestclearingexperimentinManaus,
+Brazil.J.Geophys.Res.1998,103,13195–13200.[CrossRef]
+26. Roulet,M.;Lucotte,M.;Farella,N.;Serique,G.;Coelho,H.;SousaPassos,C.J.;DeJesusdeSilva,E.;ScavonedeAndrade,P.;
+Mergler,D.;Guimarães,J.R.D.;etal.EffectsofrecenthumancolonizationonthepresenceofmercuryinAmazonianecosystems.
+WaterAirSoilPollut.1999,112,297–313.[CrossRef]
+27. Friedli,H.R.;Radke,L.F.;Lu,J.Y.Mercuryinsmokefrombiomassfires.Geophys.Res.Lett.2001,28,3223–3226.[CrossRef]
+28. Friedli,H.R.;Radke,L.F.;Lu,J.Y.;Banic,C.M.;Leaitch,W.R.;MacPherson,J.I.Mercuryemissionsfromburningofbiomassfrom
+temperateNorthAmericanforests:Laboratoryandairbornemeasurements.Atmospheric.Environ.2003,37,253–267.[CrossRef]
+29. Sigler,J.M.;Lee,X.;Munger,W.Emissionandlong-rangetransportofgaseousmercuryfromalarge-scaleCanadianborealforest
+fire.Environ.Sci.Technol.2003,37,4343–4347.[CrossRef]
+30. Cossa,D.;Coquery,M.;Gobeil,C.;Martin,J.M.Mercuryfluxesattheoceanmargins. InGlobalandRegionalMercuryCycles:
+Sources,FluxesandMassBalances;Baeyens,W.,Ebinghaus,R.,Vasiliev,O.,Eds.;KluwerAcademicPublishers:Amsterdam,The
+Netherlands,1996;pp.229–247.
+Int.J.Environ.Res.PublicHealth2024,21,118 36of44
+31. Pirrone,N.;Ferrara,R.;Hedgecock,I.M.;Kailos,G.;Mamane,Y.;Munthe,J.;Pacyna,J.M.;Pytharoulis,I.;Sprovieri,F.;Voudouri,
+A.;etal.DynmicprocessesofmercuryovertheMediterraneanRegion:ResultsfromtheMediterraneanAtmosphericMercury
+CycleSystem(MAMCS)project.Atmos.Environ.2003,37,21–39.[CrossRef]
+32. Mason,R.P.;Lawson,N.M.;Sheu,G.-R.MercuryintheAtlanticOcean:Factorscontrollingair-seaexchangeofmercuryandits
+distributionintheupperwaters.Deep.SeaRes.PartII2001,48,2829–2853.[CrossRef]
+33. Mason,R.P.;Sheu,G.P.Roleoftheoceanintheglobalmercurycycle.Glob.Biogeochem.Cycles2002,16,1093.[CrossRef]
+34. Mason,R.P.Air-seaexchangeandmarineboundarylayeratmospherictransformationsofmercuryandtheirimportanceinthe
+globalmercurycycle.InDynamicsofMercuryPollutiononRegionalandGlobalScales;Pirrone,N.,Mahaffey,K.R.,Eds.;Springer:
+NewYork,NY,USA,2005;pp.219–229.
+35. Mason, R.; Hammerschmidt, C.; Lamborg, C.; Bowman, K.; Swarr, G.; Shelley, R. The air-sea exchange of mercury in the
+low-latitudePacificandAtlanticOceans.Deep.SeaRes.PartI2017,122,17–28.[CrossRef]
+36. Grasby,S.E.;Them,T.R.,II;Chen,Z.;Yin,R.S.;Ardakani,O.H.Mercuryasaproxyforvolcanicemissionsinthegeologicrecord.
+EarthSci.Rev.2019,196,102880.[CrossRef]
+37. Ferrara,R.;Mazzolai,B.;Lanzillotta,E.;Nucaro,E.;Pirrone,N.Volcanoesasemissionsourcesofatmosphericmercuryinthe
+Mediterraneanbasin.Sci.TotalEnviron.2000,259,115–121.[CrossRef][PubMed]
+38. Saiz-Lopez,A.;Travnikov,O.;Sonke,J.E.;Thackray,C.P.;Javob,D.J.;Carmona-García,J.;Francés-Monerris,A.;Roca-Sanjuán,D.;
+UlisesAcuña,A.;Dávalos,J.Z.;etal.PhotochemistryofoxidizedHg(I)andHg(II)speciessuggestsmissingmercuryoxidationin
+thetroposphere.Proc.Natl.Acad.Sci.USA2020,117,30949–30956.[CrossRef]
+39. Lindström, S.; Callegaro, S.; Davies, J.; Tegner, C.; vanderSchootbrugge, B.; Pedersen, G.K.; Youbi, N.; Sanei, H.; Marzoli,
+A.TracingvolcanicemissionsfromtheCentralAtlanticMagmaticProvinceinthesedimentaryrecord. EarthSci. Rev. 2021,
+212,103444.[CrossRef]
+40. Chu,P.AnAssessmentofMercuryEmissionsfromU.S.CoalFiredPowerPlants;EPRIReportNo. 1000608;EPRI:PaloAlto,CA,
+USA,2000.
+41. Tewalt,S.J.;Bragg,L.J.;Finkelman,R.B.MercuryinU.S.Coal—Abundance,Distribution,andModesofOccurrence;U.S.Geological
+SurveyFactSheetFS-095-091;U.S.GeologicalSurvey:Reston,VA,USA,2006.
+42. Pacyna,E.G.;Pacyna,J.M.;Steenhuisen,F.;Wilson,S.Globalanthropogenicmercuryemissioninventoryfor2000.Atmos.Environ.
+2006,40,4048–4063.[CrossRef]
+43. Pacyna,E.G.;Pacyna,J.M.Globalemissionofmercuryfromanthropogenicsourcesin1995. AirWaterSoilPollut. 2002,137,
+149–165.[CrossRef]
+44. Jones,G.;Miller,G.MercuryandModernGoldMininginNevada.UniversityofNevada.2005.Availableonline:www.unep.org
+(accessedon18March2023).
+45. Telmer,R.;Vega,M.Knowledgegapsinmercurypollutionfromgoldmining.InMercuryFateandTransportintheGlobalAtmosphere;
+Pirrone,N.,Mason,R.,Eds.;Springer:NewYork,NY,USA,2008;pp.131–172.
+46. Pirrone,N.;Costa,P.;Pacyna,J.M.;Rerrara,R.Mercuryemissionstotheatmospherefromnaturalandanthropogenicsourcesin
+theMediterraneanRegion.Atmos.Environ.2001,35,2997–3006.[CrossRef]
+47. Stracher, G.B.; Taylor, T.P. Coal fires burning out of control around the world: Thermodynamic receipt for environmental
+catastrophe.Inter.J.CoalGeol.2004,59,7–17.[CrossRef]
+48. U.S.EnvironmentalProtectionAgency(USEPA).MercuryinMedicalWaste.MercuryFactSheet#1.U.S.EnvironmentalProtection
+AgencyRegion5AirandRadiationDivision.2008.Availableonline:www.epa.gov/ARD-R5/glakes/fact1.htm(accessedon15
+May2023).
+49. Lindberg,S.E.;Roy,K.;Owens,J.PathwaysofMercuryinSolidWasteProposalORNLSamplingOperationsSummaryandPreliminary
+DataReportforPaMSWaD-1;BrevardCountyLandfill:Cocoa,FL,USA,6January1996.
+50. Lindberg,S.E.;Price,J.L.Airborneemissionsofmercuryfrommunicipallandfilloperations:Ashort-termmeasurementstudyin
+Florida.J.AirWasteManag.Assoc.1999,49,520–532.[CrossRef][PubMed]
+51. Lindberg,S.E.;Wallschlaeger,D.;Prestbo,E.M.;Bloom,N.S.;Price,J.;Reinhart,D.Methylatedmercuryspeciesinmunicipal
+wastelandfillgassampledinFlorida,USA.Atmos.Environ.2001,35,4011–4015.[CrossRef]
+52. Culver,A.HowtoSpecifyLowMercuryandLead-FreeLightingEquipment;AssociationofBayAreaGovernments:SanFrancisco,CA,
+USA,2007.
+53. Huber,K.MercuryUse:WastewaterTreatmentPlants,GreatLakesBinationalToxicsStrategy—TheWisconsinMercurySource
+Book.1997.Availableonline:https://p2infohouse.org/ref/04/03851/waste.pdf(accessedon20August2023).
+54. Carpi,A.;Lindberg,S.E.;Prestbo,E.M.;Bloom,N.S.Methylmercurycontaminationandemissiontotheatmospherefromsoil
+amendedwithmunicipalsewagesludge.J.Environ.Qual.1997,26,1650–1655.[CrossRef]
+55. Navarro,A.;Cardellach,E.;Corbella,M.MercurymobilityinminewastefromHg-miningareasinAlmeríaAndalusia(SeSpain).
+J.Geochem.Explor.2009,101,236–246.[CrossRef]
+56. Nartey,V.K.;Klake,R.K.;Doamekpor,L.L.;Kumankomah,S.Speciationofmercuryinminewaste:Casestudyofabandonedand
+activegoldminesitesattheBibiani-Anwiaso-BekwaiareaofsouthWesternGhana.Environ.Monitor.Assess.2012,184,7623–7634.
+[CrossRef]
+57. Slemr,F.;Brunke,E.-G.;Ebinghaus,R.;Temme,C.;Munthe,J.;Wangberg,I.;Schroeder,W.;Steffen,A.;Berg,T.Worldwidetrend
+ofatmosphericmercurysince1977.Geophys.Res.Lett.2003,30,1515.[CrossRef]
+Int.J.Environ.Res.PublicHealth2024,21,118 37of44
+58. Sather,M.E.;Mukerjee,S.;Smith,L.;Mathew,J.;Jackson,C.;Flournoy,M.Gaseousoxidizedmercurydrydepositionmeasurements
+intheFourCornersareaUSA,afterlargepowerplantmercuryemissionreductions.Atmos.Pollut.Res.2021,12,48–158.[CrossRef]
+59. Skov,H.;Sorenson,B.T.;Landis,M.S.;Johnson,M.S.;Sacco,P.;Goodsite,M.E.;Lohsen,C.;Christiansen,K.S.Performanceofa
+newdiffusivesamplerofHgOdeterminationinthetroposphere.Environ.Chem.2007,4,75–80.[CrossRef]
+60. Schroeder,W.H.;Munthe,J.Atmosphericmercury—Anoverview.Atmos.Environ.1998,32,809–822.[CrossRef]
+61. Lin,C.-J.;Shetty,S.K.;Pan,L.;Pongprueksa,P.;Jang,C.;Chu,H.-W.Sourceattributionformercurydepositioninthecontiguous
+UnitedStates:Regionaldifferenceandseasonvariation.J.AirWaste.Manag.Assoc.2012,62,52–63.[CrossRef][PubMed]
+62. Lyman,S.N.;Cheng,I.;Gratz,L.E.;Weiss-Penzias,P.;Zhang,L.Anupdatedreviewofatmosphericmercury.Sci.TotalEnviron.
+2019,707,135575.[CrossRef][PubMed]
+63. Zhang,L.;Wright,L.P.;Blanchard,P.Areviewofcurrentknowledgeconcerningdrydepositionofatmosphericmercury.Atmos.
+Environ.2009,43,5853–5864.[CrossRef]
+64. Mason,R.P.;Fitzgerald,W.F.;Morel,F.M.Thebiogeochemicalcyclingofelementalmercury:Anthropogenicinfluences.Geochem.
+Cosmochim.Acta1994,58,3191–3198.[CrossRef]
+65. Selin,N.E.;Jacob,D.J.;Park,R.J.;Yantosca,R.M.;Strode,S.;Jaegle,L.;Jaffe,D.Chemicalcyclinganddepositionofatmospheric
+mercury:Globalconstraintsfromobservations.J.Geophys.Res.Atmos.2007,112,D02308.[CrossRef]
+66. Gustin,M.S.;Lindberg,S.E.;Weisberg,P.J.Anupdateonthenaturalsourcesandsinksofatmosphericmercury.Appl.Geochem.
+2008,23,482–493.[CrossRef]
+67. Ariya,P.A.;Peterson,K.;Snider,G.;Amyot,M.Mercurychemicaltransformationsinthegas,aqueousandheterogeneousphases:
+State-of-the-artscienceanduncertainties. InMercuryFateandTransportintheGlobalAtmosphere;Mason,R.,Pirrone,N.,Eds.;
+SpringerScience+BusinessMedia:NewYork,NY,USA,2009.
+68. Amos,H.M.;Jacob,D.J.;Holmes,C.D.;Fisher,J.A.;Wang,Q.;Yantosca,R.M.;Corbitt,E.S.;Galarneau,E.;Rutter,A.P.;Gustin,
+M.S.;etal.Gas-particlepartitioningofatmosphericHg(II)anditseffectonglobalmercurydeposition.Atmos.Chem.Phys.2012,
+12,591–603.[CrossRef]
+69. Gustin,M.S.Exchangeofmercurybetweentheatmosphereandterrestrialecosystems.InEnvironmentalChemistryandToxicology
+ofMercury;Liu,G.,Cai,Y.,O’Driscoll,N.,Eds.;JohnWileyandSons:NewYork,NY,USA,2012;pp.423–454.
+70. Engstrom,D.R.;Fitzgerald,W.F.;Cooke,C.A.;Lamborg,C.H.;Drevnick,P.E.;Swain,E.B.;Balogh,S.J.;Balcom,P.H.Atmospheric
+HgemissionsfrompreindustrialgoldandsilverextractionintheAmerica:Areevaluationfromlakesedimentarchives.Environ.
+Sci.Technol.2014,48,6533–6543.[CrossRef]
+71. Swartzendruber,P.;Jaffe,D.Sourcesandtransport:Aglobalissue.InMercuryintheEnvironment;Bank,M.S.,Ed.;Universityof
+CaliforniaPress:Berkley,CA,USA,2012;Chapter1;pp.3–18.
+72. Enrico,M.;LeRoux,G.;Heimbürger-Boavida,L.-E.;VanBeek,L.;Souhaut,M.;Chmeleff,J.;Sonke,J.E.Holoceneatmospheric
+mercurylevelsreconstructedfrompeatbogmercurystableisotopes.Environ.Sci.Technol.2017,51,5899–5906.[CrossRef]
+73. Gochfeld,G.Casesofmercuryexposure,bioavailability,andadsorption.Ecotoxicol.Environ.Saf.2003,56,174–179.[CrossRef]
+74. Chary,N.S.;Kamala,C.T.;Raj,D.S.S.Assessingriskofheavymetalsfromconsumingfoodgrownonsewage-irrigatedsoiland
+foodchaintransfer.Ecotoxicol.Environ.Saf.2008,69,513–524.[CrossRef][PubMed]
+75. El-Kady,A.A.;Adbel-Wahhab,M.A.Occurrenceoftracemetalsinfoodstuffsandtheirhealthimpact.TrendsFoodSci.Technol.
+2018,75,36–45.[CrossRef]
+76. Nelson,N.;Byerly,J.C.;Kolbe,A.C.;Kurland,L.T.;Shapiro,S.I.;Stickel,W.H.;Thompson,J.E.;VanderBerg,L.A.;Weissler,
+A.Hazardsofmercury: Specialreporttothesecretary’sadvisorycommittee,departmentofhealth,education,andwelfare,
+November,1970.Environ.Res.1971,4,1–60.
+77. Lambert,K.F.;Evers,D.C.;Warner,K.A.;King,S.L.;Selin,N.E.Integratingmercuryscienceandpolicyinthemarinecontext:
+Challengesandopportunities.Environ.Res.2012,119,132–142.[CrossRef]
+78. U.S.EnvironmentalProtectionAgency(USEPA).GuidelinesforEatingFishthatContainMercury;U.S.EnvironmentalProtection
+Agency:Washington,DC,USA,2023.Availableonline:https://www.epa.gov/mercury/guidelines-eating-fish-contain-mercury
+(accessedon1March2023).
+79. Ruckelshaus,W.D.ReasonsunderlyingtheregistrationdecisionsconcerningproductscontainingDDT,2,4,5-T,Aldrin,and
+Dieldrin.Pressrelease18March.1971.
+80. U.S.EnvironmentalProtectionAgency(USEPA).MercurialPesticides,ManandtheEnvironment;U.S.EnvironmentalProtection
+Agency:Washington,DC,USA,1971;109p.
+81. U.S. Environmental Protection Agency (USEPA). Mercury Study Report to Congress, Volume VI. An Ecological Assessment for
+AnthropogenicMercuryEmissionsintheUnitedStates;EPA-452/R-97-008;U.S.EnvironmentalProtectionAgency:Washington,DC,
+USA,1997.Availableonline:https://www.epa.gov/mercury/mercury-study-report-congress(accessedon28August2022).
+82. U.S.EnvironmentalProtectionAgency(USEPA).1999NationalEmissionsInventory(NEI)Version3IDAFiles;U.S.Environmental
+ProtectionAgency:Washington,DC,USA,2004.Availableonline:https://gaftp.epa.gov/air/nei/nei_criteria_summaries/1999
+criteriasummaryfiles/(accessedon20September2023).
+83. U.S.EnvironmentalProtectionAgency(USEPA).Mercury(HG)EmissionInventoryfortheCleanAirMercuryRule(CAMR);U.S.
+EnvironmentalAgency: Washington,DC,USA,2004. Availableonline: http://www.epa.gov/ttn/chief/emch/invent/hg_
+smoke/2001camr_112204.zipS(accessedon20September2023).
+Int.J.Environ.Res.PublicHealth2024,21,118 38of44
+84. U.S.EnvironmentalProtectionAgency(USEPA).TechnicalSupportDocumentfortheFinalCleanAirMercuryRule:AirQuality
+Modeling.USEnvironmentalProtectionAgencyOfficeofAirQualityPlanningandStandards.U.S.EnvironmentalProtection
+Agency,ResearchTrianglePark,NC27711,March2005,USA.Availableonline:http://www.epa.gov/ttn/atw/utility/aqm_oar-
+2002-0056-6130.pdfS(accessedon20September2023).
+85. U.S.EnvironmentalProtectionAgency(USEPA).MercuryDepositionintheUSEnvironmentalProtectionAgencyCleanAirMercury
+Rule,ChartsandTables;U.S.EnvironmentalProtectionAgency:Washington,DC,USA,2006.Availableonline:http://www.epa.
+gov/air/mercuryrule/charts.htmS(accessedon20September2023).
+86. U.S.EnvironmentalProtectionAgency(USEPA).HealthEffectsofExposurestoMercury;U.S.EnvironmentalProtectionAgency:
+Washington,DC,USA,2013.Availableonline:http://www.epa.gov/mercury/health-effects-exposures-mercury(accessedon20
+September2023).
+87. U.S.EnvironmentalProtectionAgency(USEPA).MercuryInventoryReport;U.S.EnvironmentalProtectionAgency:WashingtonDC,
+USA,2020.Availableonline:https://www.epa.gov/mercury/2020-mercury-inventory-report(accessedon20September2023).
+88. Krabbenhoft,D.P.;Sunderland,E.M.Environmentalscience.Globalchangeandmercury.Science2013,341,1457–1458.[CrossRef]
+89. Sun,Y.Transnationalpublic-privatepartnershipsaslearningfacilitators:Globalgovernanceofmercury.Glob.Environ.Polit.2017,
+17,21–44.[CrossRef]
+90. You,M.Interpretationofthesource-specificsubstantivecontrolmeasuresoftheMinamataConventiononMercury.Environ.Int.
+2015,75,1–10.[CrossRef]
+91. Pollman, C.D.; Engstrom, D.R.Legacymercury. InMercuryandtheEverglades. ASynthesisandModelforComplexEcosystem
+Restoration:VolumeIII—TemporalTrendsofMercuryintheEverglades,SynthesisandManagementImplications;Pollman,C.D.,Axelrad,
+D.M.,Rumbold,D.G.,Eds.;Springer:Cham,Switzerland,2020.
+92. Pollman,C.D.;Engstrom,D.R.Trendsinatmosphericdepositionofmercury.InMercuryandtheEverglades.ASyntheisandModel
+forComplexEcosystemRestoration:VolumeIII—TemporalTrendsofMercuryintheEverglades,SynthesissandManagementImplications;
+Pollman,C.D.,Axelrad,D.M.,Rumbold,D.G.,Eds.;Springer:Cham,Switzerland,2020;Chapter1;pp.1–26.
+93. Martinez-Cortizas,A.;Pontevevedra-Pombal,X.;Garcia-Rodeja,E.;Novoa-Munoz,J.C.;Shotyk,W.MercuryinaSpanishpeat
+bog:Archiveofclimatechangeandatmosphericmercurydeposition.Science1999,284,939–942.[CrossRef]
+94. Bindler,R.Estimatingthenaturalbackgroundatmosphericdepositionrateofmercuryutilizingombrotrophicbogsinnorthern
+Sweden.Environ.Sci.Technol.2003,37,40–46.[CrossRef]
+95. Roos-Barraclough,F.;Shotyk,W.Millennial-scalerecordsofatmosphericmercurydepositionobtainedfromombrotrophicand
+minerotrophicpeatlandsintheSwissJuraMountains.Environ.Sci.Technol.2003,37,235–244.[CrossRef]
+96. LeRoux,G.;DeVleeschouwer,F.Preparationofpeatsamplesforinorganicgeochemistryusedaspaleoenvironmentalproxies.
+MiresPeat2011,7,1–9.
+97. Guentzel,J.L.;Landing,W.M.;Gill,G.A.;Pollman,C.D.AtmosphericdepositionofmercuryinFlorida:TheFAMSproject.Water
+AirSoilPollut.1995,80,393–402.[CrossRef]
+98. Gill,G.A.;Guentzel,J.L.;Landing,W.D.;Pollman,C.D.TotalgaseousmercurymeasurementsinFlorida: TheFAMSproject
+(1992–1994).WaterAirSoilPollut.1995,80,235–244.[CrossRef]
+99. Pollman,C.;Gill,G.;Landing,W.;Guentzel,J.;Bare,D.;Porcella,D.;Zillioux,E.;Atkeson,T.OverviewoftheFloridaAtmospheric
+MercuryStudy(FAMS).WaterAirSoilPollut.1995,80,285–290.[CrossRef]
+100. Clever,H.L.;Johnson,S.A.;Derrick,M.E.Thesolubilityofmercuryandsomesparinglysolublemercurysaltsinwaterand
+aqueouselectrolytesolutions.J.Phys.Chem.Ref.Data1985,14,631.[CrossRef]
+101. Fitzgerald,W.F.;Lamborg,C.H.;Hammerschmidt,C.R.Marinebiogeochemicalcyclingofmercury.Chem.Rev.2007,107,641–662.
+[CrossRef][PubMed]
+102. Chen,C.;Amirbahman,A.;Fisher,N.;Harding,G.;Lamborg,C.;Nacci,D.;Taylor,D.Methylmercuryinmarineecosystems:
+Spatialpatternsandprocessesofproduction,bioacummulationandbiomagnification. Ecohealth2008,5,399–408. [CrossRef]
+[PubMed]
+103. National Research Council. Toxiological Effects of Methylmercury; National Academies Press: Washington, DC, USA, 2000.
+[CrossRef]
+104. Lyman,S.N.;Jaffe,D.A.Formationandfateofoxidizedmercuryintheuppertroposphereandlowerstratosphere.Nat.Geosci.
+2012,5,114–117.[CrossRef]
+105. Travnikov,O.;Angot,H.;Artaxo,P.;Bencardino,M.;Bieser,J.;D’Amore,F.;Dastoor,A.;DeSimone,F.;delCarmenDiéguez,
+M.;Dommergue,A.;etal. Multi-modelstudyofmercurydispersionintheatmosphere: Atmosphericprocessesandmodel
+evaluation.Atmos.Chem.Phys.2017,17,5271–5295.[CrossRef]
+106. Slemr,F.;Weigelt,A.;Ebinghaus,R.;Bieser,J.;Brenninkmeijer,C.A.M.;Rauthe-Schöch,A.;Hermann,M.;Martinsson,B.G.;
+vanVelthoven,P.;Bönisch,H.;etal.Mercurydistributionintheuppertroposphereandlowermoststratosphereaccordingto
+measurementsbytheIAGOS-CARIBICobservatory:2014–2016.Atmos.Chem.Phys.2018,18,12329–12343.[CrossRef]
+107. Amyot,M.;Gill,G.A.;Morel,F.M.M.Productionandlossofdissolvedgaseousmercuryincoastalseawater.Environ.Sci.Technol.
+1997,31,3606–3611.[CrossRef]
+108. Qureshi,A.;O’Driscoll,N.J.;MacLeod,M.;Neuhold,Y.M.;Hungerbuhler,K.Photoreactionsofmercuryinsurfaceoceanwater:
+Grossreactionkineticsandpossiblepathways.Environ.Sci.Technol.2010,44,644–649.[CrossRef][PubMed]
+Int.J.Environ.Res.PublicHealth2024,21,118 39of44
+109. Siciliano,S.D.;O’Driscoll,N.J.;Lean,D.R.S.Microbialreductionandoxidationofmercuryinfreshwaterlakes. Environ. Sci.
+Technol.2002,36,3064–3068.[CrossRef][PubMed]
+110. Feng,S.;Ai,Z.;Zheng,S.;Gu,B.;Li,Y.Effectsofdryoutandinflowwaterqualityonmercurymethylationinaconstructed
+wetland.WaterAirSoilPollut.2014,225,1929.[CrossRef]
+111. Rudd,J.W.M.Sourcesofmethylmercurytofreshwaterecosystems:Areview.WaterAirSoilPollut.1995,80,697–713.[CrossRef]
+112. Matilainen,T.;Verta,M.;Korhonen,H.;UUsi-Rauva,A.;Niemi,M.Behaviorofmercuryinsoilprofiles: Impactofincreased
+precipitation,acidity,andfertilizationonmercurymethylation.WaterAirSoilPollut.2001,125,105–119.[CrossRef]
+113. Gu,B.;Bian,Y.;Miller,C.L.;Dong,W.;Jiang,X.;Liang,L.Mercuryreductionandcomplexationbynaturalorganicmatterin
+anoxicenvironments.Proc.Nat.Acad.Sci.USA2011,108,1479–1483.[CrossRef]
+114. Zheng,W.;Liang,L.;Gu,B.Mercuryreductionandoxidationbyreducednaturalorganicmatterinanoxicenvironments.Environ.
+Sci.Technol.2012,46,292–299.[CrossRef]
+115. Zheng,W.;Lin,H.;Mann,B.F.;Liang,L.;Gu,B.Oxidationofdissolvedelementalmercurybythiolcompoundsunderanoxic
+conditions.Environ.Sci.Technol.2013,47,12827–12834.[CrossRef]
+116. Zhou,X.-Q.;Qu,X.-M.;Yang,Z.;Zhao,J.;Hao,Y.-Y.;Feng,J.;Huang,Q.;Liu,Y.-R.Increasedwaterinputsfuelmicrobialmercury
+methylationinuplandsoils.J.Hazard.Mater.2022,439,129578.[CrossRef]
+117. Fleischer,M.Summaryoftheliteratureoninorganicchemistrygeochemistryofmercury. InMercuryintheEnvironment;U.S.
+GeologicalSurveyProfessionalPaper713;U.S.GeologicalSurvey:Washington,DC,USA,1970;pp.6–13.
+118. Rytuba,J.J.Mercuryfrommineraldepositsandpotentialenvironmentalimpact.Environ.EarthSci.2003,43,326–338.[CrossRef]
+119. U.S.GeologicalSurvey(USGS).MercuryintheEnvironment; U.S.GeologicalSurveyProfessionalPaper713; U.S.Geological
+Survey:Washington,DC,USA,1970.
+120. Stock,A.;Friedrich,C.DieVerbreitungdesQuecksilbers.Naturwissenschaften1934,22,390–393.[CrossRef]
+121. Heide,F.;Lerz,H.;Böhm,G.LeadandmercurycontentofwaterfromtheSaaleRiver. Naturwissenshaften1957,44,441–442.
+[CrossRef]
+122. Ozernova,N.A.;Aidinyan,N.K.Distributionofmercuryinsedimentaryrocks.Litol.IPolezn.Iskop.1966,3,49–57.
+123. Abuev,D.V.;Divakov,K.S.;Rad’ko,V.I.Mercuryinsomeneo-intrusivesoftheareaofCaucasusmineralsprings. Geol. Rudn.
+Mestorozhd.1965,7,101–103.(InRussian)
+124. Bulkin,G.A.ThegeochemistryofmercuryintheCrimeanhighlands.Geokhimiya1962,1219–1230.
+125. Karasik,M.A.;Goncharov,Y.I.MercuryintheLowerPermiansedimentsoftheDonetsBasin.Akad.NaukSSSRDoklady1963,150,
+898–901.(InRussian)
+126. Nikiforov,N.A.;Aidin’yan,N.K.;Kusevich.ThecontentofmercuryinPaeozoicsedimentaryrocksofsouthernFerglana.Akad.
+NaukSSSRInst.Geol.Redn.Mestorozhd.Petrog.Mineral.Geokhim.OcherkiGeockhim.Endogenn.GpergennProtsessov1966,294–296.
+(InRussian)
+127. Nekrasov,I.Y.;Timofeeva,M.A.MercuryinrocksandmineralsofnorthwesternYakutia.Akad.NaukSSSRSer.Geol.1963,16,
+23–38.(InRussian)
+128. Aidin’yan,N.K.;Troitskii,A.I.;Balavakaya,G.A.DistributionofmercuryinvarioussoilsoftheU.S.S.R.andVietnam.Geokhimiya
+1964,654,659.(InRussian)
+129. Sahayam,J.D.;Chandrasekar,N.;Kumar,S.K.;Rajamanickam,G.V.Distributionofarsenicandmercuryinsubtrophicalcoastal
+beachrock,GulfofMannar,India.JEarthSyst.Sci.2010,119,129–135.[CrossRef]
+130. MacDonald,J.H.;Missimer,T.M.;Rotz,R.;Chou,J.;Molina,R.;Kassis,Z.R.;Morejon,S.;Waldrop,R.GeochemicalAnalysisofa
+ContinuousCore,LakeOkeechobeeWatershedRestorationProjectAquiferStorageandRecoveryWells:Phase1.AnalysisofL-63NCoreand
+RefinementofMethodology;ReportfromFloridaCoastUniversitytotheSouthFloridaWaterManagementDistrict;Geological
+SocietyofAmerica:Boulder,CO,USA,2022.
+131. MacDonald,J.H.;Missimer,T.M.;Rotz,R.;Chou,J.;Molina,R.;Kassis,Z.R.;Morejon,S.;Waldrop,R.GeochemicalAnalysis
+ofaContinuousCore:LakeOkeechobeeWaterRestorationProjectAquiferStorageandRecoveryWellL63N,Florida,USA.In
+Proceedingsofthe135thAnnualMeeting,Denver,CO,USA,6–9January2022;GeologicalSocietyofAmerica:Boulder,CO,USA,
+2022;Volume54.[CrossRef]
+132. Marsik,F.J.;Keeler,G.J.;Landis,M.S.Thedry-depositionofspeciatedmercurytotheFloridaEverglades:Measurementsand
+modeling.Atmos.Environ.2007,41,136–149.[CrossRef]
+133. Rood,B.E.;Gottgens,J.F.;Delfino,J.J.;Earle,C.D.;Crisman,T.L.MercuryaccumulationtrendsinFloridaEvergladesandsavannas
+marshfloodedsoils.WaterAirSoilPollut.1995,80,981–990.[CrossRef]
+134. Arfstrom,C.;Macfarlane,A.W.;Jones,R.D.Distributionsofmercuryandphosphorusinevergladessoilsfromwaterconservation
+area3A,Florida,USA.WaterAirSoilPollut.2000,121,133–159.[CrossRef]
+135. Benoit,J.;Mason,R.P.;Gilmour,C.C.;Aiken,G.R.Constantsformercurybindingdissolvedorganicmatterisolatesfromthe
+FloridaEverglades.Geochim.Cosmochim.Acta2001,65,4445–4451.[CrossRef]
+136. Drexel,R.T.;Haitzer,M.;Ryan,J.N.;Aiken,G.R.;Nagy,K.Mercury(II)sorptiontotwoFloridaEvergladespeats:Evidencefor
+strongandweakbindingandcompetitionbydissolvedorganicmatterreleasedfromthepeat. Environ. Sci. Technol. 2002,36,
+4058–4064.[CrossRef][PubMed]
+137. Cohen,M.J.;Lamsal,S.;Osborne,T.Z.;Bonzongo,J.C.;Reddy,K.R.;Newman,S.Soiltotalmercuryconcentrationsacrossthe
+greaterEverglades.SoilSci.Soc.Am.J.2009,73,675–685.[CrossRef]
+Int.J.Environ.Res.PublicHealth2024,21,118 40of44
+138. Rumbold,D.G.;Fink,L.E.Extremespatialvariabilityandunprecedentedmethylmercuryconcentrationswithinaconstructed
+wetland.Environ.Monit.Assess.2006,112,115–135.[CrossRef]
+139. Craft,C.B.;Richardson,C.J.SoilcharacteristicsoftheEvergladespeatland.InTheEvergladesExperiments:LessonsforEcosystem
+Restoration;Richardson,C.J.,Ed.;Springer:NewYork,NY,USA,2008;pp.59–73.
+140. McDowell,L.L.;Stephens,J.C.;Stewart,E.H.RadiocarbonchronologyoftheFloridaEvergladespeat.SoilSci.Soc.Am.Proc.1969,
+33,743–745.[CrossRef]
+141. Gleason,P.J.;Cohen,A.D.;Brooks,R.K.;Stone,P.;Goodrick,R.;Smith,W.G.;Spackman,W.,Jr.Theenvironmentalsignificanceof
+HolocenesedimentsfromtheEvergladesandsalinetidalplain.InEnvironmentsofSouthFlorida:PresentandPastII;Gleason,P.J.,
+Ed.;MiamiGeologicalSociety:CoralGables,FL,USA,1984;pp.297–351.
+142. Gleason,P.J.; Stone,P.Age,originandlandscapeevolutionoftheEvergladespeatland. InEverglades: TheEcosystemandIts
+Restoration;Davis,S.M.,Ogden,J.C.,Park,W.A.,Eds.;St.LuciePress:DelrayBeach,FL,USA,1994;pp.149–197.
+143. Glaser,P.H.;Volin,J.C.;Givnish,T.J.;Hansen,B.C.S.;Stricker,C.A.CarbonandsedimentaccumulationintheEverglades(USA)
+duringthepast4000years:Rates,drivers,andsourcesoferror.J.Geophys.Res.2012,117,G03026.[CrossRef]
+144. Dekker,S.C.;deBoer,H.L.;Dermody,B.J.;Wagner-Cremer,F.;Wassen,M.J.;Eppings,M.B.Holocenepeatlandinitiationinthe
+GreaterEverglades.J.Geophys.Res.Biogeosci.2015,120,254–269.[CrossRef]
+145. Streets,D.G.;Horowitz,H.M.;Lu,Z.;Levin,L.;Thackray,C.P.;Sunderland,E.M.Fivehundredyearsofanthropogenicmercury:
+Spatialandtemporalreleaseprofiles.Environ.Res.Lett.2019,14,084004.[CrossRef]
+146. Streets,D.G.;Horowitz,H.M.;Lu,Z.;Levin,L.;Thackray,C.P.;Sunderland,E.M.Globalandregionaltrendsinmercuryemissions
+andconcentrations,2010–2015.Atmos.Environ.2019,201,417–427.[CrossRef]
+147. Huneeus,N.;Schulz,M.;Balkanski,Y.;Griesfeller,J.;Prospero,J.;Kinne,S.;Bauer,S.;Boucher,O.;Chin,M.;Dentener,F.;etal.
+GlobaldustmodelintercomparisoninAeroComphase1.Atmos.Chem.Phys.2011,11,7781–7816.[CrossRef]
+148. Shinn,E.A.AfricanDustCausesWidespreadEnvironmentalDisease;U.S.GeologicalSurveyOpen-FileReport1-246;U.S.Geological
+Survey:St.Petersburg,FL,USA,2001;p.5.
+149. Bailey,N.SaharanDustasamercuryvector.Unpublished.MasterofScienceThesis,DepartmentofEnvironmentandGeography,
+UniversityofManitoba,Winnipeg,MB,Canada,2021.
+150. NationalAeronauticsandSpaceAdministration(NASA).NASAGOESSatelliteImageofaDustPlumeExtendingacrossthe
+AtlanticOcean.28June2018.Availableonline:https://earthobservatory.nasa.gov/images/92358/here-comes-the-saharan-dust
+(accessedon30January2023).
+151. Evans,A.T.; Flamant,C.; Gaetani,M.; Guichard,F.Thepast,presentandfutureofAfricandust. Nature2016,531,493–495.
+[CrossRef][PubMed]
+152. Mason,R.P.Mercuryemissionfromnaturalprocessesandtheirimportanceintheglobalmercurycycle. InMercuryFateand
+TransportintheGlobalAtmosphere;Pirrone,N.,Mason,R.P.,Eds.;SpringerScience+BusinessMedia:NewYork,NY,USA,2009;
+pp.173–191.
+153. Chen,M.;Ma,L.O.;Harris,W.G.Baselineconcentrationsof15traceelementsinFloridasurfacesoils. J.WaterQual. 1999,28,
+11731181.[CrossRef]
+154. Ramirez,C.E.;Quinete,N.;deAstudillo,L.R.;Arroyo-Mora,L.F.;Seba,D.;Gardinali,P.Elementalcompositionofairborne
+particularmatterfromcoastalSouthFloridaareinfluencedbyAfricandustevents.AeolianRes.2022,54,100774.[CrossRef]
+155. Engstrom,D.R.;Pollman,C.D.;Fitzgerald,W.F.;Balcom,P.H.EvaluationofRecentTrendinAtmosphericMercuryDepositionin
+SouthFloridafromLakeSedimentRecords;FinalResearchReport;FloridaDepartmentofEnvironmentalProtection:Tallahassee,FL,
+USA,2003.
+156. Lamborg,C.H.;Engstrom,D.R.;Fitzgerald,W.F.;Balcom,P.H.Apportioningglobalandnon-globalcomponentsofmercury
+depositionthrough210Pbindexing.Sci.TotalEnviron.2013,448,132–140.[CrossRef]
+157. Kang,W.J.;Trefry,J.H.;Nielson,T.A.;Wanless,H.R.Directatmosphericinputversusrunofffluxesofmercuryintothelower
+EvergladesandFloridaBay.Environ.Sci.Technol.2000,34,408–4063.[CrossRef]
+158. Rumboldt, D.G.; Evans, D.W.; Niemczyk, S.; Fink, L.E.; Laine, K.A.; Howard, N.; Krabbenhoft, D.P.; Zucker, M. Source
+identificationodFloridaBay’smethylmercuryproblem:Mainlandrunoffversesatmosphericdeposition.EstuariesCoasts2011,34,
+494–513.[CrossRef]
+159. Dvonch,J.T.; Graney,J.R.; Keeler,G.J.; Stevens,R.K.UseofelementaltracerstosourceapportionmercuryinSouthFlorida
+precipitation.Environ.Sci.Technol.1999,24,4522–4527.[CrossRef]
+160. Sunderland,E.M.;Mason,R.P.Humanimpactstoopenoceanmercuryconcentrations.Glob.Biogeochem.Cycles2007,21,GB4022.
+[CrossRef]
+161. Kuss,J.;Zülicke,C.;Pohl,C.;Schneider,B.Atlanticmercuryemissiondeterminedfromcontinuousanalysisoftheelemental
+mercurysea-airconcentrationdifferencewithintransectsbetween50◦Nand50◦S.Glob.Biogeochem.Cycles2011,25,GB3021.
+[CrossRef]
+162. Liu,G.Y.;Cai,P.;Calla,D.;Scheidt,J.;Richards,L.J.;Scinto,E.;Gaiser,E.;Appleby,C.Mercurymassbudgetestimatesandcycling
+seasonalityintheFloridaEverglades.Environ.Sci.Technol.2008,42,1954–1960.[CrossRef][PubMed]
+163. Aich,S.;McVoy,C.W.;Dreschel,T.W.;Santamaria,F.EstimatingsoilsubsidenceandcarbonlossintheEvergladesAgricultural
+Area,Floridausinggeospatialtechniques.Agric.Ecosyst.Environ.2013,171,124–133.[CrossRef]
+Int.J.Environ.Res.PublicHealth2024,21,118 41of44
+164. Mathews,S.L.;McCracken,I.R.;Lonergan,G.Mercurycontaminationongolfcoursesduetopesticideuse. Environ. Contam.
+Toxicol.1993,55,390–397.[CrossRef]
+165. Lewis,M.A.;Quarles,R.L.;Dantin,D.D.;Moore,J.C.EvaluationofaFloridacoastalgolfcoursesalocalandwatershedsourceof
+bioavailablecontaminants.Mar.Pollut.Bull.2004,48,254–262.[CrossRef]
+166. Milar, M.Characterisationofsecondarymetal-bearingphasesusedindentalamalgamandassessmentofgastricsolubility.
+Environ.Geochem.Health2017,39,1607–1619.[CrossRef]
+167. Muresan,B.;Liu,Y.;Gac,Y.L.;Lumière,L.;Cerezo,V.In-linemeasurementofexhaustmercuryemissionsbyaninstrumented
+light-dutyvehicleusingbothon-roadandtesttrackexperiments.Sci.TotalEnviron.2022,805,150265.[CrossRef]
+168. U.S. Environmental Protection Agency (USEPA). Final Mercury and Air Toxics Standards (MATS) Rule; U.S. Environmental
+ProtectionAgency:Washington,DC,USA,2012.Availableonline:https://www.epa.gov/mats(accessedon20September2023).
+169. Xinyu,l.;Zhonggen,L.;Wu,T.;Chen,J.;Fu,C.;Zhang,L.;Feng,X.;Fu,X.;Tang,L.;Wang,Z.;etal. Atmosphericmercury
+emissionsfromtwopre-calcinercementplantsinsouthwestChina.AtmosphericEnvironment2019,199,177–188.
+170. Zhou,D.;Dai,Y.;Yu,C.China’sSustainableEnergyScenarios2002;ChinaEnvironmentalSciencePress:Beijing,China,2003.
+171. Senior,C.;Sarofim,A.;Eddings,E.Behaviorandmeasurementofmercuryincementkilns.InProceedingsoftheIEEE-ISA/PCA
+5thCementIndustryTechnicalConference,DallasTX,USA,1–5May2003;p.16.
+172. Senior,C.;Montgomery,C.J.;Sarofim,A.TransientmodelforbehaviorofmercuryinPortlandcementkilns.Ind.Eng.Chem.Res.
+2010,49,1436–1443.[CrossRef]
+173. U.S.EnvironmentalProtectionAgency(USEPA).ImpactsWorksheetfor40CFRParts60and63NationalEmissionsStandardsfor
+HazardousAirPollutantsfromthePortlandCementManufacturingIndustry.Availableonline:http://www.epa.gov/ttn/atw/
+pcem/summary_impacts.pdf(accessedon16February2023).
+174. Balogh,S.J.;Liang,L.Mercurypathwaysinmunicipalwastewatertreatmentplants.WaterAirSoilPollut.1995,80,1181–1190.
+[CrossRef]
+175. Bodaly,R.A.;Rudd,J.W.M.;Flett,R.J.Effectofurbansewagetreatmentontotalandmethylmercuryconcentrationsineffluents.
+Biogeochemistry1998,40,279–291.[CrossRef]
+176. Mukherjee,A.B.; Zevenhoven,R.; Brodersen,J.; Hylander,L.D.; Bhattacharya,P.MercuryinwasteintheEuropeanUnion:
+Sources,disposalmethodsandrisks.Resour.Conserv.Recycl.2004,42,155–182.[CrossRef]
+177. Balogh,S.J.; Nollet,Y.H.Mercurymassbalanceatawastewatertreatmentplantemployingsludgeincinerationwithoffgas
+mercurycontrol.Sci.TotalEnviron.2008,389,125–131.[CrossRef][PubMed]
+178. Bravo,A.G.;Bouchet,S.;Guédron,S.;Armouroux,D.;Dominick,J.;Zopfi,J.Highmethylmercuryproductionunderferruginous
+conditionsinsedimentsimpactedbysewagetreatmentplantdischarges.WaterRes.2015,80,245–255.[CrossRef][PubMed]
+179. Chansler,J.M.Thefutureforeffluentreuse.WaterEng.Manag.1991,138,31–34.
+180. Archer,J.E.;Luffman,I.;Joyner,T.A.;Nandi,A.Identifyinguntappedpotential:AgeospatialanalysisofFloridaandCalifornia’s
+2009recycledwaterproduction.J.WaterReuseDesalinat.2019,9,173–192.[CrossRef]
+181. Godman,R.R.;Kuyk,D.D.AdualwatersystemforCapeCoral.J.Am.WaterWork.Assoc.1997,89,45–53.[CrossRef]
+182. Nevondo, V.; Malehase, T.; Daso, A.P.; Okonkwo, O.J. leachate seepage rom landfill: A source of groundwater mercury
+contaminationinSouthAfrica.WaterSA2019,45,225.[CrossRef]
+183. Slack,R.;Gronow,J.;Voulvoulis,N.Hazardouscomponentsofhouseholdwaste.Crit.Rev.Environ.Sci.Technol.2004,34,419–445.
+[CrossRef]
+184. Ward, M.L.; Bitton, G.; Townsend, T. Heavy metal binding capacity (HMBC) of municipal solid waste landfill leachates.
+Chemosphere2005,60,206–215.[CrossRef][PubMed]
+185. Reinhart,D.R.;Grosh,C.J.AnalysisofFloridaMSWLandLeachateQuality;FinalReport;FloridaCenterforSolidandHazardous
+WasteManagement:Gainesville,FL,USA,1998.
+186. Friedli,H.R.;Arellano,A.F.;Cinnirella,S.;Pirrone,N.Mercuryemissionsfromglobalbiomassburning:Spatialandtemporal
+distribution.InMercuryFateandTransportintheGlobalAtmosphere:EmissionsMeasurementsandModels;Pirrone,N.,Mason,R.,
+Eds.;SpringerScience+BusinessMedia:NewYork,NY,USA,2009;Chapter8;pp.193–222.
+187. Greenplate,R.;Thomas,S.;Danly-Thomson,A.;Missimer,T.M.PhytoremediationpotentialofthecoastalplanwillowSalix
+carolinianaforremediationofmercuryandotherheavymetals.Water2023,15,3628.[CrossRef]
+188. Meng,B.;Li,Y.;Cui,W.;Jiang,P.;Liu,G.;Wang,Y.;Richards,J.;Feng,X.;Cai,Y.Tracingtheuptake,transport,andfateof
+mercuryinsawgrass(Cladiumjamaicense)intheFloridaEvergladesusingamulti-isotopetechnique.Environ.Sci.Technol.2018,
+52,3384–3391.[CrossRef]
+189. Rayment,G.E.;Jeffery,A.J.;Barry,G.AHeavymetalsinAustraliansugarcane.Commun.SoilSci.PlantAnal.2002,44,3203–3212.
+[CrossRef]
+190. Bingham,M.D.Fielddetectionandimplicationsofmercuryinnaturalgas.SPEProd.Eng.1990,5,120–124.[CrossRef]
+191. Wilhelm,S.M.;Bloom,N.S.Mercuryinpetroleum.FuelProcess.Technol.2000,63,1–74.[CrossRef]
+192. Wilhelm,S.M.;Liang,L.;Cussen,D.;Kirchgessner,D.A.MercuryincrudeoilprocessedintheUnitedStates(2004).Environ.Sci.
+Technol.2007,41,4509–4514.[CrossRef]
+193. Won,J.H.; Park,J.Y.; Lee,T.G.Mercuryemissionsfromautomobilesingasoline,diesel,andLPG.Atmos. Environ. 2007,41,
+7547–7552.[CrossRef]
+Int.J.Environ.Res.PublicHealth2024,21,118 42of44
+194. Mojammal,A.H.M.;Back,S.-K.;Seo,Y.C.;Kim,J.-H.Massbalanceofmercuryandbehaviorinrefineryfacilities.Atmos.Pollut.
+Res.2019,10,145–151.[CrossRef]
+195. Gan,Y.;Lu,Z.;Wu,Q.;He,X.;Dai,Q.;Kelly,J.C.;Ankathi,S.K.;Wang,M.Cradle-to-gravemercuryemissionsoflight-duty
+gasolineandelectricvehiclesinChina.Resour.Conserv.Recycl.2023,190,106736.[CrossRef]
+196. Hoyer,M.;Baldauf,R.W.;Scarbro,C.;Barres,J.;Keeler,G.J.Mercuryemissionsfrommotorvehicles.InProceedingsofthe13th
+InternationalEmissionsInventoryConference,Clearwater,FL,USA,8–10June2007;Availableonline:http://www.epa.gov/ttn/
+chief/conference/ei13/toxics/hoyer(accessedon10October2023).
+197. Duke,L.D.;Mullen,M.N.;Unger,K.E.;Rotz,R.R.;Thomas,S.Floodmitigation: Regulatoryandhydrologiceffectivenessof
+multicomponentrunoffdetentionataSouthwestFloridasite.J.Am.WaterRes.Assoc.2023,8,JAWR-22-0118.[CrossRef]
+198. Canfield,D.C.;Thomas,S.;Rotz,R.R.;Missimer,T.M.Stormwaterpondevolutionandchallengesinmeasuringthehydraulic
+conductivityofpondsediments.Water2023,15,1122.[CrossRef]
+199. Goeckner,A.H.;Lusk,M.G.2022.Florida’surbanstormwaterpondsarenetsourcesofcarbontotheatmospheredespiteincreased
+carbonburialovertime.Commun.EarthEnviron.2022,3,53.[CrossRef]
+200. Lusk,M.G.;Chapman,K.ChemicalFractionationofSedimentPhosphorusinResidentialUrbanStormwaterPondsinFlorida,
+USA.UrbanSci.2021,5,81.[CrossRef]
+201. Brooks,J.M.;Stewart,C.J.;Haberstroh,C.J.;Arias,M.E.Characteristicsandfateofplasticpollutioninurbanstormwaterponds.
+Environ.Pollut.2023,320,121052.[CrossRef]
+202. WSP.CityofNaplesNorthLakeandSouthLakeFeasibilityStudy;FinalReport;StreetsandStormwaterDepartment:Naples,FL,USA,
+2023;63p.
+203. Thomas, S. Bathymetry and Sediment Characterization of Lake Manor, City of Naples, FL; Final Report; Streets and Stormwater
+Department:Naples,FL,USA,2013;89p.
+204. Thomas, S. Bathymetry and Sediment Characterization of Spring Lake, City of Naples, FL; Final Report; Streets and Stormwater
+Department:Naples,FL,USA,2013;90p.
+205. Thomas,S.SedimentAssessmentofLakes11and31(CityofNaples);FinalReport;StreetsandStormwaterDepartment:Naples,FL,
+USA,2020;41p.
+206. Thomas,S.SedimentAssessmentofLake19(CityofNaples);FinalReport;StreetsandStormwaterDepartment:Naples,FL,USA,
+2020;46p.
+207. Krabbenhoft, D.P.; Wiener, J.G.; Brumbaugh, W.G.; Olson, M.L.; DeWild, J.F.; Sabin, T.J. Anational pilot study of mercury
+contamination of aquatic ecosystems along multiple gradients. In US Geological Survey Toxic Substances Hydrology Program,
+ProceedingsoftheTechnicalMeeting,Charleston,SC,USA,8–12March1999;Morganwalp,D.W.,Buxton,H.T.,Eds.;USGS:Reston,
+VA,USA,1999;pp.147–160.
+208. Gilmour,C.C.;Krabbenhoft,D.;Orem,W.;Aiken,G.;Roden,E.Appendix3B-2:StatusReportonACMEStudiesontheControl
+ofMercuryMethylationandBioaccumulationintheEverglades.InSouthFloridaEnvironmentalReport—VolumeI;SouthFlorida
+WaterManagementDistrict:WestPalmBeach,FL,USA,2007.
+209. Pollman,C.D.ModelingSulfateandGambusiaMercuryRelationshipsintheEverglades—FinalReport;FloridaDepartmentofEnviron-
+mentalProtection:Tallahassee,FL,USA,2012.
+210. Tai,C.;Li,Y.;Yin,Y.;Scinto,L.J.;Jiang,G.;Cai,Y.MethylmercuryphotodegradationinsurfacewateroftheFloridaEverglades:
+Importanceofdissolvedorganicmatter-methylHgcomplexation.Environ.Sci.Technol.2014,48,7333–7340.[CrossRef]
+211. Lange, T.; Rumbold, D.G.; Frederick, P.C.; Cunningham, M.; Pollman, C.D.Temporalchangesinmercuryconcentrationin
+Evergladesbiota.InMercuryandtheEverglades.ASynthesisandModelforComplexEcosystemRestoration;Pollman,C.D.,Axelrad,
+D.M.,Rumbold,D.G.,Eds.;Springer:Cham,Switzerland,2020;Chapter2;pp.27–50.
+212. Graney,J.R.;Dvonch,J.T.;Keeler,G.J.Useofmulti-elementtracerstosourceapportionmercuryinsouthFloridaaerosols.Atmos.
+Environ.2004,38,1715–1736.[CrossRef]
+213. NationalAtmosphericDepositionProgram. NationalAtmosphericDepositionProgram2021AnnualSummary;WisconsinState
+LaboratoryofHygiene,UniversityofWisconsin–Madison:Madison,WI,USA,2021.
+214. Guentzel,J.L.;Landing,W.D.;Gill,G.A.;Pollman,C.D.Mercuryandmajorionsinrainfall,throughfall,andfoliagefromthe
+FloridaEverglades.Sci.TotalEnviron.1998,213,43–51.[CrossRef]
+215. Dvonch,J.G.;Keeler,G.J.;Marsik,F.J.Theinfluenceofmeteorologicalconditionsonthewetdepositionofmercuryinsouthern
+Florida.J.Appl.Meteorol.Climatol.2005,44,1421–1435.[CrossRef]
+216. Peterson,C.;Alishahi,M.;Gustin,M.S.Testingtheuseofpassivesamplingsystemsforunderstandingairmercuryconcentrations
+anddrydepositionacrossFlorida,USA.Sci.TotalEnviron.2012,424,297–309.[CrossRef][PubMed]
+217. He,M.;Tian,L.;Braaten,H.F.V.;Wu,Q.;Luo,J.;Cai,L.-M.;Meng,J.-H.;Lin,Y.Mercury-organicmatterinteractioninsoilsand
+sediments:Angelordevil?Bull.Environ.Contam.Toxicol.2019,12,621–627.[CrossRef][PubMed]
+218. Faulkner,S.P.;dolaCruz,A.A.Nutrientmobilizationfollowingwinterfiresinanirregularlyfloodedmarsh.J.Environ.Qual.
+1982,11,129–133.[CrossRef]
+219. Smith,S.M.;Newman,S.;Garrett,P.B.;Leeds,J.A.Differentialeffectsofsurfaceandpeatfireonsoilconstituentsinadegraded
+wetlandofthenorthernEverglades.J.Environ.Qual.2001,30,1998–2005.[CrossRef][PubMed]
+Int.J.Environ.Res.PublicHealth2024,21,118 43of44
+220. Flower,H.;Rains,M.;Fitz,H.C.;Orem,W.;Newman,S.;Osbourne,T.Z.;Reddy,K.R.;Obeysekera,J.Shiftingground:Landscape-
+scalemodelingofbiogeochemicalprocessesunderclimatechangeintheFloridaEverglades.J.Environ.Manag.2019,64,416–435.
+[CrossRef]
+221. Alexander,C.R.;Smith,R.G.;Calder,F.D.;Schropp,S.J.;Windom,H.L.Thehistoricalrecordsofheavymetalenrichmentsintwo
+Floridaestuaries.Estuaries1993,16,627–637.[CrossRef]
+222. Kannan,K.;Smith,R.G.,Jr.;Lee,R.F.;Windom,H.L.;Heitmuller,P.T.;Macauley,J.M.;Summers,J.K.Distributionoftotalmercury
+andmethylmercuryinwater,sediment,andfishfromSouthFloridaestuaries.Arch.Environ.Contam.Toxicol.1998,34,109–118.
+[CrossRef]
+223. UnitedNationsEnvironmentProgramme(UNEP).GlobalMercuryAssessment2013;UnitedNationsEnvironmentProgramme:
+Geneva,Switzerland,2013.
+224. Goldwater,L.J.Thetoxicologyofinorganicmercury.Ann.N.Y.Acad.Sci.1957,65,498.[CrossRef]
+225. Battigelli, M.C. Mercury toxicity from industrial exposure—A critical review of the literature. J. Occup. Med. 1969, 2, 337.
+[CrossRef]
+226. WorldHealthOrganization(WHO).MercuryandHealthFactsheet;WorldHealthOrganization:Geneva,Switzerland,31March2017;
+Availableonline:https://www.who.int/news-room/fact-sheets/detail/mercury-and-health(accessedon1November2023).
+227. Aaseth,J.;Hilt,B.;Bjørklund,G.Mercuryexposureandhealthimpactsindentalpersonnel. Environ. Res. 2018,164,65–69.
+[CrossRef]
+228. Bjørklund,G.;Dadar,M.;Mutter,J.;Aaseth,J.Thetoxicologyofmercury:Currentresearchandemergingtrends.Environ.Res.
+2017,159,545–554.[CrossRef][PubMed]
+229. Guallar,E.;Sanz-Gallardo,M.I.;van’tVeer,P.;Bode,P.;Aro,A.;GómezAracena,J.;Kark,J.D.;Riemersma,R.A.;Martín-Moreno,
+J.M.;Kok,F.J.Mercury,fishoils,andtheriskofmyocardialinfarction.N.Engl.J.Med.2002,347,1747–1754.[CrossRef][PubMed]
+230. Henriques,M.C.;Loureiro,S.;Fardilha,M.;Herdeiro,M.T.Exposuretomercuryandhumanreproductivehealth:Asystematic
+review.Reprod.Toxicol.2019,85,93–103.[CrossRef][PubMed]
+231. Kim,H.;Lee,J.;Woo,H.D.;Kim,D.W.;Oh,J.H.;Chang,H.J.;Sohn,D.K.;Shin,A.;Kim,J.Dietarymercuryintakeandcolorectal
+cancerrisk:Acase-controlstudy.Clin.Nutr.2020,39,2106–2113.[CrossRef]
+232. Tsai,T.L.;Kuo,C.C.;Pan,W.H.;Wu,T.N.;Lin,P.;Wang,S.L.Type2diabetesoccurrenceandmercuryexposure—Fromthe
+NationalNutritionandHealthSurveyinTaiwan.Environ.Int.2019,126,260–267.[CrossRef][PubMed]
+233. AgencyforToxicSubstancesandDiseaseRegistry(ATSDR).ToxicologicalProfileforMercury.DraftforPublicComment,April2022;
+UnitedStatesDepartmentofHealthandHumanServices:Washington,DC,USA,2022.
+234. Risher,J.F.;Murray,H.E.;Prince,G.R.Organicmercurycompounds:Humanexposureanditsrelevancetopublichealth.Toxicol.
+Ind.Health2002,18,109–160.[CrossRef][PubMed]
+235. Schaefer,A.M.;Zoffer,M.;Yrastorza,L.;Pearlman,D.M.;Bossart,G.D.;Stoessel,R.;Reif,J.S.Mercuryexposure,fishconsumption,
+andperceivedriskamongpregnantwomenincoastalFlorida.Int.J.Environ.Res.PublicHealth2019,16,4903.[CrossRef]
+236. Florida Department of Environmental Protection (FDEP). Technical Report: Development of Cleanup Target Levels (CTLs) for
+Chapter62-777,F.A.C;FloridaDepartmentofEnvironmentalProtection:Tallahassee,FL,USA,2005.Availableonline:https://
+floridadep.gov/waste/district-business-support/documents/technical-report-development-cleanup-target-levels-ctls(accessed
+on1November2023).
+237. FloridaDepartmentofEnvironmentalProtection(FDEP).FinalReport:MercuryTMDLfortheStateofFlorida;FloridaDepartment
+ofEnvironmentalProtection:Tallahassee,FL,USA,24October2013.Availableonline:https://floridadep.gov/sites/default/
+files/Mercury-TMDL.pdf.(accessedon1November2023).
+238. Fitzgerald,W.F.;Clarkson,T.W.Mercuryandmonomethylmercury:Presentandfutureconcerns.Environ.HealthPerspect.1991,
+96,159–166.[CrossRef]
+239. Gabriel,M.C.;Howard,N.;Osbourne,T.Z.FishmercuryandsurfacewatersulfaterelationshipsintheEvergladesProtectionAre.
+Environ.Manag.2014,53,583–593.[CrossRef]
+240. Branfireun,B.A.;Cosio,C.;Poulain,A.J.;Riise,G.;Bravo,A.G.Mercurycyclinginfreshwatersystems—Anupdatedconceptual
+model.Sci.TotalEnviron.2020,745,140906.[CrossRef]
+241. Gu,B.;Axelrod,D.;Lange,T.Chapter3B:Regionalmercuryandsulfurmonitoringandenvironmentalassessment. In2012
+South Florida environmental report—Volume I; South Florida Water Management District: West Palm Beach, FL, USA, 2012.
+Availableonline:https://www.researchgate.net/publication/261993520_Mercury_and_Sulfur_Environmental_Assessment_
+for_the_Everglades#fullTextFileContent(accessedon10September2022).
+242. Helmrich,S.;Vlassopoulos,D.;Alpers,C.N.;O’Day,P.A.Criticalreciewofmercurymethylationandmethylmercurydeethylation
+rateconstantsinaquaticsedimentsforbiochemicalmodeling.Crit.Rev.Environ.Sci.Technol.2022,24,4353–4378.[CrossRef]
+243. Hand,J.;Friedman,M.MercuryinLargemouthBassandWaterQuality;FloridaDepartmentofEnvironmentalProtection:Tallahassee,
+FL,USA,1990.
+244. Beyer,W.N.M.;Spalding,M.;Morrison,D.MercuryconcentrationsinfeathersofwadingbirdsfromFlorida. AMBIOJ.Hum.
+Environ.1997,26,97–100.
+245. Sepulveda,M.S.;Frederick,P.C.;Spalding,M.G.;Williams,G.E.,Jr.Mercurycontaminationinfree-ranginggreategretnestlings
+(Ardeaalbus)fromsouthernFlorida.Environ.Toxicol.Chem.1999,18,985–992.
+Int.J.Environ.Res.PublicHealth2024,21,118 44of44
+246. Roelke, M.; Schultz, D.; Faemire, C.; Sundlof, S.; Royals, H. Mercury Contamination in Florida Panthers; Florida Game and
+FreshwaterFishCommission:Gainesville,FL,USA,1991.
+247. Ware,F.;Royals,H.;Lange,T.MercurycontaminationinFloridalargemouthbass. InProceedingsoftheAnnualConference
+SoutheasternAssociationofFishandWildlifeAgencies(SEAFWA),Tallahassee,FL,USA,21–24October1990;pp.5–12.
+248. McPherson,B.F.;Miller,R.L.;Haag,K.H.;Bradner,A.WaterQualityinSouthernFlorida,1996–1998;U.S.GeologicalSurveyCircular
+1207;USGS:Denver,CO,USA,2000.
+249. FloridaDepartmentofHealth(FDOH).YourGuidetoEatingFishCaughtinFlorida;FloridaDepartmentofHealth:Tallahassee,FL,
+USA,2008.Availableonline:http://www.doh.state.fl.us/floridafishadvice/(accessedon1September2022).
+Disclaimer/Publisher’sNote: Thestatements, opinionsanddatacontainedinallpublicationsaresolelythoseoftheindividual
+author(s)andcontributor(s)andnotofMDPIand/ortheeditor(s).MDPIand/ortheeditor(s)disclaimresponsibilityforanyinjuryto
+peopleorpropertyresultingfromanyideas,methods,instructionsorproductsreferredtointhecontent.
+
+
+Originial Link: https://www.regulations.gov/comment/EPA-HQ-OAR-2017-0183-0202

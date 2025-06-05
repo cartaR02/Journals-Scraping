@@ -1,0 +1,132 @@
+**Oncology Nursing Society Urges FDA to Enhance DPD Testing and Standardize Treatment Protocols**
+
+The Oncology Nursing Society (ONS) has written to the U.S. Food and Drug Administration urging the agency to reevaluate the current practices surrounding dihydropyrimidine dehydrogenase (DPD) deficiency testing and the use of fluorouracil and capecitabine in cancer treatments. The letter addresses concerns over testing limitations and emphasizes the need for standardized treatment protocols to improve patient outcomes.
+
+“The vast majority of people tested for DPD deficiency will not have an actionable finding, yet they will still face treatment delays and added costs,” stated the ONS in their correspondence to Commissioner Marty Makary. The society outlined that a lack of FDA-approved tests has led to inconsistent testing, high turnaround times, and a reliance on less reliable laboratory-developed tests. 
+
+“Data suggests there are approximately 700-1400 deaths annually that could be prevented with proactive, pre-treatment DPD testing. New research shows that hospitals that conduct standard pre-treatment testing reduce their costs per patient,” the letter continued, stressing the economic implications of not adopting such testing methods.
+
+ONS underscored the variation in clinical practice currently affecting providers' ability to treat patients with DPD deficiencies effectively. They noted the benefits seen in countries like Italy, France, and the United Kingdom, where standardized testing protocols have been successfully implemented. “Establishment of expert-endorsed protocols informed by international experience will enhance provider confidence,” the letter advised.
+
+Furthermore, ONS indicated a pressing necessity for the FDA to convene a specialized expert panel that focuses on DPD deficiency testing and treatment strategies. This panel would ideally consist of clinical leaders and institutions with accredited success in DPD-guided dosing.
+
+The letter concludes with a strong commitment from ONS, stating, “We remain dedicated to advancing safe, evidence-based oncology care.” ONS has collectively represented their voice through this correspondence, with signatories including their executive team and members committed to patient advocacy.
+
+The letter was officially sent to Commissioner Makary on June 4, 2025, and emphasizes the importance of actionable changes to improve patient care in oncology settings.
+
+
+----------------INPUT:----------------
+
+ June 4, 2025
+Marty Makary, M.D., M.P.H.
+Commissioner
+U.S. Food and Drug Administration
+10903 New Hampshire Avenue
+Silver Spring, MD 20993
+Submitted via regulations.gov
+Re: Docket No. FDA–2025–N–1110: Dihydropyrimidine Dehydrogenase Deficiency and the Use of
+Fluoropyrimidine Chemotherapy Drugs; Establishment of a Public Docket; Request for Comments
+Dear Commissioner Makary:
+Oncology nurses are privileged to support people with cancer through their entire cancer experience,
+from diagnosis and treatment into survivorship or as they face their end-of-life journey. Today, we write in
+response to FDA’s request for information (RFI) related to dihydropyrimidine dehydrogenase (DPD)
+deficiency testing and the use of fluorouracil and capecitabine. Below, we provide feedback select
+questions included in the aforementioned RFI:
+1. What, if any, challenges have healthcare providers and patients encountered based on the
+current recommendation to consider testing for genetic variants of DPYD prior to initiating
+treatment with fluorouracil or capecitabine to reduce the risk of serious adverse reactions if the
+patient’s clinical status permits and based on clinical judgment?
+Currently there are significant limitations related to the lack of FDA-approved tests for identification of
+DPYD genetic variants. This leads to a reliance on laboratory developed tests which have increased
+variability in sensitivity, specificity, and interpretation. In addition, a lack of testing sites has led to long
+turnaround times for results, which can delay treatment start and have negative health outcomes for
+patients.
+With all testing, there needs to be a balance of risk and benefit. In the case of DPD deficiency testing, this
+is perhaps more complicated. With a small percentage of people actually having this variant, the vast
+majority of people tested will not have an actionable finding, yet they will still be faced with the same
+treatment delays and added costs. Inconsistencies in coverage for the testing result in patient expenses
+of anywhere from $150-$500 (with an average reported at $300), adding to the financial burden patients
+already face when diagnosed with cancer. Yet, data also suggests there are approximately 700-1400
+deaths annually that are preventable with proactive, pre-treatment DPD testing. New research has shown
+that for hospitals who do standard pre-treatment testing that the per-patient cost is an average of $36.98
+less, because of the avoidance of hospitalizations for severe adverse events. These savings were
+amplified when there was insurance reimbursement for testing. Testing also reduced hospitalizations from
+64% to 25%.
+3. What factors are considered by healthcare providers in deciding whether or not to use a
+fluorouracil or capecitabine product in a patient with a complete DPD deficiency (e.g., using a
+markedly reduced dosage regimen) based on currently available data and information?
+A lack of standards and guidelines in the United States limits provider comfort treating in the setting of a
+deficiency. However, there are national and international leaders with experience that can be leveraged
+for future standard setting. Specifically, countries like Itay have over a decade of experience, where
+France and the United Kingdom have more than 5 years of experience with standardized testing before
+treatment. For example, from their experiences is knowledge of successful use of functional testing,
+which is less expensive and more rapidly available. Additionally, even years after implementation, these
+countries still have barriers to uptake which the U.S. can learn from as we move forward including
+reimbursement for testing, publication of guidelines on testing and treatment modifications, and lack of
+understanding the clinical relevance of testing by providers. Both reimbursement models and national
+guidelines for testing and management must happen at the same time to maximize success.
+To advance consistent and evidence-based practice in the United States, ONS strongly encourages the
+FDA to convene a dedicated expert group focused specifically on DPD deficiency testing and
+treatment strategies. This panel should consist of clinical leaders and institutions with demonstrated
+success in implementing DPD-guided dosing—particularly those actively conducting research or clinical
+trials in this area, such as the collaborators highlighted on test4DPD.org and other oncology
+pharmacogenetics resources. Leveraging insights from providers directly involved in both care delivery
+and research will be critical, as their practical experience can inform effective implementation strategies
+and enhance provider confidence and willingness to adopt DPD-guided dosing.
+4. What factors are considered by healthcare providers for determining dosing and monitoring
+approaches when using a fluorouracil or capecitabine product in patients with purported partial
+DPD deficiency based on currently available data and information?
+At present, there is no universally accepted standard for initiating or adjusting dosing of fluorouracil or
+capecitabine in patients with partial DPD deficiency in the United States, creating variability in clinical
+practice. In the United Kingdom, a titration approach has been adopted with success. For example,
+heterozygous patients may be initiated on a reduced dose of 50% and titrated up to 85% based on
+tolerability. Despite this promising approach, there continues to be further research needed in this area.
+New findings just reported at ASCO 2025 by Grace Nguyen, highlights that variant-specific titration
+protocols are needed to ensure optimal patient safety. Without these guidelines, uptake in the United
+States remains limited in part due to the absence of standardized guidance and variation in payer
+coverage for functional or genetic testing. Provider confidence in adopting dose-modification protocols
+may improve with the establishment of expert-endorsed protocols informed by international experience
+(more above).
+***
+ONS welcomes the opportunity to provide this input and remains committed to advancing safe, evidence-
+based oncology care. Below we list additional resources on this topic. For questions or to discuss these
+comments in more detail, please contact us at healthpolicy@ons.org.
+Sincerely,
+The Oncology Nursing Society
+The Oncology Nursing Society (ONS) is a professional association that represents 100,000 nurses and
+is the professional home to more than 35,000 members. ONS is committed to promoting excellence in
+oncology nursing and the transformation of cancer care. Since 1975, ONS has provided a professional
+community for oncology nurses, developed evidence-based education programs and treatment information,
+and advocated for patient care, all in an effort to improve the quality of life and outcomes for patients with
+cancer and their families.
+Additional Resources on DPD:
+• Etienne-Grimaldi, Marie-Christine, et al. Large-scale DPD testing should be more than an option. JCO
+Oncology Practice, vol. 21, no. 2, Feb. 2025, pp. 261–262, Accessed June 4, 2025.
+https://doi.org/10.1200/op-24-00464
+• With, M. de, A. Sadlon, E. Cecchin, V. Haufroid, F. Thomas, M. Joerger, R.H.N. van Schaik, R.H.J.
+Mathijssen, and C.R. Largiadèr. Implementation of Dihydropyrimidine Dehydrogenase Deficiency Testing
+in Europe. ESMO Open 8, no. 2 (April 2023): 101197. Accessed June 4, 2025.
+https://doi.org/10.1016/j.esmoop.2023.101197
+• Nguyen G, Morris S, Kwange S, et al. Dosing tolerability and adverse events (AEs) in dihydropyrimidine
+dehydrogenase (DPYD) variant carriers receiving genotyping-guided fluoropyrimidine (FP) dosing.
+American Society of Clinical Oncology. 2025. Accessed May 28, 2025. https://meetings.asco.org/abstracts-
+presentations/249391
+• Morris S, Nguyen G, Verbyla A, et al. Cost analysis of pre-treatment dihydropyrimidine dehydrogenase
+(DPYD) genotyping to reduce hospitalizations at a cancer center in the United States (U.S.). American
+Society of Clinical Oncology. 2025. Accessed May 28, 2025. https://meetings.asco.org/abstracts-
+presentations/253106
+• Nguyen G, Hippensteele A. ASCO 2025: Real-World Strategies for DPYD-Variant–Guided Fluoropyrimidine
+Dosing. Pharmacy Times. May 28, 2025. Accessed May 28,
+2025. https://www.pharmacytimes.com/view/asco-real-world-strategies-for-dpyd-variant-guided-
+fluoropyrimidine-dosing
+• Morris S, Hippensteele A. ASCO 2025: Cost Savings and Clinical Outcomes of Pre-Treatment DPYD
+Genotyping Before Fluoropyrimidine Therapy. Pharmacy Times. May 28, 2025. Accessed May 28,
+2025. https://www.pharmacytimes.com/view/asco-2025-cost-savings-and-clinical-outcomes-of-pre-
+treatment-dpyd-genotyping-before-fluoropyrimidine-therapy
+• Nelson RS, Hertz DL. DPYD Testing Gains Ground: NCCN Guideline Update Reflects Decades of Work
+Toward Safer Chemotherapy. Pharmacy Times. April 25, 2025. Accessed May 28, 2025.
+https://www.pharmacytimes.com/view/dpyd-testing-gains-ground-nccn-guideline-update-reflects-
+decades-of-work-toward-safer-chemotherapy
+
+
+Originial Link: https://www.regulations.gov/comment/FDA-2025-N-1110-0020

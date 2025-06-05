@@ -1,0 +1,1029 @@
+**Contego Medical, Inc. Appeals for Approval of Neuroguard IEP System Payment**
+
+Contego Medical, Inc. has submitted an appeal to the Centers for Medicare & Medicaid Services, requesting a New Technology Add-on Payment for its Neuroguard Integrated Embolic Protection System. The device is designed to enhance protection against strokes during carotid artery stenting procedures—an area of growing concern within the medical community.
+
+In the submitted letter, Ravish Sachar, CEO of Contego Medical, expressed the urgency of recognizing the Neuroguard IEP System as a transformative solution. "Our system has the potential to capture microemboli smaller than 100 microns—a majority that traditional filters fail to capture—thereby reducing stroke risks dramatically," Sachar stated.
+
+The letter delineates how the Neuroguard IEP System integrates a carotid stent, a post-dilation balloon, and a 40-micron pore embolic filter. This innovative design aims to address the limitations faced by conventional stenting technologies, which often result in higher stroke rates during procedures.
+
+"Our device is not just another improvement; it fundamentally shifts the paradigm for carotid artery stenting," Sachar noted in his communication. "Combining multiple technologies into one streamlined system significantly reduces the risk of emboli escaping into the cerebral circulation during critical phases of stent deployment."
+
+The correspondence provides detailed evidence supporting the system's compliance with newness and substantial improvement criteria set forth by CMS. Contego Medical claims the Neuroguard IEP System meets the stringent requirements outlined in the FY2026 IPPS Proposed Rule, including substantial clinical improvement over existing technologies.
+
+The letter also addresses concerns raised by CMS regarding comparative clinical data, asserting that the system has garnered superior outcomes in trials compared to historically used devices. For example, in a multicenter clinical trial, no major strokes were reported within 30 days of the procedure, an outcome significantly better than traditional stenting systems.
+
+Contego Medical's appeal has garnered backing from various leading medical professionals, including Dr. Langhoff from the Performance One and Two studies. The letter was officially sent to the Centers for Medicare & Medicaid Services on June 4, 2025. Additional recipients of the letter include members of the Department of Health and Human Services, who are critically engaged in the assessment of revolutionary technologies in healthcare.
+
+
+----------------INPUT:----------------
+
+ June 4, 2025
+Centers for Medicare & Medicaid Services
+Department of Health and Human Services
+Baltimore, MD 21244-8013
+Submitted electronically
+RE: 42 CFR Parts 412, 413, 495, and 512; CMS-1833-P; Comments on Neuroguard® IEP
+System New Technology Add-on Payment (NTAP) Application
+Thank you for the opportunity to comment on the FY2026 IPPS Proposed Rule. This letter
+addresses the comments from CMS regarding Contego Medical, Inc.'s application for a New
+Technology Add-on Payment (NTAP) for the Neuroguard® Integrated Embolic Protection (IEP)
+System. Contego Medical, Inc. is a medical device company focused on developing
+innovative solutions for carotid and peripheral vascular disease. The Neuroguard IEP System
+is manufactured by Contego. Medtronic is the sole U.S. distributor for Contego's portfolio of
+commercially available products, including the Neuroguard IEP System.
+BACKGROUND
+The Neuroguard IEP System represents a groundbreaking advancement in carotid artery
+stenting (CAS) with a novel 3-in-1 design combining a carotid stent, post-dilation balloon,
+and 40-micron pore integrated embolic filter in one device, with a revolutionary mechanism
+of action that directly addresses the primary limitation of traditional carotid stenting
+technologies, thereby providing embolic protection that could not be achieved with any
+existing filter or combination of separate existing devices.
+Traditional carotid artery stenting uses large pore distal filters to capture embolic particles
+released during the procedure that could cause neurological injury, transient ischemic
+attack (TIA), stroke, or other adverse events. Embolic risk during a CAS procedure is highest
+during the stent deployment and post-dilation phases of the procedure (Kastrup 2003,
+Müller-Hülsbeck 2003, Schnaudigel 2008). Traditional filters must maintain minimum pore
+sizes of 100 microns to avoid filter thrombosis during prolonged use throughout the carotid
+stenting procedure. However, approximately 69-90% of embolic particles released during
+carotid artery stenting procedures are less than 100 microns in size, and thus may reach the
+cerebral circulation despite the use of these large pore distal filters. Furthermore, small
+particles may bypass traditional filters due to malapposition of the filter to the vessel wall or
+the inability of the filter’s large pores to capture smaller debris (Langhoc 2019, Langhoc
+2022, Petkoska 2024, Henry 2017). This fundamental limitation of large-pore distal filters has
+likely contributed to higher historical stroke rates seen with traditional stenting procedures.
+The Neuroguard IEP System addresses the critical gap in traditional carotid stenting
+procedures through its unique integrated, adjustable 40-micron pore filter that is deployed
+selectively and integrally during the highest risk phases of the procedure – stent deployment
+and post-dilation – when microemboli generation is at its peak (Kastrup 2003, Müller-
+Hülsbeck 2003, Schnaudigel 2008). The Neuroguard IEP System enables placement of the
+40-micron pore filter, deployment of the stent, and post-dilation ballooning all through a
+single catheter, without need for additional catheter exchanges. This system also features a
+dynamically adjustable filter which can be custom sized by the physician to suit individual
+patient anatomy, thus eliminating the risk that embolic particles can get around the filter and
+reach the brain. No other previous carotid stent system ocers these capabilities, and no
+other previous carotid stent system ocers the same level of stroke protection as Neuroguard
+IEP.
+The targeted approach of the Neuroguard IEP system solves the previously intractable
+dilemma of capturing microemboli smaller than 100 microns without compromising patient
+safety. The system's innovative 40-micron integrated embolic protection mechanism along
+with the integrated delivery platform achieves three unprecedented benefits:
+1. Captures emboli less than100 microns, a majority of which would otherwise
+typically escape traditional filters, potentially reaching the brain and increasing stroke
+risk.
+2. Provides adjustable filter sizing to fit each patient's unique vascular anatomy,
+avoiding incomplete wall apposition (malapposition) and ensuring comprehensive
+protection not feasible with standard fixed designs.
+3. Reduces multiple device exchanges which are themselves a cause of microemboli
+generation (every catheter exchange increases this risk).
+The use of Neuroguard results in unparalleled, targeted embolic protection precisely when
+needed the most, along with improved procedural eciciency resulting in unprecedented low
+stroke rates, as demonstrated in clinical trials.
+Contego Medical submitted an NTAP application for Neuroguard in October 2024. In the
+FY2026 IPPS Proposed Rule CMS discusses several key aspects of the NTAP application:
+• Whether the Neuroguard IEP® System is substantially similar to existing carotid stent
+and embolic protection technologies, in mechanism and therapeutic outcome.
+2
+• Whether the requirement to use Neuroguard with primary embolic protection devices
+suggests the integrated filter does not impact the mechanism of action.
+• Whether integrating multiple procedural devices into one system represents a true
+innovation or is primarily an ease-of-use improvement.
+• The need for contemporary comparative clinical data to demonstrate substantial
+clinical improvement over current alternatives, and protocol dicerences.
+DETAILED RESPONSE
+This letter provides detailed responses to address each of the specific questions raised by
+CMS regarding the newness and substantial clinical improvement criteria for the Neuroguard
+IEP System, with additional information and clarification. Specifically, we provide detailed
+evidence that:
+1. The Neuroguard IEP System satisfies the newness criterion because it uses a
+fundamentally dicerent mechanism of action through integrated embolic protection
+that addresses critical limitations of existing carotid stenting technologies (See
+Section 1).
+2. The system represents substantial clinical improvement compared to existing
+devices through unprecedented stroke reduction, superior outcomes versus
+contemporary comparators, and statistically significant improvement over
+established benchmarks in high-risk populations (See Section 2).
+3. The Neuroguard IEP System satisfies the cost criterion required to be granted NTAP
+based on submitted analyses (See Section 3).
+We also address CMS' specific questions about mechanism of action, device integration,
+comparison to existing technologies including the Paladin system, and the methodology for
+comparing outcomes to contemporary versus historical comparators.
+Section 1. Newness of the Neuroguard IEP System
+In the proposed rule, CMS raised several questions regarding whether the Neuroguard IEP
+System meets the newness criterion. We address each specific issue below.
+A. CMS Discussion Point: Whether the 40-micron pore filter represents a new
+mechanism of action (MOA)
+CMS questioned "whether the 40-micron filter represents a new mechanism of action" and
+noted that the "filter size is not relevant to the mechanism of action". CMS stated that "both
+3
+Neuroguard's filter and existing filters use a porous membrane to capture and remove
+embolic material while performing angioplasty and stenting procedures in carotid arteries."
+Response: We appreciate CMS's thorough review and the opportunity to highlight how the
+Neuroguard IEP System's fundamental design dicerences create a distinct MOA. We
+respectfully submit that while both systems use porous membranes, the Neuroguard IEP
+System's mechanism of action is fundamentally distinct in both design and clinical ecect,
+directly addressing a critical limitation that has persisted in carotid stenting for decades.
+Why Neuroguard's MOA Is Distinctly New
+Limitations of Current Carotid Artery Stenting
+• The necessity of embolic protection devices (EPD) during CAS is indisputable and
+established practice is routine use of EPD to prevent stroke-causing emboli from
+reaching the brain. Use of EPD is emphasized by physician society guidelines, required by
+CMS for Medicare coverage of CAS, and supported by clinical evidence – two meta-
+analyses demonstrated that EPD use during CAS results in a reduction in both stroke and
+death (2016 SCAI/SVM Expert Consensus Statement and 2022 JACC State of the Art
+Review; National Coverage Determination (NCD) 20.7. Percutaneous Transluminal
+Angioplasty (PTA))
+• The first step of a carotid stenting procedure typically involves placing an EPD to capture
+embolic material released during the procedure. A traditional embolic protection device
+is a separate catheter from both the stent delivery system and the post-dilation balloon
+and therefore must be placed in sequential order through a small, percutaneous access
+port such as a 6F sheath. As such, the separate EPD must be placed first to maintain the
+most distal position and is therefore open for the entire procedure.
+• Existing FDA approved EPDs for carotid artery stenting are designed as single, non-
+integrated, prolonged-use filters with large-pores between100-280 microns. The reason
+these existing filters have a minimum pore size of 100 microns is that the pores must be
+large enough to prevent filter thrombosis during extended use. Unfortunately, the
+shortcoming of this design allows the majority of microemboli (<100 microns) — which
+constitute approximately 69–90% of all particles released during CAS — to pass
+uninhibited into the intracranial circulation (Langhoc 2019, Langhoc 2022, Petkoska
+2024, Henry 2017). Transcranial Doppler studies have confirmed that despite EPD use,
+embolic material consistently reaches the middle cerebral artery and intracranial
+circulation. Embolic signals are detected during all phases of the procedure, with the
+majority occurring during stent deployment and post-dilation—precisely when the risk of
+neurological injury is highest (Kastrup 2003, Müller-Hülsbeck 2003, Schnaudigel 2008).
+4
+These microemboli are directly linked to new ischemic lesions on dicusion-weighted
+MRI, and embolization during these phases can cause adverse neurological outcomes
+including stroke, cognitive decline, and memory impairment, even in the absence of
+major stroke.
+• This fundamental limitation cannot be solved by existing devices or combination of
+devices. Crucially, small-pore filters (<100 microns) cannot be used as stand-alone
+protection throughout the procedure because their prolonged deployment would
+significantly increase the risk of fibrin and platelet build up and lead to filter thrombosis,
+resulting in serious complications such as thromboembolic stroke and significant patient
+morbidity and mortality, as confirmed in clinical literature and device design guidelines.
+This technical and clinical constraint is why no current FDA-cleared distal EPD features a
+pore size less than 100 microns.
+• Combining two or more existing EPDs, or using them in sequence, does not overcome the
+core technical constraint: no traditional filter can simultaneously (a) maintain adequate
+flow and cerebral perfusion for the duration of the procedure and (b) capture
+microemboli down to 40 microns.
+• Furthermore, anatomical mismatches and procedural movement often result in
+malapposition of traditional filters to the vessel wall, allowing emboli to bypass the
+filter—another reason why particles pass uninhibited to the brain.
+• Consequently, the current practice is to use large-pore filters despite their inability to
+capture most microembolic debris, which permits these particles to reach the cerebral
+circulation—potentially resulting in stroke and cognitive decline for the patient. The
+inherent shortcomings of large-pore filters may explain the historically higher stroke rates
+seen with previous carotid stent platforms.
+Neuroguard's Novel Solution:
+The Neuroguard IEP System addresses the critical clinical limitation of previous carotid stent
+devices through a fundamentally dicerent and multifaceted mechanism of action that
+cannot be replicated by existing technologies. Its innovation is based on several integrated
+features that solve the previously intractable dilemma of capturing microemboli without
+compromising patient safety. The following mechanistic and system dicerences
+demonstrate how this novel approach creates therapeutic capabilities not achievable
+through any combination of existing devices.
+5
+Key Mechanism of Action and System Di‘erences:
+1. Smaller Filter Size & Selective Deployment in Tandem with Standard Embolic
+Protection O‘ers Dual Protection (see Figure 1):
+o Unlike traditional filters, which require larger pores (100–280 microns) to prevent
+thrombosis during continuous deployment—thereby allowing 69–90% of particles
+less than 100 microns to escape—Neuroguard IEP employs an integrated 40-
+micron pore filter that is selectively and precisely deployed only during the
+highest-risk phases of the procedure: stent deployment and post-dilation.
+o This precisely targeted and temporary deployment enables ultra-fine filtration
+exactly when and where it is needed, minimizing exposure and risk of filter
+thrombosis—as confirmed by clinical trials such as PERFORMANCE II, which
+showed no increase in thrombosis or flow compromise despite the smaller pores.
+o Neuroguard does not replace but works in tandem with a standard embolic
+protection device, providing a dual protection strategy:
+§ The standard embolic protection device ocers protection throughout the
+procedure
+§ Neuroguard's integrated 40-micron filter provides supplemental, enhanced
+protection against emboli during the highest-risk phases of the procedure.
+o This dual-protection approach ensures comprehensive embolic protection
+throughout the procedure, addressing both large and small particles that
+contribute to stroke and cognitive decline.
+o No other stent-filter system combines this pore size, procedural eciciency, and
+safety data to match Neuroguard's performance.
+2. Integration Enables Usage of 40-micron pore Protection and Real-Time Filter Control
+Without Catheter Exchanges:
+o The 3-in-1 integration of the filter, stent delivery system, and balloon dilation
+device on a single catheter facilitates a unique mechanism of action that enables
+new therapeutic function – precisely timed 40-micron pore protection, adjustable
+filter control, and fewer procedural steps.
+o Traditional devices are separate, with only 1 catheter in place at a time, requiring
+sequential placement: first the traditional filter in the most distal position, then
+the stent delivery catheter, followed by the post-dilation balloon catheter
+exchange. The sequential placement of separate non-integrated devices dictates
+6
+that the traditional filter is open for the entire procedure and thus limits the filter
+pore size that can be used.
+o The integrated design eliminates 2-3 catheter exchanges which are risky in and of
+themselves as they can generate embolic events during device manipulation and
+crossing of the lesion (Kim 2010). The integrated design means reduced risk of
+emboli release during device manipulation, and seamless protection during stent
+deployment—a capability that no existing separate device or combination of
+devices can provide.
+3. Operator-Adjustable Filter Design Ensures Flawless Coverage:
+o A key distinction of the Neuroguard integrated filter is that it is operator-
+adjustable: it can be precisely adjusted to fit each patient's unique vascular
+anatomy, ensuring optimal wall apposition even in tortuous or curved vessels –
+something standard fixed design filters cannot achieve.
+o The deployment mechanism provides tactile feedback and dynamic sizing by the
+physician that allows for full wall apposition in any type of anatomy, unlike
+standard distal filters which expand to a predetermined diameter and are not
+adjustable during the procedure.
+4. Advanced Stent Design (see Table 1 & Figure 2): Beyond the innovative embolic
+protection capabilities, the Neuroguard IEP System's stent design itself contributes to the
+overall novel mechanism of action by addressing fundamental challenges in carotid
+stenting that have historically limited procedural success and safety outcomes.
+• Closed cell design which helps prevent plaque or debris from protruding through
+the stent struts and potentially causing embolic events.
+• Asymmetrical hourglass configuration which allows the stent to conform more
+naturally to the vessel's anatomy improving stability.
+• FlexRing design gives a balance of flexibility and radial strength for optimal vessel
+scacolding and minimizing vessel injury.
+• Purpose-built carotid artery design dicers from traditional stent platforms.
+5. Mechanism of Embolic Capture- Direct Capture at the Lesion Site: The Neuroguard
+filter is positioned just distal to the lesion and is designed to capture embolic debris
+generated during both angioplasty and stenting.
+7
+In summary, Neuroguard’s design distinctions enable a novel mechanism of action that
+directly addresses the root cause of procedure-related embolic events—microemboli
+generated during stent deployment and post-dilation, when perioperative stroke risk is
+highest. Neuroguard's approach, featuring selective 40-micron pore filtration, integrated
+delivery, and operator-adjustable design, overcomes the fundamental limitations of
+traditional filters by capturing microemboli during the most critical phases without
+compromising safety. This fundamentally alters the treatment paradigm for carotid stenting,
+creating therapeutic capabilities and clinical outcomes—such as significant stroke risk
+reduction—not achievable with any existing device or combination of technologies. As such,
+the Neuroguard IEP System clearly meets the newness criterion, representing a distinct and
+innovative mechanism of action rather than an incremental improvement.
+CMS has previously recognized this principle in evaluating drug eluting stents, where
+innovative delivery mechanisms—such as adding a polymer—created a novel therapeutic
+approach even when using the same drug (paclitaxel) as previous drug eluting stents.
+Similarly, the addition of a separate, integrated 40-micron filter creates a dual protection
+system and mechanism of action that distinguishes Neuroguard from all existing single-filter
+carotid technologies, which lack this capability.
+B. CMS Discussion Point: Use with Primary Embolic Protection
+CMS questioned whether the requirement that Neuroguard IEP must always be used in
+conjunction with an available primary distal embolic protection device "suggests that its
+filter would not impact the mechanism of action of the device."
+Response: The requirement to use the Neuroguard IEP System in conjunction with a primary
+distal embolic protection device does not diminish its novel mechanism of action but rather
+underscores its innovative complementary approach to solving a critical clinical limitation in
+carotid stenting procedures, as outlined below:
+1. Complementary, Not Redundant Protection: As described in the mechanism of action
+analysis above, the Neuroguard system provides dual embolic protection where:
+• A primary standard filter provides protection against large emboli (>100 microns)
+throughout the procedure, and
+• Neuroguard's integrated 40-micron pore filter provides added protection to
+capture the microemboli standard filters can’t during the highest-risk phases of
+the procedure.
+2. Addressing a Critical Protection Gap: The complementary use of the 40-micron pore
+filter reflects the technical reality that no single filter can simultaneously maintain
+8
+adequate flow throughout a prolonged procedure to avoid filter thrombosis AND capture
+microemboli down to 40 microns. Neuroguard's innovation—through its selective
+activation and integrated design—solves this previously intractable dilemma. The
+complementary requirement validates rather than undermines the novel MOA —it
+demonstrates this is an entirely new category of protection that supplements rather than
+replaces existing approaches. This creates a new therapeutic paradigm similar to
+combination therapies that achieve superior outcomes through complementary
+mechanisms. No existing carotid technology provides dual embolic protection with
+selective small-pore filtration, establishing Neuroguard as categorically distinct from
+single-mechanism non-integrated devices.
+3. Clinical Outcomes Reflecting Distinct Function: The clinical evidence supports this
+mechanistic distinction: The PERFORMANCE I and II trials demonstrated zero major
+strokes, zero neurologic deaths, and zero stent thromboses (Gray 2025, Langhoc 2022) —
+outcomes that cannot be explained by simply combining existing technologies,
+suggesting a fundamentally dicerent protection mechanism.
+By ocering complementary, not redundant protection, the Neuroguard IEP System addresses
+a critical protection gap through an innovative solution to a technical constraint, with clinical
+outcomes reflecting its distinct function. Far from diminishing its mechanism of action, this
+complementary relationship highlights Neuroguard's innovative solution to a previously
+unsolvable technical problem: how to capture smaller microemboli without adding
+thrombosis risk. The complementary use with primary filters underscores the Neuroguard
+IEP System's innovative approach to solving a previously unaddressed clinical need within
+the carotid stenting procedure. This unique MOA is not possible with other commercially
+available technologies, including first-generation embolic protection devices like
+Emboshield Nav 6TM (Abbott Cardiovascular), FILTERWIRE EZTM (Boston Scientific, Inc),
+SpiderFXTM (Medtronic, Inc.), ANGIOGUARDTM (Cordis, Inc.) and Paladin (Contego Medical,
+Inc) nor with FDA approved dual layer stents including Gore® Carotid Stent (W.L. Gore &
+Associates) and ROADSTER (Terumo), which require separate deployment steps and cannot
+maintain small-pore protection during stent deployment and post-dilation. The Neuroguard®
+IEP system works to provide a novel 40-micron level of protection that fundamentally
+changes the risk profile of the procedure.
+C. CMS Discussion Point: Comparison to other devices, such as the Paladin Carotid
+Post-Dilation Balloon System
+CMS questioned if the Neuroguard IEP System met the newness criterion if "there are other
+existing embolic protection filters used during CAS procedures that have the same 40-micron
+pore size, such as the Paladin Carotid Post-Dilation Balloon System with Integrated Embolic
+9
+Protection (Paladin System with IEP) from the same manufacturer, which received FDA
+510(k) clearance on September 6, 2018."
+Response: As detailed in our mechanism of action analysis above, the Neuroguard IEP
+System fundamentally dicers from Paladin in mechanism of action and clinical utility,
+despite both featuring a 40-micron pore filter. The key dicerences relate to procedural
+coverage and device integration, both of which are substantial dicerences and critical to
+understanding why Neuroguard represents a novel therapeutic approach:
+1. Critical Procedural Coverage Di‘erences
+• The Paladin balloon is a separate balloon catheter with integrated embolic
+protection (but without a stent), that can provide small-pore coverage only during
+balloon dilation before or after a traditional carotid stent placement. However, it
+cannot be used with a stent during stent deployment, leaving patients
+unprotected during the high-risk stent deployment phase of the procedure.
+Several studies have shown that embolic is risk is equally high during the stenting
+and post-dilation phases of the carotid stenting procedure (Kastrup 2003, Müller-
+Hülsbeck 2003, Schnaudigel 2008). It is thus necessary to protect against micro-
+embolic during both phases.
+• In contrast, Neuroguard’s integrated design provides 40-micron pore protection
+during both the stent deployment and post-dilation phases.
+2. Di‘erent Device Integration & Impact
+• The Paladin balloon must be used with separate stenting systems, which requires
+additional catheter exchanges and therefore increased embolic risk.
+• The Neuroguard IEP System consists of a stent, balloon, and filter on a single
+platform, eliminating exchanges which increase the risk of microemboli and
+providing comprehensive protection.
+3. Distinct Regulatory Scope and Limited Market Adoption
+• Paladin's 510(k) clearance (2018/2022) was limited to balloon angioplasty and
+post-dilation of a deployed self-expanding stent. Furthermore, the Paladin balloon
+was not widely commercialized in the United States. Company records show no
+sales in 2021, 28 units in 2022, 139 in 2023, and 200 in 2024, representing only a
+minimal fraction of all carotid artery stenting (CAS) procedures.
+• In comparison, Neuroguard received FDA PMA (2024) as a novel device with no
+predicate. This comprehensive integrated solution not only enhances protection
+10
+but also improves procedural eciciency, as validated by the more rigorous PMA
+process.
+In summary, the Neuroguard IEP System demonstrates meaningful dicerentiation from the
+Paladin system in both fundamental design and clinical application. Importantly, as a
+separate catheter, Paladin cannot provide embolic protection during the stenting phase
+itself, one of the riskiest periods for embolization, since it must be removed before stent
+deployment. Given its limited adoption and lack of integrated embolic protection during all
+highest-risk procedural phases, the Paladin device is not capable of, nor does it provide, the
+comprehensive, innovative mechanism of action and embolic protection of the Neuroguard
+IEP System.
+D. CMS Discussion Point: Device integration and Mechanism of Action
+CMS questioned "how integrating existing procedural devices into one device to eliminate
+the need for multiple devices results in a diQerent mechanism of action, as this appears to
+describe an ease-of-use feature rather than having an impact on the technology's
+therapeutic outcome of improving carotid luminal diameter for patients with stenosis of the
+carotid artery. It is unclear how the way in which the Neuroguard IEP® System treats carotid
+artery stenosis is diQerent from the way in which the many existing carotid artery stents,
+filters, and post-dilation balloons available on the market, used together or as part of a
+system, treat carotid artery stenosis."
+Response: We appreciate CMS's careful consideration and the opportunity to clarify that the
+Neuroguard IEP System's integrated design is not merely an "ease-of-use" feature, but rather
+a fundamental innovation that creates a new therapeutic mechanism of action—one that
+cannot be replicated by using existing stents, filters, and balloons in combination.
+Key Points of Distinction
+1. Integration Is Fundamental to a New MOA. The Neuroguard IEP System is the first and
+only device to integrate a stent, post-dilation balloon, and an ultra-fine 40-micron pore
+filter onto a single catheter. This is not just procedural streamlining; it fundamentally
+changes how carotid artery stenosis is treated by enabling:
+• 40-micron Pore Integrated Embolic Protection
+The integrated system provides targeted 40-micron pore filter technology
+protection during critical stent deployment and post-dilation phases. No other
+system—alone or in combination—can provide this level of protection. Separate
+devices introduce protection gaps due to their large pore filter size, filter
+malapposition and the need for catheter exchanges.
+11
+• Direct, Precise Lesion Treatment: The integrated filter is positioned just distal to
+the lesion, capturing debris at the source, during all critical steps—angioplasty
+and stenting. The operator-adjustable filter ensures optimal apposition for every
+patient's anatomy, maximizing embolic capture and minimizing risk.
+2. Why This Cannot Be Achieved with Existing Devices
+Protection Gaps Are Inherent to Separate Devices:
+• Traditional workflows require multiple device exchanges (filter, stent, balloon),
+each creating periods of suboptimal embolic protection precisely when embolic
+risk is highest.
+• Small-pore filters (e.g., 40-microns) cannot be used as stand-alone protection due
+to filter thrombosis and flow compromise risk if deployed for the entire procedure.
+The only way to use a 40-micron small pore filter is by minimizing the time it is
+deployed in vivo such that it is only open during stenting and post-dilation, and
+this is only possible with an integrated system.
+• No combination of existing stents, filters, and balloons can eliminate these
+protection gaps or provide seamless, phase-specific 40-micron pore protection.
+Mechanistic and Clinical Superiority Is Integration-Dependent:
+• The ability to capture more microembolic particles at the time and site of highest
+risk is only possible because of the integrated, operator-adjustable design.
+• Capture and protection of this level is not achievable by using existing devices,
+even in combination, because they lack the necessary timing, positioning, and
+anatomical adaptability.
+3. Optimized Technology Impacts Clinical Outcomes. The advanced stent design
+(closed-cell, FlexRing, hourglass configuration, flared ends) is purpose-built for the
+carotid artery, ensuring optimal vessel scacolding, minimizing plaque protrusion, and
+maintaining luminal diameter. The integrated post-dilation balloon allows precise,
+immediate optimization of stent expansion, reducing the risk of recoil or residual stenosis
+or restenosis. By reducing embolic risk during high-risk steps, the Neuroguard IEP System
+ensures that luminal gain is achieved without the trade-oc of increased stroke risk that
+can occur with traditional systems.
+Superior Clinical Outcomes: The Neuroguard IEP System's integrated approach has
+resulted in the lowest stroke rates compared to traditional carotid stents. The
+PERFORMANCE II study demonstrated zero major strokes, zero neurologic deaths, and zero
+12
+stent thromboses at both 30 days and 1 year—results not observed with traditional, non-
+integrated device combinations. This is not merely procedural convenience; it is a
+therapeutic advance that addresses the root cause of procedure-related strokes: inadequate
+embolic protection during the riskiest phases.
+Figure 1: This picture depicts a carotid artery during stent deployment and post-dilation,
+comparing traditional stenting vs Neuroguard IEP, showing how Neuroguard's integrated 40-
+micron pore filter acts like a safety net positioned downstream, capturing the shower of tiny
+embolic particles (illustrated as small dots) that are released during these critical procedural
+steps (right hand side panel of two pictures showing stenting and post dilation phases),
+demonstrating how the integrated protection works precisely when embolic risk is highest-
+during stenting and post-dilation. Traditional larger-pore filters are shown allowing these
+same particles to pass through like sand through a wide mesh (left hand side panel of 3
+pictures showing stenting, post dilation with traditional balloon and alternatively post
+dilation with Paladin); Paladin ocers 40-micron protection during post-dilation, but not
+stenting and requires another catheter exchange as compared to Neuroguard IEP.
+13
+Table 1. Comparison of Neuroguard IEP System vs Traditional CAS systems
+FEATURE NEUROGUARD IEP SYSTEM TRADITIONAL CAROTID STENTING
+DEVICE INTEGRATION Stent + balloon + filter in one Separate stent, balloon, and filter
+FILTER PORE SIZE 40-microns (integrated filter) + filter Filter with 100-280 micron pores
+with100-280 micron pores
+PROTECTION Continuous + targeted 40 microns No small pore coverage
+PROCEDURAL STEPS Fewer, streamlined Multiple, more complex
+STENT DESIGN Closed cell, hourglass, flared ends Varies, not integrated
+OPERATOR Yes No
+ADJUSTABILITY OF
+FILTER DEPLOYMENT
+CLINICAL OUTCOMES Lowest stroke rates Higher stroke risk
+(PERFORMANCE II)
+Figure 2. Neuroguard's mechanism of action is distinguished by its integrated, continuous,
+as well as targeted finer-pore embolic protection, streamlined workflow, and advanced stent
+design, all of which aim to improve both safety and ecicacy compared to traditional multi-
+device carotid stenting systems.
+In summary, Integration is not merely an "ease-of-use" feature. Neuroguard's integration is
+the fundamental enabler of a new mechanism of action: integrated, targeted 40-micron pore
+embolic protection, advanced stent deployment, and direct clinical impact on both luminal
+diameter and stroke risk. These outcomes cannot be achieved by any combination of existing
+carotid stents, filters, and balloons. The convenience is not cosmetic—it is critical to the
+mechanism which is not an incremental improvement, but a paradigm shift in carotid
+stenting.
+14
+CMS Recognition of Device Innovations that Transform Function
+We appreciate CMS's thoughtful and rigorous approach to evaluating new medical
+technologies, including its recognition of nuanced distinctions in device design and clinical
+function. CMS has a history of acknowledging when design innovations create meaningful
+functional dicerences—even when devices share basic structural similarities.
+For example, in evaluating the Eluvia™ Drug Eluting Stent, CMS recognized that although the
+device used paclitaxel like other peripheral drug-eluting stents, its distinctive long-term drug
+release profile due to the addition of a polymer constituted a unique MOA (FY2021 Medicare
+Final Inpatient Rule CMS-1735-F, 9/18/2020).
+CMS recognized that integrating a novel distinction to existing technology to address a
+critical treatment limitation—such as sustained drug delivery—constituted a novel
+mechanism of action. Similarly, the Neuroguard IEP System integrates a critical function that
+fundamentally alters treatment for carotid stenting. Just as the addition of a polymer matrix
+addressed the duration limitation of previous drug-eluting technologies, Neuroguard
+uniquely addresses the lack of micro-embolic protection during stent deployment and post-
+dilation—protection gaps that cannot be addressed by any combination of separate existing
+devices.
+Embolic protection during stent expansion is not merely a convenience, but a fundamental
+shift in how protection is delivered at the highest-risk moments of the procedure. Therefore,
+consistent with CMS's prior decisions recognizing technologies that overcome key
+limitations of existing therapies, we believe Neuroguard should be recognized as having a
+novel mechanism of action, meeting the newness criterion and warranting NTAP approval.
+Section 2. Substantial Clinical Improvement of the Neuroguard IEP System
+In the proposed rule, CMS stated the following concerns with regard to the substantial
+clinical improvement compared to existing CAS technologies.
+A. CMS Concern: Comparison to Contemporary Comparators
+CMS noted that it did not "receive information comparing the Neuroguard IEP® System with
+other currently available treatments developed more recently, such as GORE Carotid Stent,
+Sterling SL Balloon Dilatation Catheters, or Paladin System…".
+Response: The Neuroguard IEP System demonstrated improved clinical outcomes in the
+PERFORMANCE I and II trials compared to both historical and contemporary carotid artery
+stents. In PERFORMANCE I, the system achieved a 0% stroke/death rate at 30 days in 67
+15
+high-risk patients, with no target lesion revascularization or in-stent restenosis at 12 months
+(Langhoc 2022). PERFORMANCE II expanded these findings in 305 patients, demonstrating a
+1.3% 30-day rate of stroke rate, all minor strokes and none of which were major strokes, and
+only one additional minor ipsilateral stroke (0.37%) at one year (Gray 2025). The data
+submitted to the CMS as part of the NTAP application (refer to Appendix 2) pertains to
+commercially available medical devices in the United States, with comparable symptomatic
+and asymptomatic patient populations. Additionally, we have included a second table
+containing further data as requested by CMS (refer to Appendix 3). Findings for the specific
+devices requested by CMS are summarized below:
+• GORE Carotid Stent: To date, this stent has not been made commercially available in
+the United States. Two clinical papers outline its results. The 2018 Schneider, et al.,
+study did not include the full data set (includes on the per-protocol dataset, not the
+intention-to-treat dataset), although it is included in the table below. We believe a
+more relevant comparator is the data included in the 2022 Mazurek, et al., meta-
+analysis which includes the full data set for the GORE Carotid Stent and reports a 30-
+day stroke rate of 2.89%, with 1.6% being major and 1.3% minor strokes. This is
+substantially higher than the 30-day stroke rate of 1.3%, all minor strokes, for the
+Neuroguard IEP System.
+• Sterling SL Balloon: No comparable peer-reviewed clinical outcomes data were
+identified.
+• Paladin System: As described above, Paladin is not a carotid artery stent but a
+separate angioplasty balloon with a small pore filter. It requires the use of a stand-
+alone stent. Therefore, we do not believe Paladin should be considered a comparator
+but rather a step towards the Neuroguard IEP System, as discussed earlier. The
+published data reports a 30-day stroke rate of 1%; however, this was not powered to
+study a carotid artery stent system.
+The Mazurek meta-analysis, summarized in Appendix 3, highlights improved outcomes
+associated with second-generation stents as compared to their first-generation
+counterparts. However, it is important to note that this analysis incorporated non-FDA-
+approved platforms, such as the CGuardTM (InspireMD), the data for which has been
+collected solely outside the US to date. Data from the clinical trial conducted in the US has
+not undergone FDA-level review at this time. In contrast, the results from the Neuroguard
+PERFORMANCE trial provide compelling evidence of a statistically significant reduction in
+stroke rates, demonstrating superior ecicacy over historical first-generation carotid artery
+stenting systems, while also ocering advantages as compared to current contemporary
+alternatives.
+16
+B. CMS Concern: Protocol Di‘erences Between Historical and Contemporary Trials
+CMS noted "that the pre- and post-treatment protocols for the PERFORMANCE II trial were
+more comprehensive compared to those of the SAPPHIRE trial and that this may reflect
+changes in standards of care over the past two decades. For example, we note that the
+patients in the PERFORMANCE II had been given clopidogrel 75 mg (or equivalent) and
+aspirin 75 mg daily for one week before surgery, and dual antiplatelet therapy was required
+for at least 30 days after the procedure (and thereafter, at the physician's discretion and
+standard of care), whereas the patients in the SAPPHIRE trial were given an aspirin at a dose
+of 81 or 325 mg per day for at least 72 hours before the procedure and indefinitely after the
+procedure, and with clopidogrel 75 mg per day starting 24 hours before the procedure and
+continuing for two to four weeks after the procedure. We question whether the observed
+lower stroke rate was at least partly the result of a more advanced and comprehensive
+treatment protocol."
+Response: The SAPPHIRE trial (Stenting and Angioplasty with Protection in Patients at High
+Risk for Endarterectomy) was a landmark trial that compared carotid artery stenting (CAS)
+with embolic protection to carotid endarterectomy (CEA) in high-risk patients. This trial was
+conducted in the early 2000s and used a dual antiplatelet therapy strategy for CAS in
+accordance with best practice at the time, guided by emerging clinical evidence.
+Dual antiplatelet therapy DAPT is a key component of periprocedural management in CAS.
+The lower rate of stroke in the PERFORMANCE II trial is not primarily attributable to
+dicerences in DAPT regimens.
+Other clinical trials, such as the SCAFFOLD trial, have used DAPT protocols similar to
+PERFORMANCE I and II but have not achieved similar clinical outcomes (NCT01901874).
+DAPT strategies utilized in current day CAS may involve more standardized loading doses or
+extended pre-procedural intervals as provided in ACC/AHA/SCAI clinical practice guidelines,
+however this alone is insucicient to account for the reduction in stroke rates in
+PERFORMANCE II trial. It is highly unlikely, based on the mechanism and onset of action of
+both clopidogrel and aspirin, that the dicering antiplatelet regimen, across studies and over
+time, would contribute to the lower stroke rate found in PERFORMANCE II. Platelet
+aggregation is significantly reduced within 60 minutes of taking aspirin. Aspirin's ecect on
+platelets is essentially for the lifespan of the acected platelet, which is 10 days. The
+exposure to aspirin in both treatment regimens should have achieved the same level of
+platelet inhibition. In regard to clopidogrel, it may take 3 to 7 days to reach the full
+antiplatelet ecect. Patients in the SAPPHIRE trial were administered clopidogrel for 2 to 4
+weeks after carotid stenting and at least 30 days in PERFORMANCE II. Given the size of the
+17
+carotid artery, the arterial flow through the stent, and the low vascular resistance of the brain
+circulation, stent thrombosis in non-mesh covered stents is an exceedingly rare occurrence.
+C. CMS Concerns: Historical comparators
+CMS inquired "whether growth in CAS volume, a multitude of commercially available FDA-
+approved carotid stents, changes in standard of care, and trends in the prevalence of
+diabetes and hypertension in the U.S. population during the last two decades were
+considered in the interpretation of the findings of the two PERFORMANCE trials."
+Response: There is no doubt that the growth in CAS volume over the past two decades has
+acorded physicians more experience and honing of clinical judgement, which should both
+positively acect CAS outcomes in general. Likewise, advances in the optimal medical
+therapy for patients with carotid artery disease should also positively acect CAS outcomes.
+Both diabetes and hypertension have proliferated in the US population over the past two
+decades, and the prevalence of diabetes in the PERFORMANCE II trial population was one of
+the highest ever reported at 43%. As diabetes is usually associated with worse outcomes in
+patients with carotid artery disease, the low event rates in PERFORMANCE II are likely driven
+by the enhanced safety acorded by the 40-micron filter and purpose-built nitinol carotid
+stent – and the results of this trial are perhaps even more notable given the higher
+percentage of people with diabetes in the study sample.
+D. CMS Concerns: Historical controls
+CMS raised concerns about trial design heterogeneity and population variability when
+comparing Neuroguard IEP System outcomes to historical controls. CMS expressed concern
+that dicerences in study design, patient populations, and outcome definitions across the
+referenced clinical trials may limit the validity of direct comparisons to the Neuroguard IEP
+System. Specifically, CMS noted variability in trial methodologies (randomized vs. single-
+arm, dicering follow-up periods), inclusion criteria (such as degree of stenosis and age
+thresholds), and baseline comorbidities (notably higher rates of diabetes and hypertension
+in PERFORMANCE II). CMS requested clarification on how these dicerences were addressed
+in the development of the weighted objective performance criteria, how comparative studies
+were selected, and whether appropriate adjustments were made to ensure that observed
+outcome dicerences could be attributed to the device rather than to underlying population or
+protocol disparities.
+Response: PERFORMANCE II was a single-arm study consistent with PMA IDE methodology,
+and outcomes were benchmarked against a comprehensive set of historical controls. The
+PERFORMANCE II trial design was usual and customary for a PMA clinical trial. With this goal
+in mind, the patient population was, by design, the most challenging, including surgical high-
+18
+risk patients who could be either symptomatic or asymptomatic. The primary focus was on
+30-day and 1-year outcomes for death and stroke, both major and minor, aligning with other
+high-risk carotid stenting studies. Outcome timelines were typical, with a primary endpoint
+at 30 days (death, stroke, and myocardial infarction) and the assessment of ipsilateral stroke
+within 12 months. A key inclusion criterion was patients at high risk for carotid
+endarterectomy (CEA), with enrollment rates matching those of comparator trials. All
+compared trials included similar high-risk populations and measured the same key
+outcomes, which supports attributing observed dicerences in results to the device itself.
+While myocardial infarction was part of the primary endpoint, it was also included as part of
+the primary endpoint in the majority of other PMA IDE carotid stenting trials. Notably, the
+proportion of symptomatic patients in PERFORMANCE II was 20%, mirroring the mix in other
+studies and confirming population comparability. The PERFORMANCE II trial population
+represented the highest-risk demographic when compared to the ARCHER, SECURITY,
+BEACH, and SCAFFOLD trials. Nevertheless, our results demonstrated superiority over these
+studies, which can be attributed to advancements in technology, specifically with the
+Neuroguard IEP System.
+1. Clinical outcome comparison:
+CMS had specific questions regarding whether dicerences from historical comparators
+were statistically significant and clinically meaningful, and how statistical significance was
+determined. CMS inquired about the weighted Z-test for the primary endpoint and how it may
+fully account for variability in patient comorbidities or procedural dicerences and enhance
+generalizability.
+Response: We appreciate CMS's detailed review and the opportunity to clarify the statistical
+and clinical interpretation of the results from the PERFORMANCE II study. The following
+response addresses CMS's inquiry regarding whether the observed dicerences in clinical
+outcomes between the Neuroguard IEP® System and historical comparator trials are
+statistically significant, clinically meaningful, and supported by a robust analytic approach
+that accounts for patient variability and enhances generalizability.
+The primary endpoint of the PERFORMANCE II study was a composite of all-cause death,
+stroke, or myocardial infarction (MI) within 30 days of the index procedure, plus ipsilateral
+stroke between day 31 and 12 months. In the intention-to-treat (ITT) population, the
+observed event rate was 2.84%. This was compared against a pre-specified performance
+goal (PG) of 13.8%, derived from weighted Objective Performance Criteria (OPC) based on
+outcomes in prior FDA-reviewed IDE studies (ARCHeR, BEACH, SECuRITY, and SCAFFOLD).
+The Z-score for the primary endpoint, calculated using actual proportions of comorbid
+(74.5%) and anatomic (25.5%) high-risk patients and their corresponding PG rates (15% and
+19
+11%, respectively), was 5.316 in the ITT population. This Z-score exceeds the pre-defined
+one-sided threshold of Z > 1.645, demonstrating that the Neuroguard IEP System achieved a
+statistically significant improvement over the PG, with a p-value < 0.00001 (Gray 2025). A
+similar result was confirmed in the per-protocol (PP) population with a Z-score of 5.474.
+These analyses were prespecified and executed according to the Statistical Analysis Plan.
+Regarding the clinical relevance of outcome dicerences, particularly in comparison to the
+SCAFFOLD trial, which reported a 30-day stroke rate of 1.1%, it is important to clarify that the
+rate of stroke at 30 days in the SCAFFOLD study was reported only for the per-protocol (PP)
+population, which excluded patients with protocol deviations. The 2022 Mazurek et al.,
+meta-analysis reports a 30-day stroke rate for the GORE Carotid Stent of 2.89%, with 1.6%
+major stroke and 1.3% minor strokes. In contrast, the 1.31% 30-day stroke rate observed in
+PERFORMANCE II was derived from the ITT population (all enrolled patients regardless of
+treatment received and protocol deviations) and is therefore more conservatively
+representative of real-world performance. More notably, the 12-month composite primary
+endpoint rate in SCAFFOLD, as described in the FDA Summary of Safety and Ecectiveness
+Data (SSED for PMA P180010), was 4.5% in the PP population. This compares to a lower
+2.84% in the PERFORMANCE II ITT population, underscoring the clinical meaningfulness of
+the observed dicerences despite dicerences in population inclusivity. Importantly, the rate of
+stroke at 30 days or the composite endpoint in the SCAFFOLD ITT population is unpublished.
+Statistical significance was assessed using a weighted Z-test methodology specifically
+designed to reflect real-world clinical variability. The test incorporated event rates in
+comorbid and anatomic high-risk groups and weighted them according to their actual
+prevalence in the enrolled population. The performance goal (PG) of 13.8% was calculated
+using PGs of 15% for comorbid and 11% for anatomic risk patients. Variance terms in the Z-
+test calculation were weighted accordingly, as detailed in the SAP which was approved by
+FDA. This approach ensured that the test was not only statistically valid but also clinically
+relevant, as it directly accounted for heterogeneity in baseline risk and procedural
+complexity.
+To further support generalizability, the study included 305 subjects from 32 sites across the
+United States and Europe. The primary endpoint was analyzed in the ITT population, and
+serious adverse events were adjudicated by an independent Clinical Events Committee.
+Subgroup analyses, as prespecified in the Statistical Analysis Plan, were conducted across
+key demographic and clinical variables, including age, sex, symptomatic status, geographic
+region, and carotid endarterectomy risk classification. These analyses showed consistent
+outcomes across all subgroups. In addition, poolability analyses by study site and gender
+20
+found no significant heterogeneity, supporting the overall interpretability and external validity
+of the study findings.
+In summary, the Neuroguard IEP System demonstrated both statistically significant and
+clinically meaningful improvements in stroke and composite adverse event rates compared
+to the historical performance goal and to published outcomes from other FDA-approved
+carotid stenting systems. The prespecified weighted Z-test used in the analysis incorporated
+adjustments for patient comorbidities and procedural variability, ensuring that the findings
+are both statistically rigorous and broadly applicable to the Medicare population.
+Section 3. Neuroguard IEP System meets the cost criterion
+CMS noted that indirect charges were not added to the new technology nor subtracted from
+the existing technology.
+Response: In the NTAP application, two cost analyses were performed. In both analyses, the
+threshold was exceeded. CMS inquired about indirect charges. Indirect charges did not
+change from the existing technology to the new technology and, therefore, were not included
+in the calculations. We acirm our initial, submitted analysis that the Neuroguard IEP System
+meets the cost criterion.
+Section 4. The Economics of Stroke: Neuroguard IEP's Potential for Health System
+Savings.
+Stroke remains one of the most serious and costly complications following carotid
+revascularization. Contemporary meta-analyses show that while both carotid
+endarterectomy (CEA) and carotid artery stenting (CAS) are ecective, stroke risk remains a
+major driver of long-term outcomes and health care costs.
+Recent evidence on carotid intervention economics comes from the Akkara et al. systematic
+review and meta-analysis of the cost ecectiveness of CEA vs CAS (Translational Stroke
+Research, 2025). This comprehensive analysis of over 6,400 patients evaluated the cost-
+ecectiveness of CEA versus CAS. Although this review did not specifically assess
+Neuroguard IEP, it demonstrated that even small dicerences in stroke rates between
+procedures can have a meaningful impact on overall cost-ecectiveness, despite similar
+initial procedure and one-year costs
+First Year Post-Stroke Costs
+21
+The most recent U.S. estimate for total first-year post-stroke cost – including hospitalization,
+rehabilitation, outpatient care and related medical expenses – is $59,900 per patient
+(Strilciuc S, et al., 2021) and highlights the potential economic impact of reducing stroke
+incidence, underscoring that even a modest reduction in stroke incidence can translate into
+significant cost savings for Medicare.
+The Akkara et. al., meta analysis indicates that compares to CEA, conventional CAS is
+associated with:
+• Higher stroke risk than CEA (3.65% vs 2.12%)
+• Similar base costs to CEA ($17,711 vs $18,156)
+• Shorter procedure time (77.5 vs 191.9 minutes)
+• Shorter hospital stays (2.60 vs 3.13 days)
+Potential Economic Implications of Neuroguard
+By comparing strokes rates from the Neuroguard IEP studies which demonstrated a 30-day
+stroke rate of 0-1.3%, to the traditional CAS stroke rate of 3.65%, we can estimate the
+following economic implications:
+• If 100 Medicare beneficiaries were treated with a device achieving Neuroguard IEP's
+reported stroke rates rather than traditional CAS devices, approximately 2–3 fewer
+strokes would be expected.
+• First-year cost avoidance: 2–3 avoided strokes × $59,900 (average first-year cost) =
+$119,800–$179,700 per 100 patients
+A reduction in stroke rates may also improve quality-adjusted life years, a critical
+component of cost-ecectiveness calculation
+Potential Cost Considerations for Medicare
+If the reduction in stroke rates observed in Neuroguard IEP studies is realized in clinical
+practice, Medicare could see cost savings related to acute hospitalization, post-acute
+rehabilitation, skilled nursing facility stays, and outpatient therapy services—areas that
+represent substantial expenditures when stroke complications occur after carotid
+procedures.
+22
+Summary
+While direct economic analyses of Neuroguard IEP are not yet available, the clinical
+outcomes observed in studies suggest potential benefits. Using recent cost data and clinical
+results, it is reasonable to anticipate that lower periprocedural stroke rates could have a
+positive economic impact for Medicare and the broader health system. Continued real-world
+data collection will help further clarify the value proposition of Neuroguard IEP in this
+context.
+Conclusion
+In summary, we maintain our view that the Neuroguard IEP System satisfies the criteria for
+NTAP designation regarding newness, cost, and substantial clinical improvement, as
+detailed in the following points:
+• Meets the newness criterion – Traditional large pore EPDs using 100–280 micron filters
+must remain open throughout the procedure to avoid filter thrombosis, inherently
+allowing particles <100 microns to pass through. The Neuroguard IEP System introduces
+a novel mechanism of action through its use of a dynamically adjustable integrated 40-
+micron filter, which is deployed only during the high-risk phases of stent deployment and
+post-dilation, thereby avoiding prolonged flow restriction that could lead to filter
+thrombosis if used continuously. The system's ability to capture microemboli that would
+otherwise reach the brain addresses a longstanding unmet need in carotid artery
+stenting. The integration also reduces catheter exchanges, which themselves introduce
+increased risk of microemboli. This capability, along with a unique stent design, directly
+contributes to the system's superior clinical outcomes and represents a fundamentally
+dicerent, novel mechanism of action not possible with separate catheters, and not
+available in any other carotid stenting platforms commercially available today.
+• Meets the substantial clinical improvement criterion - The Neuroguard IEP System
+demonstrates substantial clinical improvement through unprecedented reductions in
+procedural and long-term stroke risk, as evidenced by PERFORMANCE I and II trial data
+showing 0% major strokes at 30 days and 1.3% minor stroke rate at 30 days-outcomes
+superior to both historical and contemporary carotid stenting systems. These results
+persisted in high-risk populations with higher rates of diabetes (43%) and hypertension
+(93%) compared to earlier trials, underscoring the system's ability to address
+microembolic risks during critical procedural phases. While CMS raised concerns about
+historical control comparisons, PERFORMANCE II's outcomes remained statistically
+23
+significant and clinically meaningful when benchmarked against weighted objective
+performance criteria accounting for anatomic/comorbid risks. The novel design that
+uniquely combines a carotid stent, post-dilation balloon, and 40-micron pore integrated
+embolic filter in one device, eliminating the need for multiple catheter exchanges, directly
+translates to reduced risk of cerebral microemboli, establishing a new standard for
+embolic protection and fulfilling the substantial clinical improvement criterion. Protocol
+enhancements (e.g., extended antiplatelet regimens) could not fully account for these
+outcomes.
+• Meets the cost criterion – Two cost analyses were provided to CMS. In both analyses,
+the cost threshold was exceeded. Indirect charges did not change from the existing
+technology to the new technology and therefore were not included in the calculations.
+We acirm that the Neuroguard IEP System meets the cost criteria.
+Thank you for considering our comments. We look forward to continued collaboration with
+CMS to ensure Medicare beneficiaries have access to innovative therapies. If you have any
+questions on these comments, please contact me.
+Sincerely,
+Ravish Sachar
+Ravish Sachar, MD, FACC
+CEO & Founder
+Contego Medical, Inc.
+24
+Appendix 1. Procedure Steps Comparison
+Neuroguard IEP System Procedure Traditional CAS + EPD Procedure Paladin Balloon
+1.Primary Embolic Protection Device 1.Primary Embolic Protection Device 1.Primary Embolic Protection Device
+(EPD) Placement: Conventional, stand- (EPD) Placement: Conventional, stand- (EPD) Placement: Conventional, stand-
+alone primary embolic protection is alone primary embolic protection is alone primary embolic protection is
+placed and remains open throughout the placed and remains open throughout the placed and remains open throughout the
+procedure. procedure. procedure.
+2. Neuroguard IEP Placement: The 2. Non-integrated Stent System 2. Non-integrated Stent System
+system is placed via minimally invasive Placement: The system is placed via Placement: The system is placed via
+access and advanced over a guidewire minimally invasive access and advanced minimally invasive access and advanced
+to the site of carotid stenosis. over a guidewire to the site of carotid over a guidewire to the site of carotid
+stenosis. stenosis.
+4. Additional Integrated Embolic 4. Not Applicable: No other 4. Additional Integrated Embolic
+Protection Deployed: the small pore filter commercially available devices provide Protection Deployed: The Paladin may be
+is deployed distal to the lesion to the same mechanism of action nor used during an optional pre-dilation phase
+capture any potential debris. integrated additional small pore embolic of the procedure; however it must be
+protection. removed before stent deployment,
+resulting in additional catheter exchanges
+which increase the risk of microemboli.
+5. Stent Deployment: The self- 5: Stent Deployment: The self- Not applicable
+expanding stent (permanent) is then expanding stent (permanent) is then
+deployed to restore vessel patency. The deployed to restore vessel patency
+integrated small pore filter provides without small pore protection. No other
+added protection from emboli released commercial available devices provide
+during stent deployment. the same mechanism of action nor
+integrated small pore embolic protection
+during the stenting phase itself, one of
+the riskiest periods for embolization.
+6. Post-dilation 6. Post dilation 6. Post dilation
+The integrated post-dilation balloon is The stent delivery system is removed. A The Paladin may be used during an
+then inflated to optimize stent apposition new balloon catheter is inserted, and the optional post-dilation phase of the
+and minimize the risk of restenosis. The balloon is inflated to optimize stent procedure it cannot be used during stent
+integrated small pore filter provides apposition and minimize the risk of deployment and also results in additional
+added protection from emboli released restenosis. No other commercially catheter exchanges which increase the
+during post-dilation. available devices provide the same risk of microemboli.
+mechanism of action nor integrated
+small pore embolic protection during the
+post-dilation phase itself, one of the
+riskiest steps for embolization.
+7. Removal: Finally, the Neuroguard IEP 7. Removal: Finally, the post-dilation 7. Removal: Finally, the post-dilation
+system including the integrated filter, balloon catheter is removed. The balloon catheter is removed. The primary
+potentially containing captured debris, is primary distal filter is then removed. distal filter is then removed.
+retrieved along with the delivery system.
+The primary distal filter is then removed.
+25
+Appendix 2: Comparative CAS Clinical Evidence (Historical Comparators)
+PI Study PII Study SECURITY SAPPHIRE ARCHER BEACH CREST SCAFFOLD
+Author / Langhoff et Gray et al./ Xact Stent Yadav et al./ Gray et al./ Iyer et al./ Brott et al./ Gray./
+Year al./ 2024 SSED 2004 2006 2008 2010 2017
+2022/ 2004
+Journal Catheter Accepted Not published N Engl J Med J Vasc Surg J Vasc Surg N Engl J Med Not published
+Cardiovasc JACC
+Interv. Cardiovasc.
+Interv.
+Device Neuroguard Neuroguard Xact Carotid Smart or ACCULINK Carotid Acculink™ GCS Stent and
+IEP IEP Stent Precise Stent / nitinol stent WALLSTENT Stent/ Gore Embolic
+System and Angioguard Implanted and Accunet™ Protection
+Emboshield Angioguard XP ACCUNET Embolic Filter
+Embolic Embolic filter embolic Protection
+Protection protection protection System
+System system
+N 67 patients in 305 patients in 305 patients at 334 at 29 581 at 48 sites 480 at 47 2,502 at 117 312 at 30
+EU the US and EU 30 centers US centers in the in the US and centers in the centers in US centers in the
+and Aus US EU US and Canada US
+Study design Multicenter, Multicenter, Multicenter, Multicenter, Multicenter, Multicenter, Multicenter, Multicenter,
+single arm single arm trial single arm trial randomized prospective single arm trial randomized single arm trial
+trial trial comparing trial. CAS trial comparing
+CAS to CEA compared to CAS to CEA
+historical CEA
+% over 80 41.8% over 56.1% over 70 33.8% over 80 19.3% over 80 15.5% over 70 NA NA 23.2% over 80
+yrs/70 yrs of 70 yrs yrs yrs yrs -CAS yrs yrs
+age
+Patient Symptomatic Symptomatic Symptomatic Symptomatic Symptomatic Symptomatic Symptomatic Symptomatic
+population and and and and and and and and
+asymptomatic asymptomatic asymptomatic asymptomatic asymptomatic asymptomatic asymptomatic asymptomatic
+%Symptomatic 16.4% 20% 21% 29.9% -CAS 23.8% 23.3% 52.9% 12.8%
+% Diabetes 34.3% 43.3% 30.8% 25.3% -CAS 37.9% NA 30.6% -CAS 40.1%
+%Hypertension 94% 92.8% 86.6% 85.5% -CAS 83.8% 89.4% 85.8%-CAS 93.3%
+30-day Death, 1.5% 2.3% 7.5% 4.8% -CAS 8.3% 5.4% 5.2% -CAS 4.8%
+Stroke,
+Myocardial
+Infarction
+(DSMI)
+30-day stroke 0% ITT: 1.3%, no 6.89% ITT: 4.8% 6.9% 4.5% 4.1% vs. 2.3% 2.9 %
+rate major strokes (CAS) vs 9.8% for CEA,
+(CEA) (P = 0.01)
+(P=0.09)
+12-month stroke 0% 1.8%, no major 7.9% ipsilateral ITT: 1.3% (major 2.7%(late NA NA
+rate strokes stroke 6.2%(CAS) ipsilateral neurological
+and 7.9% stroke) event)
+(CEA)
+(P=0.08)
+26
+Appendix 3. Comparative CAS Clinical Evidence (Contemporary Comparators)
+PI Study PII Study PALADIN SCAFFOLD SCAFFOLD META-ANALYSIS
+Author / Langhoff et al./ Gray et al./ Langhoff et al/ Schneider et Gray et al./ Mazurek et al./ 2022
+Year 2022/ 2024 2019 al./ 2019
+2018
+Journal Catheter JACC JACC JACC JACC Journal of Clinical Medicine
+Cardiovasc Cardiovasc. Cardiovasc. Cardiovasc. Cardiovasc.
+Interv. Interv. Interv. Interv. Interv.
+Device Neuroguard Neuroguard Paladin GORE Carotid GORE Carotid GORE 1st Gen 2nd Gen
+IEP IEP Balloon Stent Stent Carotid stents stents
+Stent
+N 67 patients in 305 patients in 106 patients in 312 at 30 312 at 30 NA
+EU the US and EU 5 centers in the centers in the centers in the
+EU US US
+Study design Multicenter, Multicenter, Multicenter, Multicenter, Multicenter, Meta-analysis of 112 studies
+single arm trial single arm trial single arm trial single arm trial single arm trial
+% over 80 41.8% over 70 56.1% over 70 NA NA NA NA
+yrs/70 yrs of yrs yrs
+age
+Patient Symptomatic Symptomatic Symptomatic Symptomatic Symptomatic Symptomatic and asymptomatic
+population and and and and and
+asymptomatic asymptomatic asymptomatic asymptomatic asymptomatic
+% Symptomatic 16.4% 20% 19.8% 12.8% 13% NA 45% 41%
+% Diabetes 34.3% 43.3% 36.3% 40.1% 40% NA 34% 32%
+% Hypertension 94% 92.8% 82.1% 93.3% 93% NA NA NA
+30-day Death, 1.5% 2.3% 1.0% 3.0% 3.0% 4.82% 4.11% 1.30%
+Stroke,
+Myocardial
+Infarction
+(DSMI)
+30-day stroke 0% ITT: 1.3%, no 1.0% 1.1% NA 2.89% 3.01% 0.60%
+rate major strokes
+12-month stroke 0% Ipsilateral NA NA Ipsilateral Ipsilateral Ipsilateral Ipsilateral
+rate stroke 1.8%, no stroke 1.2% Stroke (IS): Stroke (IS): Stroke (IS):
+major strokes 3.10% 3.51% 0.70%
+In-Stent In-Stent In-Stent In-Stent
+Restenosis Restenosis Restenosis Restenosis
+(ISR): 3.7% (ISR): 4.83% (ISR): 3.97% (ISR): 3.38%
+27
+Appendix 4: Supporting Data from the meta-analysis (Akkara et al., Translational Stroke
+Research, 2025)
+● 30-day stroke rates:
+● CEA: 2.12% (mean; range 1.07–6.26%)
+● CAS (traditional): 3.65% (mean; range 2.4–4.1%)
+● Base procedure cost:
+● CEA: $18,157
+● CAS: $17,711
+● 1-year total cost:
+● CEA: $21,264
+● CAS: $21,433
+● Cost of a single peri-procedural stroke:
+● $24,541 (mean acute care cost, 2024 USD)
+From the meta-analysis, conventional CAS showed:
+● Higher stroke risk than CEA (3.65% vs 2.12%)
+● Similar base costs to CEA ($17,711 vs $18,156)
+● Shorter procedure time (77.5 vs 191.9 minutes)
+● Shorter hospital stays (2.60 vs 3.13 days)
+Neuroguard IEP could improve CAS cost-ecectiveness through:
+● Reduced stroke complications: The meta-analysis shows strokes are a major cost
+driver. By reducing stroke rates from 3.65% (conventional CAS) to approximately 1%
+(Neuroguard IEP), significant complication-related costs would be eliminated1.
+● Fewer secondary interventions: Lower ischemic lesion volumes and incidence
+suggest fewer neurological sequelae requiring additional treatments or
+rehabilitation2.
+● Improved QALY outcomes: With significantly reduced stroke rates, patients would
+likely experience better quality-adjusted life years, a critical component of cost-
+ecectiveness calculations.
+28
+References
+Akkara, Yash, Joshua J. Hon, Mahathir Ahmed, Basel Musmar, Joanna Roy, Stavropoula
+Tjoumakaris, Michael Reid Gooch, Robert H. Rosenwasser, and Pascal Jabbour. "Cost-
+Ecectiveness of Carotid Endarterectomy vs. Carotid Stenting: A Systematic Review and
+Meta-Analysis." Translational Stroke Research, 2025, doi:10.1007/s12975-025-01347-z.
+BEACH: Cohen DJ, Amarenco P, Cramer MJ, et al. Carotid Artery Revascularization in High-
+Surgical-Risk Patients Using the Carotid WALLSTENT and FilterWire EX/EZ: 1-Year Outcomes
+in the BEACH Pivotal Group. J Am Coll Cardiol.2008;51(4):427-434.
+doi:10.1016/j.jacc.2007.10.022
+Benjamin EJ, et al. Heart DIsease and Stroke Statistics – 2023 Update: a Report from the
+AHA. Circulation. 2023; 147-e93-e621.
+Bijuklic K, Wandler A, Hazizi F, Schofer J. The PROFI study (Prevention of Cerebral
+Embolization by Proximal Balloon Occlusion Compared to Filter Protection During Carotid
+Artery Stenting): A prospective randomized trial. J Am Coll Cardiol. 2012 Apr 10;59(15):1383-
+1389
+CREST: Brott TG, Hobson RW 2nd, Howard G, et al. Stenting versus endarterectomy for
+treatment of carotid-artery stenosis [published correction appears in N Engl J Med. 2010 Jul
+29;363(5):498] [published correction appears in N Engl J Med. 2010 Jul 8;363(2):198]. N Engl J
+Med. 2010;363(1):11-23. doi:10.1056/NEJMoa0912321
+Demaerschalk BM, et al. US cost burden of ischemic stroke: A systematic literature review.
+AM J Manag Care. 2010; (16(7):525-533.
+Eitan A, Ayik B, Schofer J, Mathey D. Presented at LINC 2018. Leipzig, Germany
+Gray WA, Hopkins LN, Yadav S, et al. Protected carotid stenting in high-surgical-risk patients:
+The ARCHeR results. J Vasc Surg. 2006;44(2):258-269.
+Gray WA. 30-day results of a new mesh-covered carotid stent: SCAFFOLD Trial. Presented at:
+Charing Cross International Symposium; April 2017; London, England.
+Gray WA, Levy E, Bacharach JM, et al. Evaluation of a novel mesh-covered stent for treatment
+of carotid stenosis in patients at high risk for endarterectomy: 1-year results of the
+SCAFFOLD trial. Catheter Cardiovasc Interv. 2020;96(1):121-127. doi:10.1002/ccd.28586
+Henry M, Polydorou A, Henry I, et al. New distal embolic protection device the Fibernet 3
+dimensional filter: First carotid human study. Catheter Cardiovasc Interv. 2007 Jun
+1;69(7):1026-1035.
+Kim HJ et al. The influence of carotid artery catheterization technique on the incidence of
+thromboembolism during carotid artery stenting. AJNR Am J Neuroradiol. 2010
+Oct;31(9):1732-6. doi: 10.3174/ajnr.A2141. Epub 2010 Jul 1. PMID: 20595362; PMCID:
+PMC7965012.
+29
+Langhoc R, Petrov I, Kedev S, et al. Double Filtration During Carotid Artery Stenting Using a
+Novel Post-Dilation Balloon With Integrated Embolic Protection. JACC Cardiovasc Interv.
+2019;12(4):395-403. doi:10.1016/j.jcin.2018.11.039
+Mazurek A, Malinowski K, Rosenfield K, et al. Clinical Outcomes of Second- versus First-
+Generation Carotid Stents: A Systematic Review and Meta-Analysis. J Clin Med.
+2022;11(16):4819. Published 2022 Aug 17. doi:10.3390/jcm11164819
+Mukherjee D, Roci M. Minimizing Distal Embolization During Carotid Artery Stenting. JACC
+Cardiovasc Interv. 2019;12(4):404-405. doi:10.1016/j.jcin.2018.12.024
+Parikh SA, Beckman JA, White CJ, et al. Carotid artery stenting: JACC state-of-the-art review. J
+Am Coll Cardiol. 2022;80(2):155-170. doi:10.1016/j.jacc.2022.05.007
+Rosenfield K, Matsumura JS, Chaturvedi S, et al. SCAI/SVM expert consensus statement on
+carotid stenting: Training and credentialing for carotid stenting. Catheter Cardiovasc
+Interv.2016;87(2):188-199. doi:10.1002/ccd.26379
+SECURITY: Xact® Carotid Stent System and Emboshield® Embolic Protection System:
+Summary of Safety and Ecectiveness Data (SSED). U.S. Food and Drug Administration.
+Published August 5, 2004. Accessed August 30, 2024. Available
+at: https://www.accessdata.fda.gov/cdrh_docs/pdf4/P040038B.pdf.
+SAPPHIRE: Yadav JS, Wholey MH, Kuntz RE, et al. Protected carotid-artery stenting versus
+endarterectomy in high-risk patients. N Engl J Med. 2004;351(15):1493-1501.
+doi:10.1056/NEJMoa040127
+Strilciuc S, Grad DA, Radu C, Chira D, Stan A, Ungureanu M, Gheorghe A, Muresanu FD. The
+economic burden of stroke: a systematic review of cost of illness studies. J Med Life. 2021
+Sep-Oct;14(5):606-619. doi: 10.25122/jml-2021-0361.
+PERFORMANCE I: Langhoc R, Petrov I, Kedev S, et al. PERFORMANCE 1 Study: Novel carotid
+stent system with integrated post-dilation balloon and embolic protection device. Catheter
+Cardiovasc Interv. 2022 Nov;100(6):1090-1099.
+PERFORMANCE II: Gray WA, Metzger DC, Zidar J, et al. The PERFORMANCE II Trial: A
+Prospective Multicenter Investigation of a Novel Carotid Stent System. JACC Cardiovasc
+Interv. 2025;18(3):367-376. doi:10.1016/j.jcin.2024.10.031
+30
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0150

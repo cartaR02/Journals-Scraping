@@ -1,0 +1,234 @@
+May 30, 2025
+Via Email
+Environmental Protection Agency
+EPA Docket Center
+Docket ID No. EPA–HQ–OAR–2017–0183
+Mail Code 28221T
+1200 Pennsylvania Ave, NW
+Washington, DC 20460
+a-and-r-docket@epa.gov
+Re: Addendum to Comments on Proposed Standards of Performance for New
+Stationary Sources and Emission Guidelines for Existing Sources: Large Municipal
+Waste Combustors Voluntary Remand Response and 5- Year Review Large
+Municipal Waste Incinerator Standards [EPA–HQ–OAR–2017–0183]
+On behalf of East Yard Communities for Environmental Justice, Ironbound Community
+Corporation, Sierra Club, South Baltimore Community Land Trust, Clean Water Action, and the
+Environmental Integrity Project (“EIP”) (collectively, “Commenters”), Earthjustice and EIP
+submit this addendum to our prior comments on the U.S. Environmental Protection Agency’s
+(“EPA’s”) proposed revisions to its emission standards for Large Municipal Waste Combustors
+(“LMWCs”) under Section 129 of the Clean Air Act (“CAA” or “the Act”), 89 Fed. Reg. 4,243
+(“Proposed Rule”). These comments add to and incorporate the comments and attachments
+thereto that many of the above groups submitted on March 25, 2024 in this docket, and on June
+6, 2023 in EPA’s pre-rulemaking docket, as well as the March 25, 2024 report of Bruce Buckheit
+(“2024 Buckheit Report”).1 These comments also incorporate the expert report and
+accompanying MACT floor calculation spreadsheet of Bruce Buckheit (“2025 Buckheit
+Report”), attached here,2 and the state emissions data submitted to the EPA Docket Center via
+USB on May 27, 2024.3
+1 East Yard Communities for Environmental Justice et al., Comments on Proposed Large Municipal Waste
+Incinerator Standards (March 25, 2024) (“2024 Comments”) [EPA-HQ-OAR-2017-0183-0110 through EPA-HQ-
+OAR-2017-0183-0118] (including as Exhibit 1: East Yard Communities for Environmental Justice et al., Pre-
+Rulemaking Comments on Large Municipal Waste Incinerator Standards (June 6, 2023) [EPA-HQ-OAR-2022-
+0920-0060 through EPA-HQ-OAR-2022-0920-0064], and as Exhibit 2: Bruce C. Buckheit, Calculation of MACT
+Floors in EPA’s LMWC Proposal (Mar. 25, 2024))
+2 Mem. of Bruce Buckheit to Jonathan J. Smith et al. re Review of Updated LMWC Stack Test Data (May 27, 2025)
+(attached as Ex. 1) (“2025 Buckheit Report”); Bruce Buckheit, Spreadsheet of LWMC Data Analysis with Updated
+Stack Test Data (May 27, 2025) (attached as Ex. 2).
+3 Signed Acknowledgement of Receipt from Beth Gonzales, EPA Docket Center (May 27, 2025) (attached as Ex. 3).
+The state emissions data and 2025 Buckheit Report are submitted in reference to EPA’s
+duty to calculate the LMWC MACT floors using the most reliable and most recent data that EPA
+has. As explained in Section B of the undersigned’s 2024 comments, the Clean Air Act requires
+EPA to use the most recent emissions data available to EPA when calculating MACT floors, and
+governing law “most certainly d[oes] not mandate that EPA must proceed from the data set it had
+employed in the initial [rulemaking],” i.e. 1990s emissions data.4 And since the Clean Air Act
+requires that Section 129 emission limits “shall not be less stringent” than the MACT floors,5
+EPA has no room to carve out any exemptions – case-by-case or otherwise – from the emission
+limits.6
+As the tables below show, using all of the reliable emissions data available to EPA results
+in MACT floors that are even more protective of incinerator-adjacent communities than the
+floors that EPA calculated in the Proposed Rule using assumed 1990 emissions. This is true even
+when using the highly flawed Upper Prediction Limit approach that EPA prefers, which tends to
+weaken emission limits in a manner not allowed by the Clean Air Act (see “EG Floors (UPL) per
+this review” columns below).7 Even more protective limits result from the method compelled by
+the plain text of the Clean Air Act (see “EG Floor - average of highest test result for each unit in
+the top 17 - per this review” columns below).
+Table One. EG Calculations - UPLs (99%) using 2000 - 2024 data with EPA template8
+EG Floor - average
+2006 EG EG Floor of highest test
+Units (@ EPA January
+Pollutant (current) (UPL) per this result for each unit
+7% O2)
+limit
+2024 Proposal
+review in the top 17 - per
+this review
+Cadmium (Cd) ug/dscm 35 1.5 1.10 0.56
+Lead (Pb) ug/dscm 400 56 18.40 9.10
+Particulate matter (PM) mg/dscm 25 7.4 4.51 3.25
+Mercury (Hg) ug/dscm 50 12 2.65 1.95
+Dioxin/furan (CDD/CDF) ng/dscm 30/35 7.2 1.90 1.24
+Hydrogen chloride (HCl) ppmdv 29 13 6.63 6.20
+4 Med. Waste Inst. & Energy Recovery Council v. E.P.A., 645 F.3d 420, 425 (D.C. Cir. 2011); see also 2024
+Comments, supra note 1, at 12-18.
+5 42 U.S.C. § 7429(a)(2).
+6 See Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Large
+Municipal Waste Combustors Voluntary Remand Response and 5-Year Review, 89 Fed. Reg. 4243, 4254 (Jan. 23,
+2024) (“EPA is not proposing a mechanism for existing large MWCs to request a case-by-case emission limit . . . .
+because the EPA does not have the same ability to establish less stringent case-by-case emission limits under CAA
+section 129 standards, as it does under the ‘good neighbor provision’ of CAA section 110(a)(2)(D)(i)(I)”); see
+generally 2024 Comments, supra note 1, at 23.
+7 See 2024 Comments, supra note 1, at 18-22; 2024 Buckheit Report, supra note 1.
+8 Table from 2025 Buckheit Report, supra note 2 (ex. 1).
+2
+Table Two. NSPS Calculations - UPLs (99%) using 2000 -2024 data with EPA Template9
+NSPS Floor -
+2006
+average of highest
+Units (@ NSPS EPA January NSPS Floor
+Pollutant test result for the
+7% O2) (current) 2024 Proposal (UPL)
+best unit – per this
+limit
+review
+Cadmium (Cd) ug/dscm 10 1.1 0.50 0.33
+Lead (Pb) ug/dscm 140 13 3.63 2.33
+Particulate matter (PM) mg/dscm 20 4.9 2.54 1.37
+Mercury (Hg) ug/dscm 50 6.1 1.8 1.31
+Dioxin/furan (CDD/CDF) ng/dscm 13 1.8 1.08 0.52
+Hydrogen chloride (HCl) ppmdv 25 7.8 2.74 3.02
+As our prior comments, the Buckheit reports, and the state emissions data make clear,
+incinerators are significant emitters of criteria pollutants and hazardous air pollutants – and are
+often the largest emitters in the communities where they are located. But incinerators are also
+major emitters of greenhouse gases – studies show that incinerators emit significantly more
+greenhouse gases than any other power source.10 EPA calculates that waste incineration results
+in 12.7 million to 13.7 million metric tons of CO2 equivalent GHG emissions per year.11
+While recent legal developments have stayed the enforcement and effectiveness of the
+Good Neighbor Plan and its 24-hour 110 ppm NOx limit that applies to certain states during the
+ozone season,12 that alone should not affect EPA’s proposal to adopt a 110 ppm limit for existing
+sources in this LMWC Rule, since EPA’s cost-benefit analysis does not significantly change
+even assuming the non-existence of the Good Neighbor Plan. EPA’s Proposed Rule had
+excluded units covered by the Good Neighbor Plan’s 110 ppm NOx limit in its cost-benefit
+analysis, but when factoring those costs and benefits back in, the industry-wide cost per ton for
+meeting the 110 ppm limit is still only $5,538/ton.13 This is comparable to the $5,191 cost/ton
+for NOx that EPA found reasonable in the Proposed Rule, and is still well below the overall (all
+9 Id.
+10 Neil Tangri, Waste incinerators undermine clean energy goals, PLOS Climate 2(6): e0000100 (2023),
+https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000100 (attached as Ex. 4).
+11 EPA, Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2022 - Energy, 3-59, tbl.3-27 (2024),
+https://www.epa.gov/system/files/documents/2024-04/us-ghg-inventory-2024-chapter-3-energy.pdf
+[https://perma.cc/7LHE-UVMP].
+12 See Ohio v. EPA, 603 U.S. 279, 300 (2024); Federal “Good Neighbor Plan” for the 2015 Ozone National Ambient
+Air Quality Standards; Response to Judicial Stay, 89 Fed. Reg. 87,960 (Nov. 6, 2024).
+13 See Excel Spreadsheet Calculating NOx 110 ppm Limit Cost-Benefit Without GNR, PA (May 30, 2025) (attached
+as Ex. 5) (“NOx Limit Cost-Benefit Spreadsheet”) (calculations done by Earthjustice based on EPA spreadsheets)
+(noting, if all facilities in Ozone Transport Region are added back, annual costs from 110 ppm NOx limit would be
+$103,125,648 [Tab A-1, Column CE] while annual benefits would be 18,621 tons of NOx reductions [Tab A-2,
+Column CL]).
+3
+pollutant) $7,007/ton of EPA’s preferred approach in the Proposed Rule,14 as well as below the
+$7,500/ton threshold that EPA employed in the Good Neighbor Plan.15 And when excluding
+LMWC facilities like those in Pennsylvania that are already subject to a presumptive 110 ppm
+limit (and thus would not incur any additional costs if EPA were also to set a 110 ppm limit), the
+overall cost/ton goes down to $5,305/ton.16 And these calculations use the same cost
+assumptions from the Proposed Rule, where EPA chose to assume the higher of two possible
+costs for Covanta Low-NOx technology “as a worst-case scenario.”17 So any changes to the
+Good Neighbor Plan would result in no material changes to the cost-benefit analysis here, and
+are no reason for EPA to weaken its proposal for a 110 ppm NOx limit in the LMWC Rule.
+Furthermore, as previously stated, many LMWCs are already subject to the 110 ppmv 24-
+hour NOx limit that EPA proposed for the Emissions Guidelines or have otherwise installed the
+associated control technology. In 2019, Virginia required two mass-burn LMWCs – the Fairfax
+facility and the Alexandria/Arlington facility – in that state to meet this limit under the
+Reasonably Available Control Technology (“RACT”) standard.18 Pennsylvania finalized a
+presumptive NOx RACT limit of 110 ppmv on a 24-hour basis for LMWCs in 2022.19 A permit
+was issued in December 2023 requiring the Delaware Valley Resource Recovery Facility
+(“DVRRF”) located in Chester City, Pennsylvania to meet the 110 ppmv 24-hour NOx limit.20
+The DVRRF is the first LMWC in the country that uses rotary combustors to be subject to the
+new limit, which will be met using SNCR on its six rotary combustors.21 In June 2022, the
+Ozone Transport Commission (“OTC”) approved a Memorandum of Understanding (“MOU”) in
+which eleven member jurisdictions agreed to work together to achieve greater NOx reductions
+from MWCs,22 referencing an OTC workgroup white paper that found that limits of 110 ppmvd
+14 Eastern Research Group (prepared for EPA), Compliance Cost Analyses for Proposed Large MWC Rule
+Amendments, App. A: 2023 LMWC Costs Memo, Tab A-3 (Sept. 18, 2023) (Doc. ID EPA-HQ-OAR-2017-0183-
+0014) (“Compliance Cost Analysis Memo”) (noting that across all pollutants, EPA’s preferred approach would
+reduce 14,240 tons of pollution at a cost of $99,772,611 per year).
+15 Federal “Good Neighbor Plan” for the 2015 Ozone National Ambient Air Quality Standards, 88 Fed. Reg. 36654,
+36733 (June 5, 2023).
+16 See NOx Limit Cost-Benefit Spreadsheet, supra note 13 (ex. 5) (noting, if all facilities in Ozone Transport Region
+are added back except facilities in Pennsylvania already with presumptive 110 ppm limit, annual costs from 110
+ppm NOx limit would be $87,643,928 [Tab A-3, Column CE] while annual benefits would be 16,520 tons of NOx
+reductions [Tab A-4, Column CL]).
+17 Compliance Cost Analysis Memo, supra note 14, Tab A-7.
+18 See EPA Approval and Promulgation of Air Quality Implementation Plans; Virginia; Source-Specific Reasonably
+Available Control Technology Determinations for 2008 Ozone National Ambient Air Quality Standard, 84 Fed.
+Reg. 67196, 67197 (Dec. 9, 2019).
+19 Additional RACT Requirements for Major Sources of NO and VOCs for the 2015 Ozone NAAQS, 52 Pa. Bull.
+x
+6960 (Nov. 12, 2022), codified at 25 Pa. Code § 129.112(f) (2022),
+https://pacodeandbulletin.gov/Display/pabull?file=/secure/pabulletin/data/vol52/52-
+46/1735.html&search=1&searchunitkeywords=ract.
+20 Pa. Dep’t of Env’t Prot., Plan Approval No. 23-0004B for Covanta Delaware Valley LP/Delaware Valley Res.
+Rec., 18 (Condition E#002) (Dec. 27, 2023),
+https://files.dep.state.pa.us/RegionalResources/SERO/SEROPortalFiles/Community%20Info/Covanta/PA%2023-
+0004B%20Covanta%20Delaware%20Valley%20%2812-27-2023%29%20SIGNED.pdf (attached as Ex. 6).
+21 Id. at 2.
+22 Memorandum of Understanding Among the States of the Ozone Transport Commission to Pursue Additional
+Reductions of Oxides of Nitrogen Emissions from Municipal Waste Combustors (June 2, 2022),
+https://otcair.org/upload/Documents/Formal%20Actions/MOU22-
+01%20OTC_MWC_MOU_20220602%20final%20signed.pdf (attach. 33 to 2023 Comments).
+4
+on a 24-hour basis and 105 ppmvd on a 30-day basis are “likely achievable for most [LMWCs]
+in the [Ozone Transport Region].”23 In addition, unit 3 at the LMWC located in Honolulu,
+Hawaii appears to be subject to a 24-hour NOx limit of 110 ppm.24
+Other LMWCs have installed either Low NOx or ASNCR. EPA’s rulemaking docket lists
+20 units at 7 facilities in five states that are already equipped with Low NOx or ASNCR.25 For
+example, the Montgomery County Resource Recovery facility in Maryland has been using “Low
+NOx” technology since 2009.26 The LMWC located in Baltimore City, meanwhile, was
+retrofitted with ASNCR between 2022 and 2023.27
+EPA originally set the deadline for this public comment period to July 16, 2025,28 and the
+undersigned have been requesting and collecting incinerator emissions data in accordance with
+that date. But on April 21, 2025, EPA published notice that it was shortening the comment
+period so that it would end on May 30, 2025 – a month and a half earlier than the original
+deadline, and just over a month after notice of the deadline change.29 The undersigned submit
+this data now in accordance with EPA’s change to the public comment period, but nevertheless
+reserve the right to submit any additional emissions data that is received from States (and any
+updates to the expert report based on that data) after May 30, 2025.
+23 Ozone Transport Commission, Municipal Waste Combustor Workgroup Report at 23 (Apr. 2022) (attach. 26 to
+2023 Comments).
+24 Covanta, Semi-Annual Excess Emissions and Monitoring Downtime Summary Report for Honolulu Resource
+Recovery Venture, Mass Burn Report Period: July 1 – December 31, 2024 at tbl.1 (pdf. p. 6) (Jan. 22, 2025)
+(attached as Ex. 7).
+25 Compliance Cost Analysis Memo, supra note 14, Tab A-1, Column I & Column CC.
+26 See EPA, Clean Air Excellence Award Recipients: Year 2014 at 1 (2015),
+https://www.epa.gov/sites/default/files/2015-06/documents/clean_air_excellence_award_recipients_year_2014.pdf
+[https://perma.cc/AG3N-CTJE] (“This project represents the first use of [Low NOx] design at any publicly owned
+waste-to-energy facility and has demonstrated a reduction of NOx emissions by approximately 50 percent from pre-
+installation levels.”)
+27 See, e.g., Jacob Wallace, Inside WIN Waste’s $45M upgrades to its Baltimore waste-to-energy facility, Waste
+Dive (July 24, 2023), https://www.wastedive.com/news/win-waste-baltimore-bresco-facility-incinerator-upgrades-
+2023/688522/ (attached as Ex. 8).
+28 See Standards of Performance for New Stationary Sources and Emission Guidelines for Existing Sources: Large
+Municipal Waste Combustors Voluntary Remand Response and 5-Year Review; Closing of Comment Period, 90
+Fed. Reg. 16663 (Apr. 21, 2025) (noting that the “comment period was reopened on January 16, 2025, for an
+additional 6 months.”).
+29 Id.
+5
+Sincerely,
+Jonathan Smith Leah Kelly
+Earthjustice Environmental Integrity Project
+jjsmith@earthjustice.org lkelly@environmentalintegrity.org
+Andrea Luna
+Policy Analyst
+East Yard Communities for Environmental Justice
+Hazel Appelwhite
+Chief Executive Officer
+Ironbound Community Corporation
+Jane Williams
+National Clean Air Team
+Sierra Club
+Shashawnda Campbell
+Environmental Justice Director
+South Baltimore Community Land Trust
+Julie MacNamara
+National Water Projects Coordinator
+Clean Water Action
+jmacnamara@cleanwater.org
+6

@@ -1,17 +1,23 @@
-**Student Voices Concerns Over Oil and Gas Leasing Program to Bureau of Ocean Energy Management**
+**Local Student Appeals to BOEM for Environmental Protection**
 
-Delmi Lipe, an undergraduate student at the University of California, Santa Barbara, has expressed profound concerns regarding the Bureau of Ocean Energy Management's proposed National Outer Continental Shelf Oil and Gas Leasing Program. In a recent letter addressed to the agency, Lipe highlighted the potential environmental ramifications of gas exploration and drilling on the Chumash Heritage National Marine Sanctuary situated off the coast.
+In a heartfelt letter addressed to the Bureau of Ocean Energy Management, Delmi Lipe, an undergraduate student at the University of California, Santa Barbara, has made a passionate appeal against proposed oil and gas leasing in the Chumash Heritage National Marine Sanctuary. Lipe urges the agency to reconsider its plans for gas exploration and drilling, emphasizing the detrimental impact these activities would have on the marine sanctuary that the local community has worked hard to protect.
 
-In her letter, Lipe, who is pursuing a degree in Environmental Studies and Spatial Analysis, emphasized her personal commitment to environmental stewardship. "With this in mind, I strongly urge the Bureau of Ocean Energy Management to reconsider its plans for gas exploration and drilling, as these activities would devastate a marine sanctuary that our local community has worked tirelessly to protect," she stated.
+"I honor the Chumash people—their elders, past, present, and future," Lipe wrote in her letter. "With this in mind, I strongly urge BOEM to reconsider its plans for gas exploration and drilling, as these activities would devastate a marine sanctuary that our local community has worked tirelessly to protect."
 
-Acknowledging the historical struggles of the Chumash people, Lipe underscored the sanctuary’s importance, not only as an ecological haven but also as a cultural and historical landmark. She remarked, "The proposed National Outer Continental Shelf Oil and Gas Leasing Program would have devastating consequences if implemented. Its impact on this sanctuary and the surrounding environment threatens not only the delicate balance of marine ecosystems but also the legacy of conservation efforts that our communities have worked tirelessly to uphold."
+The student highlighted the historical significance of the Chumash people, who have faced forced removal from their ancestral lands. Lipe noted the recent recognition of the sanctuary, which was officially acknowledged in 2024 after nearly 15 years of dedication from diverse stakeholders. "Beyond being a symbol of resilience, this area is home to rich forests, pristine beaches, coastal dunes, and wetlands that support a diverse array of marine life," she stated.
 
-Moreover, Lipe passionately connected her studies and experiences with the immediate environmental threats faced by her community. "From our sandy beaches, I can see the oil rigs looming off the coast," she wrote. "Even from miles away, their strong odor fills the air. I witness animals washed ashore, victims of environmental harm." She urged the agency to rethink its plans, stating, "I urge the Bureau of Ocean Energy Management to halt these plans or to seek a solution that truly balances the needs of both our community and yours."
+Lipe explained the area's ecological significance, emphasizing that the proposed Outer Continental Shelf Oil and Gas Leasing Program would threaten not only marine ecosystems but also the legacy of conservation efforts championed by community members. "The impact on this sanctuary and the surrounding environment threatens not only the delicate balance of marine ecosystems but also the legacy of conservation efforts that our communities have worked tirelessly to uphold," she wrote.
 
-The letter was sent to the Bureau of Ocean Energy Management on May 14, 2025. As a voice from the younger generation, Lipe hopes to inspire change for the future of marine life in her coastal community.
+Expressing a growing awareness of environmental challenges, Lipe shared her personal journey as an environmental steward. "I came to this university to become a steward of the environment, determined to protect it for future generations," she remarked. She recounted the stark reality of seeing oil rigs off the coast and the ecological disasters that these structures create. 
+
+In conclusion, Lipe urged BOEM to halt harmful plans or seek solutions that would benefit both the community and the environment. "This is the only path forward if we are to protect our oceans and the vital life they sustain," she wrote.
+
+The letter was sent on May 14, 2025, to the Bureau of Ocean Energy Management.
 
 
-INPUT: Delmi Lipe
+----------------INPUT:----------------
+
+ Delmi Lipe
 Comment Letter
 5/14/2025
 RE: Comments on BOEM-2025-0015 -Notice- Preparation of the 11th National Outer

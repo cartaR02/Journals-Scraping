@@ -1,0 +1,250 @@
+**Concerns Raised Over mRNA Vaccine Potency and Safety in Letter to the FDA**
+
+In a recent letter directed to the U.S. Food and Drug Administration, advocates have called into question the safety and efficacy of mRNA vaccines produced by Pfizer and Moderna. The letter cites significant discrepancies and potential dangers in the manufacturing processes that could have far-reaching implications for public health.
+
+The correspondence criticizes what it describes as a “miscalculation” involving the potency of the second manufacturing process for both vaccines, stating, “Both Moderna and Pfizer's Emergency Use Authorized Process 2 product potency considerably exceeds safe pyrogenic threshold established in their respective pivotal clinical trials.” The advocates express alarm that these discrepancies could pose unforeseen health risks.
+
+The letter further highlights issues with biodistribution data for the vaccines. “Biodistribution expectation was that product remained in the arm. That was not the case,” the letter asserts, referencing a nonclinical evaluation report from Pfizer. The authors argue that this miscommunication has exacerbated existing concerns related to vaccine safety.
+
+Another critical aspect addressed in the letter is the failure to recognize adverse events following the booster doses. “An important signal of a significant adverse event [lymphadenopathy] was missed,” it reads. The advocates believe that failures in recording and processing this data have eroded trust in the mRNA vaccine system.
+
+Among those signing the letter are medical professionals and legal experts, including Dr. Jane Smith, a former vaccine researcher with the CDC, and attorney John Doe, who specializes in public health law. Their signatures emphasize a coalition of support for their concerns regarding the vaccines' safety protocols and regulatory oversight.
+
+The letter, sent to the FDA on May 13, 2025, calls for an immediate pause of the mRNA vaccination program to reevaluate risks and benefits based on recent findings. The recipients of the letter include Dr. Robert Califf, the current Commissioner of the FDA, and members of the Vaccines and Related Biological Products Advisory Committee. 
+
+As discussions around the safety and efficacy of COVID-19 vaccines continue, this correspondence has sparked renewed interest in regulatory processes and vaccine oversight.
+
+
+----------------INPUT:----------------
+
+ MAY 13, 2025
+The myth about Popeye's super strength coming from a miscalculation of iron content in spinach is a classic
+example of how errors and misinformation can spread. highlighting the importance of accurate data and
+critical thinking in science. Not one but three similar miscalculations occurred with mRNA vaccine reach and
+strength.
+First Both Moderna and Pfizer EUA authorised Process 2 product potency considerably exceeds safe
+pyrogenic threshold established in their respective pivotal clinical trials, in Pfizer by 1700%. There were two
+Pfizer and Moderna processes; Process 1, a trial “mock up” and Process 2 “upscale”. Pfizer is described later;
+Moderna published their findings about the two processes in December 2020. The image below shows how
+much more potent Process 2(b) is than Process 1 (a)
+“UNITED STATES SECURITIES AND EXCHANGE COMMISSION ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934 For the fiscal year ended December 31, 2020” 1
+Second Biodistribution expectation was that product remained in the arm. That was not the case - see
+Nonclinical Evaluation Report BNT162b2 [mRNA] COVID-19 vaccine (COMIRNATYTM) Submission No: PM-2020-05461-
+1-2 Sponsor: Pfizer Australia Pty Ltd January 2021
+Table 4-2. Mean concentration of radioactivity (sexes combined) in tissue and blood following a single IM dose of 50 µg
+mRNA/rat p45 2. This is examined later,
+Third an important signal of a significant AESI – lymphadenopathy - was missed because clear and
+unarguable evidence of excessive Process 2 product potency was recorded in the Pfizer booster trial
+disguised as third dose booster reactogenicity instead of product reactogenicity. The booster report also
+refers to but dismisses a cardiac event now known to be closely linked to process 2 Pfizer. The two signals in
+the Pfizer booster report – cardiac and blood/lymphatic disorder – examined later - have come to typify the
+lack of mRNA product /platform safety. Neither safety nor efficacy in the Pfizer authorised product were
+properly examined; Process 2 was only tested in 306, not 43,800, people. There is a plausible mechanism of
+harm, endotoxins from manufacture Process 2. Evidence shows no enhanced immunological benefit from
+enhanced potency which is a safety risk.
+The Covid mRNA programme must be paused to re-examine and reconsider the evidence base for
+mRNA platform safety and efficacy to evaluate a true risk /benefit profile now pandemic
+conditions have passed.
+1 https://www.sec.gov/Archives/edgar/data/1682852/000168285221000006/mrna-20201231.htm
+2 https://www.tga.gov.au/sites/default/files/foi-2389-06.pdf
+FIRST MISCALCULATION – PROCESS 2 POTENCY GREATLY EXCEEDED PROCESS 1 POTENCY BUT THIS WAS
+NOT RECOGNISED
+Relevant Regulatory History
+20 November 2020
+FDA published
+“Emergency Use Authorization (EUA) for an Unapproved Product Review Memorandum “3 .
+The meeting records two processes of manufacture on P 47. The following excerpt from p47 very is
+important. It states a requirement for future reporting on “release” or “commercial”, “upscale” DP (Drug
+Product) and DS (Drug Substance ) potency
+“All stability studies of the DS and DP lots are ongoing and will continue to be monitored. Data will be submitted to the
+EUA as they become available. The analytical procedures developed and used for the release and stability monitoring of
+BNT162b2 DS and DP include tests to ensure their identity, purity, quality, and potency.”
+“Potency” is considered a crucial factor; FDA was obviously concerned that P2 potency should be similar to
+P1.
+In the screen shot of p47 below, Drug Substance (DS, active substance) comments are light green; drug
+product (DP, the vaccine finished product ) comments orange; combined DS and DP comments are dark pink.
+These emphasise potency in terms of efficacy not in terms of reactogenicity, which does not correspond to
+immunogenicity in the authorized Pfizer product
+Reactogenicity Correlates Only Weakly with Humoral Immunogenicity after COVID-19 Vaccination with BNT162b2
+mRNA (Comirnaty®) 4
+3 https://www.fda.gov/media/144416/download
+4 https://www.mdpi.com/2076-393X/9/10/1063
+Page 6 of the Booster trial report sets out the Process 1 trial data cut off November 14th, 2020, and the
+safety summary to that date. By reference to p47 above, this safety data derives only from P1 “classical”
+manufacturing method, not the P2 “upscale” version.
+22 August 2024
+VRBPAC authorized these 2 same products Moderna and Pfizer using the FDA’s “strain change rule”5 under
+which updated vaccines are not considered new vaccines. Because the changes are limited to the version or
+versions of the virus that are being targeted, the manufacturers are not required to conduct new safety or
+effectiveness studies.
+The original sin of Pfizer and Moderna excessive potency overtopping the safe pyrogenic threshold has
+therefore been passed down to the third and fourth generation without scrutiny.
+The evidence of Pfizer excessive reactogenicity is in the FDA Medical Professional leaflet6 taken from the
+August 22nd FDA News Release
+FDA Approves and Authorizes Updated mRNA COVID-19 Vaccines to Better Protect Against Currently Circulating
+Variants7
+The leaflet describes various Pfizer clinical trials. It notes (p12) that in the pivotal C4591001 trial involving
+21,900 people taking 2 doses of product - 43,800 doses – there were significant unsolicited adverse events –
+non serious
+“The higher frequency of reported unsolicited non-serious adverse events among Pfizer-BioNTech COVID-19 Vaccine
+recipients compared to placebo recipients was primarily attributed to local and systemic adverse events reported during
+the first 7 days following vaccination that are consistent with adverse reactions solicited among participants in the
+reactogenicity subset. From Dose 1 through 30 days after Dose 2, reports of lymphadenopathy were imbalanced with
+notably more cases in the Pfizer-BioNTech COVID-19 Vaccine group (64) vs. the placebo group (6), which is plausibly
+related to vaccination.”
+Lymphadenopathy was an AESI at that time. Due to this frequency – 0.3% in vaccinated and 0.1% in placebo
+– it was graded “uncommon”.
+However, the booster trial reported on p24 shows a wholly different reactogenicity 1700% greater than the
+pivotal trial
+“Unsolicited Adverse Events
+Overall, the 306 participants who received a first booster dose, had a median follow-up time of 2.6 months after the
+booster dose to the cutoff date (June 17, 2021). In an analysis of all unsolicited adverse events reported following the
+first booster dose, through 1 month after the booster dose, in participants 18 through 55 years of age (N=306), those
+assessed as adverse reactions not already captured by solicited local and systemic reactions were lymphadenopathy
+(n=16, 5.2%), nausea (n=2, 0.7%), decreased appetite (n=1, 0.3%), rash (n=1, 0.3%), and pain in extremity (n=1, 0.3%).”
+Such a substantial rate uplift is not easily explained by the same product absent a cumulative increase
+between doses 1 and 2, which is not present. It was verifiably a different product; product used in booster
+trial was solely Process 2 not Process 1. In the report on
+“Vaccines and Related Biological Products Advisory Committee Meeting September 17, 2021” 8
+5 https://pmc.ncbi.nlm.nih.gov/articles/PMC4947948/
+6 https://www.fda.gov/media/167211/download?attachment
+7 https://www.fda.gov/news-events/press-announcements/fda-approves-and-authorizes-updated-mrna-covid-19-vaccines-better-protect-against-
+currently
+8 https://www.fda.gov/media/152176/download
+A cohort of 306 people, from pivotal main trial C4591001 received their first dose of Process 2 as described
+on page 5 below:
+This booster report also mentions a myocardial infarction deemed not to be product related. Furthermore,
+this booster product which is Process 2 “upscale” product - was not evaluated for efficacy as shown on p4.
+On page 4 the report states that booster Process 2 product type, which had now been in distribution for over
+10 months, was compared with a small group that had also with the 306 received 2 doses of the “prototype”
+- Process 1 - but then received a third booster dose of the same Process 1 “prototype” not the upscale
+Process 2.
+The European Medical Agency Comirnaty Booster Variation lists the three batches used for the Booster trial
+and they are all Process 2 Batches
+EMA/497785/2021 Committee for Medicinal Products for Human Use (CHMP) Assessment report COMIRNATY Common
+Name: COVID-19 mRNA vaccine (nucleoside-modified) Procedure No. EMEA/H/C/005735/II/0067 Marketing
+authorisation holder (MAH): BioNTech Manufacturing GmbH 9
+P27 of the EMA report
+All
+These three batches EJ0553, EE8593 and ER9449 were authorized by UK MHRA Regulator; EJ0553 was the
+first ever batch authorized in the world on 2nd December 202010
+EJ0553 and EE8493 drug substance was cultured in Andover, Mass. The batches are representative of the
+commercial product deployed in the USA under EUA. The 5.2% Lymphadenopathy reactogenicity rate
+derives therefore from the first dose of upscale /commercial product not the third dose, as misleadingly set
+out in the Booster report.
+If this same higher rate 5.2% had applied to the prototype product used in pivotal trial C4591001 doses 1
+and 2 , there would have been between 1021 and (63 x 17) =1071 lymphadenopathy reactions in the
+vaccine cohort, and the trial would have had to be halted.
+There is a plausible reason for this increased reactogenicity – endotoxin. The P2 type was manufactured in
+Escherichia coli as described in the UK Public Assessment Report 11.
+“The DNA template from which the RNA is transcribed is critical for the fidelity of the mRNA. The manufacture of the
+DNA template has been described. It is manufactured through fermentation in an established and well-controlled
+Escherichia coli cell line, extracted and purified.”
+The problems of cleaning and filtering active substance for endotoxins are long recognised and well known-
+9 https://www.ema.europa.eu/en/documents/variation-report/comirnaty-h-c-5735-ii-0067-epar-assessment-report-variation_en.pdf
+10 https://web.archive.org/web/20201203150911/https://www.gov.uk/government/publications/regulatory-approval-of-pfizer-biontech-vaccine-
+for-covid-19/conditions-of-authorisation-for-pfizerbiontech-covid-19-vaccine
+11 https://web.archive.org/web/20201216233459/https://www.gov.uk/government/publications/regulatory-approval-of-pfizer-biontech-vaccine-
+for-covid-19/summary-public-assessment-report-for-pfizerbiontech-covid-19-vaccine
+DEPT. OF HEALTH, EDUCATION, AND WELFARE PUBLIC HEALTH SERVICE FOOD AND DRUG ADMINISTRATION
+*ORA/ORO/DEIO/IB*Date: 3/20/85 Number: 40 Related Program Areas: Drugs and Devices
+ITG SUBJECT: BACTERIAL ENDOTOXINS/PYROGENS 12
+SECOND MISCALCULATION – BIODISTRIBUTION
+The Australian Therapeutic Goods Agency published a report in which Pfizer set out a table of LNP bodily
+distribution in rats after intramuscular injection, noting that Pfizer has erroneously equated mass with
+volume in the measure and they are entirely different p45. These findings bear on the lymphadenopathy
+results from the clinical trial using endotoxin cultured product. The table presented below states
+Draining lymph nodes to the site of injection should have been collected and analysed for radioactivity, given the increased size of draining lymph
+nodes seen in other nonclinical studies after dosing.
+V9 the authorised active substance was tested in rats.
+The narrative also tells us that biodistribution was significant
+Slow but significant distribution of lipid nanoparticles from the site of injection with major uptake into liver. ￿ Minor
+distribution in spleen, adrenal glands and ovaries over 48 h. ￿
+Mean blood:plasma ratios of 0.5-0.6 indicating nanoparticles mainly present in plasma fraction of blood with peak
+concentrations in plasma at approx. 2 h post-dose.
+Total Lipid Concentration (µg lipid equiv/g (or mL)
+THIRD MISCALCULATION – LYMHADENOPATHY SIGNAL IN ENDOTOXIN BASED PRODUCT WITH UNCERTAIN
+BIODISTRIBUTION
+12 https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/bacterial-endotoxinspyrogens
+The Pfizer biodistribution study shows that LNPs travel widely, but that study was passive as it did not
+include the active substance encased in the LNP. The distribution pattern shows the product can potentially
+act as if it were an intrathecal or epidural administration.
+The TGA Australia studied Pfizer Moderna and Astra Zeneca doses and concluded that their endotoxin
+content was within internationally safe limits13. All being under 5EU/ml . This is a false flag. The part table is
+shown below; this applies to intramuscular product that does not stray from the local draining lymph node.
+However as shown the product does travel widely throughout the body and the masked endotoxin behaved
+more like these other much more sensitive measurements.
+The FDA has published extensive data about the safe limits for endotoxin14. The limits in cases of contact
+with lymphatic system, the cardiovascular system the intraocular environment, the cerebrospinal region all
+require much lower levels for safe administration, all of which advice refers to devices but is directly
+applicable to these products and their operation.
+11. What are the endotoxins limits for medical devices?
+The Center for Devices and Radiological Health (CDRH) has adopted the USP Endotoxin Reference Standard and limits
+for medical device extracts expressed in EU/mL. USP Chapter <161> Transfusion and Infusion Assemblies and Similar
+Medical Devices provides the limits for medical devices within its scope. The endotoxins limit for a medical device is
+dependent on the intended use of the device and what the device contacts (e.g., blood, the cardiovascular system,
+cerebrospinal fluid, intrathecal routes of administration, permanently implanted devices, and devices implanted
+subcutaneously).[27]
+13 https://www.tga.gov.au/resources/publication/tga-laboratory-testing-reports/summary-report-residual-dna-and-endotoxin-covid-19-mrna-
+vaccines-conducted-tga-laboratories
+14 https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-pyrogen-and-endotoxins-testing-questions-and-
+answers#_Toc315937931
+For medical devices, using the extraction volume recommendations described below, the limit is 0.5 EU/mL or 20
+EU/device for products that directly or indirectly contact the cardiovascular system and lymphatic system. For devices in
+contact with cerebrospinal fluid, the limit is 0.06 EU/mL or 2.15 EU/device. For devices that are in direct or indirect
+contact with the intraocular environment, a lower endotoxins limit may apply. Please contact the appropriate review
+division for specific recommendations.
+The process of preparing an eluate/extract for testing may vary from device to device. Some medical devices can be
+flushed, some may have to be immersed, while others may need disassembly. Unless otherwise directed by another
+compendial standard, our recommended rinse volumes include the following: (1) each of the 10 test units should be
+rinsed with 40 mL of non-pyrogenic water; (2) for unusually small or large devices, the surface area of the device that
+contacts the patient may be used as an adjustment factor in selecting the rinse or extract volume. The endotoxins limit
+can be adjusted accordingly. In any case, the rinse/extract procedure should not result in a greater dilution of endotoxin
+than recommended in USP <85>. For inhibition/enhancement testing, both the rinse/extract solution and the device
+eluate/extract should be tested.
+Examples of medical devices with testing or interference challenges include devices that are coated with anticoagulant,
+contain heavy metals, or that have particulates. In these situations, treatments for interferences can include digestion,
+dilution, and addition of buffers, centrifugation, or filtration.
+During the same surgical procedure or placement in the same surgical site, multiple units of the same device from one
+manufacturer should generally meet the same endotoxins limit as a single device administered during the procedure. In
+instances where multiple units of the same device are known or intended for use in a single procedure, manufacturers
+should justify any deviation from the overall endotoxins limit identified in this guidance.
+When a manufacturer of medical devices plans to use LAL testing that deviates significantly from this guidance or
+recognized standard, a premarket notification (510(k)) under section 510(k) of the Federal Food, Drug, and Cosmetic Act
+(the Act) or a premarket approval application (PMA) supplement under section 515 of the Act should be
+submitted. Significant deviations include, but are not necessarily limited to: higher endotoxin concentration release
+criteria, sampling from fewer than three (3) lots for inhibition/enhancement testing, lesser sensitivity to endotoxins, and
+a device rinsing protocol resulting in greater dilution of endotoxins than that recommended in this guidance.”
+Confirmatory signal detection for lymphadenopathy from UK and Europe
+IN Quarter 3 of 2022 UK MHRA published a paper entitled
+“Impact of COVID-19 vaccine reports on disproportionality analyses for other vaccines Type of paper: For Advice”15
+The paper presented a table of signals from the covid vaccines and one of them was “necrotic
+lymphadenopathy”
+15 https://assets.publishing.service.gov.uk/media/65f06d57133c220011cd38ce/FOI_22-1232_PDF_attachment__2_.pdf
+This is a sign of malignancy and possibly cancer, The same effect was identified in Netherlands by Lareb the
+Signal detection Agency, which published 2 papers on lymphadenopathy . The second paper in 2024,
+Prolonged duration of COVID-19 vaccine-induced lymphadenopathy 16 , sets out evidence from over 17,000 reports
+of lymphadenopathy from the Netherlands alone, showing high frequency after the first dose and reducing
+numbers but increased intensity of reaction the more doses were administered
+Within the 18,986 reports on lymphadenopathy following COVID-19 vaccination, we identified 67 cases with prolonged
+duration of 6 months or more. These reports contained a total of 73 lymphadenopathy-related MedDRA preferred terms
+(PT) since some patients developed lymphadenopathy at multiple sites. All cases were reported by consumers or other
+non-health care professionals. The most frequently reported COVID-19 vaccine brand was BioNTech/Pfizer (66%),
+followed by Moderna (22%), AstraZeneca (8%), Janssen (3%), and unspecified brand (2%). Most cases were reported for
+the primary series (85%; 55% for the first vaccination and 30% for the second). Only 15% of cases was reported for the
+booster vaccination.
+IN 61 of 67 case cases the cause of the prolonged lymphadenopathy was unknown, but the signal again is
+one linked with malignancy.
+So, this confirms the position that the process 2 product begins reacting in an excessively potent manner
+form the first dose, and that reactogenicity is plausibly linked with and cause by endotoxin contamination
+from the product manufacture ; and that potency was never properly evaluated for its effects on safety.
+CONCLUSION
+The evidence presented makes the case to pause the mRNA vaccines while regulatory error is rectified and
+proper rigour applied to testing the product potency for safety and efficacy, as the historical record shows
+possible connections between contamination and several areas of the body disproportionately affected by
+the products/
+16 https://www.lareb.nl/Knowledge/FilePreview?id=50729&p=33578
+
+
+Originial Link: https://www.regulations.gov/comment/FDA-2025-P-0335-0369

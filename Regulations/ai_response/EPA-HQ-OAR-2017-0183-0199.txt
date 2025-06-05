@@ -1,0 +1,508 @@
+**WTEA Urges U.S. EPA to Retain Emission Standards for Acid Gases and Mercury**
+
+The Waste-to-Energy Association (WTEA) has sent a letter to the U.S. Environmental Protection Agency outlining the importance of maintaining alternative percentage standards for sulfur dioxide, hydrochloric acid, and mercury emissions from large municipal waste combustors. WTEA represents facilities across the nation that efficiently dispose of waste while generating renewable electricity.
+
+Thomas P. Hogan, president of WTEA, stated, "The proposed rule's rationale for eliminating these alternative percent standards is not persuasive. Our industry has safely disposed of over 30 million tons of municipal solid waste each year, while generating 2,500 MW of renewable electricity." He emphasized that the existing standards facilitate compliance with statutory requirements and bolster state flexibility in managing emissions.
+
+WTEA’s correspondence notes discrepancies in the EPA's reasoning for removing these standards. Hogan pointed out, "EPA has not provided sufficient rationale for eliminating such standards, which have been in place for over 34 years, under CAA section 129." He argued that its proposed shifts failed to acknowledge the variability in municipal solid waste and air pollution control technologies.
+
+Hogan contended that the elimination of alternative percentage standards could have adverse consequences for states. "A one-size-fits-all approach hinders states’ abilities to customize standards that align with their unique environmental and operational challenges," he remarked. WTEA believes that retaining these standards allows states the necessary latitude to structure emission controls effectively.
+
+WTEA has submitted multiple comments to the EPA, including data analyses demonstrating the effects of variability in waste streams on emissions. Hogan insisted, "Any final rule must recognize and account for the variability inherent in municipal solid waste, reflected in actual collected data."
+
+Additionally, the letter emphasizes that compliant emission standards must be based on actual conditions, as mandated by previous legislation. Hogan remarked, "The reliance on data that underestimates waste variability is troubling and undermines the intended protections of the Clean Air Act.”
+
+The letter was sent to Penny Lassiter, director of the Sector Policy and Programs Division at U.S. Environmental Protection Agency, on May 29, 2025. It also included correspondence to several other agency officials outlined in WTEA's ongoing commitment to addressing air quality concerns through collaborative regulatory efforts.
+
+
+----------------INPUT:----------------
+
+ May 29, 2025
+Penny Lassiter
+Director, Sector Policy and Programs Division
+Office of Air Quality Planning and Standards (OAQPS)
+U.S. Environmental ProtecJon Agency
+EPA Docket Center, Docket ID No. EPA-HQ-OAR-2017-0183
+1200 Pennsylvania Avenue NW
+Washington, DC 20460
+Re: Proposed Standards of Performance for Acid Gasses and Mercury for New Sta7onary
+Sources and Emission Guidelines for Exis7ng Sources: Large Municipal Waste Combustors,
+89 Fed. Reg. 4243 (Jan. 23, 2024); EPA–HQ–OAR–2017–0183
+The Waste-to-Energy AssociaJon (“WTEA” or “we”) appreciates the opportunity to comment on this
+regulatory proposal (the “proposal” or “proposed rule”). WTEA is a naJonal trade organizaJon
+represenJng municipal organizaJons and partnering companies with waste-to-energy (“WTE”) faciliJes
+across the United States. Our members own and operate the vast majority of the modern Large
+Municipal Waste Combustors (“LMWCs”). WTE faciliJes naJonwide safely dispose of over 30 million tons
+of municipal solid waste (“MSW”) each year, while generaJng 2,500 MW of renewable electricity using
+modern combusJon technology equipped with state-of-the-art emission control systems.
+In response to the U.S. EPA’s recommendaJon to provide informaJon in advance of the May 30, 2025
+comment deadline, we have provided our comments and data over several submi`als to ensure that the
+agency has sufficient Jme to consider the informaJon in depth.
+Our first submi`al, dated May 13, 2025, addressed the proposed emission standard for nitrogen oxides
+(“NOx”); this submi`al provides comment on the removal of the exisJng percent removal standards for
+sulfur dioxide (“SO ”), hydrochloric acid (“HCl”) and mercury (“Hg”). Specifically, we address the need to
+2
+retain the exisJng alternaJve percent reducJon standards (“percent reducJon standards” or “alternaJve
+percent standards”) as a reasonable and necessary pathway to address municipal solid waste (feedstock)
+and air polluJon control device (“APCD”) variability while ensuring compliance with CAA secJon 129 SO
+2
+and HCl standards and providing for a more flexible pathway for the states. Such an approach will allow
+states to retain more control of standards development in line with their state implementaJon plans and
+adherence with naJonal ambient air quality standards, avoiding a one-size-fits-all approach that is not
+required in all areas of the country.
+I. EPA’s Basis for EliminaJng Percent ReducJon Standards is Not Supported in the Statute, the
+AdministraJve Record for this Rulemaking and is Inherently Flawed
+In the proposed rule, the EPA offered several raJonales for removal of alternaJve percent standards.
+First, EPA claimed that there is a relaJve lack of data for SO andHCl emissions associated with
+2
+5600 Connec*cut Ave., NW
+202-244-2114 www.wte.org
+Washington, DC 20015
+DCACTIVE-80272972.1
+-2-
+alternaJve percent standards as compared with “the vast amount of pollutant concentraJon data
+reported and compiled in the emissions database” used for the rulemaking.1 Based on this difference in
+the quan%ty of data, EPA claimed that retaining alternaJve percent standards “could introduce a
+disconnect between the numeric reevaluated limits and the alternaJve percent reducJon standards.”2
+Second, EPA asserted that having a numeric concentraJon limit without an alternaJve percent standard
+would provide a “level playing field for the environmental protecJon and health of the surrounding
+communiJes.”3 Finally, and without further arJculaJon as to its raJonale, EPA noted that the percent
+reducJon standards were originally promulgated pursuant to CAA secJon 111 prior to the enactment of
+the 1990 Clean Air Act Amendments and the enactment of CAA secJon 129.4
+None of these raJonales to eliminate alternaJve percent standards are persuasive. EPA has full authority
+under CAA secJon 129 to conJnue percent standards that have been in place for over 34 years and has
+not provided a sufficient raJonale for eliminaJng such standards. Moreover, as explained in more detail
+below, CAA secJon 129 standards must be based on “achieved” levels and be “achievable” necessitaJng
+percent standards to account for known variability in municipal waste and APCD operaJon.
+EPA’s raJonale that an alternaJve percent standard is not protecJve is both speculaJve and
+unsupported in the analysis accompanying the proposed rule. EPA’s task in this rulemaking is to
+“assess[ ] the performance efficiency of the installed equipment and ensure[ ] that the emission limits
+reflect the performance of the technologies that sources are using to comply with [Maximum Achievable
+Control Technology] standards.5 Thus, at a fundamental level, EPA’s statutory direcJve is to focus on
+available technology rather than emissions from this source category (standing alone and not in
+comparison to other sources of air polluJon) to be more or less protecJve of the ambient
+concentraJons of SO and HCl.
+2
+Finally, whether or not alternaJve percent standards were proposed under the authority of CAA secJon
+111 is immaterial to this proposed rule given that CAA secJon 129(a)(5) provides that the 5-year
+required review of exisJng standards shall be undertaken in accordance with CAA secJon 129 and CAA
+secJon 111. Our more detailed comments concerning these perspecJves follows.
+II. Consistent with its precedent under the CAA for percent removal standards, EPA Should Retain
+AlternaJve Percent Standards for SO and HCl to reflect the variability in Municipal Solid
+2
+Waste (MSW), restrain its rulemaking to the authority granted in the CAA, and preserve state
+flexibility.
+A. AlternaJve Percent Standards Are Based on “Achieved” and “Achievable” Emission
+LimitaJons; RelaJve Availability of Data Cannot Override EPA’s Statutory DuJes
+i. Plain Language of Statue Supports AlternaJve Percent Standards
+1 89 Fed. Reg. at 4255-6.
+2 Id. at 4256.
+3 Id.
+4 Id. at 4255.
+5 89 Fed. Reg. at 4250.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-3-
+The proposed rule is the result of EPA’s reevaluaJon of maximum achievable control technology
+(“MACT”) standards originally promulgated in 1995 and the 5-year review of these standards as required
+by CAA secJon 129(a)(5). The former statutory duty centers on the “maximum degree of reducJon in
+emissions of air pollutants listed under [subsecJon] (a)(4)” which includes standards for SO and HCl.
+2
+MACT standards are to take into consideraJon cost and other factors and for exisJng units “shall not be
+less stringent than the average emission limitaJon achieved by the best performing 12 percent of units
+[excluding certain units].”6 In addiJon, for exisJng units, these performance standards are required to
+include state guidelines “promulgated pursuant to secJon 111(d) and this secJon.”7
+EPA cannot arbitrarily exclude percent reducJon data simply because it did not collect the data or even
+seek to obtain this data given alternaJve percent removal was an integral part of current acid gas
+emission limits. Rather, under the statutory authority being exerted in the proposed rule, EPA must
+consider all available data to determine the “best performing” units. And for purposes of calculaJng CAA
+secJon 129 standards, EPA must follow a technologically-based process and fully consider that the
+primary polluJon controls for removal of acid gases which operate and are engineered on a percent
+removal basis. Acid gas removal capability is limited by many potenJal factors such as lime slaking
+capacity, SDA (or reactor) operaJng temperature, lime slurry delivery system hydraulic limitaJons (slurry
+pump capacity, supply line sizing to SDA, etc.), design flue gas residence Jme in SDA, operaJng
+temperatures in the SDA and basic chemical kineJcs. The potenJal costs and operaJonal changes to acid
+gas removal systems that would be required to meet the proposed limits cannot be ascertained without
+understanding what acid gas removal must be achieved.
+Based on a plain reading of the statute as required by Loper Bright Enterprises v. Raimondo,8 EPA also not
+only should, but must retain, percentage standards whether as an alternaJve or primary standard.
+Specifically, percentage-based standards are directly correlated to statutory requirements to set
+standards based on the “maximum degree of reduc%on” actually achieved.9 “Degree” is defined as “a
+step or stage in a process, course, or order of classificaJon” and “the extent, measure, or scope of
+acJon, condiJon, or relaJon.”10 Thus, a percentage standard as a relaJve value to weight or volume –
+versus a staJc measure of concentraJon in parts per million by volume – is more closely aligned with the
+statutory language of CAA secJon 129 and common understanding of a “degree of reducJon.”11
+In addiJon, during the 5-year review process provided in CAA secJon 129(a)(5), EPA is required not only
+to review and revise standards in accordance with CAA secJon 129, but also CAA secJon 111. Pursuant
+to CAA secJon 111, for exisJng sources, EPA is to promulgate guidelines for states to implement
+standards of performance which are standards “for emissions of air pollutants which reflect[ ] the degree
+of emission limita%on achievable through the applica%on of the best system of emission reduc%on which
+6 CAA sec*on 129(a)(2).
+7 CAA sec*on 129(b)(1)
+8 144 S. Ct. 2244 (2024).
+9 CAA sec*on 129(a)(2) (emphasis added).
+10 See www.meririam-webster.com/dic*onary/numeric, last accessed 05/21/2025.
+11 A “degree of reduc*on” connotes a rela*ve measure, it is inherently determined with reference to some other
+value. Within the context of CAA sec*on 129 as providing new authority to EPA to address MWCs, a “degree of
+reduc*on” may be interpreted as referencing emissions from a previously uncontrolled state and thereby achieving
+a percent reduc*on as compared with such emission levels.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-4-
+(taking into account the cost of achieving such reducJon and any non-air quality health and
+environmental impact and energy requirements) the Administrator determines has been adequately
+demonstrated.”12 Thus, the statute again speaks to the degree of reducJon that is “achievable” and
+reducJons that have been “demonstrated.” Such relaJvisJc language aligns with percentage standards,
+parJcularly where the available control technology is designed to remove a percentage of the target
+emissions passing through the device and not a staJc concentraJon level disassociated with the level of
+the air pollutant contained in the waste stream.
+Finally, EPA’s originally proposed and finalized percent standards for SO and HCl emissions are based on
+2
+the Agency’s assessment that such standards provided the best measure of the performance of available
+emission control systems.13 EPA has not provided any documentaJon within the administraJve record
+for this rulemaking that contradicts this assessment. AddiJonally, EPA has not explained why alternaJve
+percent standards are either at variance or inconsistent with its statutory duJes under CAA secJons
+129/111. A regulatory agency may change its opinions and assessments of statutory authority and
+resulJng rules but must provide a “reasoned explanaJon” for its departure from prior determinaJons
+that is grounded in the statute.14 EPA’s reluctance to propose retenJon of alternaJve percent standards
+appears to be based on non-statutory factors and consideraJons that fall short of this standard.
+ii. AlternaJve Percent Standards Address Documented Variability in the LMWC Waste
+Stream
+The emission of both SO and HCl are driven by the content of the waste received, and during normal
+2
+operaJons, spikes in the inlet concentraJons of both sulfur and chlorides can occur. Even with the best
+equipment, increasing inlet concentraJons mean that a short-term increase in associated emissions of
+SO and HCl will result. In such condiJons, mandaJng a concentraJon-based standard as the only opJon
+2
+for compliance would result in imposing a standard that is not achievable, as required by the CAA secJon
+129.
+As noted above, EPA’s consideraJon of percentage-based reducJon standards for SO and HCl date back
+2
+to the 1989, when EPA proposed emission guidelines and standards of performance for municipal waste
+combustors.15 In both the proposed rule and the emission guidelines, EPA specifically addressed the
+issue of percent reducJon standards for acid gases (SO and HCl) staJng that “[a] percent reducJon
+2
+standard was selected because it is the most accurate and representaJve measure of the performance of
+acid gas control systems.”16 EPA further determined that in instances where low inlet concentraJons of
+these acid gasses exist, limits would require either a percent reducJon or an outlet concentraJon level
+be uJlized.17
+12 CAA sec*on 111(a). It should also be noted here that states in implemen*ng such guidelines must be allowed to
+“take into considera*on, among other factors, the remaining useful life of the exis*ng source to which such
+standards apply.” CAA sec*on 111(d)(1) (emphasis added).
+13 54 Fed. Reg. 522251, 52274 (Dec. 20, 1989). Concentra*on standards were proposed for cases where inlet
+concentra*ons of SO and HCl were very low and thus percentage reduc*ons would not be “achievable.” Id.
+2
+14 Department of Commerce et al., v. New York, 138 S.Ct. 2551 (2019).
+15 54 Fed. Reg. 52209 (Dec. 20, 1998); 54 Fed. Reg. 52251 (Dec. 20, 1998).
+16 54 Fed. Reg. at 52233, 52274.
+17 Id.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-5-
+In the final 1991 new source performance standards (“NSPS”) rule for MWCs,18 EPA recognized the
+inherent variability in the waste stream and the direct associaJon between this variability and the form
+of the standards that were appropriate for MWCs. Specifically, EPA stated that “due to short term
+variability in inlet SO levels and other factors, both lower and higher percent reducJons are observed
+2
+on an hourly or daily basis. Since performance standards apply at all Jmes and the SO provisions
+2
+require use of CEMS to determine compliance on a conJnuous basis, allowance must be made for this
+unavoidable short-term variability.”19
+In our prior comments on the current proposed rule, we evaluated the variability of inlet HCl and Hg
+emissions from WTEA member Reworld LMWCs for the period 2000-2008 for comparison to EPA’s 1990-
+1995 uncontrolled emissions for the top 12% of units selected by EPA and adjusted to reflect 1990 –
+1995 performance. The purpose of this comparison was to demonstrate that EPA’s assumpJons that
+informed its proposal significantly understated the variability inherent in municipal solid waste. In fact,
+the data showed that the efficacy in the APCD was heavily influenced, if not driven, by the EPA’s
+drasJcally low assumpJons for the amount of HCl, SO , and Hg inherent in the MSW that required
+2
+control. With the addiJonal Jme afforded by the EPA’s reopening of the comment period on its proposal,
+we assembled actual 1990-1995 inlet HCl and Hg data for LWMCs extracted from available test reports
+and/or test summaries. As demonstrated in Figures 1 and 2 below, the 1990-1995 data were even more
+variable than that from Reworld faciliJes in 2000 – 2008, confirming that the inlet data EPA relied on for
+the proposed rule significantly understates waste variability.
+18 56 Fed. Reg. 5488 (Feb. 11, 1991).
+19 Id. at 5500.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-6-
+Figure 1. Comparison of EPA’s uncontrolled Hg emissions for the Top 12% with the extent and
+variability of measured inlet Hg addressed by LWMC faciliJes
+Figure 2. Comparison of EPA’s uncontrolled HCl emissions for the Top 12% with the extent and
+variability of measured inlet HCl addressed by LWMC faciliJes
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+dellortnocnU
+/
+telnI
+)mcsd
+/
+gμ(
+noitartnecnoC
+yrucreM
+700
+600
+500
+400
+300
+200
+100
+0
+Reworld Hg Inlet, 2000 -2008 EPA 1990 -1995 Uncontrolled, top 12% Actual HCl Inlet, 1990-1995
+lCH
+dellortnocnU
+/
+telnI
+)vdmpp(
+noitartnecnoC
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+Reworld HCl Inlet, 2000 -2008 EPA 1990 -1995 Uncontrolled, top 12% Actual HCl Inlet, 1990-1995
+-7-
+In any final rule, EPA must recognize and account for the variability in MSW reflected in the actual data
+collected from 1990-1995. First, as noted above, iniJal standards for MWCs promulgated by EPA in
+accordance with CAA secJon 129 must be “achievable.” Also, pursuant to CAA secJon 129(a)(2), EPA
+must take into consideraJon cost and “any non-air quality health and environmental impacts” during the
+determinaJon of whether standards are “achievable for new or exisJng units.” ConsideraJon of waste
+stream variability is central to the issue of whether standards are “achievable,” and the waste stream
+addressed by LMWCs obviously has a direct impact on the environment by reducing the need for landfill
+space and lowering overall emissions. This is especially true of the air polluJon control systems available
+for Hg and acid gas control, which are designed and guaranteed on the basis of removal. Their ability to
+achieve an absolute standard is driven directly by the concentraJon of the pollutant in the underlying
+MSW, which is not under the control of the operator and no less importantly by physical and operaJonal
+limitaJons of the acid gas removal systems.
+Second, standards for exisJng units must be based on the “average emissions limitaJon achieved by the
+best performing 12 percent of units.” This means that EPA must promulgate standards that address
+variability in the waste stream that directly impact emissions. Emissions from MWCs inevitably fluctuate
+based on numerous factors occurring over days or longer periods of Jme when consumer products and
+habits change. AddiJonally, LMWC operators must account for EPA’s household hazardous waste
+exclusion when managing MSW receipts20. These condiJons dictate standards that are able to
+accommodate and adjust for such fluctuaJons, a fact that EPA has recognized at least in 1991 when it
+first promulgated percent standards for SO2 and HCl.
+Finally, during the 5-year review required by CAA secJon 129(a)(5) and addressed in the proposed rule,
+standards must be promulgated in accordance with both CAA secJon 129 and 111, meaning that the
+same statutory factors cited above for iniJal standards apply as well as the statutory provisions of CAA
+111 which also require that standards be “achievable.”21 Standards which preclude consideraJon of the
+variability of the waste stream would therefore be at variance with both the standard-senng provisions
+of CAA 129 and 111 as well as be arbitrary and capricious for ignoring a relevant factor in exerJng its
+statutory authority.22
+B. EPA Relied on Non-Statutory Factors When Proposing EliminaJon of AlternaJve Percent
+Standards
+In the proposed rule, EPA states that the current percent reducJon standards for acid gases are no
+longer appropriate based, in part, on the need for “a level playing field for environmental protecJon and
+health of the surrounding communiJes by prevenJng situaJons where a different concentraJon of
+pollutants is emi`ed from facility to facility or unit to unit.”23 Without providing any supporJng data, EPA
+indicates that a “single pollutant concentraJon limit is the most protecJve of the environment and
+human health for all communiJes where MWCs operate.”24 EPA also fails to demonstrate the converse,
+20 40 CFR Part 261.4(b).
+21 CAA sec*on 111(a)(1).
+22 Motor Vehicles Manufacturers AssociaAon of the U.S. v. State Farm Mutual Automobile Insurance Co. , 463 U.S.
+12, 42-43 (1983).
+23 89 Fed. Reg. at 4256.
+24 Id.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-8-
+that percent removal standards are not protecJve, especially over longer averaging periods that are
+more directly Jed to environment and human health.
+EPA’s underlying presumpJon in proposing a “single pollutant concentraJon limit” appears to be that
+any incremental reducJons of SO and HCl, if indeed they occur, are both needed for protecJon of
+2
+human health and the environment and are supported by EPA’s CAA secJon 129 legal authority.
+However, this presumpJon is highly flawed on both a legal and factual basis. First, within the proposed
+rule, EPA does not define what level of protecJon is actually needed or required pursuant to CAA secJon
+129. Thus, EPA has no basis to conclude that it has unrestrained authority to set any standards on the
+basis that they may have some impact human health or the environment.25
+Second, EPA’s arJculaJon of the basis of its proposed SO and HCl standards is unsupported within the
+2
+CAA under the legislaJve authority delegated to the agency. Taking EPA’s logic to the extreme (i.e., that
+lower emissions are inherently be`er or more protecJve and thus authorized by the CAA), an SO or HCl
+2
+emission limit of zero would be the “most protecJve of the environment and human health” because it
+would totally eliminate such emissions from MWCs, or any other source of air polluJon regulated by the
+EPA. But EPA does not have such authority based on the provisions of CAA 129 requiring “achieved” and
+“achievable” emission reducJons, much less overarching authority to shut down sources.
+In other, but related, contexts, EPA has disclaimed that such expansive authority exists within the CAA.
+With regard to naJonal ambient air quality standards (“NAAQS”), the standard-senng provisions require
+EPA to set standards that are “requisite to protect the public health” allowing for an “adequate margin of
+safety,” a more sweeping authority than that contained in CAA secJons 129 or 111.26 In this context, EPA
+has cabined its statutory authority by observing that:
+[t]he requirement that primary standards include an adequate margin of safety was
+intended to address uncertainJes associated with scienJfic and technical informaJon
+available at the Jme of standard senng. It was also intended to provide a reasonable
+degree of protecJon against hazards that research has not yet idenJfied. Lead
+Industries Associa%on v. EPA, 647 F2d 1130, 1154 (D.C. Cir. 1980), cert denied, 449 U.S.
+102 (1980); American Petroleum Ins%tute v. Costle, cert. denied, 455 U.S. 1034 (1982).
+The CAA does not require the Administrator to establish a primary NAAQS at a zero-
+risk level or at background concentraJon levels . . . but rather at a level that reduces
+risk sufficiently so as to protect public health with an adequate margin of safety,27
+Nowhere within the proposed rule does EPA define what a “sufficient” level of protecJon is for SO and
+2
+HCl from LMWCs. And if it might be supposed that the protecJve level for SO could be defined as the
+2
+25 EPA cannot also assume that any impact is linear; unachievable standards that could not be met by some or all
+LMWCs would have several nega*ve public health and environmental impacts.
+26 CAA sec*on 109(b)(1). Compare with the statutory language of CAA sec*ons 129(a)(2), (5) and CAA 111(a), (d)
+with CAA sec*on 109(b)(1). The former authority to promulgate standards require the considera*on of costs
+(absent with regard to for NAAQS), considera*on of other effects and allowance for state-level variability. All of
+these elements are missing in CAA sec*on 109(b)(1).
+27 73 Fed. Reg. 66964, 66966 (Nov. 12, 2008).
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-9-
+level of the primary SO NAAQS, EPA does not further support that the proposed limit for SO is needed
+2 2
+or jusJfied on this basis. And as noted in our originally submi`ed comments, should LMWCs be
+associated with nona`ainment or maintenance issues, states have adequate authority (and indeed are
+obligated) to address any ambient SO issues impacJng public health through appropriate state plans.28
+2
+A more state-centric approach is consistent with the current AdministraJon’s goals to advance
+cooperaJve federalism.29
+At present, EPA has determined that only 29 areas in the United States are in nona`ainment with the
+2010 SO2 NAAQS, with a populaJon just over 2,000,000.30 States where these areas are located have
+either submi`ed acceptable plans to EPA to implement these standards or been subject to the process
+provided for in the CAA to assure compliance with NAAQS. In other words, EPA and states have
+undertaken numerous steps to protect the public from health effects associated with exposure to
+ambient levels of SO under a process laid out in great detail within the CAA. Thus, EPA cannot base its
+2
+raJonale to remove alternaJve percent reducJon standards as a single naJon-wide one-size-fits-all
+acJon as a measure to protect the health of surrounding communiJes. Such an approach completely
+sidesteps the role of states or the other mechanisms of the CAA in protecJng human health or the
+environment in a stroke of federal overreach.
+In summary, consideraJon of standards for SO and HCl that are untethered from CAA SecJon 129’s
+2
+statutory direcJve regarding how to set MACT standards, based on the degree of emission reducJon
+achieved, are therefore impermissible. To the extent that EPA wants to directly consider SO and HCl
+2
+standards based on the protecJon of public health, such criteria are contained within CAA §129(h)(3)
+which cross-references CAA §112(f) residual risk provisions. As proposed, however, EPA is not relying on
+any residual risk authority it may possess under CAA 129 and therefore, EPA must constrain any final
+standards to the statutory authority claimed as a basis for this rulemaking.
+C. The PromulgaJon of AlternaJve Percent Standards Pursuant to CAA secJon 111 Does Not
+Affect Analysis
+i. AlternaJve Percent Standards Are Authorized by CAA secJon 129
+EPA’s proposed rule states that:
+[t]he percent reducJon standards were introduced in 1989 when MWCs were
+regulated under secJon 111 of the CAA. They were established in addiJon to
+numeric emission limits and offered as an alternaJve means of compliance. 31
+EPA does not further explain this statement, but they are either in error (or subject to misinterpretaJon)
+in at least two respects. First, while EPA proposed percent reducJon standards in 1989 pursuant to CAA
+secJon 111(b), the standards were finalized in 1991 following the passage of the 1990 Clean Air Act
+28 See WTEA Comments, March 25, 2024 at 25-27.
+29 U.S. EPA (2025) EPA Administrator Lee Zeldin Announces EPA’s “Powering the Great American Comeback” IniGaGve, February
+4, 2025 Press Release. hNps://www.epa.gov/newsreleases/epa-administrator-lee-zeldin-announces-epas-powering-great-
+american-comeback
+30 See www3.epa.gov/airquality/greenbook/tnsum.html
+31 89 Fed. Reg. at 4255.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-10-
+Amendments and the enactment of CAA secJon 129.32 This rule was finalized pursuant to a provision in
+CAA 129 addressing a prior consent decree and was altered to ensure that standards were “not in direct
+conflict with any provision of secJon 129.”33 EPA also promulgated Emission Guidelines that included
+percent reducJon requirements for SO and HCl.34 In taking these acJons, EPA observed that “secJon
+2
+129 directs EPA to issue technology based standards for MWCs under that secJon and secJon 111 of the
+[CAA] for MWCs.”35
+Second, EPA seems to suggest that alternaJve percent standards are not “numeric” standards. As noted
+above, under plain definiJons and ordinary usage, a percent standard is a numeric standard within the
+meaning of CAA secJon 129(a)(4). Thus, while EPA may certainly disJnguish CAA secJon 129 standards
+in a colloquial sense, percent standards may be promulgated under the authority and direcJon of CAA
+secJon 129(a)(4).
+Finally, whether or not the original percent reducJon standards were promulgated under the authority
+of CAA secJon 111, these standards were reviewed and retained by EPA pursuant to CAA secJon
+129(a)(5) in 2006 and remain in effect today.36 The existence of the percent reducJon standards was not
+challenged by the peJJoners nor subject to the voluntary remand. Thus, EPA has affirmed that they are
+consistent with, if not originally authorized under CAA secJon 129.
+ii. EPA has Promulgated Percent Standards in Many CAA Rules
+Finally, despite any percepJon that percent reducJon standards have not been used in recent
+rulemaking efforts or are somehow inconsistent with the CAA, it is clear that EPA has used percent
+reducJon standards in several different contexts. These include:
+o Greenhouse Gas Standards and Guidelines for Fossil Fuel-Fired Power Plant, 89 Fed. Reg.
+39798 (May 9, 2024). The final rule requires that all long-term coal-fired plants and base
+load new gas-fired plants achieve a 90% reducJon in CO emissions based on
+2
+implementaJon of carbon capture/sequestraJon/storage technology.
+o Standards of Performance for New, Reconstructed, and Modified Sources and Emissions
+Guidelines for Exis%ng Sources: Oil and Natural Gas Sector Climate Review, 89 Fed. Reg.
+16820 (March 8, 2024). The final rule requires a 95% reducJon in methane and/or VOC
+emissions from a variety of sources (e.g., certain storage vessels and oil/gas wells and
+related components).
+o Na%onal Emission Standards for Hazardous Air Pollutants: Ethylene Oxide Emissions
+Standards for Steriliza%on Facili%es Residual Risk and Technology Review, 89 Fed. Reg.
+24090 (April 5, 2024). For exisJng and new vents at specified manufacturing locaJons,
+the final rule requires anywhere from a 99% to a 99.9% reducJon in ethylene oxide
+emissions.
+32 56 Fed. Reg. 5488 (1991); 40 C.F.R. §60.54(c).
+33 56 Fed. Reg. at 5488.
+34 56 Fed. Reg. 5514, 5516, 5524 (Feb. 11, 1991); 40 C.F.R. §60.35a.
+35 Id. at 5489.
+36 90 Fed. Reg. 27326.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+-11-
+o Na%onal Emission Standards for Hazardous Air Pollutants: Municipal Solid Waste
+Landfills Residual Risk and Technology Review, 85 Fed. Reg. 17244, (Mar. 26, 2020). This
+final rule that requires that certain landfill flares include a control system designed and
+operated to reduce non-methane organic compounds (NMOC) by 98 weight percent, or,
+in certain configuraJons, reduce NMOC by 98 weight percent or reduce the outlet
+NMOC concentraJon to less than 20 ppmv.
+o New Source Performance Standards Review for Vola%le Organic Liquid Storage Vessels
+(Including Petroleum Liquid Storage Vessels), 89 Fed. Reg. 83296 (Nov. 15, 2024). Final
+rule that specifies that certain storage vessels and/or vent systems achieve a 98%
+reducJon in VOC emissions.
+While none of the rules above were promulgated under the authority of CAA secJon 129, they all
+either relied on CAA secJon 111 or 112. CAA secJon 111 is both cross-referenced and incorporated
+into CAA secJon 129. The “MACT” provisions of CAA secJon 129 closely align with CAA secJon
+112(d) standard senng language. And while not a binding legal interpretaJon, EPA has repeatedly
+referenced regulaJons required pursuant to CAA secJon 129(a) as “MACT” standards.37 Thus, based
+on both the regulatory history of the LMWC rules and EPA’s recent rule adopJons, there is
+substanJal jusJficaJon to retain the exisJng percent reducJon standards. Moreover, EPA’s asserJon
+in this case that percent reducJon standards are not protecJve of human health or the environment
+would be equally applicable, if accurate, to reach the precedents enumerated above.
+Sincerely yours,
+Thomas P. Hogan
+President
+37 Suppor*ng Statement Environmental Protec*on Agency, EPA-HQ-OA-2017-0183-0013.
+5600 Connec*cut Ave., NW
+www.wte.org
+202-244-2114
+Washington, DC 20015
+DCACTIVE-80272972.1
+
+
+Originial Link: https://www.regulations.gov/comment/EPA-HQ-OAR-2017-0183-0199

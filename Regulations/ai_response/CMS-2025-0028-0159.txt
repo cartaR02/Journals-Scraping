@@ -1,0 +1,90 @@
+**Electrophysiologist Urges Reclassification of Atrial Fibrillation Severity to Federal Agency**
+
+San Francisco, California – In a recent correspondence to the U.S. Centers for Medicare and Medicaid Services, Dr. Randall J. Lee, a professor of medicine specializing in electrophysiology, highlighted the stark differences in care requirements between newly diagnosed atrial fibrillation (AF) patients and those with long-standing persistent or permanent AF. Lee emphasized the need for federal recognition of these differences in the treatment and management of the disease.
+
+"As an electrophysiologist, I care for patients across the full spectrum of atrial fibrillation, from initial diagnosis to advanced, chronic forms of the disease," Lee stated in the letter. "These represent fundamentally different disease states with different clinical consequences, each requiring distinct management strategies and levels of intensity."
+
+Lee pointed out that patients with newly diagnosed AF, often paroxysmal, typically retain much of their structural and electrical integrity. These patients usually present manageable symptoms and respond well to rhythm control strategies, leading to favorable outcomes when early intervention is applied. 
+
+"Resource use is moderate, and outcomes are often favorable when early intervention is applied," he noted. 
+
+In contrast, patients with long-standing persistent or permanent AF face a complex and severe condition. They often have undergone multiple failed therapies, leading to extensive electrical remodeling of the heart, which increases treatment difficulties. 
+
+"These patients typically carry a heavier burden of comorbid conditions such as heart failure, chronic kidney disease, and prior stroke, amplifying the complexity of care," Lee explained. He also pointed to the increased thromboembolic risk that necessitates life-long anticoagulation management.
+
+Given these challenges, Lee urged the agency to reclassify long-standing persistent and permanent atrial fibrillation as major comorbid conditions. He argued, “These cases are far more intensive: longer and more frequent hospitalizations, advanced procedural interventions, more complex pharmacologic regimens, and significantly more follow-up and monitoring.”
+
+Dr. Lee sent the letter to the Centers for Medicare and Medicaid Services on June 3, 2025. The communication aims to encourage legislative changes that could improve patient outcomes and ensure that healthcare providers can meet the demands of this complex disease category.
+
+
+----------------INPUT:----------------
+
+ UNIVERSITY OF CALIFORNIA, SAN FRANCISCO
+BERKELEY • DAVIS • IRVINE • LOS ANGELES • RIVERSIDE • SAN DIEGO • SAN FRANCISCO SANTA BARBARA • SANTA CRUZ
+CARDIAC ELECTROPHYSIOLOGY
+PHONE: (415) 476-5706 500 Parnassus Avenue
+FAX: (415) 476-6260 Room MU East 428, Box 1354
+E-MAIL: lee@medicine.ucsf.edu San Francisco, California 94143-1354
+June 3, 2025
+To Whom It May Concern,
+As an electrophysiologist, I care for patients across the full spectrum of atrial fibrillation (AF),
+from initial diagnosis to advanced, chronic forms of the disease. The clinical and resource
+differences between a newly diagnosed AF patient with paroxysmal atrial fibrillation and one
+with long-standing persistent or permanent AF are not only significant—they are profound.
+These represent fundamentally different disease states with different clinical consequences, each
+requiring distinct management strategies and levels of intensity.
+Newly Diagnosed AF:
+In patients with newly diagnosed AF—often paroxysmal or early persistent—the atria typically
+retain much of their structural and electrical integrity. These individuals often present with
+manageable symptoms and are candidates for rhythm control strategies, which have a higher
+likelihood of success at this stage. The care pathway attempts to restore sinus rhythm,
+anticoagulation based on stroke risk, and potentially a single catheter ablation with high efficacy
+from recurrence of atrial fibrillation. Resource use is moderate, and outcomes are often favorable
+when early intervention is applied.
+Long-standing Persistent or Permanent AF:
+Patients with long-standing persistent (AF lasting over 12 months) or permanent AF represent a
+more severe and complex subset. These patients have often failed multiple lines of therapy. Their
+atria have undergone extensive electrical and fibrotic remodeling1,2,3, which drastically increases
+the risk4 and reduces the success of rhythm control strategies. Catheter ablation5 becomes more
+technically demanding, less effective, and frequently requires multiple procedures.
+Antiarrhythmic medications are less effective and pose greater safety risks. Furthermore, these
+patients typically carry a heavier burden of comorbid conditions such as heart failure, chronic
+kidney disease, and prior stroke, which amplifies the complexity of care. Their thromboembolic
+risk6,7,8 is markedly higher, necessitating lifelong anticoagulation management with heightened
+1 De With RR et al. Temporal patterns and short-term progression of paroxysmal atrial fibrillation: data from RACE V. Europace 2020;22:1162–72
+2 Parkash R, et al. The association of left atrial size and occurrence of atrial fibrillation: a prospective cohort study from the Canadian Registry of Atrial Fibrillation. Am Heart J
+2004;148:649–54.
+3 De With RR, et al. Atrial fibrillation progression risk factors and associated cardiovascular outcome in well- phenotyped patients: data from the AF-RISK study. Europace
+2020;22:352–60.
+4 Piccini JP, Atrial fibrillation burden, progression, and the risk of death: a case-crossover analysis in patients with cardiac implantable electronic devices. Europace
+2019;21:404–13.
+5 Sau A, et al. Temporal trends and lesion sets for persistent atrial fibrillation ablation: a metaanalysis with trial sequential analysis and meta-regression. Circ Arrhythm
+Electrophysiol 2023;16:e011861.
+6 Steinberg BA et al. Higher risk of death and stroke in patients with persistent vs. paroxysmal atrial fibrillation: results from the ROCKET-AF Trial. Eur Heart J 2015;36:288–96.
+7 Glotzer TV et al. The relationship between daily atrial tachyarrhythmia burden from implantable device diagnostics and stroke risk: the TRENDS study. Circ Arrhythm
+Electrophysiol 2009;2: 474–80.
+8 Lip GYH et al. Refining clinical risk stratification for predicting stroke and thromboembolism in AF using a novel risk factor-based approach: the CHA2DS2-VASc score. Chest.
+2010;137(2):263-272.DOI: 10.1378/chest.09-1584
+attention to bleeding risk. Hospitalization rates are significantly higher in this population, and
+many require coordinated, long-term multidisciplinary care involving heart failure specialists,
+anticoagulation management teams, and advanced rhythm specialists.
+From a resource standpoint, these cases are far more intensive: longer and more frequent
+hospitalizations9,10, advanced procedural interventions, more complex pharmacologic regimens,
+and significantly more follow-up and monitoring11. These patients are not merely further along a
+spectrum—they are in a distinctly different category of disease that demands a much higher level
+of care.
+Given the markedly increased clinical complexity, higher burden of comorbid conditions,
+extensive structural remodeling, and the need for multidisciplinary decision-making and
+resource-intensive care, I respectfully request that the Agency reclassify long-standing persistent
+atrial fibrillation and permanent atrial fibrillation as major comorbid conditions.
+Sincerely,
+Randall J. Lee, M.D., Ph.D.
+Professor of Medicine
+9 Graham Peigh et al. Impact of AtrialFibrillation Burden on HealthCare Cost sand Utilization, J Am Coll Cardiol EP 2024;
+10 Piccini JP et al. Incidence and prevalence of atrial fibrillation and associated mortality among Medicare beneficiaries, 1993–2007. Circ Cardiovasc Qual Outcomes.
+2012;5(1):85-93. DOI: 10.1161/CIRCOUTCOMES.111.962688
+11 Reynolds MR et al. Influence of age, sex, and atrial fibrillation recurrence on quality of life outcomes and healthcare utilization after catheter ablation: results from the
+THERMOCOOL AF Registry. Circ Arrhythm Electrophysiol. 2014;7(5):767–774. DOI: 10.1161/CIRCEP.113.001040
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0159

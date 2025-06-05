@@ -1,0 +1,69 @@
+**Surgeon Calls for Reclassification of Atrial Fibrillation in Letter to Federal Agency**
+
+In a recent letter to a federal agency, Dr. Patrick Mangonon, a cardiothoracic surgeon at AdventHealth Daytona Beach, has urged officials to reclassify long-standing persistent and permanent atrial fibrillation as major comorbid conditions. Dr. Mangonon highlights the significant differences in patient care and surgical risk between patients with newly diagnosed atrial fibrillation and those with long-standing forms of the condition.
+
+Dr. Mangonon explains, “Newly diagnosed atrial fibrillation—often paroxysmal or early persistent—typically sees the atria maintaining relatively normal structure and function.” He stresses that patients within this category are often suitable candidates for early rhythm control, benefiting from catheter-based or surgical interventions with favorable success rates.
+
+In contrast, the surgeon describes how long-standing persistent or permanent atrial fibrillation presents a considerably more complex situation. “By this stage, the atria have often undergone significant structural remodeling, including dilation and fibrosis,” he states. This decline in heart function complicates surgical procedures, often requiring more intricate interventions and leading to a higher burden of comorbidity among patients.
+
+Dr. Mangonon elaborates on the resource implications, stating, “Patients with long-standing or permanent AF require significantly more intensive care. Operative times are longer, complications more frequent, and hospital stays extended.” He emphasizes that these patients do not merely represent a progression from early-stage atrial fibrillation but embody a distinct degree of care that necessitates heightened resources and expertise.
+
+In conclusion, Dr. Mangonon respectfully requests that the agency recognize the disparity between the types of atrial fibrillation in order to ensure that patients receive the multidimensional support that their conditions require. He believes that this change could lead to more accurate representation of clinical realities and improved patient outcomes.
+
+The letter was sent on June 5, 2025, and is addressed to unspecified officials within the agency.
+
+
+----------------INPUT:----------------
+
+ Patrick Mangonon, MD
+Cardiothoracic Surgeon
+AdventHealth Daytona Beach
+Office: (407) 476-5570
+ptmangonon@gmail.com
+June 5th, 2025
+To Whom It May Concern,
+As a cardiothoracic surgeon, I routinely care for patients whose cardiac disease is complicated
+by atrial fibrillation (AF). From early diagnosis to advanced, chronic stages, AF significantly
+impacts surgical risk, operative planning, and long-term outcomes. The distinction between
+newly diagnosed AF and long-standing persistent or permanent AF is not a matter of degree
+alone—it reflects a fundamental shift in disease complexity, prognosis, and the intensity of care
+required.
+Newly Diagnosed Atrial Fibrillation
+In patients with newly diagnosed AF—often paroxysmal or early persistent—the atria typically
+maintain relatively normal structure and function. These individuals are often candidates for early
+rhythm control and benefit from catheter-based or surgical interventions with relatively high
+success rates. When surgery is indicated for concurrent cardiac issues (e.g., valve repair,
+coronary artery bypass grafting), adjunctive procedures such as surgical ablation or left atrial
+appendage exclusion can be performed with favorable outcomes. Stroke risk is generally more
+manageable, and the perioperative course tends to be more predictable and less resource
+intensive.
+Long-standing Persistent or Permanent Atrial Fibrillation
+In stark contrast, patients with long-standing persistent or permanent AF—those with arrhythmia
+duration over 12 months—present a different category of disease altogether. By this stage, the
+atria have often undergone significant structural remodeling, including dilation and fibrosis, which
+compromises both mechanical function and the potential for rhythm restoration. In the surgical
+setting, this structural deterioration increases the complexity of procedures, particularly when
+rhythm interventions such as biatrial ablation or left atrial appendage occlusion are required.
+Furthermore, these patients frequently have a high burden of comorbid conditions—chronic heart
+failure, renal impairment, prior cerebrovascular events—that increase operative risk and
+complicate postoperative recovery. They often require lifelong anticoagulation, careful rhythm
+and rate control strategies, and coordinated follow-up involving electrophysiologists, heart failure
+specialists, and anticoagulation management teams.
+From a resource standpoint, patients with long-standing or permanent AF require significantly
+more intensive care. Operative times are longer, complications more frequent, hospital stays
+extended, and readmission rates higher. Surgical planning is more nuanced, and postoperative
+care demands greater coordination and monitoring. These patients do not represent a simple
+progression of early-stage AF—they embody a different level of disease, requiring a
+fundamentally higher intensity of care.
+Conclusion
+Given the marked differences in structural pathology, perioperative risk, comorbidity burden, and
+resource utilization, I respectfully urge the Agency to reclassify long-standing persistent and
+permanent atrial fibrillation as major comorbid conditions. This designation would more
+accurately reflect the clinical reality and support the multidisciplinary, resource-intensive care
+these patients require.
+Sincerely,
+Patrick Mangonon, MD
+Cardiothoracic Surgeon
+
+
+Originial Link: https://www.regulations.gov/comment/CMS-2025-0028-0171

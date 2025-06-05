@@ -1,21 +1,23 @@
-**Abbott Urges CMS to Enhance Medicare Payment Rules to Improve Access to Innovative Treatments**
+**Abbott Submits Recommendations to CMS for Medicare Hospital Payment System**
 
-Abbott Laboratories has submitted a letter to the Centers for Medicare & Medicaid Services, advocating for changes to the Medicare hospital inpatient prospective payment system proposed rule for fiscal year 2026. Peter Kelly, divisional vice president of reimbursement and strategic initiatives at Abbott, highlighted the importance of ensuring that Medicare beneficiaries have access to high-quality healthcare innovations.
+Abbott has expressed its support and detailed recommendations regarding the Centers for Medicare & Medicaid Services' (CMS) Medicare hospital inpatient prospective payment system proposed rule for fiscal year 2026. The letter, addressed to CMS Administrator Dr. Mehmet Oz, outlines key provisions that the medical technology and nutrition manufacturer believes are essential for improving healthcare access for Medicare beneficiaries.
 
-In the letter, Kelly stated, “Abbott is committed to helping people live their best possible life through the power of health.” He noted the company's long history of innovation, with 114,000 employees serving over 160 countries to deliver better health outcomes.
+“Abbott is committed to helping people live their best possible life through the power of health,” stated Peter Kelly, divisional vice president of reimbursement and strategic initiatives at Abbott. He emphasized the company's longstanding commitment to innovation and quality healthcare access for all.
 
-The letter specifically addressed the proposed new technology add-on payment for the Esprit™ BTK Everolimus Eluting Resorbable Scaffold. Abbott supports an increased maximum payment of $6,933, arguing that it more accurately reflects clinical needs. “We believe approval of NTAP status for this breakthrough technology will remove an economic barrier to improved care for patients with chronic limb threatening ischemia,” Kelly added.
+Abbott specifically supports the proposal for new technology add-on payment for the Esprit™ BTK Everolimus Eluting Resorbable Scaffold. Kelly noted, “We provide updated cost data to support an increased maximum NTAP payment of $6,933,” which he argues would better reflect the clinical need to treat complex lesions effectively.
 
-The letter also expressed support for the proposed creation of new Medicare Severity Diagnosis Related Groups (MS-DRGs) to represent percutaneous coronary atherectomy procedures. Kelly emphasized, “We agree that the proposed new MS-DRG assignments are more representative of associated hospital resources and will help maintain Medicare beneficiary access to percutaneous coronary atherectomy procedures.”
+The letter also addressed the proposal to create three new Medicare Severity Diagnosis Related Groups (MS-DRGs) for percutaneous coronary atherectomy procedures. Kelly stated, “We believe the new MS-DRGs would be more representative of associated hospital resources and help maintain Medicare beneficiary access.”
 
-Abbott's recommendations extended to the Hospital Inpatient Quality Reporting (IQR) Program, where they urged the implementation of the Malnutrition Care Score electronic clinical quality measure as mandatory. “Targeting nutrition among Medicare beneficiaries aligns with the Trump Administration’s ‘Make America Health Again’ initiative,” argued Kelly. He pointed out the links between malnutrition and chronic diseases and urged action to identify and address malnutrition in hospital settings.
+Abbott applauds CMS’s focus on optimal nutrition in the Hospital Inpatient Quality Reporting Program. According to Kelly, the Malnutrition Care Score (MCS) electronic clinical quality measure should remain mandatory to assess hospital performance effectively and enhance patient care. “Identifying malnutrition and establishing care plans for patients with malnutrition in the hospital setting remains a critical issue,” he added.
 
-The letter was signed by Peter Kelly, Marilyn A. Moser, director of federal government affairs, and Dr. James D. Thomas, medical director at Abbott. 
+The company also proposed that CMS focus on nutrition during care transitions, particularly in the hospital discharge process, suggesting the incorporation of nutritional data in discharge summaries. Additionally, they advocated for the validation of the MCS in long-term care settings.
 
-The correspondence was submitted electronically on June 4, 2025, to Dr. Mehmet Oz, administrator at the Centers for Medicare & Medicaid Services, along with relevant attention to proposed rule CMS-1833-P.
+The letter concludes by acknowledging CMS's efforts to refine quality measures surrounding nutrition for Medicare beneficiaries. The comprehensive input was sent on June 4, 2025, and was addressed to Dr. Mehmet Oz, and those involved in the proposed Medicare hospital inpatient payment updates.
 
 
-INPUT: 1801 Pennsylvania Avenue NW. 202 378 2025
+----------------INPUT:----------------
+
+ 1801 Pennsylvania Avenue NW. 202 378 2025
 Suite 900
 Washington, D.C. 20006
 June 4, 2025

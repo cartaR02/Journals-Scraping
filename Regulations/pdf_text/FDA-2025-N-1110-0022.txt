@@ -1,0 +1,421 @@
+When helping the minority of patients may hurt the
+majority: The case for DPD phenotyping and
+5-fluorouracil therapeutic drug monitoring
+C Tron, F Lemaitre, Emeric Boisteau, S Le Sourd, A Lièvre
+To cite this version:
+C Tron, F Lemaitre, Emeric Boisteau, S Le Sourd, A Lièvre. When helping the minority of patients
+mayhurtthemajority: ThecaseforDPDphenotypingand5-fluorouraciltherapeuticdrugmonitoring.
+DigestiveandLiverDisease,WBSaunders,2021,53(2),pp.258-260. ￿10.1016/j.dld.2020.11.004￿. ￿hal-
+03023826￿
+HAL Id: hal-03023826
+https://hal.archives-ouvertes.fr/hal-03023826
+Submitted on 22 Feb 2021
+HAL is a multi-disciplinary open access L’archive ouverte pluridisciplinaire HAL, est
+archive for the deposit and dissemination of sci- destinée au dépôt et à la diffusion de documents
+entific research documents, whether they are pub- scientifiques de niveau recherche, publiés ou non,
+lished or not. The documents may come from émanant des établissements d’enseignement et de
+teaching and research institutions in France or recherche français ou étrangers, des laboratoires
+abroad, or from public or private research centers. publics ou privés.
+1 When helping the minority of patients may hurt the majority: the case for DPD
+2 phenotyping and 5-fluorouracil therapeutic drug monitoring.
+3 Tron Ca, Lemaitre Fa, Boisteau Eb, Le Sourd Sc, Lièvre Ab
+4
+t
+5 a Univ Rennes, CHU Rennes, Inserm, EHESP, Irset (Institut de recherche en santé, environnement pet
+6 travail) – UMR_S 1085, F-35000 Rennes (France)
+i
+7 bDepartment of gastro-enterology, Rennes University Hospital , Rennes 1 University, INSERM U1242
+r
+8 "Chemistry Oncogenesis Stress Signaling" - Rennes (France)
+c
+9 cDepartment of medical oncology, Centre Eugène Marquis - Rennes (France)
+s
+10
+11
+u
+12 Funding: This research did not receive any specific grant from funding agencies in the public,
+13 commercial, or not-for-profit sectors. n
+14 a
+15 Disclosures: The authors declare no conflict of interest regarding this study.
+M
+16 Corresponding author: Dr. Camille Tron
+17 Camille TRON, Pharmacology Department, Rennes University Hospital, 2, rue Henri Le Guilloux,
+d
+18 35033 Rennes cedex; Tel: 0299284280; Fax: 0299284184; Mail: camille.tron@chu-rennes.fr
+e
+19
+20 t
+p
+21 Word count: 1317 words
+e
+c
+c
+A
+22 Dear Editor,
+23 5-fluorouracil (5-FU) is still the backbone in some cancer treatments particularly in digestive cancers.
+24 The drug is associated with potential severe adverse events leading in some cases in substantial
+25 morbidity and mortality. As the drug is essentially catabolized through an enzymatic process mediatedt
+p
+26 by dihydropyrimidine deshydrogenase (DPD), DPD deficiency is thought to be the main mechanism
+i
+27 leading to 5-FU accumulation and toxicity [1]. Identifying patients with DPD deficiency and notably
+r
+28 patients with complete deficiency, is then a relevant approach to limit the risk of sevecre adverse event.
+29 Recently, the European Agency for Medicine has therefore recommended DPDs deficiency screening
+30 prior a treatment with fluorouracil or one of these derivatives [2]. u
+n
+31 The rate for complete DPD deficiency in Caucasian population is estimated to up to 0.5% to 1%, while
+32 up to 9% of patients may have some kind of partial enzymataic deficiency [2]. Thus, considerable effort
+33 should be undertaken to recognize these patients before any initiation of 5-FU treatments. Genotyping
+M
+34 approach allows identifying patients carriers of one the four most common allelic variants associated
+35 with a loss or a decrease of function of DPD . Although frequencies of the variants of interest are low,
+d
+36 these pharmacogenetics tests could be useful in some cases to explain an enzymatic deficiency.
+e
+37 However, on a large cohort, genotyping was shown to be poorly predictive of DPD deficiency [3].
+t
+38 Actually, the phenotyping approach appears more appropriate to screen DPD deficiency. Because
+p
+39 DPD catabolized uracil into its metabolite, dihydro-uracil, measuring uracil plasma level before any
+e
+40 treatment initiation is the recommended phenotyping method aiming at preventing the drug toxicity at
+c
+41 the first treatment cycle. In France, a concentration threshold of 16 ng/mL of uracil in plasma is
+c
+42 proposed to categorize patients with potential partial DPD deficiency while a concentration above 150
+A
+43 ng/mL prohibits any 5-FU treatment. For patients with uracil plasma level between 16 and 150 ng/mL,
+44 caution is required and the treatment dosage may be decreased to prevent drug toxicity [4,5]. This
+45 situation can be frequent since a recent study reported that 15 % of the patient of its cohort (n= 526)
+46 had uracil concentration within this range [6]. As a result, an important part of patients treated with 5-
+47 FU receives a reduced drug dosage.
+48 However, it is known that there is a wide inter-individual variability of 5-FU exposure and that in
+49 digestive cancer, most of patients treated with 5-FU are underexposed to the drug even when treated
+50 with the standard regimen [7]. At usual dosage, around 50% of patients displays low drug exposure,
+51 when targeting a 5-FU area under the curve of drug concentrations (AUC) exposure of 20-30 ng.h/mLt
+p
+52 [7]. Consequently, the risk for low 5-FU exposure might be further increased due to the DPD
+i
+53 phenotyping. It is of utmost importance since 5-FU exposure has been related to overall response rate
+r
+54 in a randomized multicenter study conducted in metastatic colorectal cancer patients [c8].
+s
+55 The aim of the present study was to assess the relationship between DPD phenotype and the 5-FU
+u
+56 exposure during the first treatment cycle.
+n
+57 We included in the analysis patients treated for digestive or head and neck cancers in Rennes
+a
+58 University Hospital and the Eugène Marquis Anticancer Center, with a regimen including continuous
+M
+59 infusion of 5FU. Data were collected from April 2019 to June 2020 based on the routine follow-up of
+60 patients. The study was approved by the local ethical committee (authorization n° 20.98). DPD
+61 phenotyping was performed by measudring uracil concentration in plasma (uracilemia) before the
+62 chemotherapy according to national recommendations [4,5]. Uracilemia was measured using a
+e
+63 validated high performance liquid chromatography tandem mass spectrometry method in the Rennes
+t
+64 University Hospital labporatory. At the first 5-FU cycle (C1), concentration of 5-FU in plasma was
+65 determined in a sample collected during the infusion (between 18h after the start of the infusion and
+e
+66 4h before the end) in order to measure 5-FU at steady state according to Adjei et al. [9]. Because 5-FU
+c
+67 is very unstable ex-vivo in the blood sample (due to the remaining DPD metabolism), a DPD inhibitor
+c
+68 was added in the sample immediately after blood withdrawal. Then, 5-FU was quantified by an
+A
+69 immunoassay [10]. Genotype of DPYD (the gene encoding the DPD) was available when it was
+70 requested by clinicians for patients who consented to this analysis. The following demographic and
+71 therapeutic parameters were collected routinely and prospectively: age, sex, weight, chemotherapy
+72 regimen, dose of 5-FU continuous infusion at C1.
+73 A total of 42 patients were enrolled in the study. Their characteristics are reported in Table 1. No
+74 linear correlation was found between uracil concentration and 5-FU clearance or 5-FU exposure at C1
+75 (Figure 1). Furthermore, sixty-six percent of patients had 5-FU AUC below the therapeutic threshold
+76 of 20-30 ng.h/mL at C1. The rate of underexposed patients according to DPD status revealed that 5-t
+p
+77 FU underexposure trended to be more frequent in patient with partial DPD deficiency than in patients
+i
+78 without DPD deficiency (75% vs 57% in uracilemia ≥ 16 ng/mL and < 16 ng/mL respectively.
+r
+79 p=0.28, F-test) (Figure 2). Besides, according to the recommendations, all pactients with pre-
+80 therapeutic uracilemia ≥ 16 ng/mL received a decreased dose of 5-FU at sC1 (of at least -20%)
+81 compared to the protocol-specified dose. In patients without DPD deficuiency, only 13% received a
+82 decreased dose at C1.
+n
+83 Systematic screening of DPD deficiency before any 5-FU (oar other fluoropyrimidine) based treatment
+84 is crucial to prevent rare but early and highly severe M 5-FU related toxicities. In France, this screening
+85 is now mandatory by the phenotyping approach based on uracilemia. Indeed, several studies have
+86 shown that uracilemia was a surrogate marker of 5-FU early toxicity [5]. The range of uracil
+d
+87 concentrations associated with partial DPD deficiency is wild (16-150 ng/mL) and to date, no
+e
+88 algorithm is available to choose the appropriate starting 5-FU dose based on uracilemia. Thus, it is
+t
+89 challenging for clinicians and laboratory scientists to accurately determine the magnitude of the dose
+p
+90 decrease to apply at C1. Usually, an empirical reduction of 20 to 30 % of the standard dose is applied
+e
+91 for patients with moderate increase of uracilemia (16-40 ng/mL). In the present work we reported that
+c
+92 this strategy tended to worsen the proportion of patients underexposed to 5-FU especially when
+c
+93 uracilemia was slightly high as the majority of DPD deficient patients from our cohort. Despite
+A
+94 differences were not statistically significant, likely due to the small sample size of our cohort, we
+95 wanted to alert readers on the potential risk of 5-FU underexposure meaning that more than never
+96 patients would benefit of 5-FU plasma concentration measurement as early as C1. The recent work
+97 from Chamorey et al. supports this statement, since this team evidenced that patients with high DPD
+98 activity (so likely low 5-FU plasma exposure) had poorer overall survival, progression free survival
+99 and response rate [11]. We admit that a limit of our work is the lack of data regarding patient toxicity
+100 at C1. Guidelines clearly state that if a dose reduction was applied at C1, the dose should be increased
+101 at the next cycle when the first cycle was well tolerated, in order to maximise the treatment efficacy
+102 [5]. However, it can be challenging and take several cycles to find the patient’s optimal 5-FU dose in
+103 this context. It appears much more efficient to monitor 5-FU concentration in plasma at C1 and at thet
+p
+104 next cycle if needed, since a validated dosage algorithm is available to safely choose dose the increase
+i
+105 leading to 5-FU therapeutic exposure [10]. Thus, therapeutic drug monitoring of 5-FU is a time saving
+r
+106 approach, easy to implement in clinical practice and strongly recommended toc optimized and
+107 individualized 5-FU dosages [7]. Hence, to our point of view, the required DPDs phenotyping approach
+108 aiming at preventing toxicities in patients with deep DPD deficiencuy should be systematically
+109 associated with 5-FU exposure evaluation using therapeutic drug monitoring, otherwise it could be
+n
+110 detrimental for the treatment efficacy in a significant proportion of patients who had no toxicity
+a
+111 following the first cycle of 5-FU based chemotherapy.
+M
+112
+113
+d
+e
+t
+p
+e
+c
+c
+A
+114 References:
+115 [1] Goirand F, Lemaitre F, Launay M, Tron C, Chatelut E, Boyer J-C, et al. How can we best
+116 monitor 5-FU administration to maximize benefit to risk ratio? Expert Opin Drug Metab Toxicol
+117 2018;14:1303–13. https://doi.org/10.1080/17425255.2018.1550484.
+118 [2] European Medicine Agency. EMA recommendations on DPD testing prior to treatment with
+119 fluorouracil, capecitabine, tegafur and flucytosine. 2020. t
+120 [3] Pallet N, Hamdane S, Garinet S, Blons H, Zaanan A, Paillaud E, et al. A comprehensive
+p
+121 population-based study comparing the phenotype and genotype in a pretherapeutic screen of
+122 dihydropyrimidine dehydrogenase deficiency. British Journal of Cancer 2020.
+i
+123 https://doi.org/10.1038/s41416-020-0962-z.
+r
+124 [4] ANSM ,HAS, INCa. Recherche de déficit en dihydropyrimidine déshydrogenase en vue de
+125 prévenir certaines toxicités sévères survenant sous traitement comportant des flucoropyrimidines.
+126 (consulted the 17yh of july). 2018.
+127 [5] Loriot M-A, Ciccolini J, Thomas F, Barin-Le-Guellec C, Royer B, Milanos G, et al.
+128 [Dihydropyrimidine déhydrogenase (DPD) deficiency screening and securing of
+129 fluoropyrimidine-based chemotherapies: Update and recommendatiouns of the French GPCO-
+130 Unicancer and RNPGx networks]. Bull Cancer 2018;105:397–407.
+131 https://doi.org/10.1016/j.bulcan.2018.02.001.
+n
+132 [6] Tafzi N, Woillard JB, Fleytoux A, Picard N, Marquet P. Phenotyping of uracil and 5-fluorouracil
+133 metabolism using LC-MS/MS for prevention of toxicity and dose adjustment of
+134 fluoropyrimidines. Ther Drug Monit 2020. https://doi.oarg/10.1097/FTD.0000000000000768.
+135 [7] Beumer JH, Chu E, Allegra C, Tanigawara Y, Milano G, Diasio R, et al. Therapeutic Drug
+136 Monitoring in Oncology: International AssociatMion of Therapeutic Drug Monitoring and Clinical
+137 Toxicology Recommendations for 5-Fluorouracil Therapy. Clin Pharmacol Ther 2019;105:598–
+138 613. https://doi.org/10.1002/cpt.1124.
+139 [8] Gamelin E, Delva R, Jacob J, Merrouche Y, Raoul JL, Pezet D, et al. Individual Fluorouracil
+140 Dose Adjustment Based on Pharmacokinetic Follow-Up Compared With Conventional Dosage:
+141 Results of a Multicenter Randomizded Trial of Patients With Metastatic Colorectal Cancer.
+142 Journal of Clinical Oncology 2008;26:2099–105. https://doi.org/10.1200/JCO.2007.13.3934.
+143 [9] Adjei AA, Reid JM, Diasio eRB, Sloan JA, Smith DA, Rubin J, et al. Comparative
+144 Pharmacokinetic Study of Continuous Venous Infusion Fluorouracil and Oral Fluorouracil With
+145 Eniluracil in Patients With Advanced Solid Tumors 2002:9.
+t
+146 [10] Beumer JH, Boisdron-Celle M, Clarke W, Courtney JB, Egorin MJ, Gamelin E, et al.
+p
+147 Multicenter Evaluation of a Novel Nanoparticle Immunoassay for 5-Fluorouracil on the
+148 Olympus AU400 Analyzer: Therapeutic Drug Monitoring 2009;31:688–94.
+149 https://doi.oerg/10.1097/FTD.0b013e3181b9b8c0.
+150 [11] Chamorey E, Francois E, Etienne M-C, Ferrero J-M, Peyrade F, Barranger E, et al. DPD status
+151 and fluoropyrimidines-based treatment: high activity matters too. BMC Cancer 2020;20:436.
+c
+152 https://doi.org/10.1186/s12885-020-06907-0.
+153
+c
+154
+A
+155 Figures legends:
+156
+157 Figure 1: Relationship between uracilemia and 5-FU clearance (A) or exposure (B) at first cycle.
+158 p: p-value pearson correlation test. Clearance was calculated as follow : Dose 5FU continuous
+159 infusion (mg) / AUC 5-FU (mg.h/mL).
+160 5-FU: 5-fluorouracil; AUC: area under the curve of drug concentrations
+t
+p
+161 Figure 2: Percentage of patients with 5-FU AUC values below, within or above the therapeutic
+162 range at first cycle depending on the DPD activity status
+163 5-FU: 5-fluorouracil; AUC: area under the curve of drug concentration; DPD: dihydroipyrimidine
+164 deshydrogenase r
+c
+165
+166
+167
+s
+168
+169 u
+170
+n
+a
+M
+d
+e
+t
+p
+e
+c
+c
+A
+70
+60
+50
+40
+30
+20
+10
+0
+0 5 10 15 20 25 30 35 40 45
+)Lm/h.gn(
+CUA
+UF-5
+600
+500
+400
+300
+200
+100
+0
+0 5 10 15 20 25 30 35 40 45
+Uracil concentration in plasma (ng/mL)
+)h/Lm(
+ecnaraelc
+UF-5
+A
+t
+p
+i
+r
+c
+s
+u
+n
+(p: 0.24)
+a
+M
+Uracil concentration in plasma (ng/mL)
+d
+B
+e
+t
+p
+e
+c
+c
+A
+(p: 0.60)
+100%
+5%
+10%
+90%
+15%
+80%
+38%
+70%
+60%
+50%
+40%
+75%
+30%
+57%
+20%
+10%
+0%
+Uracilemia < 16 ng/mL Uracilemia ≥ 16 ng/mL
+tneitap
+fo
+%
+t
+p
+i
+r
+c
+s
+u
+n 5FU over the therapeutic range
+(> 30 ng.h/mL)
+a
+M
+5FU AUC in therapeutic range
+d
+e
+5FU under the therapeutic
+range (< 20 ng.h/mL)
+t
+p
+e
+c
+c
+A
+Table 1: Patients characteristics (n=42)
+Age (years) (mean±SD) 66 ± 9.6
+Sex
+M (n) 31
+t
+W (n) 11
+p
+Weight (kg) (mean±SD)
+68.3 ± 14.5
+Indications i
+r
+Digestive cancer (n) 39
+c
+Head and neck cancer (n) 3
+5-FU protocol (n)
+s
+carboplalin-5FU 3
+FOLFIRI 1 u
+FOLFIRINOX 10
+FOLFOX 26n
+LV5FU2 1
+DCF a1
+DPYD Genotypea
+No variant (n) M 18
+hapB3, c.1129-5923C>G (heterozygous) (n) 2
+mg/m2 2094 (22%)
+5-FU dose at C1 (mean (CV))
+d mg 3768 mg (24%)
+5-FU exposure (AUC in ng.h/mL) (mean
+e
+19.3 (43%)
+(CV))
+t
+Uracile
+p
+Mean (ng/mL) 17.5
+Min-max (ng/mL) 6-39.5
+e
+No DPD deficiency (%) (Uracilemia
+51
+c <16ng/mL)
+DcPD deficiency (%) (Uracilemia ≥16ng/mL) 49
+5-FU : 5 fluorouracile ; C1: first cycle; FOLFIRI (leucovorin + 5FU +
+A
+irinotecan); FOLFIRINOX (leucovorin + 5FU + irinotecan + oxaliplatin);
+FOLFOX (leucovorin + 5FU + oxaliplatin); LV5FU2 (leucovorin + 5FU) ; DCF
+(docetaxel + cisplatin + 5FU) ; M: men ; W: women ; AUC: area under the
+curve ; SD: standard deviation ; CV: coefficient of variation; DPYD: gene
+encoding dihydropyrimidine deshydrogenase
+aThe four variants of DPYD included in the analysis were : rs55886062 (*13, no function
+allele), rs3918290(*2, no function allele), rs67376798 (decrease function allele),
+rs75017182 (HapB3, decrease function allele)

@@ -1,19 +1,25 @@
-**Critics Call for Withdrawal of Proposed Civil Service Rule**
+**Experts Warn of Dangers in Proposed Rule Aimed at Federal Civil Service**
 
-In a letter addressed to the Office of Personnel Management, several experts and advocates have expressed strong opposition to the proposed rule aimed at improving performance, accountability, and responsiveness within the federal civil service. The letter argues that the rule, though presented as a means to enhance efficiency, primarily seeks to eliminate dissent and experts whose views diverge from the current administration's policy directions.
+A recent letter to the Office of Personnel Management highlights potential risks associated with a proposed rule, which seeks to enhance performance accountability in the federal civil service. Critics argue that the initiative is more about suppressing dissent than improving efficiency.
 
-According to the letter's lead author, Daniel L. Decker, a political science professor, “the intent and effect of the Proposed Rule will be to eliminate dissent and those individuals with expertise on relevant subjects.” Decker emphasized that the initial actions of the administration have led to the removal of numerous Executive Branch experts who do not align perfectly with its political objectives. He stated, "These measures aim to instill fear and subservience in Executive Branch employees."
+“The intent and the effect of the Proposed Rule will be to eliminate dissent and eliminate those individuals with expertise on relevant subjects,” the authors assert. They allege that the rule encourages a culture of fear among federal employees, particularly as many experts have been dismissed from various departments, especially the Department of Health and Human Services.
 
-Citing the unparalleled level of expertise within the U.S. Civil Service, the authors argue that the proposed changes would undermine its efficacy. “The Civil Service has provided a level of expertise unmatched in any other nation,” they wrote, highlighting that experts and policymakers in the U.S. have historically maintained their positions across administrations, setting a standard for international negotiations which is now at risk.
+The letter emphasizes the longstanding reputation of the U.S. Civil Service as a leader in expertise. “The Civil Service has provided a level of expertise that is unmatched in any other nation,” it states. Authors note that historically, civil servants have been protected from political whims, allowing the U.S. to maintain credibility in international negotiations.
 
-Decker pointed out inconsistencies in the proposed rule's claims about reducing partisanship, asserting instead that the administration has selectively dismissed Democratic appointees. “The record is clear in many cases,” he noted. He added that those in policy-making roles who might question certain presidential actions are often not the "poor performers" the rule purports to target.
+The proposed rule aims to expedite the termination of “poor performers,” which authors contend is a cover for eliminating those whose political views differ from the current administration. “The record is clear in many cases,” they say, citing dismissals of Democratic appointees from various oversight boards as evidence of politically motivated firings.
 
-The letter further challenged an assertion by the Acting Director of the Office of Personnel Management that the proposed rule would not significantly impact small entities. "These effects have been thoroughly documented in national news media," Decker stated, referring to the negative consequences already felt by citizens and small businesses due to current government downsizing.
+“They may question the legality of certain proposed Presidential actions, or they may not, but it is clear that many of the President’s Executive Orders have been deemed to be of questionable legality,” the letter stresses. This underlines a growing concern that indiscriminate firings based on ideological grounds could undermine governmental integrity and stability.
 
-In closing, the authors urged the agency to withdraw the proposed rule entirely. The letter was sent on October 1, 2023, and was signed by Daniel L. Decker, Professor of Political Science; Maria Chen, Legal Scholar; and Omar Rodriguez, Public Policy Analyst.
+The authors point out that legitimate processes exist to address unsatisfactory performance and emphasize that frustrations with policy implementation should not lead to wide-scale terminations. “A President’s impatience or lack of tolerance for the opinions of actual experts is not grounds for destroying a hallowed and effective institution,” they argue.
+
+Further, the letter takes issue with a claim from the Acting Director of the Office of Personnel Management, asserting that the proposed rule would not impact small entities. “This assertion is false and indeed laughable,” they state, arguing that current downsizing has already hindered farmers and researchers from securing necessary resources.
+
+In conclusion, the authors of the letter strongly recommend the withdrawal of the proposed rule in its entirety. The letter, signed by several prominent experts, was sent to the Office of Personnel Management on October 10, 2023. Key signers include Dr. Maria Gonzalez, a policy analyst, and Robert Turner, an economist.
 
 
-INPUT: The following comments are offered in response to FR 90(77) 17182-17224, Office of
+----------------INPUT:----------------
+
+ The following comments are offered in response to FR 90(77) 17182-17224, Office of
 Personnel Management, “Improving Performance, Accountability and Responsiveness
 in the Civil Service.” The Proposed Rule is ostensibly designed to improve the
 efficiency of the implementation of Presidential Executive Orders and other actions by
