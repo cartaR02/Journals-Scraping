@@ -1,7 +1,5 @@
 # Regulate.py
 
-# Regulate.py
-
 A Python automation script for collecting, filtering, and extracting text from PDF attachments linked in web comment containers filtered for the term **"Attach"**. Designed to work robustly newest-to-oldest, this script is especially suitable for compliance, documentation review, or periodic archival workflows.
 
 ---

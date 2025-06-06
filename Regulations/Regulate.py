@@ -290,9 +290,9 @@ def process_current_page(url):
                 logging.info("Date found")
                 current_date = li.get_text().replace("Posted", "").strip()
                 logging.info(f"Date: {current_date}")
-                 if not is_within_days_back(current_date, days_back):
-                     logging.info("Date not within days back exiting program")
-                     return
+                if not is_within_days_back(current_date, days_back):
+                    logging.info("Date not within days back exiting program")
+                    return
 
         if current_id == "":
             logging.error("ID not found")
