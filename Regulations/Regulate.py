@@ -1,5 +1,5 @@
 import csv
-from datetime import datetime
+from datetime import datetime, date
 from bs4 import BeautifulSoup, NavigableString
 import logging
 import time
@@ -16,8 +16,7 @@ import os
 import shutil
 import sys
 import getopt
-import date
-
+from date_handler import is_within_days_back
 # At the beginning of your script, before setting up your own logging:
 import logging
 start_time = time.time()
@@ -50,23 +49,41 @@ with open ("../key", "r") as f:
     OPEN_API_KEY = f.read().strip()
 
 openai_client = OpenAI(api_key=OPEN_API_KEY)
-allowGPT = True
+allowGPT = False
+import sys
+import getopt
+import logging
+
+# Global variable for number of days back (default 0)
+days_back = 0
 
 def parse_arguments():
-    global allowGPT
+    global allowGPT, days_back
     filter_id = None
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "G", ["gpt"])
+        opts, args = getopt.getopt(sys.argv[1:], "Gd:", ["gpt", "days="])
         for opt, arg in opts:
-            print(opt)
-            if opt == ("-G"):
+            if opt == "-G" or opt == "--gpt":
                 allowGPT = True
                 logging.info("GPT Processing: Enabled")
+            elif opt == "-d" or opt == "--days":
+                try:
+                    days_back = int(arg)
+                except ValueError:
+                    print("Error: -d (or --days) argument requires an integer!")
+                    sys.exit(2)
     except getopt.GetoptError:
-        print('Usage: python Regulate.py -G')
+        print('Usage: python Regulate.py -G [-d N]')
         print('  -G: Enable GPT processing')
+        print('  -d N: Set number of days back (default 0)')
         sys.exit(2)
+
+    logging.info(f"GPT Enabled: {'Yes' if allowGPT else 'No'}")
+    logging.info(f"Days Back: {days_back}")
+
     return filter_id
+
+
 # Then your existing logging setup
 logfile = "./logs/scrape_log.{}.log".format(
     datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -204,6 +221,7 @@ def go_to_next_page(driver, url, timeout=10):
         return False
     try:
         driver.get(url)
+        logging.info("{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}")
         logging.info(f"Navigated to {url}")
         # Wait for the page to load before searching for the button
         WebDriverWait(driver, timeout).until(
@@ -212,7 +230,7 @@ def go_to_next_page(driver, url, timeout=10):
         next_btn = driver.find_element(By.XPATH, '//button[@aria-label="Go to next page"]')
         next_btn.click()
         logging.info("Successfully clicked 'Next' to go to the next page.")
-        time.sleep(2)
+        time.sleep(15)
         new_url = driver.current_url
         logging.info(f"Current URL: {new_url}")
         return new_url
@@ -262,11 +280,19 @@ def process_current_page(url):
         current_id = ""
 
         for li in ids_container.find_all("li"):
+
             if li.strong and li.strong.text.strip() == "ID":
                 logging.info("ID found")
                 current_id = li.get_text().replace("ID", "").strip()
                 logging.info(f"ID: {current_id}")
                 break
+            elif li.strong and li.strong.text.strip() == "Posted":
+                logging.info("Date found")
+                current_date = li.get_text().replace("Posted", "").strip()
+                logging.info(f"Date: {current_date}")
+                 if not is_within_days_back(current_date, days_back):
+                     logging.info("Date not within days back exiting program")
+                     return
 
         if current_id == "":
             logging.error("ID not found")
@@ -351,7 +377,7 @@ def process_all_pages(driver, base_url):
 
 # Main start
 if __name__ == "__main__":
-
+    parse_arguments()
     url = "https://www.regulations.gov/search/comment?filter=Attach&sortBy=postedDate&sortDirection=desc"
     driver.get(url)
     clear_folders()
