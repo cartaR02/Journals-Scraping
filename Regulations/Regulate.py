@@ -113,9 +113,10 @@ def selenium_config() -> webdriver:
 driver = selenium_config()
 
 def ask_chat_gpt(PDF_Text, current_id, comments_link):
+    today_str = datetime.today().strftime("%B, %-d")
     prompt = (
  # waiting on prompt
-        """Create a 400-word news story, with a news headline, from this text of a letter to a named federal agency that is used in the first paragraph. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer.
+        f"""Create a 400-word news story, with a news headline, from this text of a letter to a named federal agency that is used in the first paragraph. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer. At the begining of the letter start with the text like this exactly how I type it: WASHINGTON, {today_str} --\n
 If the agency is a department, use U.S. in front of it instead of United States spelled out.
 Do not use a dateline and avoid unnecessary acronyms.
 The last paragraph should say when the letter was sent to the government agency and if available the named individuals who are recipients of the letter.
@@ -133,9 +134,12 @@ If there are mutiple signers for the letter, create a paragraph that lists all o
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
-        msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_Text + "\n\nOriginial Link: " + comments_link
-        filename_date = date.today().strftime('%Y-%m-%d')
+        msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_Text + "\n\nView Original Submission: " + comments_link
 
+        filename_date = date.today().strftime('%Y-%m-%d')
+        ## Slot for kevin as no need to save to file when pushing to coder
+        ##
+        ##
         save_pdf_to_text("./ai_response/" + current_id + "-" + filename_date, msg)
     except Exception as e:
         logging.error(f"Error: {e}")
@@ -292,7 +296,9 @@ def process_current_page(url):
                 logging.info(f"Date: {current_date}")
                 if not is_within_days_back(current_date, days_back):
                     logging.info("Date not within days back exiting program")
-                    return
+                    # returns none so the outer function can find that return value and exit the program
+                    # fake error code that checks if its 100 above to see why the program exited
+                    return 100
 
         if current_id == "":
             logging.error("ID not found")
@@ -357,14 +363,19 @@ def process_current_page(url):
                     logging.info("Skipping GPT")
                 save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
 
+                return None
+
         except Exception as e:
             logging.error(f"Failed to process PDF for {current_link}::: {e}")
             continue
+    return None
+
 
 def process_all_pages(driver, base_url):
     curr_url = base_url
     while True:
-        process_current_page(curr_url)
+        if process_current_page(curr_url) == 100:
+            break
 
         success = go_to_next_page(driver, curr_url)
         if not success:
