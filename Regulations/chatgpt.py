@@ -1,5 +1,7 @@
 from datetime import datetime, date
 from openai import OpenAI
+from saving_data import database_saving
+import logging
 
 OPEN_API_KEY = ""
 
@@ -31,11 +33,10 @@ If there are mutiple signers for the letter, create a paragraph that lists all o
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
         msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_Text + "\n\nView Original Submission: " + comments_link
-
-        filename_date = date.today().strftime('%Y-%m-%d')
+        headline = 'THis IS a test'
         ## Slot for kevin as no need to save to file when pushing to coder
         ##
         ##
-        save_pdf_to_text("./ai_response/" + current_id + "-" + filename_date, msg)
+        database_saving.insert_into_db(headline, msg, filename)
     except Exception as e:
         logging.error(f"Error: {e}")

@@ -45,10 +45,8 @@ logging.getLogger("pdfminer.pdfinterp").setLevel(logging.CRITICAL)
 logging.getLogger("pdfminer").setLevel(logging.CRITICAL)
 
 
+
 allowGPT = False
-import sys
-import getopt
-import logging
 
 # Global variable for number of days back (default 0)
 days_back = 0
@@ -249,6 +247,7 @@ def process_current_page(url):
         try:
             pdf_download_link = pdf_download.get("href")
         except:
+            logging.error("Link not found trying again with different method")
             for pdf in parse_comment.find_all("a"):
 
                 if pdf.get("href").endswith(".pdf"):
@@ -270,6 +269,7 @@ def process_current_page(url):
             logging.info(f"Saved pdf to {pdf_path}")
 
             with pdfplumber.open(pdf_path) as pdf:
+                logging.info("Opening with PDF plumber")
                 PDF_TEXT = ""
                 for i, page in enumerate(pdf.pages):
                     text = page.extract_text()
@@ -284,10 +284,13 @@ def process_current_page(url):
                 if len(PDF_TEXT) < 100:
                     logging.error("PDF TEXT is too short")
                     continue
-                filename = saving_data.database_saving.create_filename(current_id)
 
-                if saving_data.database_saving.check_if_exists(filename):
-                    return None
+                # create file name and checking if exists
+                filename = saving_data.database_saving.create_filename(current_id)
+                logging.info(f"Filename: {filename}")
+
+                #if saving_data.database_saving.check_if_exists(filename):
+                 #   return None
 
                 if allowGPT:
                     logging.info("GPT proccessing")
@@ -296,7 +299,7 @@ def process_current_page(url):
                 else:
                     logging.info("GPT disabled")
                     logging.info("Skipping GPT")
-                saving_data.save_txt.save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
+                #saving_data.save_txt.save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
                 return None
 
         except Exception as e:
