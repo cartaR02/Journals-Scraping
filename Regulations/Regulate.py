@@ -5,9 +5,6 @@ import logging
 import time
 import requests
 import pdfplumber
-from openai import OpenAI
-from selenium import webdriver
-from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -17,6 +14,10 @@ import shutil
 import sys
 import getopt
 from date_handler import is_within_days_back
+import webdriver_config
+import chatgpt
+import saving_data.save_txt
+import saving_data.database_saving
 # At the beginning of your script, before setting up your own logging:
 import logging
 start_time = time.time()
@@ -43,12 +44,7 @@ logging.getLogger("pdfminer.six").setLevel(logging.CRITICAL)
 logging.getLogger("pdfminer.pdfinterp").setLevel(logging.CRITICAL)
 logging.getLogger("pdfminer").setLevel(logging.CRITICAL)
 
-OPEN_API_KEY = ""
 
-with open ("../key", "r") as f:
-    OPEN_API_KEY = f.read().strip()
-
-openai_client = OpenAI(api_key=OPEN_API_KEY)
 allowGPT = False
 import sys
 import getopt
@@ -100,50 +96,7 @@ formatter = logging.Formatter("%(name)-12s: %(levelname)-8s %(message)s")
 console.setFormatter(formatter)
 logging.getLogger("").addHandler(console)
 
-def selenium_config() -> webdriver:
-    options: Options = Options()
-    # Uncomment the next line for headless testing
-    # options.add_argument("--headless")
-    firefox_profile = webdriver.FirefoxProfile()
-    firefox_profile.set_preference("permissions.default.image", 1)
-    options.profile = firefox_profile
-    driver: webdriver = webdriver.Firefox(options=options)  # type: ignore
-    return driver
-
-driver = selenium_config()
-
-def ask_chat_gpt(PDF_Text, current_id, comments_link):
-    today_str = datetime.today().strftime("%B, %-d")
-    prompt = (
- # waiting on prompt
-        f"""Create a 400-word news story, with a news headline, from this text of a letter to a named federal agency that is used in the first paragraph. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer. At the begining of the letter start with the text like this exactly how I type it: WASHINGTON, {today_str} --\n
-If the agency is a department, use U.S. in front of it instead of United States spelled out.
-Do not use a dateline and avoid unnecessary acronyms.
-The last paragraph should say when the letter was sent to the government agency and if available the named individuals who are recipients of the letter.
-If any entities in the doc are from a government agency or a college, do not add additional geography of where it is located. If it is any other type of entity, include the geography of where it is located using a comma and then the city, state where it is located.
-All letters have to have one or more signers, and all signers and their affiliations and job titles, if available, should be mentioned in text somehow...
-If using District of Columbia, always refer to it as D.C.
-In text, do not include these words: honorable, significant, forthcoming, extensive, formal, formally, detailed.
-For 2nd references to entities, use synonyms.
-If using a person's title after their name, the letters are lowercase.
-Second references to people should be last name.
-If there are mutiple signers for the letter, create a paragraph that lists all of them."""
-    )
-    try:
-        response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
-            {"role": "system", "content": prompt},
-            {"role": "user", "content": PDF_Text}])
-        msg = response.choices[0].message.content
-        msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_Text + "\n\nView Original Submission: " + comments_link
-
-        filename_date = date.today().strftime('%Y-%m-%d')
-        ## Slot for kevin as no need to save to file when pushing to coder
-        ##
-        ##
-        save_pdf_to_text("./ai_response/" + current_id + "-" + filename_date, msg)
-    except Exception as e:
-        logging.error(f"Error: {e}")
-
+driver = webdriver_config.selenium_config()
 
 
 def retrieve_site_html(URL):
@@ -160,20 +113,6 @@ def retrieve_site_html(URL):
     
     return driver.page_source
 
-def click_filter(filter_text: str) -> bool:
-    """Clicks a filter link (like 'Last 7 Days') if it exists on the page."""
-    try:
-        logging.info(f"Attempting to click filter: {filter_text}")
-        element = WebDriverWait(driver, 10).until(
-            EC.element_to_be_clickable((By.XPATH, f'//a[contains(text(), "{filter_text}")]'))
-        )
-        element.click()
-        time.sleep(3)  # Allow any content refresh after click
-        return True
-    except Exception as e:
-        logging.warning(f"Could not click filter '{filter_text}': {e}")
-        return False
-
 def type_search_query(query: str) -> bool:
     """Types a search query into the typeahead input."""
     try:
@@ -188,15 +127,6 @@ def type_search_query(query: str) -> bool:
     except Exception as e:
         logging.error(f"Failed to type into search input: {e}")
         return False
-
-def save_pdf_to_text(pdf_path, pdf_text):
-
-    pdf_path = f"{pdf_path}.txt"
-
-    with open(pdf_path, "w") as f:
-        f.write(pdf_text)
-
-    logging.info(f"Saved PDF to {pdf_path}")
 
 
 
@@ -354,15 +284,19 @@ def process_current_page(url):
                 if len(PDF_TEXT) < 100:
                     logging.error("PDF TEXT is too short")
                     continue
+                filename = saving_data.database_saving.create_filename(current_id)
+
+                if saving_data.database_saving.check_if_exists(filename):
+                    return None
 
                 if allowGPT:
                     logging.info("GPT proccessing")
-                    ask_chat_gpt(PDF_TEXT, current_id, current_link)
+
+                    chatgpt.ask_chat_gpt(PDF_TEXT, current_id, current_link, filename)
                 else:
                     logging.info("GPT disabled")
                     logging.info("Skipping GPT")
-                save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
-
+                saving_data.save_txt.save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
                 return None
 
         except Exception as e:

@@ -44,7 +44,7 @@ A Python automation script for collecting, filtering, and extracting text from P
 ### 1. **Dependencies**
 
 Install required Python packages:
-pip install requests beautifulsoup4 pdfplumber
+pip install requests beautifulsoup4 pdfplumber openai
 
 ### 2. **API Credentials**
 
