@@ -199,7 +199,7 @@ def process_current_page(url):
     logging.info(f"List length: {len(attachments_list)}")
 
     for article in attachments_list:
-
+        logging.info("Starting article")
         current_link = article.find("a")
 
         if not current_link:
@@ -232,7 +232,7 @@ def process_current_page(url):
             logging.error("ID not found")
             continue
 
-        logging.info("Article Complete!")
+
         # this state is id is good and link
 
         comment_html = retrieve_site_html(current_link)
@@ -300,11 +300,11 @@ def process_current_page(url):
                     logging.info("GPT disabled")
                     logging.info("Skipping GPT")
                 #saving_data.save_txt.save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
-                return None
 
         except Exception as e:
             logging.error(f"Failed to process PDF for {current_link}::: {e}")
             continue
+        logging.info("Article Complete!")
     return None
 
 

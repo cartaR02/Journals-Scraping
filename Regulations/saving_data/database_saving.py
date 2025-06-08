@@ -51,7 +51,10 @@ def insert_into_db(headline, body, filename):
     insert_sql = """ INSERT INTO story (filename, uname, source, by_line, headline, story_txt, editor,invoice_tag, date_sent, sent_to, wire_to, nexis_sent, factiva_sent, status, content_date, last_action) VALUES (%s, %s, %s, %s, %s, %s, '', '', NOW(), '', '', NULL, NULL, %s, %s, SYSDATE()) """
 
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
-    cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str))
+    try:
+        cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str))
 
-    connection.commit()
-    connection.close()
+        connection.commit()
+        connection.close()
+    except mysql.connector.Error as error:
+        logging.error(f"Failed to insert into database duplicate: {error}")
