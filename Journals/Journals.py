@@ -256,7 +256,8 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             "LANDING_PAGE_GATHERING": journal_row[3],
             "LINK_DATA": journal_row[4],
             "HEADLINE_DATA": journal_row[5],
-            "HEADLINE_FORMATTING_DATA": journal_row[6]
+            "HEADLINE_FORMATTING_DATA": journal_row[6],
+            "JOURNAL_DATA_INFO": journal_row[7]
             # "DOC_CONTAINER": journal_row[4],
         }
 

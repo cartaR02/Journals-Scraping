@@ -1,4 +1,5 @@
 import scrapers.content_scraper as content_scraper
+from scrapers.container_scraper import get_containers
 from helpers import format_element
 from configs.config import selenium_config
 from helpers.scraper_helper import date_handler
@@ -19,7 +20,7 @@ the data for the db.
 
 def gather_contents(JOURNAL_INFO, issue_html, driver):
 
-    article_contents: dict = {}
+    journal_contents: dict = {}
 
     landing_page_link = content_scraper.scrape_content(
         JOURNAL_INFO["LINK_DATA"], issue_html, JOURNAL_INFO["JOURNAL_ID"], "LINK"
@@ -124,20 +125,21 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
             if issue_webpage_html is None:
                 return None
 
-    article_description = gather_description(AGENCY_DATA, article_webpage_html)
-    if article_description is not None:
-        article_description = format_element.desc_formatter(
-            article_description, AGENCY_DATA
-        )
+    journal_data = gather_journal_data(JOURNAL_INFO, issue_webpage_html)
+
+    if journal_data is not None:
+      pass
+        # article_description = format_element.desc_formatter(
+        #     article_description, AGENCY_DATA
+        # )
     else:
         # article description is none
         return None
 
-    article_contents["title"] = unidecode(webpage_titles)
-    article_contents["date"] = webpage_dates
-    article_contents["desc"] = article_description
-    article_contents["a_id"] = AGENCY_DATA["AGENCY_ID"]
-    article_contents["url"] = article_link
+    journal_contents["head"] = unidecode(webpage_titles)
+    journal_contents["jdata"] = article_description
+    journal_contents["a_id"] = JOURNAL_INFO["JOURNAL_ID"]
+    journal_contents["url"] = article_link
 
     for key in article_contents:
         if article_contents[key] is None:
@@ -152,3 +154,35 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
         logging.debug(f"Article Link: {article_contents['url']}")
 
     return article_contents
+
+
+# gather_description handles the description gathering for the different gather branches
+def gather_journal_data(JOURNAL_INFO, article_webpage_html):
+
+    alternate_journal_data = JOURNAL_INFO["JOURNAL_INFO_DATA"].split("<>")
+    # preventing local unbound error
+    journal_data = None
+
+    for desc in alternate_journal_data:
+        desc_split_data = desc.split("~")
+
+        # making this expecting the max to be 2
+        if len(desc_split_data) == 2:
+            # finding a container for description
+            article_webpage_html = get_containers(
+                desc_split_data[0], article_webpage_html
+            )
+            desc = desc_split_data[1]
+            if article_webpage_html == None:
+                continue
+
+        journal_data = content_scraper.scrape_content(
+            desc,
+            article_webpage_html,
+            JOURNAL_INFO["AGENCY_ID"],
+            "DESC",
+        )
+        if journal_data != None:
+            break
+
+    return journal_data
