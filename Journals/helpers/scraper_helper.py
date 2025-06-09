@@ -59,59 +59,21 @@ def format_slice(SLICING_DATA):
 
 
 # date_cleaner extracting date from text if needed and checks validity
-def date_handler(DATE_FORMATTING_DATA: str, date: str) -> str | None:
+def date_handler(HEADLINE_FORMATTING_DATA, date):
 
     extracted_date = ""
 
-    # this is initally a spec case for a site but could be used blanketly
-    month_map = {
-        " january ": "/01/",
-        " february ": "/02/",
-        " march ": "/03/",
-        " april ": "/04/",
-        " may ": "/05/",
-        " june ": "/06/",
-        " july ": "/07/",
-        " august ": "/08/",
-        " september ": "/09/",
-        " october ": "/10/",
-        " november ": "/11/",
-        " december ": "/12/",
-    }
-
-    # dict of weaknesses that the datefinder has
-    # trying to format the date beforehand to avoid its weaknesses
-    date_format = {
-        "yesterday": datetime.strftime(datetime.now() - timedelta(days=1), "%b/%d/%Y"),
-        "hours ago": lambda date: (datetime.now() - timedelta(hours=int(re.search(r"(\d+)", date).group(1)))).strftime("%b/%d/%Y"),
-        "today": datetime.strftime(datetime.now(), "%b/%d/%Y"),
-        "minutes ago": datetime.strftime(datetime.now(), "%b/%d/%Y"),
-    }
-
     date = date.lower()
-    for key in date_format:
-        if key in date:
-            # Calls lambda function from dictionary to handle the hours ago calculation
-            # not needed for minutes ago as scrapes are not done around midnight which would be the only case
-            # also that sites are unlikely to upload around midnight
-            date = date_format[key](date) if callable(date_format[key]) else date_format[key]  # Call function if it's callable
 
-    for month, number in month_map.items():
-        date = date.replace(month, number)
-
-    # replacing large amounts of whitespace embedded in date element
     date = re.sub("\s\s*", " ", date)
 
     # datefinder struggles with understanding 'Sept' for September dates
     if "sept" in date and "september" not in date:
         date = date.replace("sept", "sep")
 
-    # allows functionality to replace keywords from the date and also swap month and day
-    date_form_data = DATE_FORMATTING_DATA.split("~")
-    for data in date_form_data:
+    date_form_data = HEADLINE_FORMATTING_DATA.split("~")
 
-    # if keyword is detected, it will scrape dates that have the day before the month
-    # this keyword should be after any keyword replacment in order to work properly
+    for data in date_form_data:
         if data == "swap":
             try:
                 extracted_date = parser.parse(date, dayfirst=True)
@@ -133,10 +95,6 @@ def date_handler(DATE_FORMATTING_DATA: str, date: str) -> str | None:
                 logging.error(f"Date Extraction failed: {date}")
                 return None
 
-    # checking how many days ago the date is
-    days = (datetime.now() - extracted_date).days
-    if days <= program_state["amount_of_days"] and days >= -7:
-        return extracted_date.strftime("%Y-%m-%d")
-
-    logging.info(f"INVALID DATE: {extracted_date}")
-    return "INVALID"
+    # TODO: figure out how to interpret the months and what to return
+    logging.info(f"extracted month: {extracted_date.month}")
+    logging.info(f"current month: {datetime.now().month}")
