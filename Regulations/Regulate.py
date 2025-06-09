@@ -18,6 +18,8 @@ import webdriver_config
 import chatgpt
 import saving_data.save_txt
 import saving_data.database_saving
+import global_info
+import cleanup_text
 # At the beginning of your script, before setting up your own logging:
 import logging
 start_time = time.time()
@@ -50,12 +52,14 @@ allowGPT = False
 
 # Global variable for number of days back (default 0)
 days_back = 0
+doc_limit = 0
+doc_count = 0
 
 def parse_arguments():
     global allowGPT, days_back
     filter_id = None
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "Gd:", ["gpt", "days="])
+        opts, args = getopt.getopt(sys.argv[1:], "Gd:l:", ["gpt", "days=", "limit="])
         for opt, arg in opts:
             if opt == "-G" or opt == "--gpt":
                 allowGPT = True
@@ -66,14 +70,22 @@ def parse_arguments():
                 except ValueError:
                     print("Error: -d (or --days) argument requires an integer!")
                     sys.exit(2)
+            elif opt == "-l":
+                try:
+                    doc_limit = int(arg)
+                except ValueError:
+                    logging.error("Error: -l argument requires an integer!")
+                    sys.exit(2)
     except getopt.GetoptError:
-        print('Usage: python Regulate.py -G [-d N]')
+        print('Usage: python Regulate.py -G [-d N] [-l N]')
         print('  -G: Enable GPT processing')
         print('  -d N: Set number of days back (default 0)')
+        print('  -l N: Set document limit (default 0, no limit)')
         sys.exit(2)
 
     logging.info(f"GPT Enabled: {'Yes' if allowGPT else 'No'}")
     logging.info(f"Days Back: {days_back}")
+    logging.info(f"Document Limit: {doc_limit if doc_limit > 0 else 'No limit'}")
 
     return filter_id
 
@@ -108,7 +120,7 @@ def retrieve_site_html(URL):
         logging.error(f"{URL} Failed to access: {e}")
         return None
 
-    
+
     return driver.page_source
 
 def type_search_query(query: str) -> bool:
@@ -174,6 +186,7 @@ def go_to_next_page(driver, url, timeout=10):
 
 def process_current_page(url):
     html = retrieve_site_html(url)
+    global doc_count
 
     if not html:
         logging.info("Site did not search properly")
@@ -199,6 +212,10 @@ def process_current_page(url):
     logging.info(f"List length: {len(attachments_list)}")
 
     for article in attachments_list:
+        if doc_limit != 0 and doc_count >= doc_limit:
+            logging.info("Reached doc limit")
+            return None
+        doc_count += 1
         logging.info("Starting article")
         current_link = article.find("a")
 
@@ -244,6 +261,7 @@ def process_current_page(url):
         parse_comment = BeautifulSoup(comment_html, "html.parser")
 
         pdf_download = parse_comment.find(class_="btn btn-default btn-block")
+        pdf_download_link = ""
         try:
             pdf_download_link = pdf_download.get("href")
         except:
@@ -255,6 +273,7 @@ def process_current_page(url):
 
             if pdf_download_link == "":
                 logging.error("PDF not found")
+                global_info.no_pdf_found.append(current_id)
                 continue
         logging.info(f"pdf download link: {pdf_download_link}")
 
@@ -278,11 +297,10 @@ def process_current_page(url):
                     else:
                         logging.info("No text found on page")
 
-                logging.info("---------FINISHED PDF PAGE ---\n")
-                logging.info(f"PDF TEXT: {len(PDF_TEXT)}")
 
                 if len(PDF_TEXT) < 100:
                     logging.error("PDF TEXT is too short")
+                    global_info.no_pdf_text.append(current_link)
                     continue
 
                 # create file name and checking if exists
@@ -290,8 +308,8 @@ def process_current_page(url):
                 logging.info(f"Filename: {filename}")
 
                 #if saving_data.database_saving.check_if_exists(filename):
-                 #   return None
-
+                   # return None
+                PDF_TEXT = cleanup_text.cleanup_text(PDF_TEXT)
                 if allowGPT:
                     logging.info("GPT proccessing")
 
@@ -336,6 +354,9 @@ if __name__ == "__main__":
     logging.info(f"Total time: {total_time}")
     logging.info("Finished")
 
+    logging.info("Duplicates")
+    logging.info(global_info.duplicate_files)
+    logging.info(f"Doc Count {doc_count}")
 
 
 driver.quit()

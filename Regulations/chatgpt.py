@@ -32,11 +32,10 @@ If there are mutiple signers for the letter, create a paragraph that lists all o
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
-        msg = msg + "\n\n\n----------------INPUT:----------------\n\n " +  PDF_Text + "\n\nView Original Submission: " + comments_link
+        msg = msg + "\n\n-----------------------------------\n\nView Original Submission: " + comments_link
         headline = 'THis IS a test'
-        ## Slot for kevin as no need to save to file when pushing to coder
-        ##
-        ##
-        database_saving.insert_into_db(headline, msg, filename)
+        ## TODO ADD DOCKET END OF TEXT
+
+        database_saving.insert_into_db(headline, msg, PDF_Text, filename)
     except Exception as e:
         logging.error(f"Error: {e}")

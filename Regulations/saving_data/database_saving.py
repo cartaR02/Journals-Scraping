@@ -1,6 +1,6 @@
 import datetime
 import os
-
+import global_info
 import yaml
 import mysql.connector
 import logging
@@ -37,24 +37,26 @@ def check_if_exists(filename):
         logging.info("Executed sql")
         if cursor.fetchone()[0] > 0:
             logging.info("Skipping duplicate before gpt call")
+            global_info.duplicate_files.append(filename)
             connection.close()
             return True
         return False
     except Exception as e:
         logging.error(f"Error while checking filename: {e}")
 
-def insert_into_db(headline, body, filename):
+def insert_into_db(headline, body, original_txt, filename):
     connection = get_db_connection()
     cursor = connection.cursor()
     source_id = 98
 
-    insert_sql = """ INSERT INTO story (filename, uname, source, by_line, headline, story_txt, editor,invoice_tag, date_sent, sent_to, wire_to, nexis_sent, factiva_sent, status, content_date, last_action) VALUES (%s, %s, %s, %s, %s, %s, '', '', NOW(), '', '', NULL, NULL, %s, %s, SYSDATE()) """
+    insert_sql = """ INSERT INTO story (filename, uname, source, by_line, headline, story_txt, editor,invoice_tag, date_sent, sent_to, wire_to, nexis_sent, factiva_sent, status, content_date, last_action, orig_txt) VALUES (%s, %s, %s, %s, %s, %s, '', '', NOW(), '', '', NULL, NULL, %s, %s, SYSDATE(), %s) """
 
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     try:
-        cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str))
+        cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str, original_txt))
 
         connection.commit()
         connection.close()
     except mysql.connector.Error as error:
+
         logging.error(f"Failed to insert into database duplicate: {error}")
