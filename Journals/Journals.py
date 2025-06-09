@@ -296,7 +296,8 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
         if single_gather:
 
             for issue_html in issue_container_html:
-                journal_contents = gather_path.gather_article(JOURNAL_INFO, issue_html, driver)
+                journal_contents = gather_path.gather_article.gather_contents(JOURNAL_INFO, issue_html, driver)
+                logging.info(journal_contents)
 
         else:
             logging.info("gather all")
