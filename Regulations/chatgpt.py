@@ -14,25 +14,23 @@ def ask_chat_gpt(PDF_Text, current_id, comments_link, filename):
     today_str = datetime.today().strftime("%B, %-d")
     prompt = (
  # waiting on prompt
-        f"""Create a 400-word news story, with a news headline, from this text of a letter to a named federal agency that is used in the first paragraph. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer. At the begining of the letter start with the text like this exactly how I type it: WASHINGTON, {today_str} --\n
-If the agency is a department, use U.S. in front of it instead of United States spelled out.
-Do not use a dateline and avoid unnecessary acronyms.
-The last paragraph should say when the letter was sent to the government agency and if available the named individuals who are recipients of the letter.
-If any entities in the doc are from a government agency or a college, do not add additional geography of where it is located. If it is any other type of entity, include the geography of where it is located using a comma and then the city, state where it is located.
-All letters have to have one or more signers, and all signers and their affiliations and job titles, if available, should be mentioned in text somehow...
-If using District of Columbia, always refer to it as D.C.
-In text, do not include these words: honorable, significant, forthcoming, extensive, formal, formally, detailed.
-For 2nd references to entities, use synonyms.
+        f"""Create a 400-word news story, with a news headline on a separate line without a period above the opening of the text, from this text of a letter to a named federal agency. Use the name of that agency in the first paragraph in full only; and subsequently use a synonym or acronym. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer. Use the persons first and last name only in the first instance.
+        All docs should start with a headline and then the subsequent paragraphs.  The first paragraph starts with "WASHINGTON, {today_str} --"
+        If the agency is a department, use U.S. in front of it instead of United States spelled out.
+If there are mutiple signers for the letter, create a paragraph that lists all of them.
 If using a person's title after their name, the letters are lowercase.
-Second references to people should be last name.
-If there are mutiple signers for the letter, create a paragraph that lists all of them."""
+If using District of Columbia, always refer to it as D.C.
+In text, do not include these words: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
+The last paragraph should only say when the letter was sent to the government agency and the named individuals who are recipients of the letter, if available. Do not repeat the name or organization of the signer in full as it was used above."""
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
-        msg = msg + "\n\n-----------------------------------\n\nView Original Submission: " + comments_link
+        split_body = msg.split("\n")
+        headline = split_body[0]
+        msg = split_body[1] + "\n\n-----------------------------------\n\nView Original Submission: " + comments_link
         headline = 'THis IS a test'
         ## TODO ADD DOCKET END OF TEXT
 

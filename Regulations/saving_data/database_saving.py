@@ -33,13 +33,17 @@ def check_if_exists(filename):
         connection = get_db_connection()
         logging.info("Connected to db")
         cursor = connection.cursor()
-        cursor.execute("SELECT * FROM story WHERE filename = %s", (filename,))
+        cursor.execute("SELECT 1 FROM story WHERE filename = %s", (filename,))
         logging.info("Executed sql")
-        if cursor.fetchone()[0] > 0:
+        found_filename = cursor.fetchone()
+        if found_filename:
             logging.info("Skipping duplicate before gpt call")
             global_info.duplicate_files.append(filename)
             connection.close()
             return True
+        else:
+            logging.info("No Duplicate Found")
+        connection.close()
         return False
     except Exception as e:
         logging.error(f"Error while checking filename: {e}")

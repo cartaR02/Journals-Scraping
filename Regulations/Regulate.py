@@ -307,8 +307,8 @@ def process_current_page(url):
                 filename = saving_data.database_saving.create_filename(current_id)
                 logging.info(f"Filename: {filename}")
 
-                #if saving_data.database_saving.check_if_exists(filename):
-                   # return None
+                if saving_data.database_saving.check_if_exists(filename):
+                   continue
                 PDF_TEXT = cleanup_text.cleanup_text(PDF_TEXT)
                 if allowGPT:
                     logging.info("GPT proccessing")
