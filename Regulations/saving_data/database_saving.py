@@ -58,7 +58,7 @@ def insert_into_db(headline, body, original_txt, filename):
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     try:
         cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str, original_txt))
-
+        global_info.docs_added.append(filename)
         connection.commit()
         connection.close()
     except mysql.connector.Error as error:

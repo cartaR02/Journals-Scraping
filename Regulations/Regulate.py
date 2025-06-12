@@ -13,6 +13,8 @@ import os
 import shutil
 import sys
 import getopt
+
+from Email import email_output
 from date_handler import is_within_days_back
 import webdriver_config
 import chatgpt
@@ -49,6 +51,7 @@ logging.getLogger("pdfminer").setLevel(logging.CRITICAL)
 
 
 allowGPT = False
+production_run = False
 
 # Global variable for number of days back (default 0)
 days_back = 0
@@ -56,10 +59,10 @@ doc_limit = 0
 doc_count = 0
 
 def parse_arguments():
-    global allowGPT, days_back
+    global allowGPT, days_back, production_run, doc_limit
     filter_id = None
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "Gd:l:", ["gpt", "days=", "limit="])
+        opts, args = getopt.getopt(sys.argv[1:], "Gd:l:P", ["gpt", "days=", "limit=", "production"])
         for opt, arg in opts:
             if opt == "-G" or opt == "--gpt":
                 allowGPT = True
@@ -76,6 +79,8 @@ def parse_arguments():
                 except ValueError:
                     logging.error("Error: -l argument requires an integer!")
                     sys.exit(2)
+            elif opt == "-P" or opt == "--production":
+                production_run = True
     except getopt.GetoptError:
         print('Usage: python Regulate.py -G [-d N] [-l N]')
         print('  -G: Enable GPT processing')
@@ -86,6 +91,7 @@ def parse_arguments():
     logging.info(f"GPT Enabled: {'Yes' if allowGPT else 'No'}")
     logging.info(f"Days Back: {days_back}")
     logging.info(f"Document Limit: {doc_limit if doc_limit > 0 else 'No limit'}")
+    logging.info(f"Production Run: {'Yes' if production_run else 'No'}")
 
     return filter_id
 
@@ -186,7 +192,8 @@ def go_to_next_page(driver, url, timeout=10):
 
 def process_current_page(url):
     html = retrieve_site_html(url)
-    global doc_count
+    global doc_count, doc_limit
+
 
     if not html:
         logging.info("Site did not search properly")
@@ -214,9 +221,10 @@ def process_current_page(url):
     for article in attachments_list:
         if doc_limit != 0 and doc_count >= doc_limit:
             logging.info("Reached doc limit")
-            return None
+            # arbitrary number just for outer loop to stop when this returned
+            return 100
         doc_count += 1
-        logging.info("Starting article")
+        logging.info(f"Starting article number {doc_count} out of {doc_limit}")
         current_link = article.find("a")
 
         if not current_link:
@@ -329,8 +337,10 @@ def process_current_page(url):
 def process_all_pages(driver, base_url):
     curr_url = base_url
     while True:
-        if process_current_page(curr_url) == 100:
+        result_code = process_current_page(curr_url)
+        if result_code == 100:
             break
+
 
         success = go_to_next_page(driver, curr_url)
         if not success:
@@ -349,6 +359,8 @@ if __name__ == "__main__":
     clear_folders()
     process_all_pages(driver, url)
 
+    if production_run:
+        email_output()
     end_time = time.time()
     total_time = end_time - start_time
     logging.info(f"Total time: {total_time}")
@@ -357,6 +369,7 @@ if __name__ == "__main__":
     logging.info("Duplicates")
     logging.info(global_info.duplicate_files)
     logging.info(f"Doc Count {doc_count}")
+
 
 
 driver.quit()
