@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup, NavigableString
 import logging
 import time
 import requests
-import gather_path.gather_article
+import gather_path.gather_issue
 import configs.config as config
 from web_requests import get_website
 from scrapers.container_scraper import get_containers
@@ -82,6 +82,7 @@ csvFileName = "WebsiteData.csv"
 # Global variable to control GPT usage
 allowGPT = False
 
+
 # Parse command line arguments
 def parse_arguments():
     global allowGPT
@@ -94,11 +95,12 @@ def parse_arguments():
             elif opt in ("-G"):
                 allowGPT = True
     except getopt.GetoptError:
-        print('Usage: python Journals.py -i <id> [-G]')
-        print('  -i <id>: Filter by journal ID')
-        print('  -G: Enable GPT processing')
+        print("Usage: python Journals.py -i <id> [-G]")
+        print("  -i <id>: Filter by journal ID")
+        print("  -G: Enable GPT processing")
         sys.exit(2)
     return filter_id
+
 
 def accept_cookies(driver):
     # List of common cookie accept button identifiers
@@ -118,7 +120,10 @@ def accept_cookies(driver):
         (By.XPATH, "//button[contains(text(), 'Accept Cookies')]"),
         # For the specific APA website
         (By.XPATH, "//button[contains(@class, 'cookie-notification__accept')]"),
-        (By.XPATH, "//button[contains(@class, 'cookie-notification')]//span[contains(text(), 'Accept')]/..")
+        (
+            By.XPATH,
+            "//button[contains(@class, 'cookie-notification')]//span[contains(text(), 'Accept')]/..",
+        ),
     ]
 
     for by, identifier in cookie_button_identifiers:
@@ -135,6 +140,7 @@ def accept_cookies(driver):
 
     logging.info("No cookie consent button found or needed")
     return False
+
 
 # Then modify your retrieve_site_html function to include this:
 def retrieve_site_html(URL):
@@ -155,6 +161,7 @@ def retrieve_site_html(URL):
 
     page_source = driver.page_source
     return BeautifulSoup(page_source, "html.parser")
+
 
 def gather_landing_page_containers(LANDING_PAGE_CONTAINERS, HTML):
     """
@@ -180,11 +187,11 @@ def gather_landing_page_containers(LANDING_PAGE_CONTAINERS, HTML):
 
         FIND_ALL: bool = find_operation == "find_all"
         IS_ELEM: bool = key_or_elem == "elem"
-        #logging.info("Processing lookup: " + finds)
+        # logging.info("Processing lookup: " + finds)
         if IS_ELEM:
             if FIND_ALL:
                 html_to_return = html_to_return.find_all(name)  # type: ignore
-                #logging.info("find_all on tag: " + name)
+                # logging.info("find_all on tag: " + name)
             else:
                 html_to_return = html_to_return.find(name)  # type: ignore
                 logging.info("find on tag: " + name)
@@ -196,10 +203,13 @@ def gather_landing_page_containers(LANDING_PAGE_CONTAINERS, HTML):
             else:
                 html_to_return = html_to_return.find(attrs=attributes)  # type: ignore
                 logging.info("find on attribute: " + str(attributes))
-        if html_to_return is None or (isinstance(html_to_return, list) and not html_to_return):
+        if html_to_return is None or (
+            isinstance(html_to_return, list) and not html_to_return
+        ):
             logging.error("Lookup failed at step: " + finds)
             return None
     return html_to_return
+
 
 def extract_article_tags(HTML):
     """
@@ -217,7 +227,8 @@ def extract_article_tags(HTML):
         articles = HTML.find_all("article")
     return articles
 
-def ask_chat_gpt(journal_headline,Site_html):
+
+def ask_chat_gpt(journal_headline, Site_html):
     prompt = (
         f"Create a 500-word news story, with a headline, for this text focused on\n"
         "Using two key research project, but mentioning others below it."
@@ -226,9 +237,13 @@ def ask_chat_gpt(journal_headline,Site_html):
         "Use the journal headline for some context " + journal_headline
     )
     try:
-        response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
-            {"role": "system", "content": prompt},
-            {"role": "user", "content": Site_html[:8000]}])
+        response = openai_client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": Site_html[:8000]},
+            ],
+        )
         msg = response.choices[0].message.content
         logging.info(msg)
     except Exception as e:
@@ -237,10 +252,12 @@ def ask_chat_gpt(journal_headline,Site_html):
 
 # Get the filter ID from command line arguments and set allowGPT if -G is provided
 filter_id = parse_arguments()
-logging.info(f"Filter ID: {filter_id if filter_id else 'None - processing all journals'}")
+logging.info(
+    f"Filter ID: {filter_id if filter_id else 'None - processing all journals'}"
+)
 logging.info(f"GPT Processing: {'Enabled' if allowGPT else 'Disabled'}")
 
-with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
+with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
     journal_reader = csv.reader(journal_data)
     counter = 0
     for journal_row in journal_reader:
@@ -257,8 +274,13 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
             "LINK_DATA": journal_row[4],
             "HEADLINE_DATA": journal_row[5],
             "HEADLINE_FORMATTING_DATA": journal_row[6],
-            "JOURNAL_DATA_INFO": journal_row[7]
-            # "DOC_CONTAINER": journal_row[4],
+            "DATE_DATA": journal_row[7],
+            "DATE_FORMATTING_DATA": journal_row[8],
+            "JOURNAL_DATA_INFO": journal_row[9],
+            "JOURNAL_INFO_FORMATTING": journal_row[10],
+            "LOAD_TIME": journal_row[11],
+            "BYPASS": journal_row[12],
+            "STATUS": journal_row[13],
         }
 
         # handling url data
@@ -276,7 +298,7 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
         )
 
         # getting landing page html
-        webpage_html = get_website(JOURNAL_INFO["FULL_URL"], driver, JOURNAL_INFO)
+        webpage_html = get_website(JOURNAL_INFO["FULL_URL"], driver, JOURNAL_INFO, config.program_state)
         if webpage_html is None:
             logging.error(f"html is None")
             continue
@@ -296,7 +318,9 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
         if single_gather:
 
             for issue_html in issue_container_html:
-                journal_contents = gather_path.gather_article.gather_contents(JOURNAL_INFO, issue_html, driver)
+                journal_contents = gather_path.gather_issue.gather_contents(
+                    JOURNAL_INFO, issue_html, driver
+                )
                 logging.info(journal_contents)
 
         else:
@@ -308,7 +332,6 @@ with open(csvFileName, "r", newline='', encoding='utf-8') as journal_data:
         #     print("HTML LENGTH: " + str(html) )
         #     logging.error("Failed to retrieve HTML for: " + JOURNAL_INFO["URL"])
         #     continue
-
 
         # logging.info("HTML GATHERED")
         # url_list = html.find_all(class_=JOURNAL_INFO["LINK_CLASS"])

@@ -1,4 +1,5 @@
+# journal_id,     url_field,    journal_containers,     landing_page_gathering,   link_data,    headline_data,    headline_formatting_data,   date_data,    date_formatting_data,     journal_data_info,    journal_info_formatting,    load_time,    bypass,   status
 37493,https://journals.sagepub.com/loi/aer|https://journals.sagepub.com,loi__issue__link,heading-m,toc-container
 26376,https://journals.sagepub.com/loi/aer|https://journals.sagepub.com,loi__issue__link,heading-m,toc-container
 37980,https://journals.lww.com/jpae/Pages/issuelist.aspx|https://journals.lww.com,AVIssueLink,issueDetails,article-list
-37055,https://dl.acm.org/loi/toce/group/d2020.y2025|https://dl.acm.org,find|class|rlist row issues-list~find_all|elem|li,True,find|class|loi__issue,find|class|issue__info-container,,find|id|tableOfContent
+37055,https://dl.acm.org/loi/toce/group/d2020.y2025|https://dl.acm.org,find|class|rlist row issues-list~find_all|elem|li,True,find|class|loi__issue,find|class|issue__info-container,,find|class|coverDate,,find|id|tableOfContent,,,True,D

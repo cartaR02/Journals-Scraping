@@ -96,5 +96,12 @@ def date_handler(HEADLINE_FORMATTING_DATA, date):
                 return None
 
     # TODO: figure out how to interpret the months and what to return
-    logging.info(f"extracted month: {extracted_date.month}")
-    logging.info(f"current month: {datetime.now().month}")
+    if extracted_date.month == datetime.now().month - 1:
+        logging.info(f"valid date: {extracted_date.month}")
+        return True
+    else:
+        logging.info(
+            f"invalid date, current {datetime.now().month}, extracted {extracted_date.month}"
+        )
+        return "INVALID"
+    # logging.info(f"current month: {datetime.now().month}")

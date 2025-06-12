@@ -14,9 +14,7 @@ import logging
 # get_website handles the standard procedure for gathering the landing page source code
 # returns website_html_data or None if the process failed
 # @typechecked
-def get_website(
-    url: str, driver: webdriver, JOURNAL_INFO: dict
-) -> bs4.BeautifulSoup | None:
+def get_website(url, driver, JOURNAL_INFO, program_state):
 
     # load time to be set
     load_time: int | float = 0
@@ -34,12 +32,11 @@ def get_website(
 
             # TODO temp load_time
             # checking to see if this url needs a different load time than default
-            # load_time = (
-            #     program_state["DEFAULT_LOAD_TIME"]
-            #     if len(AGENCY_DATA["LOAD_TIME"]) == 0
-            #     else int(AGENCY_DATA["LOAD_TIME"])
-            # )
-            load_time = 1
+            load_time = (
+                program_state["DEFAULT_LOAD_TIME"]
+                if len(JOURNAL_INFO["LOAD_TIME"]) == 0
+                else int(JOURNAL_INFO["LOAD_TIME"])
+            )
 
             logging.info(f"Driver opened url {url}: {load_time} second load started")
             time.sleep(load_time)

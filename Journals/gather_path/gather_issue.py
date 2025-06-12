@@ -1,3 +1,4 @@
+from helpers.format_element import format_title, issue_formatter
 import scrapers.content_scraper as content_scraper
 from scrapers.container_scraper import get_containers
 from configs.config import selenium_config
@@ -83,27 +84,27 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
 
     # TODO make sure headlines and dates are the same thing for journals
 
-    # issue_head = format_element.format_title(
-    #     issue_head, JOURNAL_INFO["HEADLINE_FORMATTING_DATA"], JOURNAL_INFO["JOURNAL_ID"]
-    # )
+    issue_head = format_title(
+        issue_head, JOURNAL_INFO["HEADLINE_FORMATTING_DATA"], JOURNAL_INFO["JOURNAL_ID"]
+    )
 
     # if AGENCY_DATA["TITLE_REMOVE"] != "" and AGENCY_DATA["TITLE_REMOVE"] in webpage_titles.text:
     #     logging.info(f"SKIP: {JOURNAL_INFO['TITLE_REMOVE']} found in title")
     #     return None
 
-    # issue_dates = content_scraper.scrape_content(
-    #     JOURNAL_INFO["DATE_DATA"], html, JOURNAL_INFO["AGENCY_ID"], "DATE"
-    # )
+    issue_dates = content_scraper.scrape_content(
+        JOURNAL_INFO["DATE_DATA"], html, JOURNAL_INFO["JOURNAL_ID"], "DATE"
+    )
 
-    if issue_head is not None:
+    if issue_dates is not None:
         # extracting and formatting date, returns INVALID if date is not recent
-        if isinstance(issue_head, list):
-            issue_head = issue_head[0]
-        issue_head = date_handler( JOURNAL_INFO["HEADLINE_FORMATTING_DATA"], issue_head.text)
-        if issue_head is None:
+        if isinstance(issue_dates, list):
+            issue_dates = issue_dates[0]
+        issue_dates = date_handler( JOURNAL_INFO["DATE_FORMATTING_DATA"], issue_dates.text)
+        if issue_dates is None:
             # globals.date_is_none.append(f"Date is None: {AGENCY_DATA['AGENCY_ID']}")
             return None
-        elif issue_head == "INVALID":
+        elif issue_dates == "INVALID":
             return str("INVALID")
 
     # code duplication to save runtime
@@ -128,15 +129,15 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
     journal_data = gather_journal_data(JOURNAL_INFO, issue_webpage_html)
 
     if journal_data is not None:
-      pass
-        # article_description = format_element.desc_formatter(
-        #     article_description, AGENCY_DATA
-        # )
+        journal_data = issue_formatter(
+            journal_data, JOURNAL_INFO
+        )
     else:
         # article description is none
         return None
 
     journal_contents["head"] = unidecode(issue_head)
+    journal_contents["date"] = issue_dates
     journal_contents["jdata"] = journal_data
     journal_contents["a_id"] = JOURNAL_INFO["JOURNAL_ID"]
     journal_contents["url"] = issue_link
