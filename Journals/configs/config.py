@@ -11,7 +11,7 @@ import logging
 # contains config variables for the program
 # using a dict so data can be mutated and accessed from other files
 program_state = {
-    "amount_of_days": 1,
+    "amount_of_months": 1,
     "DEFAULT_LOAD_TIME": 0.5,
     "specific_id": "",
     "lede_filter": "%",
@@ -40,7 +40,7 @@ def selenium_config() -> webdriver:
     # )
     #options.add_argument("--start-maximized")
     try:
-        options.add_argument("--headless")
+        # options.add_argument("--headless")
         options.profile = firefox_profile
         driver: webdriver = webdriver.Firefox(options=options)
     except WebDriverException as err:

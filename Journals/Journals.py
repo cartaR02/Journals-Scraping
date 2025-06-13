@@ -4,7 +4,8 @@ from bs4 import BeautifulSoup, NavigableString
 import logging
 import time
 import requests
-import gather_path.gather_issue
+from gather_path.gather_issue import gather_content
+from gather_path.gather_all_issues import gather_contents
 import configs.config as config
 from web_requests import get_website
 from scrapers.container_scraper import get_containers
@@ -15,6 +16,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from configs.config import program_state
 import sys
 import getopt
 
@@ -88,12 +90,15 @@ def parse_arguments():
     global allowGPT
     filter_id = None
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "i:G", ["id=", "gpt"])
+        opts, args = getopt.getopt(sys.argv[1:], "i:Gm:", ["id=", "gpt"])
         for opt, arg in opts:
             if opt in ("-i"):
                 filter_id = arg
-            elif opt in ("-G"):
+            if opt in ("-G"):
                 allowGPT = True
+            if opt == "-m":
+                program_state["amount_of_months"] = arg
+
     except getopt.GetoptError:
         print("Usage: python Journals.py -i <id> [-G]")
         print("  -i <id>: Filter by journal ID")
@@ -276,7 +281,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
             "HEADLINE_FORMATTING_DATA": journal_row[6],
             "DATE_DATA": journal_row[7],
             "DATE_FORMATTING_DATA": journal_row[8],
-            "JOURNAL_DATA_INFO": journal_row[9],
+            "JOURNAL_INFO_DATA": journal_row[9],
             "JOURNAL_INFO_FORMATTING": journal_row[10],
             "LOAD_TIME": journal_row[11],
             "BYPASS": journal_row[12],
@@ -298,7 +303,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
         )
 
         # getting landing page html
-        webpage_html = get_website(JOURNAL_INFO["FULL_URL"], driver, JOURNAL_INFO, config.program_state)
+        webpage_html = get_website(JOURNAL_INFO["FULL_URL"], driver, JOURNAL_INFO)
         if webpage_html is None:
             logging.error(f"html is None")
             continue
@@ -317,41 +322,29 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
 
         if single_gather:
 
+            invalid_counter = 0
+
             for issue_html in issue_container_html:
-                journal_contents = gather_path.gather_issue.gather_contents(
+
+                if invalid_counter > 3:
+                    break
+
+                journal_contents = gather_content(
                     JOURNAL_INFO, issue_html, driver
                 )
+                if journal_contents is None:
+                    continue
+
+                # incrementing the invalid counter when date isn't recent
+                if journal_contents == "INVALID":
+                    invalid_counter += 1
+                    continue
+
                 logging.info(journal_contents)
 
         else:
-            logging.info("gather all")
-
-        # html = retrieve_site_html(JOURNAL_INFO["URL"])
-        # if html is None:
-        #     logging.error("HTML LENGTH: " + str(len(html)) ) # type: ignore
-        #     print("HTML LENGTH: " + str(html) )
-        #     logging.error("Failed to retrieve HTML for: " + JOURNAL_INFO["URL"])
-        #     continue
-
-        # logging.info("HTML GATHERED")
-        # url_list = html.find_all(class_=JOURNAL_INFO["LINK_CLASS"])
-
-        # for link in url_list:
-        #     logging.info("LINK GATHERED")
-        #     href = link.get('href')
-        #     logging.info(href)
-        #     full_url = JOURNAL_INFO["PRE_URL"] + href
-        #     site_html = retrieve_site_html(full_url)
-        #     journal_head = site_html.find(class_=JOURNAL_INFO["HEADLINE_CONTAINER"])
-        #     logging.info(journal_head.get_text().strip())
-        #     site_html = site_html.find(class_=JOURNAL_INFO["DOC_CONTAINER"])
-
-        #     if site_html is None:
-        #         logging.error("Failed to retrieve HTML for: " + full_url)
-        #         continue
-        #     if allowGPT:
-        #         ask_chat_gpt(journal_head.get_text(), str(site_html))
-        #     else:
-        #         logging.info("GPT disabled not processing data")
+            journal_contents = gather_contents(
+                JOURNAL_INFO, issue_container_html, driver
+            )
 
 driver.quit()

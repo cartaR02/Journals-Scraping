@@ -1,7 +1,7 @@
 from typeguard import typechecked
 import logging
 from datetime import datetime
-from datetime import timedelta
+from configs.config import program_state
 import datefinder
 import dateparser
 import bs4.element
@@ -96,7 +96,7 @@ def date_handler(HEADLINE_FORMATTING_DATA, date):
                 return None
 
     # TODO: figure out how to interpret the months and what to return
-    if extracted_date.month == datetime.now().month - 1:
+    if extracted_date.month == datetime.now().month - int(program_state["amount_of_months"]):
         logging.info(f"valid date: {extracted_date.month}")
         return True
     else:

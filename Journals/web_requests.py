@@ -3,6 +3,7 @@ from urllib3.exceptions import ReadTimeoutError
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from requests.exceptions import RequestException
+from configs.config import program_state
 import cloudscraper.exceptions
 import cloudscraper
 import bs4
@@ -14,7 +15,7 @@ import logging
 # get_website handles the standard procedure for gathering the landing page source code
 # returns website_html_data or None if the process failed
 # @typechecked
-def get_website(url, driver, JOURNAL_INFO, program_state):
+def get_website(url, driver, JOURNAL_INFO):
 
     # load time to be set
     load_time: int | float = 0

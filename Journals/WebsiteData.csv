@@ -2,4 +2,4 @@
 37493,https://journals.sagepub.com/loi/aer|https://journals.sagepub.com,loi__issue__link,heading-m,toc-container
 26376,https://journals.sagepub.com/loi/aer|https://journals.sagepub.com,loi__issue__link,heading-m,toc-container
 37980,https://journals.lww.com/jpae/Pages/issuelist.aspx|https://journals.lww.com,AVIssueLink,issueDetails,article-list
-37055,https://dl.acm.org/loi/toce/group/d2020.y2025|https://dl.acm.org,find|class|rlist row issues-list~find_all|elem|li,True,find|class|loi__issue,find|class|issue__info-container,,find|class|coverDate,,find|id|tableOfContent,,,True,D
+37055,https://dl.acm.org/loi/toce/group/d2020.y2025|https://dl.acm.org,find|class|rlist row issues-list,True,find_all|class|loi__issue,find_all|class|issue__info-container,,find_all|class|coverDate,,find|id|tableOfContent,,,True,D

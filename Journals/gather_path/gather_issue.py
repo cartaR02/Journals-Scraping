@@ -19,7 +19,7 @@ the data for the db.
 """
 
 
-def gather_contents(JOURNAL_INFO, issue_html, driver):
+def gather_content(JOURNAL_INFO, issue_html, driver):
 
     journal_contents: dict = {}
 
@@ -149,7 +149,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
     # used for debugging the outputs
     logging.debug(f"Titles: {journal_contents['title']}")
     logging.debug(f"Dates: {journal_contents['date']}")
-    logging.debug(f"Desc: {journal_contents['desc']}")
+    logging.debug(f"Desc: {journal_contents['jdata']}")
     logging.debug(f"Journal_id {journal_contents['a_id']}")
     logging.debug(f"Article Link: {journal_contents['url']}")
 
