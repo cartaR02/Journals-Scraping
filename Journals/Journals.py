@@ -309,7 +309,6 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
             continue
 
         # parsing through article containers
-        # TODO change dict to work with journals
         issue_container_html = get_containers(
             JOURNAL_INFO["JOURNAL_CONTAINERS"], webpage_html
         )

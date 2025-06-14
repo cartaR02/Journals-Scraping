@@ -147,7 +147,7 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
             return None
 
     # used for debugging the outputs
-    logging.debug(f"Titles: {journal_contents['title']}")
+    logging.debug(f"Titles: {journal_contents['head']}")
     logging.debug(f"Dates: {journal_contents['date']}")
     logging.debug(f"Desc: {journal_contents['jdata']}")
     logging.debug(f"Journal_id {journal_contents['a_id']}")

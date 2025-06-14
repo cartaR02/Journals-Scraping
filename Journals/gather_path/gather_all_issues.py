@@ -128,7 +128,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
                 if journal_contents[key] is None:
                     return None
 
-            logging.debug(f"Titles: {journal_contents['title']}")
+            logging.debug(f"Titles: {journal_contents['head']}")
             logging.debug(f"Dates: {journal_contents['date']}")
             logging.debug(f"Desc: {journal_contents['jdata']}")
             logging.debug(f"Journal_id {journal_contents['a_id']}")
@@ -248,7 +248,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
                 if journal_contents[key] is None:
                     return None
 
-            logging.debug(f"Titles: {journal_contents['title']}")
+            logging.debug(f"Titles: {journal_contents['head']}")
             logging.debug(f"Dates: {journal_contents['date']}")
             logging.debug(f"Desc: {journal_contents['jdata']}")
             logging.debug(f"Journal_id {journal_contents['a_id']}")

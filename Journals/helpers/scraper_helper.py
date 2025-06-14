@@ -59,7 +59,7 @@ def format_slice(SLICING_DATA):
 
 
 # date_cleaner extracting date from text if needed and checks validity
-def date_handler(HEADLINE_FORMATTING_DATA, date):
+def date_handler(DATE_FORMATTING_DATA, date):
 
     extracted_date = ""
 
@@ -71,12 +71,14 @@ def date_handler(HEADLINE_FORMATTING_DATA, date):
     if "sept" in date and "september" not in date:
         date = date.replace("sept", "sep")
 
-    date_form_data = HEADLINE_FORMATTING_DATA.split("~")
+    date_form_data = DATE_FORMATTING_DATA.split("~")
+
+    date = clean_date(date)
 
     for data in date_form_data:
         if data == "swap":
             try:
-                extracted_date = parser.parse(date, dayfirst=True)
+                extracted_date = parser.parse(date)
             except ParserError as err:
                 logging.error(f"Date Parser Failed: {date} - {err}")
                 return None
@@ -105,3 +107,28 @@ def date_handler(HEADLINE_FORMATTING_DATA, date):
         )
         return "INVALID"
     # logging.info(f"current month: {datetime.now().month}")
+
+
+def clean_date(date):
+    # get rid of parenthesis
+    date = re.sub(r'^\((.*)\)$', r'\1', date)
+
+    month_map = {
+        "jan": "january",
+        "feb": "february",
+        "mar": "march",
+        "apr": "april",
+        "may": "may",
+        "jun": "june",
+        "jul": "july",
+        "aug": "august",
+        "sep": "september",
+        "oct": "october",
+        "nov": "november",
+        "dec": "december",
+    }
+
+    for abrev, full_name in month_map.items():
+        date = date.replace(abrev, full_name)
+
+    return date
