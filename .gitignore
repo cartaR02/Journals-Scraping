@@ -4,3 +4,5 @@ key
 *.pdf
 *.txt
 *.yml
+*.pyc
+*.pyo

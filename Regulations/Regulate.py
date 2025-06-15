@@ -317,11 +317,11 @@ def process_current_page(url):
 
                 if saving_data.database_saving.check_if_exists(filename):
                    continue
-                PDF_TEXT = cleanup_text.cleanup_text(PDF_TEXT)
+                cleaned_pdf = cleanup_text.cleanup_text(PDF_TEXT)
                 if allowGPT:
                     logging.info("GPT proccessing")
 
-                    chatgpt.ask_chat_gpt(PDF_TEXT, current_id, current_link, filename)
+                    chatgpt.ask_chat_gpt(cleaned_pdf, current_id, current_link, filename)
                 else:
                     logging.info("GPT disabled")
                     logging.info("Skipping GPT")
