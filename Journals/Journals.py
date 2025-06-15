@@ -265,6 +265,8 @@ logging.info(f"GPT Processing: {'Enabled' if allowGPT else 'Disabled'}")
 with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
     journal_reader = csv.reader(journal_data)
     counter = 0
+    #Skip the title row
+    next(journal_reader)
     for journal_row in journal_reader:
         # Skip this row if filter_id is specified and doesn't match the current journal ID
         if filter_id and journal_row[0] != filter_id:
@@ -339,7 +341,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                     invalid_counter += 1
                     continue
 
-                logging.info(journal_contents)
+                logging.info(f"Journal Contents: {journal_contents}")
 
         else:
             journal_contents = gather_contents(
