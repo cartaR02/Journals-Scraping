@@ -33,7 +33,7 @@ The last paragraph should only say when the letter was sent to the government ag
         msg = cleanup_text.cleanup_text(response.choices[0].message.content)
         split_body = msg.split("\n", 1)
         headline = split_body[0]
-        msg = split_body[1] + "\n\n-----------------------------------\n\nView Original Submission: " + comments_link
+        msg = split_body[1] + "\n\n***\n\nView Original Submission: " + comments_link
         ## TODO ADD DOCKET END OF TEXT
 
         database_saving.insert_into_db(headline, msg, PDF_Text, filename)
