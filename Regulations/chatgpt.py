@@ -2,6 +2,7 @@ from datetime import datetime, date
 from openai import OpenAI
 from saving_data import database_saving
 import logging
+import cleanup_text
 
 OPEN_API_KEY = ""
 
@@ -30,9 +31,10 @@ The last paragraph should only say when the letter was sent to the government ag
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
-        split_body = msg.split("\n", 1)
+        cleaned = cleanup_text.cleanup_text(msg)
+        split_body = cleaned.split("\n", 1)
         headline = split_body[0]
-        msg = split_body[1] + "\n\n-----------------------------------\n\nView Original Submission: " + comments_link
+        msg = split_body[1] + "\n\n***\n\nView Original Submission: " + comments_link
         ## TODO ADD DOCKET END OF TEXT
 
         database_saving.insert_into_db(headline, msg, PDF_Text, filename)
