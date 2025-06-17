@@ -18,6 +18,7 @@ program_state = {
     "production_run": False,
     "test_run": False,
     "pull_house_and_senate": False,
+    "chatGPT": False,
 }
 
 # specifies the name of the csv file to use

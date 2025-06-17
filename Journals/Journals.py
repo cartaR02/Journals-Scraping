@@ -8,14 +8,17 @@ from selenium.webdriver.common.by import By
 from configs.config import program_state
 from web_requests import get_website
 import configs.config as config
+from Email import email_output
 from datetime import datetime
 import db.storage as storage
 from openai import OpenAI
 import logging
+import globals
 import getopt
 import csv
 import yaml
 import sys
+
 
 # tracking times for logging purposes
 start = datetime.now()
@@ -67,36 +70,34 @@ INSERT INTO tns.press_release (headline,content_date,body_txt,a_id,status,create
 
 OPEN_API_KEY = ""
 
-# TODO uncomment for gpt usage
-# with open ("key", "r") as f:
-#     OPEN_API_KEY = f.read().strip()
+with open ("key", "r") as f:
+    OPEN_API_KEY = f.read().strip()
 
 openai_client = OpenAI(api_key=OPEN_API_KEY)
 
 csvFileName = "WebsiteData.csv"
 
-# Global variable to control GPT usage
-allowGPT = False
-
-
 # Parse command line arguments
 def parse_arguments():
-    global allowGPT
     filter_id = None
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "i:Gm:", ["id=", "gpt"])
+        opts, args = getopt.getopt(sys.argv[1:], "i:Gm:P", ["id=", "gpt", "Production"])
         for opt, arg in opts:
             if opt in ("-i"):
                 filter_id = arg
             if opt in ("-G"):
-                allowGPT = True
+                program_state["chatGPT"] = True
             if opt == "-m":
                 program_state["amount_of_months"] = arg
+            if opt == "-P":
+                program_state["production_run"] = True
 
     except getopt.GetoptError:
         print("Usage: python Journals.py -i <id> [-G]")
         print("  -i <id>: Filter by journal ID")
         print("  -G: Enable GPT processing")
+        print("  -m <amount_of_months>: Amount of months to gather data for")
+        print("  -P: Production run")
         sys.exit(2)
     return filter_id
 
@@ -146,7 +147,11 @@ filter_id = parse_arguments()
 logging.info(
     f"Filter ID: {filter_id if filter_id else 'None - processing all journals'}"
 )
-logging.info(f"GPT Processing: {'Enabled' if allowGPT else 'Disabled'}")
+if program_state["chatGPT"]:
+    gpt_enabled_str = "Enabled"
+else:
+    gpt_enabled_str = "Disabled"
+logging.info(f"GPT Processing: {gpt_enabled_str}")
 
 with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
     journal_reader = csv.reader(journal_data)
@@ -171,7 +176,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
         if assign_row != None:
             journal_row = assign_row
 
-        counter += 1
+        globals.url_count += 1
         JOURNAL_INFO.update(
             {
                 "JOURNAL_CONTAINERS": journal_row[2],
@@ -208,6 +213,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
         webpage_html = get_website(JOURNAL_INFO["FULL_URL"], driver, JOURNAL_INFO)
         if webpage_html is None:
             logging.error(f"html is None")
+            globals.landing_page_html_is_none.append(f"{JOURNAL_INFO['JOURNAL_ID']}: {JOURNAL_INFO['FULL_URL']}")
             continue
 
         # parsing through article containers
@@ -216,6 +222,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
         )
         if issue_container_html is None or len(issue_container_html) == 0:
             logging.error("landing page getting containers html is none")
+            globals.landing_page_containers_html_is_none.append(f"{JOURNAL_INFO['JOURNAL_ID']}: {JOURNAL_INFO['FULL_URL']}")
             continue
 
         # journal data will exculsively be stored in this dict
@@ -240,11 +247,12 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                     invalid_counter += 1
                     continue
 
-                storage.db_insert(db_data, journal_contents, allowGPT)
+                storage.db_insert(db_data, journal_contents, program_state["chatGPT"])
 
         else:
             journal_contents = gather_contents(
-                JOURNAL_INFO, issue_container_html, driver, db_data, allowGPT
+                JOURNAL_INFO, issue_container_html, driver, db_data, program_state["chatGPT"]
             )
-
+## TODO ADD THIS TO WORK
+#email_output()
 driver.quit()

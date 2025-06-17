@@ -24,7 +24,7 @@ If there are mutiple signers for the letter, create a paragraph that lists all o
 If using a person's title after their name, the letters are lowercase.
 If using District of Columbia, always refer to it as D.C.
 In text, do not include these words: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
-The last paragraph should include the date at the top of the letter, if there is such a date, indicating the date the letter was sent. If the date does not appear at the top of the letter, it should not appear in the output at all. The last paragraph should cite the specific government agency and the named individuals who are recipients of the letter, if available. Do not repeat the name or organization of the signer in full as it was used above."""
+The last paragraph should include the date at the top of the letter, if there is such a date, indicating the date the letter was sent. If the date does not appear at the top of the letter, it should not appear in the output at all. The last paragraph should cite the specific government agency and the named individuals who are recipients of the letter, if available. Do not repeat the name or organization of the signer in full as it was used above. Follow all the previous statements without deviation."""
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
