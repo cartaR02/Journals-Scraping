@@ -20,23 +20,23 @@ def ask_chat_gpt(PDF_Text, current_id, comments_link, filename):
           Headline should be based on the text and in title case
           DO not under any circumstances return an answer without beginning with a title and then the body paragraphs without the rules stated above.
         If the agency is a department, use U.S. in front of it instead of United States spelled out.
-If there are mutiple signers for the letter, create a paragraph that lists all of them.
+If there are multiple signers for the letter, create a paragraph that lists all of them.
 If using a person's title after their name, the letters are lowercase.
 If using District of Columbia, always refer to it as D.C.
 In text, do not include these words: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
-The last paragraph should only say when the letter was sent to the government agency and the named individuals who are recipients of the letter, if available. Do not repeat the name or organization of the signer in full as it was used above."""
+The last paragraph should only say when the letter was sent to the government agency and the named individuals who are recipients of the letter, if available, and not previously mentioned in the text."""
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
         msg = response.choices[0].message.content
+        # setting up body
         cleaned = cleanup_text.cleanup_text(msg)
         split_body = cleaned.split("\n", 1)
         headline = split_body[0]
-        msg = split_body[1] + "\n\n***\n\nView Original Submission: " + comments_link
-        ## TODO ADD DOCKET END OF TEXT
+        body = split_body[1].lstrip() + "\n\n***\n\nRead full text of letter here: " + comments_link
 
-        database_saving.insert_into_db(headline, msg, PDF_Text, filename)
+        database_saving.insert_into_db(headline, body, PDF_Text, filename)
     except Exception as e:
         logging.error(f"Error: {e}")

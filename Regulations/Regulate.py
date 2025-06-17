@@ -56,7 +56,6 @@ production_run = False
 # Global variable for number of days back (default 0)
 days_back = 0
 doc_limit = 0
-doc_count = 0
 
 def parse_arguments():
     global allowGPT, days_back, production_run, doc_limit
@@ -192,7 +191,7 @@ def go_to_next_page(driver, url, timeout=10):
 
 def process_current_page(url):
     html = retrieve_site_html(url)
-    global doc_count, doc_limit
+    global doc_limit
 
 
     if not html:
@@ -219,12 +218,12 @@ def process_current_page(url):
     logging.info(f"List length: {len(attachments_list)}")
 
     for article in attachments_list:
-        if doc_limit != 0 and doc_count >= doc_limit:
+        if doc_limit != 0 and global_info.docs_looked_at >= doc_limit:
             logging.info("Reached doc limit")
             # arbitrary number just for outer loop to stop when this returned
             return 100
-        doc_count += 1
-        logging.info(f"Starting article number {doc_count} out of {doc_limit}")
+        global_info.docs_looked_at += 1
+        logging.info(f"Starting article number {global_info.docs_looked_at} out of {doc_limit}")
         current_link = article.find("a")
 
         if not current_link:
@@ -264,6 +263,7 @@ def process_current_page(url):
 
         if not comment_html:
             logging.error("Comment Page did not load")
+            global_info.no_comment_page.append(current_id)
             continue
 
         parse_comment = BeautifulSoup(comment_html, "html.parser")
@@ -320,7 +320,6 @@ def process_current_page(url):
                 cleaned_pdf = cleanup_text.cleanup_text(PDF_TEXT)
                 if allowGPT:
                     logging.info("GPT proccessing")
-
                     chatgpt.ask_chat_gpt(cleaned_pdf, current_id, current_link, filename)
                 else:
                     logging.info("GPT disabled")
@@ -358,9 +357,8 @@ if __name__ == "__main__":
     driver.get(url)
     clear_folders()
     process_all_pages(driver, url)
+    global allowGPT, days_back, doc_limit
 
-    if production_run:
-        email_output()
     end_time = time.time()
     total_time = end_time - start_time
     logging.info(f"Total time: {total_time}")
@@ -368,8 +366,9 @@ if __name__ == "__main__":
 
     logging.info("Duplicates")
     logging.info(global_info.duplicate_files)
-    logging.info(f"Doc Count {doc_count}")
+    logging.info(f"Doc Count {global_info.docs_looked_at}")
 
-
+    if production_run:
+        email_output(allowGPT, days_back, start_time, end_time, total_time)
 
 driver.quit()

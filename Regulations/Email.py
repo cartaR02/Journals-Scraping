@@ -4,7 +4,9 @@ import re
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from validate_email import validate_email
+import logging
 
+from Regulations import global_info
 
 
 def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
@@ -65,7 +67,40 @@ def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
 
 
 # does not check for production run that gets checked before even calling this function
-def email_output():
-    print("In progress")
+def email_output(allowGPT, days_back, start_time, end_time, total_time):
+    summary_msg = f"""
+Load Version 1.0.0 06/16/2025
+    Docs Loaded {len(global_info.docs_added)}
+    Comments Searched {global_info.docs_looked_at}
+    Duplicates Skipped {len(global_info.duplicate_files)}
+
+Passed Parameters:
+    ChatGPT Enabled: {allowGPT}
+    Number of days back: {days_back}
+    Start Time: {start_time}
+    End Time: {end_time}
+    Elapsed Time: {total_time}
+
+Errors:"""
+
+    for errors_list, errors_string in zip(global_info.error_list_wrapper, global_info.error_list_string_wrapper):
+        if len(errors_list) > 0:
+            summary_msg = (
+                summary_msg
+                + "\n\t" + errors_string + "\n\t\t"
+                + "\n\t\t".join(map(str, errors_list))
+            )
+
+    summary_msg = summary_msg + "\nDocs:"
+
+    for doc_list, doc_string in zip(global_info.docs_list_wrapper, global_info.docs_list_string_wrapper):
+        if len(doc_list) > 0:
+            summary_msg = (
+                summary_msg
+                + "\n\t" + doc_string + "\n\t\t"
+                + "\n\t\t".join(map(str, doc_list))
+            )
+
+    logging.info(summary_msg)
 
 
