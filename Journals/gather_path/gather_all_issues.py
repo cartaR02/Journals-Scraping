@@ -1,6 +1,7 @@
 import scrapers.content_scraper as content_scraper
 import scrapers.container_scraper as container_scraper
 from configs.config import selenium_config
+import db.storage as storage
 from scrapers.container_scraper import get_containers
 from helpers import format_element
 from helpers.scraper_helper import date_handler
@@ -20,7 +21,7 @@ and doesn't return unless there is a failure.
 """
 
 
-def gather_contents(JOURNAL_INFO, issue_html, driver):
+def gather_contents(JOURNAL_INFO, issue_html, driver, db_data, allowGPT):
     journal_contents = {}
 
     # checking if data should be gathered before traversing article link
@@ -115,8 +116,8 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
 
             # returns true if duplicate found so we skip it here
             # sets article data before doing description to avoid excess computation
-            # if storage.skip_duplicates(db_data, journal_contents):
-            #     return None
+            if storage.skip_duplicates(db_data, journal_contents):
+                return None
 
             journal_data = gather_journal_data(JOURNAL_INFO, issue_webpage_html)
             if journal_data is not None:
@@ -135,7 +136,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
             logging.debug(f"Article Link: {journal_contents['url']}")
 
             # inserting data into the db
-            # storage.db_insert(db_data, journal_contents)
+            storage.db_insert(db_data, journal_contents, allowGPT)
 
     else:
 
@@ -235,8 +236,8 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
             journal_contents["url"] = issue_link
 
             # returns true when duplicate is found
-            # if storage.skip_duplicates(db_data, journal_contents):
-            #     return None
+            if storage.skip_duplicates(db_data, journal_contents):
+                return None
 
             journal_data = gather_journal_data(JOURNAL_INFO, issue_webpage_html)
             if journal_data is not None:
@@ -255,7 +256,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver):
             logging.debug(f"Article Link: {journal_contents['url']}")
 
             # inserting data into the db
-            # storage.db_insert(db_data, journal_contents)
+            storage.db_insert(db_data, journal_contents, allowGPT)
 
 # gather_description handles the description gathering for the different gather branches
 def gather_journal_data(JOURNAL_INFO, issue_webpage_html):

@@ -100,13 +100,12 @@ def date_handler(DATE_FORMATTING_DATA, date):
     # TODO: figure out how to interpret the months and what to return
     if extracted_date.month == datetime.now().month - int(program_state["amount_of_months"]):
         logging.info(f"valid date: {extracted_date.month}")
-        return True
+        return extracted_date.strftime("%Y-%m-%d")
     else:
         logging.info(
             f"invalid date, current {datetime.now().month}, extracted {extracted_date.month}"
         )
         return "INVALID"
-    # logging.info(f"current month: {datetime.now().month}")
 
 
 def clean_date(date):

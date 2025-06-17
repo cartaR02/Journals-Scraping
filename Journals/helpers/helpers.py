@@ -31,33 +31,31 @@ def get_uname(AGENCY_DATA: dict, unames: dict) -> str | None:
 # check the a_id against the ledes before continuing
 # if test_run is true than we don't want to check against ledes
 # @typechecked
-def get_lede(article_contents: dict, ledes: dict) -> str | None:
+def get_lede(journal_contents: dict, ledes: dict) -> str | None:
     try:
         if not program_state["test_run"]:
-            return ledes[article_contents["a_id"]]
+            return ledes[journal_contents["a_id"]]
         return "testlede"
     except:
         globals.no_lead_found.append(
-            f"{article_contents['a_id']}: {article_contents['url']}"
+            f"{journal_contents['a_id']}: {journal_contents['url']}"
         )
         logging.error(
-            f"** SKIPPING lede for a_id: {article_contents['a_id']} not found."
+            f"** SKIPPING lede for a_id: {journal_contents['a_id']} not found."
         )
         return None
 
 
 # get_filename creates and returns the unique filename for the article being loaded
 # @typechecked
-def get_filename(filenames: dict, article_contents: dict) -> str | None:
+def get_filename(filenames, journal_contents):
     try:
-        if not program_state["test_run"]:
-            date = article_contents['date'].replace("-", "")[2:]
-            filename = f"$H {filenames[article_contents['a_id']]}{date}{article_contents['title'][-10:]}"
-            return filename
-        return f"testfilename {article_contents['title'][-10:]}"
-    except:
-        globals.filename_creation_error.append(f"{article_contents['a_id']}: {article_contents['url']}")
-        logging.error(f"Filename creation error: {article_contents['a_id']}")
+        date = journal_contents['date'].replace("-", "")[2:]
+        filename = f"$H {filenames[journal_contents['a_id']]}{date}{journal_contents['head'][-10:]}"
+        return filename
+    except Exception as err:
+        globals.filename_creation_error.append(f"{journal_contents['a_id']}: {journal_contents['url']}")
+        logging.error(f"Filename creation error: {journal_contents['a_id']}: {err}")
         return None
 
 

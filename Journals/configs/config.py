@@ -40,7 +40,7 @@ def selenium_config() -> webdriver:
     # )
     #options.add_argument("--start-maximized")
     try:
-        # options.add_argument("--headless")
+        options.add_argument("--headless")
         options.profile = firefox_profile
         driver: webdriver = webdriver.Firefox(options=options)
     except WebDriverException as err:
