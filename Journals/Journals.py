@@ -17,9 +17,6 @@ import csv
 import yaml
 import sys
 
-# At the beginning of your script, before setting up your own logging:
-import logging
-
 # tracking times for logging purposes
 start = datetime.now()
 # selenium webdriver
