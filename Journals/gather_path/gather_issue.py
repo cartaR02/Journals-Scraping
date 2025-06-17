@@ -121,7 +121,7 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
                 return None
         else:
             issue_webpage_html = web_requests.get_website(
-                issue_driver, driver, issue_driver
+                issue_link, driver, JOURNAL_INFO
             )
             if issue_webpage_html is None:
                 return None

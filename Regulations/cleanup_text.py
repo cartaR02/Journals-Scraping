@@ -245,6 +245,8 @@ def cleanup_text(text: str, write: bool = False) -> str:
         b"\xe2\x80\x99": "'",  # right single quote
         b"\xe2\x80\xb9": "<",  # single left-pointing angle quote
         b"\xe2\x80\xba": ">",  # single right-pointing angle quote
+        b"\xe2\x80\x8b": " ",  # zero width space
+        b"\xe2\x81\xa0": " ",  # zero width space
     }
 
     # Convert text to bytes and apply replacements
