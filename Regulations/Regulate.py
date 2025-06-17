@@ -353,22 +353,18 @@ def process_all_pages(driver, base_url):
 # Main start
 if __name__ == "__main__":
     parse_arguments()
+
     url = "https://www.regulations.gov/search/comment?filter=Attach&sortBy=postedDate&sortDirection=desc"
     driver.get(url)
+
     clear_folders()
+
     process_all_pages(driver, url)
-    global allowGPT, days_back, doc_limit
+
 
     end_time = time.time()
     total_time = end_time - start_time
-    logging.info(f"Total time: {total_time}")
-    logging.info("Finished")
 
-    logging.info("Duplicates")
-    logging.info(global_info.duplicate_files)
-    logging.info(f"Doc Count {global_info.docs_looked_at}")
-
-    if production_run:
-        email_output(allowGPT, days_back, start_time, end_time, total_time)
+    email_output(allowGPT, days_back, start_time, end_time, total_time, production_run)
 
 driver.quit()

@@ -6,7 +6,8 @@ from email.mime.multipart import MIMEMultipart
 from validate_email import validate_email
 import logging
 
-from Regulations import global_info
+import global_info
+from Regulations.Regulate import production_run
 
 
 def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
@@ -67,7 +68,7 @@ def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
 
 
 # does not check for production run that gets checked before even calling this function
-def email_output(allowGPT, days_back, start_time, end_time, total_time):
+def email_output(allowgpt, days_back, start_time, end_time, total_time, production_run):
     summary_msg = f"""
 Load Version 1.0.0 06/16/2025
     Docs Loaded {len(global_info.docs_added)}
@@ -75,7 +76,7 @@ Load Version 1.0.0 06/16/2025
     Duplicates Skipped {len(global_info.duplicate_files)}
 
 Passed Parameters:
-    ChatGPT Enabled: {allowGPT}
+    ChatGPT Enabled: {allowgpt}
     Number of days back: {days_back}
     Start Time: {start_time}
     End Time: {end_time}
@@ -102,5 +103,13 @@ Errors:"""
             )
 
     logging.info(summary_msg)
-
-
+    if production_run:
+        my_mail(
+            "kmeek@targetednews.com",
+            "kmeek@targetednews.com",
+            "Public Comments Pull"
+            + start_time.strftime("%Y-%m-%d %H:%M:%S"),
+            summary_msg,
+            "",
+            "struckvail@aol.com;camhakenson@gmail.com,carterstruck02@gmail.com,marlynvitin@yahoo.com",
+        )
