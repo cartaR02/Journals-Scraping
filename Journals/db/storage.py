@@ -1,6 +1,5 @@
 from helpers.lede_formatting import format_lede
 from configs.config import db_config
-from Journals import ask_chat_gpt
 from helpers.format_element import replace_defaults
 from helpers.helpers import get_lede, get_filename
 import globals
@@ -15,9 +14,7 @@ import re
 def db_insert(db_data, journal_contents, allowGPT):
     # id and head is enough to describe what we need
     logging_str = f"{journal_contents['a_id']}: {journal_contents['head']}"
-    globals_logging_str_link = (
-        f"{journal_contents['a_id']}: {journal_contents['url']}"
-    )
+    globals_logging_str_link = f"{journal_contents['a_id']}: {journal_contents['url']}"
     description = journal_contents["jdata"]
     headline = journal_contents["head"]
 
@@ -35,7 +32,9 @@ def db_insert(db_data, journal_contents, allowGPT):
         return
 
     if allowGPT:
-        description = ask_chat_gpt(journal_contents["head"], description)
+        description = ask_chat_gpt(
+            journal_contents["head"], description, journal_contents["gpt"]
+        )
 
     description = unidecode(description)
 
@@ -161,3 +160,25 @@ def skip_duplicates(db_data: dict, journal_contents: dict):
         if db_data["database"] and db_data["database"].is_connected:
             db_data["press_release_cursor"].close()
             db_data["database"].close()
+
+
+def ask_chat_gpt(journal_headline, Site_html, openai_client):
+    prompt = (
+        f"Create a 500-word news story, with a headline, for this text focused on\n"
+        "Using two key research project, but mentioning others below it."
+        "Including the date and title of the journal."
+        "Make sure the date is not in the future"
+        "Use the journal headline for some context " + journal_headline
+    )
+    try:
+        response = openai_client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": Site_html[:8000]},
+            ],
+        )
+        msg = response.choices[0].message.content
+        return msg
+    except Exception as e:
+        logging.error(f"Error: {e}")

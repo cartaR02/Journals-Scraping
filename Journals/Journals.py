@@ -2,6 +2,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from gather_path.gather_all_issues import gather_contents
 from selenium.webdriver.support.ui import WebDriverWait
 from scrapers.container_scraper import get_containers
+from configs.template_csv_data import assign_csv_line
 from gather_path.gather_issue import gather_content
 from selenium.webdriver.common.by import By
 from configs.config import program_state
@@ -142,27 +143,6 @@ def accept_cookies(driver):
     logging.info("No cookie consent button found or needed")
     return False
 
-def ask_chat_gpt(journal_headline, Site_html):
-    prompt = (
-        f"Create a 500-word news story, with a headline, for this text focused on\n"
-        "Using two key research project, but mentioning others below it."
-        "Including the date and title of the journal."
-        "Make sure the date is not in the future"
-        "Use the journal headline for some context " + journal_headline
-    )
-    try:
-        response = openai_client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[
-                {"role": "system", "content": prompt},
-                {"role": "user", "content": Site_html[:8000]},
-            ],
-        )
-        msg = response.choices[0].message.content
-        return msg
-    except Exception as e:
-        logging.error(f"Error: {e}")
-
 
 # Get the filter ID from command line arguments and set allowGPT if -G is provided
 filter_id = parse_arguments()
@@ -177,32 +157,42 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
     # Skip the title row
     next(journal_reader)
     for journal_row in journal_reader:
-        # Skip this row if filter_id is specified and doesn't match the current journal ID
+        #     # Skip this row if filter_id is specified and doesn't match the current journal ID
         if filter_id and journal_row[0] != filter_id:
             continue
 
-        counter += 1
         JOURNAL_INFO = {
             "JOURNAL_ID": journal_row[0],
             "URL_FIELD": journal_row[1],
-            "JOURNAL_CONTAINERS": journal_row[2],
-            "LANDING_PAGE_GATHERING": journal_row[3],
-            "LINK_DATA": journal_row[4],
-            "HEADLINE_DATA": journal_row[5],
-            "HEADLINE_FORMATTING_DATA": journal_row[6],
-            "DATE_DATA": journal_row[7],
-            "DATE_FORMATTING_DATA": journal_row[8],
-            "JOURNAL_INFO_DATA": journal_row[9],
-            "JOURNAL_INFO_FORMATTING": journal_row[10],
-            "LOAD_TIME": journal_row[11],
-            "BYPASS": journal_row[12],
-            "STATUS": journal_row[13],
         }
 
-        # handling url data
         url_field_split = JOURNAL_INFO["URL_FIELD"].split("|")
         JOURNAL_INFO["FULL_URL"] = url_field_split[0]
         JOURNAL_INFO["URL_PRE"] = "" if len(url_field_split) < 2 else url_field_split[1]
+
+        assign_row = assign_csv_line(journal_row[1])
+        if assign_row != None:
+            journal_row = assign_row
+
+        counter += 1
+        JOURNAL_INFO.update(
+            {
+                "JOURNAL_CONTAINERS": journal_row[2],
+                "LANDING_PAGE_GATHERING": journal_row[3],
+                "LINK_DATA": journal_row[4],
+                "HEADLINE_DATA": journal_row[5],
+                "HEADLINE_FORMATTING_DATA": journal_row[6],
+                "DATE_DATA": journal_row[7],
+                "DATE_FORMATTING_DATA": journal_row[8],
+                "JOURNAL_INFO_DATA": journal_row[9],
+                "JOURNAL_INFO_FORMATTING": journal_row[10],
+                "LOAD_TIME": journal_row[11],
+                "BYPASS": journal_row[12],
+                "STATUS": journal_row[13],
+            }
+        )
+
+        # handling url data
         JOURNAL_INFO["LANDING_PAGE_GATHERING"] = (
             True if JOURNAL_INFO["LANDING_PAGE_GATHERING"] == "True" else False
         )
@@ -233,6 +223,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
 
         # journal data will exculsively be stored in this dict
         journal_contents = {}
+        journal_contents["gpt"] = openai_client
 
         if single_gather:
 

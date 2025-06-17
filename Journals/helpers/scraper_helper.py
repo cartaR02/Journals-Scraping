@@ -1,6 +1,6 @@
 from typeguard import typechecked
 import logging
-from datetime import datetime
+from datetime import datetime, timedelta
 from configs.config import program_state
 import datefinder
 import dateparser
@@ -99,32 +99,31 @@ def date_handler(DATE_FORMATTING_DATA, date):
 
     # TODO: figure out how to interpret the months and what to return
     if extracted_date.month == datetime.now().month - int(program_state["amount_of_months"]):
-        logging.info(f"valid date: {extracted_date.month}")
         return extracted_date.strftime("%Y-%m-%d")
     else:
         logging.info(
-            f"invalid date, current {datetime.now().month}, extracted {extracted_date.month}"
+            f"invalid month: {extracted_date.strftime('%B')}"
         )
         return "INVALID"
 
 
 def clean_date(date):
     # get rid of parenthesis
-    date = re.sub(r'^\((.*)\)$', r'\1', date)
+    # date = re.sub(r'^\((.*)\)$', r'\1', date)
 
     month_map = {
-        "jan": "january",
-        "feb": "february",
-        "mar": "march",
-        "apr": "april",
-        "may": "may",
-        "jun": "june",
-        "jul": "july",
-        "aug": "august",
-        "sep": "september",
-        "oct": "october",
-        "nov": "november",
-        "dec": "december",
+        "(jan)": "january",
+        "(feb)": "february",
+        "(mar)": "march",
+        "(apr)": "april",
+        "(may)": "may",
+        "(jun)": "june",
+        "(jul)": "july",
+        "(aug)": "august",
+        "(sep)": "september",
+        "(oct)": "october",
+        "(nov)": "november",
+        "(dec)": "december",
     }
 
     for abrev, full_name in month_map.items():
