@@ -11,7 +11,7 @@ import re
 
 # db_insert inserts gathered data into the tns db
 # @typechecked
-def db_insert(db_data, journal_contents, allowGPT):
+def db_insert(db_data, journal_contents, allowGPT, openAI):
     # id and head is enough to describe what we need
     logging_str = f"{journal_contents['a_id']}: {journal_contents['head']}"
     globals_logging_str_link = f"{journal_contents['a_id']}: {journal_contents['url']}"
@@ -33,7 +33,7 @@ def db_insert(db_data, journal_contents, allowGPT):
 
     if allowGPT:
         description = ask_chat_gpt(
-            journal_contents["head"], description, journal_contents["gpt"]
+            journal_contents["head"], description, openAI
         )
 
     description = unidecode(description)

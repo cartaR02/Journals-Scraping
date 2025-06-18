@@ -227,6 +227,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
 
         # journal data will exculsively be stored in this dict
         journal_contents = {}
+        # not actually used for some reason it wasnt working
         journal_contents["gpt"] = openai_client
 
         if single_gather:
@@ -247,12 +248,14 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                     invalid_counter += 1
                     continue
 
-                storage.db_insert(db_data, journal_contents, program_state["chatGPT"])
+                storage.db_insert(db_data, journal_contents, program_state["chatGPT"], openai_client)
 
         else:
             journal_contents = gather_contents(
                 JOURNAL_INFO, issue_container_html, driver, db_data, program_state["chatGPT"]
             )
-## TODO ADD THIS TO WORK
-#email_output()
+
+end_time = datetime.now()
+total_time = end_time - start
+email_output(program_state["chatGPT"],program_state["amount_of_months"], start, end_time, total_time, program_state["production_run"] )
 driver.quit()

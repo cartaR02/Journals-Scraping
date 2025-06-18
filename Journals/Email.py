@@ -7,7 +7,7 @@ from validate_email import validate_email
 import logging
 
 import globals
-from Regulations.Regulate import production_run
+
 
 
 def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
@@ -68,7 +68,7 @@ def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
 
 
 # does not check for production run that gets checked before even calling this function
-def email_output(allowgpt, months_back, start_time, end_time, total_time, production_run):
+def email_output(gpt, months_back, start_time, end_time, total_time, production):
     summary_msg = f"""
 Load Version 1.0.0 06/16/2025
     Docs Loaded {len(globals.successfully_added_doc)}
@@ -77,7 +77,7 @@ Load Version 1.0.0 06/16/2025
     No Ledes found: {len(globals.no_lead_found)}
 
 Passed Parameters:
-    ChatGPT Enabled: {allowgpt}
+    ChatGPT Enabled: {gpt}
     Number of months back: {months_back}
     Start Time: {start_time}
     End Time: {end_time}
@@ -95,7 +95,7 @@ Errors:"""
 
     summary_msg = summary_msg + "\nDocs:"
 
-    for doc_list, doc_string in zip(globals.docs_list_wrapper, globals.docs_list_string_wrapper):
+    for doc_list, doc_string in zip(globals.doc_list_wrapper, globals.doc_list_string_wrapper):
         if len(doc_list) > 0:
             summary_msg = (
                 summary_msg
@@ -104,7 +104,7 @@ Errors:"""
             )
 
     logging.info(summary_msg)
-    if production_run:
+    if production:
         my_mail(
             "kmeek@targetednews.com",
             "kmeek@targetednews.com",
