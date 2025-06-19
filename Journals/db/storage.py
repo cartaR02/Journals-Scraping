@@ -32,9 +32,13 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
         return
 
     if allowGPT:
+        # chatgpt should provide a created headline followed by a line break and then the rest is the description
+        #
         description = ask_chat_gpt(
             journal_contents["head"], description, openAI
         )
+        split_body = description.split("\n", 1)
+        headline = split_body[0]
 
     description = unidecode(description)
 
@@ -79,6 +83,8 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
     # make sure just one space after period even with quote
     article_body = re.sub(r'\."[^\S\n]+', '." ', article_body)
 
+    # file name is based off of journals actual headline like the Issue (May)
+    # but actual headline is used from chatgpt
     filename = get_filename(db_data["filenames"], journal_contents)
     if filename is None:
         globals.filename_is_none.append(f"{journal_contents['a_id']}")
@@ -91,14 +97,14 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
 
     # newlines at each end for readability
     logging.info(
-        f"\nADDING: FILENAME: [{filename}] head: [{journal_contents['head']}] DATE: [{journal_contents['date']}] ID [{journal_contents['a_id']}]\n"
+        f"\nADDING: FILENAME: [{filename}] head: [{headline}] DATE: [{journal_contents['date']}] ID [{journal_contents['a_id']}]\n"
     )
 
     try:
         db_data["press_release_cursor"].execute(
             db_data["SQL_INSERT"],
             (
-                journal_contents["head"][:254],
+                headline[:254],
                 journal_contents["date"],
                 article_body,
                 int(journal_contents["a_id"]),
@@ -164,8 +170,8 @@ def skip_duplicates(db_data: dict, journal_contents: dict):
 
 def ask_chat_gpt(journal_headline, Site_html, openai_client):
     prompt = (
-        f"Create a 500-word news story, with a headline, for this text focused on\n"
-        "Using two key research project, but mentioning others below it."
+        f"Create a 500-word news story, with a headline, for this text focused on\n Create a headline that utilizes the the information in the journal in a cohesive way and makes it so a reader might want to click on it and find out more.  After creating this headline first always put only 1 new line character after"
+        "Using two key research project, but mentioning others below it. The words 'recent' as in recent journal should not appear and instead use the journals month year to start. Example in MONTH YEAR edition of the journal or in the journal for MONTH YEAR"
         "Including the date and title of the journal."
         "Make sure the date is not in the future"
         "Use the journal headline for some context " + journal_headline
