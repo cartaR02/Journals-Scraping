@@ -3,6 +3,7 @@ from configs.config import db_config
 from helpers.format_element import replace_defaults
 from helpers.helpers import get_lede, get_filename
 import globals
+from datetime import datetime
 import mysql.connector
 from unidecode import unidecode
 import logging
@@ -31,14 +32,21 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
         globals.article_description_is_none.append(logging_str)
         return
 
+
+
+
     if allowGPT:
         # chatgpt should provide a created headline followed by a line break and then the rest is the description
-        #
+
+        # creating date for gpt to use
+        j_date = datetime.strptime(journal_contents["date"], "%Y-%m-%d")
+        formatted_date = j_date.strftime("%B %Y")
         description = ask_chat_gpt(
-            journal_contents["head"], description, openAI
+            journal_contents["head"], description, openAI, formatted_date
         )
         split_body = description.split("\n", 1)
         headline = split_body[0]
+        description = split_body[1]
 
     description = unidecode(description)
 
@@ -168,20 +176,38 @@ def skip_duplicates(db_data: dict, journal_contents: dict):
             db_data["database"].close()
 
 
-def ask_chat_gpt(journal_headline, Site_html, openai_client):
-    prompt = (
+def ask_chat_gpt(journal_headline, site_html, openai_client, headline_edition):
+    # headline_edition is meant to be a pre made hard coded (based off the journal) sentence starter like March 2025 so gpt cant mess it up
+    old_prompt = (
         f"Create a 500-word news story, with a headline, for this text focused on\n Create a headline that utilizes the the information in the journal in a cohesive way and makes it so a reader might want to click on it and find out more.  After creating this headline first always put only 1 new line character after"
         "Using two key research project, but mentioning others below it. The words 'recent' as in recent journal should not appear and instead use the journals month year to start. Example in MONTH YEAR edition of the journal or in the journal for MONTH YEAR"
         "Including the date and title of the journal."
         "Make sure the date is not in the future"
         "Use the journal headline for some context " + journal_headline
     )
+
+    ## TODO Hardcode the journal or have it in csv
+    prompt = (
+        f"""Create a 500-word news story with a headline for this text, focusing on the two most significant research projects. Mention other studies only briefly.
+
+First, generate a compelling headline based on information from the journal that would encourage readers to click to learn more. After the headline, include a single newline character.
+
+Begin the news story with this exact phrase: 'In the {headline_edition} edition of the ...' Do not create or infer a different month, year, or date. When creating the headline do not use any ### or *** just text.
+
+Never use the word 'recent.' Do not include journal page numbers or individual submission dates in the story. Do not discuss the peer review process.
+
+The story should reference the date and headline of the journal in the opening paragraph. Use this journal headline for context: {journal_headline}
+
+Ensure the publication date in the story is not set in the future.
+"""
+    )
+
     try:
         response = openai_client.chat.completions.create(
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": prompt},
-                {"role": "user", "content": Site_html[:8000]},
+                {"role": "user", "content": site_html[:9000]},
             ],
         )
         msg = response.choices[0].message.content
