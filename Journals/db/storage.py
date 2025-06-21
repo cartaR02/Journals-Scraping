@@ -34,14 +34,15 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
 
 
 
-
+    prompt = "No Prompt"
     if allowGPT:
         # chatgpt should provide a created headline followed by a line break and then the rest is the description
 
         # creating date for gpt to use
         j_date = datetime.strptime(journal_contents["date"], "%Y-%m-%d")
         formatted_date = j_date.strftime("%B %Y")
-        description = ask_chat_gpt(
+
+        description, prompt = ask_chat_gpt(
             journal_contents["head"], description, openAI, formatted_date
         )
         split_body = description.split("\n", 1)
@@ -78,10 +79,10 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
     article_body = re.sub(r"\n\s*\n", "\n\n", article_body)
     article_body = re.sub(r"(\r\n|\r|\n)+", "\n\n", article_body)
 
-    # make sure just one space after period
+    # make sure just one space after a period
     article_body = re.sub(r"\.[^\S\n]+", ". ", article_body)
 
-    # getting rid of leading whitespace from puncuation
+    # getting rid of leading whitespace from punctuation
     article_body = re.sub(r"\s*\.", ".", article_body)
     article_body = re.sub(r"\s*,", ",", article_body)
 
@@ -119,6 +120,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
                 "D",
                 filename,
                 "",
+                prompt,
             ),
         )
         globals.successfully_added_doc.append(f"{logging_str}")
@@ -176,7 +178,7 @@ def skip_duplicates(db_data: dict, journal_contents: dict):
             db_data["database"].close()
 
 
-def ask_chat_gpt(journal_headline, site_html, openai_client, headline_edition):
+def ask_chat_gpt(journal_headline, site_html, openai_client, headline_edition, ):
     # headline_edition is meant to be a pre made hard coded (based off the journal) sentence starter like March 2025 so gpt cant mess it up
     old_prompt = (
         f"Create a 500-word news story, with a headline, for this text focused on\n Create a headline that utilizes the the information in the journal in a cohesive way and makes it so a reader might want to click on it and find out more.  After creating this headline first always put only 1 new line character after"
@@ -211,6 +213,6 @@ Ensure the publication date in the story is not set in the future.
             ],
         )
         msg = response.choices[0].message.content
-        return msg
+        return msg, prompt
     except Exception as e:
         logging.error(f"Error: {e}")

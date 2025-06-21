@@ -65,7 +65,7 @@ db_data["database"].close()
 db_data[
     "SQL_INSERT"
 ] = """
-INSERT INTO tns.press_release (headline,content_date,body_txt,a_id,status,create_date,last_action,filename,headline2) VALUES ( %s, %s, %s, %s, %s, SYSDATE(),SYSDATE(),%s, %s)
+INSERT INTO tns.press_release (headline,content_date,body_txt,a_id,status,create_date,last_action,filename,headline2, orig_txt) VALUES ( %s, %s, %s, %s, %s, SYSDATE(),SYSDATE(),%s, %s, %s)
 """
 
 OPEN_API_KEY = ""
