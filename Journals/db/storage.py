@@ -12,7 +12,7 @@ import re
 
 # db_insert inserts gathered data into the tns db
 # @typechecked
-def db_insert(db_data, journal_contents, allowGPT, openAI):
+def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
     # id and head is enough to describe what we need
     logging_str = f"{journal_contents['a_id']}: {journal_contents['head']}"
     globals_logging_str_link = f"{journal_contents['a_id']}: {journal_contents['url']}"
@@ -43,7 +43,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
         formatted_date = j_date.strftime("%B %Y")
 
         description, prompt = ask_chat_gpt(
-            journal_contents["head"], description, openAI, formatted_date, journal_contents["journal_name"]
+            journal_contents["head"], description, openAI, formatted_date, journal_name
         )
         split_body = description.split("\n", 1)
         headline = split_body[0]

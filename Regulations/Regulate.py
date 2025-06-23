@@ -366,8 +366,12 @@ if __name__ == "__main__":
 
 
     end_time = time.time()
-    total_time = end_time - start_time
 
-    email_output(allowGPT, days_back, start_time, end_time, total_time, production_run)
+    total_time = end_time - start_time
+    start_time = str(start_time).split(".")[0]
+    end_time = str(end_time).split(".")[0]
+    elapsed_time = str(total_time).split(".")[0]
+
+    email_output(allowGPT, days_back, start_time, elapsed_time, total_time, production_run)
 
 driver.quit()

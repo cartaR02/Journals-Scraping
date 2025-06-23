@@ -163,35 +163,38 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
         if filter_id and journal_row[0] != filter_id:
             continue
 
+        # THINGS that will be unique to the line
+        # id, name and url, if things need to be permanently unique to a line they are added here before default
+        # ... csv is added
         JOURNAL_INFO = {
             "JOURNAL_ID": journal_row[0],
-            "URL_FIELD": journal_row[1],
+            "JOURNAL_NAME": journal_row[1],
+            "URL_FIELD": journal_row[2],
         }
 
         url_field_split = JOURNAL_INFO["URL_FIELD"].split("|")
         JOURNAL_INFO["FULL_URL"] = url_field_split[0]
         JOURNAL_INFO["URL_PRE"] = "" if len(url_field_split) < 2 else url_field_split[1]
 
-        assign_row = assign_csv_line(journal_row[1])
+        assign_row = assign_csv_line(JOURNAL_INFO['URL_FIELD'])
         if assign_row != None:
             journal_row = assign_row
 
         globals.url_count += 1
         JOURNAL_INFO.update(
             {
-                "JOURNAL_CONTAINERS": journal_row[2],
-                "LANDING_PAGE_GATHERING": journal_row[3],
-                "LINK_DATA": journal_row[4],
-                "HEADLINE_DATA": journal_row[5],
-                "HEADLINE_FORMATTING_DATA": journal_row[6],
-                "DATE_DATA": journal_row[7],
-                "DATE_FORMATTING_DATA": journal_row[8],
-                "JOURNAL_INFO_DATA": journal_row[9],
-                "JOURNAL_INFO_FORMATTING": journal_row[10],
-                "LOAD_TIME": journal_row[11],
-                "BYPASS": journal_row[12],
-                "STATUS": journal_row[13],
-                "JOURNAL_NAME": journal_row[14]
+                "JOURNAL_CONTAINERS": journal_row[3],
+                "LANDING_PAGE_GATHERING": journal_row[4],
+                "LINK_DATA": journal_row[5],
+                "HEADLINE_DATA": journal_row[6],
+                "HEADLINE_FORMATTING_DATA": journal_row[7],
+                "DATE_DATA": journal_row[8],
+                "DATE_FORMATTING_DATA": journal_row[9],
+                "JOURNAL_INFO_DATA": journal_row[10],
+                "JOURNAL_INFO_FORMATTING": journal_row[11],
+                "LOAD_TIME": journal_row[12],
+                "BYPASS": journal_row[13],
+                "STATUS": journal_row[14],
             }
         )
         logging.info(JOURNAL_INFO["STATUS"])
@@ -250,7 +253,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                     invalid_counter += 1
                     continue
 
-                storage.db_insert(db_data, journal_contents, program_state["chatGPT"], openai_client)
+                storage.db_insert(db_data, journal_contents, program_state["chatGPT"], openai_client, JOURNAL_INFO['JOURNAL_NAME'])
 
         else:
             journal_contents = gather_contents(
