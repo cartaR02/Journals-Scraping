@@ -43,7 +43,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI):
         formatted_date = j_date.strftime("%B %Y")
 
         description, prompt = ask_chat_gpt(
-            journal_contents["head"], description, openAI, formatted_date
+            journal_contents["head"], description, openAI, formatted_date, journal_contents["journal_name"]
         )
         split_body = description.split("\n", 1)
         headline = split_body[0]
@@ -178,7 +178,7 @@ def skip_duplicates(db_data: dict, journal_contents: dict):
             db_data["database"].close()
 
 
-def ask_chat_gpt(journal_headline, site_html, openai_client, headline_edition, ):
+def ask_chat_gpt(journal_headline, site_html, openai_client, headline_edition, journal_name):
     # headline_edition is meant to be a pre made hard coded (based off the journal) sentence starter like March 2025 so gpt cant mess it up
     old_prompt = (
         f"Create a 500-word news story, with a headline, for this text focused on\n Create a headline that utilizes the the information in the journal in a cohesive way and makes it so a reader might want to click on it and find out more.  After creating this headline first always put only 1 new line character after"
@@ -194,7 +194,7 @@ def ask_chat_gpt(journal_headline, site_html, openai_client, headline_edition, )
 
 First, generate a compelling headline based on information from the journal that would encourage readers to click to learn more. After the headline, include a single newline character.
 
-Begin the news story with this exact phrase: 'In the {headline_edition} edition of the ...' Do not create or infer a different month, year, or date. When creating the headline do not use any ### or *** just text.
+Begin the news story with this exact phrase: 'In the {headline_edition} edition of the {journal_name} journal' Do not create or infer a different month, year, or date. When creating the headline do not use any ### or *** just text.
 
 Never use the word 'recent.' Do not include journal page numbers or individual submission dates in the story. Do not discuss the peer review process.
 

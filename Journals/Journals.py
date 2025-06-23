@@ -191,8 +191,10 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                 "LOAD_TIME": journal_row[11],
                 "BYPASS": journal_row[12],
                 "STATUS": journal_row[13],
+                "JOURNAL_NAME": journal_row[14]
             }
         )
+        logging.info(JOURNAL_INFO["STATUS"])
 
         # handling url data
         JOURNAL_INFO["LANDING_PAGE_GATHERING"] = (

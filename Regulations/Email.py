@@ -7,7 +7,7 @@ from validate_email import validate_email
 import logging
 
 import global_info
-from Regulations.Regulate import production_run
+
 
 
 def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):

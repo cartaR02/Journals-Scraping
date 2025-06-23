@@ -205,6 +205,9 @@ def process_current_page(url):
 
     container = soup_html.find(class_="results-container")
     # here is the wrapper container of the things we need
+    if container is None:
+        logging.error("Container not found")
+        return
     attachments_list = container.find_all(class_="card card-type-comment ember-view")
 
     truncate = False

@@ -1,6 +1,4 @@
-# journal_id,     url_field,    journal_containers,     landing_page_gathering,   link_data,    headline_data,    headline_formatting_data,   date_data,    date_formatting_data,     journal_data_info,    journal_info_formatting,    load_time,    bypass,   status
-30179,https://psycnet.apa.org/PsycARTICLES/journal/edu/117/4|https://psycnet.apa.org,find|class|volume-wrapper~find_all|elem|li,True,find|elem|a,find|elem|a,,find_all|elem|span|1|2,swap,find|class|list,,5,True,D
-33525,https://psycnet.apa.org/PsycARTICLES/journal/tep/19/2|https://psycnet.apa.org,
-37493,https://journals.sagepub.com/loi/ALH|https://journals.sagepub.com,find|class|loi__issues~find_all|class|loi__issue,True,find|elem|a,find|elem|a,,find|class|loi__issue__cover-date,,find|class|table-of-content,,,,D
-26376,https://journals.sagepub.com/loi/aer|https://journals.sagepub.com
-37980,https://journals.lww.com/jpae/Pages/issuelist.aspx|https://journals.lww.com,find|class|AVList~find_all|class|AVDetailViewListItem,True,find|elem|a,find|elem|a,,find|elem|a,,find|class|article-list,,,,D
+# journal_id,     url_field,    journal_containers,     landing_page_gathering,   link_data,    headline_data,    headline_formatting_data,   date_data,    date_formatting_data,     journal_data_info,    journal_info_formatting,    load_time,    bypass,   status, Journal Name, things, things
+30179,https://psycnet.apa.org/PsycARTICLES/journal/edu/117/4|https://psycnet.apa.org,find|class|volume-wrapper~find_all|elem|li,True,find|elem|a,find|elem|a,,find_all|elem|span|1|2,swap,find|class|list,,5,True,D,Educational Psychology,Fake,fake
+37493,https://journals.sagepub.com/loi/ALH|https://journals.sagepub.com,find|class|loi__issues~find_all|class|loi__issue,True,find|elem|a,find|elem|a,,find|class|loi__issue__cover-date,,find|class|table-of-content,,,,D,Active Learning in Higher Education,fake,fake
+37980,https://journals.lww.com/jpae/Pages/issuelist.aspx|https://journals.lww.com,find|class|AVList~find_all|class|AVDetailViewListItem,True,find|elem|a,find|elem|a,,find|elem|a,,find|class|article-list,,,,D,Physician Assistant Education,
