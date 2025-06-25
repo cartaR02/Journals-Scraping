@@ -108,7 +108,7 @@ Errors:"""
             "kmeek@targetednews.com",
             "kmeek@targetednews.com",
             "Public Comments Pull"
-            + start_time.strftime("%Y-%m-%d %H:%M:%S"),
+            + start_time,
             summary_msg,
             "",
             "struckvail@aol.com;camhakenson@gmail.com,carterstruck02@gmail.com,marlynvitin@yahoo.com",

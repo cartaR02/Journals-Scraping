@@ -99,7 +99,7 @@ def date_handler(DATE_FORMATTING_DATA, date):
 
     # TODO: figure out how to interpret the months and what to return
 
-    if extracted_date.month >= datetime.now().month - int(program_state["amount_of_months"]):
+    if extracted_date.month <= datetime.now().month - int(program_state["amount_of_months"]):
         return extracted_date.strftime("%Y-%m-%d")
     else:
         logging.info(
