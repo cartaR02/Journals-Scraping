@@ -111,5 +111,5 @@ Errors:"""
             + start_time,
             summary_msg,
             "",
-            "struckvail@aol.com;camhakenson@gmail.com,carterstruck02@gmail.com,marlynvitin@yahoo.com",
+            "struckvail@aol.com,carterstruck02@gmail.com,marlynvitin@yahoo.com",
         )
