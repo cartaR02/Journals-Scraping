@@ -5,7 +5,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from validate_email import validate_email
 import logging
-
+from datetime import datetime
 import global_info
 
 
@@ -103,12 +103,15 @@ Errors:"""
             )
 
     logging.info(summary_msg)
+    dt_object = datetime.fromtimestamp(start_time)
+
+    formatted_start = dt_object.strftime("%Y-%m-%d %H:%M:%S")
     if production_run:
         my_mail(
             "kmeek@targetednews.com",
             "kmeek@targetednews.com",
             "Public Comments Pull"
-            + start_time,
+            + formatted_start,
             summary_msg,
             "",
             "struckvail@aol.com,carterstruck02@gmail.com,marlynvitin@yahoo.com",

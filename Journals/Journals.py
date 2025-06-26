@@ -19,6 +19,8 @@ import csv
 import yaml
 import sys
 
+import os
+import shutil
 
 # tracking times for logging purposes
 start = datetime.now()
@@ -102,6 +104,12 @@ def parse_arguments():
     return filter_id
 
 
+def clear_folders():
+    logging.info("Clearing Folders")
+    if os.path.exists("./journal_output"):
+        shutil.rmtree("./journal_output/")
+    os.mkdir("./journal_output")
+
 def accept_cookies(driver):
     # List of common cookie accept button identifiers
     cookie_button_identifiers = [
@@ -144,6 +152,7 @@ def accept_cookies(driver):
 
 # Get the filter ID from command line arguments and set allowGPT if -G is provided
 filter_id = parse_arguments()
+clear_folders()
 logging.info(
     f"Filter ID: {filter_id if filter_id else 'None - processing all journals'}"
 )

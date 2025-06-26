@@ -14,18 +14,41 @@ openai_client = OpenAI(api_key=OPEN_API_KEY)
 def ask_chat_gpt(PDF_Text, current_id, comments_link, filename):
     today_str = datetime.today().strftime("%B, %-d")
 
-    prompt = (
- # waiting on prompt
-        f"""Create a 400-word news story, with a news headline on a separate line without a period above the opening of the text, from this text of a letter to a named federal agency. Use the name of that agency in the first paragraph in full only; and subsequently use a synonym or acronym. Create stand-alone paragraphs where there are direct quotes attributed to a named letter writer. Use the persons first and last name only in the first instance.
-All docs should start with a headline a line break and then the body paragraphs. The first body paragraph starts with "WASHINGTON, {today_str} --"
-Headline should be based on the text and in title case
-DO not under any circumstances return an answer without beginning with a title and then the body paragraphs without the rules stated above.
-If the agency is a department, use U.S. in front of it instead of United States spelled out.
-If there are mutiple signers for the letter, create a paragraph that lists all of them.
-If using a person's title after their name, the letters are lowercase.
-If using District of Columbia, always refer to it as D.C.
-In text, do not include these words: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof. Refere to the "letter" as a public comment letter. Follow all the previous statements without deviation.
-"""
+    prompt = (f""" Goal: Create a 400-word news story based on a public comment letter to a federal agency.
+
+Output Format:
+
+Headline: Title case, no period, on a separate line above the opening text.
+
+First Paragraph Start: "WASHINGTON, {today_str} --"
+
+Paragraphs: Stand-alone paragraphs for direct quotes attributed to a named letter writer.
+
+Word Count: Approximately 400 words.
+
+Content Requirements:
+
+Federal Agency:
+
+Full name in the first paragraph only.
+
+Subsequent mentions use a synonym or acronym.
+
+If a department, use "U.S." instead of "United States" (e.g., U.S. Department of Health and Human Services).
+
+Named Letter Writer:
+
+First and last name used only in the first instance.
+
+If multiple signers, list all in a dedicated paragraph.
+
+Titles after names should be lowercase (e.g., John Smith, chief executive officer).
+
+Place: Refer to "District of Columbia" as "D.C."
+
+Forbidden Words (do not use): Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
+
+Term Usage: Refer to the 'letter' as a 'public comment letter.'"""
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
