@@ -14,41 +14,32 @@ openai_client = OpenAI(api_key=OPEN_API_KEY)
 def ask_chat_gpt(PDF_Text, current_id, comments_link, filename):
     today_str = datetime.today().strftime("%B, %-d")
 
-    prompt = (f""" Goal: Create a 400-word news story based on a public comment letter to a federal agency.
+    prompt = (f"""
+Write a 300-word news article summarizing a public comment letter submitted to a federal agency. Follow these instructions:
+Headline
+- Craft a headline in Title Case, without a period.
+- The headline should succinctly summarize the essence of the letter.
 
-Output Format:
+Article Structure
+- Begin the first paragraph with: ‘WASHINGTON, {today_str} --’
+- Write 4-5 standalone paragraphs.
+- Use at least one quote attributed directly to the organization that submitted the letter.
+- In the first mention, refer to the correspondence as a ‘public comment letter.’
+- Use the author’s first and last name, with title, only the first time they appear; for subsequent references, use a suitable synonym or acronym as appropriate.
+- If referring to a department, use “U.S.” (e.g., U.S. Department of Agriculture).
 
-Headline: Title case, no period, on a separate line above the opening text.
+Attribution and Eligibility
+- Only process letters that specify an organization. If there is no organization, do not proceed.
+- If the letter does not mention a federal agency, reply only with “REJECTED”.
 
-First Paragraph Start: "WASHINGTON, {today_str} --"
+Style & Restrictions
+- Do not use: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
+- If referencing a place, write “D.C.” instead of “District of Columbia.”
 
-Paragraphs: Stand-alone paragraphs for direct quotes attributed to a named letter writer.
-
-Word Count: Approximately 400 words.
-
-Content Requirements:
-
-Federal Agency:
-
-Full name in the first paragraph only.
-
-Subsequent mentions use a synonym or acronym.
-
-If a department, use "U.S." instead of "United States" (e.g., U.S. Department of Health and Human Services).
-
-Named Letter Writer:
-
-First and last name used only in the first instance.
-
-If multiple signers, list all in a dedicated paragraph.
-
-Titles after names should be lowercase (e.g., John Smith, chief executive officer).
-
-Place: Refer to "District of Columbia" as "D.C."
-
-Forbidden Words (do not use): Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
-
-Term Usage: Refer to the 'letter' as a 'public comment letter.'"""
+Additional Guidance
+- The letter author typically appears after the letter text, including their name and title.
+- Make the summary engaging, clear, and informative, focusing on the content and implications as presented.
+"""
     )
     try:
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[

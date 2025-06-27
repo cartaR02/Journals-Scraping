@@ -233,6 +233,15 @@ def process_current_page(url):
             logging.error("Link not found")
             continue
 
+        # link should hold comment title
+        # sending the comment title through filter
+        # TODO Send to chatgpt for output if its not usefull title
+        title_text = current_link.get_text(strip=True)
+        for phrase in global_info.title_reject_phrase:
+            if phrase in title_text:
+                logging.info(f"Rejecting doc with bad phrase {phrase}")
+                global_info.doc_titles_rejected.append(f"{title_text}: phrase: {phrase}")
+                return
         current_link = "https://www.regulations.gov" + current_link.get("href")
         logging.info(f"Link: {current_link}")
         ids_container = article.find(class_="card-metadata")

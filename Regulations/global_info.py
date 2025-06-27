@@ -6,6 +6,9 @@ no_pdf_text = []
 no_comment_page = []
 docs_looked_at = 0
 
+title_reject_phrase = ["PrivateCitizen", "W-", "illegible"]
+doc_titles_rejected = []
+
 error_list_wrapper = []
 error_list_wrapper.append(no_pdf_found)
 error_list_wrapper.append(no_pdf_text)
@@ -29,10 +32,13 @@ duplicate_files = []
 docs_list_wrapper = []
 docs_list_wrapper.append(docs_added)
 docs_list_wrapper.append(duplicate_files)
+docs_list_wrapper.append(doc_titles_rejected)
 
 docs_added_str = "Docs added:"
 duplicate_files_str = "Duplicate files:"
+doc_titles_rejected_str = "Titles Rejected:"
 
 docs_list_string_wrapper = []
 docs_list_string_wrapper.append(docs_added_str)
 docs_list_string_wrapper.append(duplicate_files_str)
+docs_list_string_wrapper.append(doc_titles_rejected_str)

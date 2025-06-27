@@ -103,15 +103,13 @@ Errors:"""
             )
 
     logging.info(summary_msg)
-    dt_object = datetime.fromtimestamp(start_time)
 
-    formatted_start = dt_object.strftime("%Y-%m-%d %H:%M:%S")
     if production_run:
         my_mail(
             "kmeek@targetednews.com",
             "kmeek@targetednews.com",
             "Public Comments Pull"
-            + formatted_start,
+            + start_time,
             summary_msg,
             "",
             "struckvail@aol.com,carterstruck02@gmail.com,marlynvitin@yahoo.com",
