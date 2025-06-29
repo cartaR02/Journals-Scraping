@@ -171,7 +171,6 @@ def go_to_next_page(driver, url, timeout=10):
     try:
         driver.get(url)
         logging.info("{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}")
-        logging.info(f"Navigated to {url}")
         # Wait for the page to load before searching for the button
         WebDriverWait(driver, timeout).until(
             EC.element_to_be_clickable((By.XPATH, '//button[@aria-label="Go to next page"]'))
@@ -199,7 +198,7 @@ def process_current_page(url):
         sys.exit()
 
     logging.info("Initial Page loaded")
-
+    logging.info(f"URL: {url}")
     soup_html = BeautifulSoup(html, "html.parser")
     time.sleep(3)
 
@@ -226,7 +225,8 @@ def process_current_page(url):
             # arbitrary number just for outer loop to stop when this returned
             return 100
         global_info.docs_looked_at += 1
-        logging.info(f"Starting article number {global_info.docs_looked_at} out of {doc_limit}")
+        if doc_limit:
+            logging.info(f"Starting article number {global_info.docs_looked_at} out of {doc_limit}")
         current_link = article.find("a")
 
         if not current_link:
@@ -237,11 +237,18 @@ def process_current_page(url):
         # sending the comment title through filter
         # TODO Send to chatgpt for output if its not usefull title
         title_text = current_link.get_text(strip=True)
+        break_out_of_article = False
         for phrase in global_info.title_reject_phrase:
             if phrase in title_text:
                 logging.info(f"Rejecting doc with bad phrase {phrase}")
                 global_info.doc_titles_rejected.append(f"{title_text}: phrase: {phrase}")
-                return
+                break_out_of_article = True
+                break
+
+        # my method to break out of two for loops by setting this to true if phrase met
+        if break_out_of_article:
+            continue
+
         current_link = "https://www.regulations.gov" + current_link.get("href")
         logging.info(f"Link: {current_link}")
         ids_container = article.find(class_="card-metadata")

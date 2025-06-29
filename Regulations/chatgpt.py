@@ -30,7 +30,7 @@ Article Structure
 
 Attribution and Eligibility
 - Only process letters that specify an organization. If there is no organization, do not proceed.
-- If the letter does not mention a federal agency, reply only with “REJECTED”.
+- If the letter does not mention an organization, reply only with “REJECTED”.
 
 Style & Restrictions
 - Do not use: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.

@@ -53,7 +53,6 @@ def insert_into_db(headline, body, original_prompt, filename):
     cursor = connection.cursor()
     source_id = 98
     insert_sql = """ INSERT INTO story (filename, uname, source, by_line, headline, story_txt, editor,invoice_tag, date_sent, sent_to, wire_to, nexis_sent, factiva_sent, status, content_date, last_action, orig_txt) VALUES (%s, %s, %s, %s, %s, %s, '', '', NOW(), '', '', NULL, NULL, %s, %s, SYSDATE(), %s) """
-    body = headline + "\n*\n" + body
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     try:
         cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str, original_prompt))
