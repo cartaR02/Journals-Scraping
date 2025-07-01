@@ -239,7 +239,7 @@ def process_current_page(url):
         title_text = current_link.get_text(strip=True)
         break_out_of_article = False
         for phrase in global_info.title_reject_phrase:
-            if phrase in title_text:
+            if phrase.lower() in title_text.lower():
                 logging.info(f"Rejecting doc with bad phrase {phrase}")
                 global_info.doc_titles_rejected.append(f"{title_text}: phrase: {phrase}")
                 break_out_of_article = True
@@ -339,7 +339,7 @@ def process_current_page(url):
                 cleaned_pdf = cleanup_text.cleanup_text(PDF_TEXT)
                 if allowGPT:
                     logging.info("GPT proccessing")
-                    chatgpt.ask_chat_gpt(cleaned_pdf, current_id, current_link, filename)
+                    chatgpt.ask_chat_gpt(cleaned_pdf, current_id, current_link, filename, title_text)
                 else:
                     logging.info("GPT disabled")
                     logging.info("Skipping GPT")

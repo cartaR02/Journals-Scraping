@@ -6,7 +6,7 @@ no_pdf_text = []
 no_comment_page = []
 docs_looked_at = 0
 
-title_reject_phrase = ["PrivateCitizen", "W-", "illegible"]
+title_reject_phrase = ["PrivateCitizen", "W-", "illegible", "anonymous"]
 doc_titles_rejected = []
 
 error_list_wrapper = []

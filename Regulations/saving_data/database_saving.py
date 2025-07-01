@@ -48,7 +48,7 @@ def check_if_exists(filename):
     except Exception as e:
         logging.error(f"Error while checking filename: {e}")
 
-def insert_into_db(headline, body, original_prompt, filename):
+def insert_into_db(headline, body, original_prompt, filename, original_title):
     connection = get_db_connection()
     cursor = connection.cursor()
     source_id = 98
@@ -56,7 +56,8 @@ def insert_into_db(headline, body, original_prompt, filename):
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     try:
         cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str, original_prompt))
-        global_info.docs_added.append(filename)
+        # used for email checking when the id is not useful to quickly look through
+        global_info.docs_added.append(original_title)
         connection.commit()
         connection.close()
     except mysql.connector.Error as error:

@@ -11,7 +11,7 @@ with open ("../key", "r") as f:
 
 openai_client = OpenAI(api_key=OPEN_API_KEY)
 
-def ask_chat_gpt(PDF_Text, current_id, comments_link, filename):
+def ask_chat_gpt(PDF_Text, current_id, comments_link, filename, title):
     today_str = datetime.today().strftime("%B, %-d")
 
     prompt = (f"""
@@ -20,6 +20,7 @@ Headline
 - Craft a headline in Title Case, without a period.
 - The headline should succinctly summarize the essence of the letter.
 
+DO not continue creating body paragraphs without creating a headline and following the previous rules.
 Article Structure
 - Begin the first paragraph with: ‘WASHINGTON, {today_str} --’
 - Write 4-5 standalone paragraphs.
@@ -52,6 +53,6 @@ Additional Guidance
         headline = split_body[0]
         body = split_body[1].lstrip() + "\n\n***\n\nRead full text of letter here: " + comments_link
 
-        database_saving.insert_into_db(headline, body, prompt, filename)
+        database_saving.insert_into_db(headline, body, prompt, filename, title)
     except Exception as e:
         logging.error(f"Error: {e}")
