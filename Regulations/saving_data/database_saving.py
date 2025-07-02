@@ -6,8 +6,9 @@ import mysql.connector
 import logging
 
 
-def create_filename(id):
-    return "$H-PUBCOM-" + id
+def create_filename(id, pdf_title):
+    begining_id = id.split('-')[0]
+    return "$H-PUBCOM-" + begining_id + pdf_title[:85]
 
 def get_db_connection():
     # Get the directory of the current script

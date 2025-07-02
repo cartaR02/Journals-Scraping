@@ -261,7 +261,7 @@ def process_current_page(url):
                 current_id = li.get_text().replace("ID", "").strip()
                 logging.info(f"ID: {current_id}")
                 break
-            elif li.strong and li.strong.text.strip() == "Posted":
+            if li.strong and li.strong.text.strip() == "Posted":
                 logging.info("Date found")
                 current_date = li.get_text().replace("Posted", "").strip()
                 logging.info(f"Date: {current_date}")
@@ -271,9 +271,9 @@ def process_current_page(url):
                     # fake error code that checks if its 100 above to see why the program exited
                     return 100
 
-        if current_id == "":
-            logging.error("ID not found")
-            continue
+        #if current_id == "":
+        #    logging.error("ID not found")
+        #    continue
 
 
         # this state is id is good and link
@@ -282,13 +282,26 @@ def process_current_page(url):
 
         if not comment_html:
             logging.error("Comment Page did not load")
-            global_info.no_comment_page.append(current_id)
+            global_info.no_comment_page.append(current_link)
             continue
 
         parse_comment = BeautifulSoup(comment_html, "html.parser")
 
+        # tryingto block based off of pdf text
+        pdf_title = parse_comment.find(class_="h5 mt-0 mb-1")
+        pdf_title = pdf_title.get_text().strip()
+
+        # first part of id
+
+        filename = saving_data.database_saving.create_filename(current_id, pdf_title)
+        logging.info(f"Filename: {filename}")
+
+        if saving_data.database_saving.check_if_exists(filename):
+            continue
+
         pdf_download = parse_comment.find(class_="btn btn-default btn-block")
         pdf_download_link = ""
+
         try:
             pdf_download_link = pdf_download.get("href")
         except:
@@ -331,11 +344,7 @@ def process_current_page(url):
                     continue
 
                 # create file name and checking if exists
-                filename = saving_data.database_saving.create_filename(current_id)
-                logging.info(f"Filename: {filename}")
 
-                if saving_data.database_saving.check_if_exists(filename):
-                   continue
                 cleaned_pdf = cleanup_text.cleanup_text(PDF_TEXT)
                 if allowGPT:
                     logging.info("GPT proccessing")
