@@ -289,6 +289,10 @@ def process_current_page(url):
 
         # tryingto block based off of pdf text
         pdf_title = parse_comment.find(class_="h5 mt-0 mb-1")
+        if pdf_title is None:
+            logging.error("PDF not found")
+            global_info.no_pdf_found.append(current_link)
+            continue
         pdf_title = pdf_title.get_text().strip()
 
         # first part of id
@@ -313,7 +317,7 @@ def process_current_page(url):
 
             if pdf_download_link == "":
                 logging.error("PDF not found")
-                global_info.no_pdf_found.append(current_id)
+                global_info.no_pdf_found.append(current_link)
                 continue
         logging.info(f"pdf download link: {pdf_download_link}")
 
