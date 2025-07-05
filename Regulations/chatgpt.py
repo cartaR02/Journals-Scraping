@@ -53,6 +53,8 @@ Additional Guidance
         headline = split_body[0]
         body = split_body[1].lstrip() + "\n\n***\n\nRead full text of letter here: " + comments_link
 
-        database_saving.insert_into_db(headline, body, prompt, filename, title)
+        # combine the things to go into original text: PFD_Text and prompt
+        original = PDF_Text + "\n\n *** Prompt Below *** \n\n" + prompt
+        database_saving.insert_into_db(headline, body, original, filename, title)
     except Exception as e:
         logging.error(f"Error: {e}")
