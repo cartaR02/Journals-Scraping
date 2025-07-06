@@ -27,7 +27,7 @@ def get_db_connection():
     )
 
 
-def check_if_exists(filename):
+def check_if_exists(filename, link):
     logging.info("Checking filename")
 
     try:
@@ -39,7 +39,7 @@ def check_if_exists(filename):
         found_filename = cursor.fetchone()
         if found_filename:
             logging.info("Skipping duplicate before gpt call")
-            global_info.duplicate_files.append(filename)
+            global_info.duplicate_files.append(filename + " " + link)
             connection.close()
             return True
         else:

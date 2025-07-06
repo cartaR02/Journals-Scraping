@@ -71,9 +71,11 @@ def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
 def email_output(allowgpt, days_back, start_time, end_time, total_time, production_run):
     summary_msg = f"""
 Load Version 1.0.0 06/16/2025
-    Docs Loaded {len(global_info.docs_added)}
-    Comments Searched {global_info.docs_looked_at}
-    Duplicates Skipped {len(global_info.duplicate_files)}
+    Docs Loaded: {len(global_info.docs_added)}
+    Comments Searched: {global_info.docs_looked_at}
+    Duplicates Skipped: {len(global_info.duplicate_files)}
+    No PDF Found: {len(global_info.no_pdf_found)}
+    No PDF Text: {len(global_info.no_pdf_found)}
 
 Passed Parameters:
     ChatGPT Enabled: {allowgpt}

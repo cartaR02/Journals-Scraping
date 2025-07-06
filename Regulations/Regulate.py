@@ -300,7 +300,7 @@ def process_current_page(url):
         filename = saving_data.database_saving.create_filename(current_id, pdf_title)
         logging.info(f"Filename: {filename}")
 
-        if saving_data.database_saving.check_if_exists(filename):
+        if saving_data.database_saving.check_if_exists(filename, current_link):
             continue
 
         pdf_download = parse_comment.find(class_="btn btn-default btn-block")
