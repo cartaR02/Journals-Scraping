@@ -47,9 +47,10 @@ def check_if_exists(filename, link):
         connection.close()
         return False
     except Exception as e:
+        global_info.duplication_checking_error.append(f"{filename}: {link}")
         logging.error(f"Error while checking filename: {e}")
 
-def insert_into_db(headline, body, original_prompt, filename, original_title):
+def insert_into_db(headline, body, original_prompt, filename, original_title, link):
     connection = get_db_connection()
     cursor = connection.cursor()
     source_id = 98
@@ -62,5 +63,5 @@ def insert_into_db(headline, body, original_prompt, filename, original_title):
         connection.commit()
         connection.close()
     except mysql.connector.Error as error:
-
+        global_info.database_insertion_error.append(link)
         logging.error(f"Failed to insert into database duplicate: {error}")

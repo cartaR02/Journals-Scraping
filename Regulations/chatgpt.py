@@ -55,6 +55,6 @@ Additional Guidance
 
         # combine the things to go into original text: PFD_Text and prompt
         original = PDF_Text[:62000] + "\n\n *** Prompt Below *** \n\n" + prompt
-        database_saving.insert_into_db(headline, body, original, filename, title)
+        database_saving.insert_into_db(headline, body, original, filename, title, comments_link)
     except Exception as e:
         logging.error(f"Error: {e}")

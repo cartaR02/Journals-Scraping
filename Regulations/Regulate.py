@@ -359,6 +359,7 @@ def process_current_page(url):
                 #saving_data.save_txt.save_pdf_to_text("./pdf_text/" + current_id, PDF_TEXT)
 
         except Exception as e:
+            global_info.pdf_gathering_failure.append(current_link)
             logging.error(f"Failed to process PDF for {current_link}::: {e}")
             continue
         logging.info("Article Complete!")

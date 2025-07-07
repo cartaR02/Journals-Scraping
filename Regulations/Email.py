@@ -62,6 +62,7 @@ def my_mail(from_addr, to_addr, subject, msg_txt, html_msg="", cc_addr=""):
         server.sendmail(from_addr, to_array, text)
     except Exception as e:
         # Print any error messages to stdout
+
         print(e)
     finally:
         server.quit()
@@ -73,10 +74,17 @@ def email_output(allowgpt, days_back, start_time, end_time, total_time, producti
 Load Version 1.0.0 06/16/2025
     Docs Loaded: {len(global_info.docs_added)}
     Comments Searched: {global_info.docs_looked_at}
-    Duplicates Skipped: {len(global_info.duplicate_files)}
-    No PDF Found: {len(global_info.no_pdf_found)}
-    No PDF Text: {len(global_info.no_pdf_found)}
+    Duplicates Skipped: {len(global_info.duplicate_files)}"""
 
+    # will only show list of length for errors that came up in run
+    for errors_list, errors_string in zip(global_info.error_list_wrapper, global_info.error_list_string_wrapper):
+        if len(errors_list) > 0:
+            summary_msg = (
+                summary_msg
+                + "\n\t" + errors_string + f" {len(errors_list)}"
+            )
+
+    summary_msg = summary_msg + f"""
 Passed Parameters:
     ChatGPT Enabled: {allowgpt}
     Number of days back: {days_back}
