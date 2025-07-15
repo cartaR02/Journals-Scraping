@@ -59,7 +59,7 @@ def insert_into_db(headline, body, original_prompt, filename, original_title, li
     try:
         cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str, original_prompt))
         # used for email checking when the id is not useful to quickly look through
-        global_info.docs_added.append(original_title)
+        global_info.docs_added.append(original_title + ": " + link)
         connection.commit()
         connection.close()
     except mysql.connector.Error as error:

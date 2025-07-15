@@ -14,34 +14,37 @@ openai_client = OpenAI(api_key=OPEN_API_KEY)
 def ask_chat_gpt(PDF_Text, current_id, comments_link, filename, title):
     today_str = datetime.today().strftime("%B, %-d")
 
-    prompt = (f"""
-Create a 300-word news article summarizing a public comment letter submitted to a federal agency. Follow these instructions:
-Headline
-- Craft a headline in Title Case, without a period.
-- The headline should succinctly summarize the essence of the letter.
+    prompt = (f"""Prompt for Generating a News Story from a Letter
 
-DO not continue creating body paragraphs without creating a headline and following the previous rules.
-Article Structure
-- Begin the first paragraph with: ‘WASHINGTON, {today_str} --’
-- Create 4-5 standalone paragraphs.
-- Use at least one quote attributed directly to the organization that submitted the letter.
-- In the first mention, refer to the correspondence as a ‘public comment letter.’
-- Use the author’s first and last name, with title, only the first time they appear; for subsequent references, use a suitable synonym or acronym as appropriate.
-- If referring to a department, use “U.S.” (e.g., U.S. Department of Agriculture).
+Objective: Generate a 400-word news story based on the provided text of a letter to a U.S. federal agency. Adhere strictly to the following formatting and content rules.
+Input: Text from a letter addressed to a federal agency.
+Formatting and Content Instructions:
 
-Attribution and Eligibility
-- Only process letters that specify an organization as the creator of the letter. If there is no organization as the creator of the letter, do not proceed.
-- If the letter does not mention an organization as the creator of the letter, reply only with “REJECTED”.
+Headline:
+Create a headline in Title Case that summarizes the core issue of the letter.
+The headline must be on its own line.
+Do not place a period or any other punctuation at the end of the headline.
 
-Style & Restrictions
-- Do not use: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
-- If referencing a place, write “D.C.” instead of “District of Columbia.”
+Article Structure:
+Place a single line break between the headline and the first paragraph of the story.
+The first paragraph must begin with the following text exactly: WASHINGTON, {today_str} --
+The total word count should be up to 400 words.
 
-Additional Guidance
-- The letter author typically appears after the letter text, including their name and title.
-- Make the summary engaging, clear, and informative, focusing on the content and implications as presented and DO NOT GO BEYOND THE TEXT OF THE AVAILABLE INFORMATION IN THE TEXT TO CREATE ANY CONCLUSIONS.
-"""
-    )
+Agency and Organization Names:
+In the first paragraph, focus on the company or entity that issued the public comment letter to the federal agency, which should also be named. Use the full name of the federal agency that received the letter. If the agency is a department, prefix it with "U.S." instead of spelling out "United States" (e.g., "U.S. Department of Justice").
+In first reference, use public comment letter
+In all subsequent paragraphs, refer to that agency using only an appropriate acronym or a synonym (e.g., "the agency," "the commission").
+In all instances, use only straight quotes, not curly or slanted quotes.
+
+Quoted Material:
+Avoid using direct quotes in quotation marks from the letter, but attribute material to the organization/entity sending the letter.
+Avoid using the names of people.
+
+Style and Word Choice:
+Always refer to the District of Columbia as "D.C."
+Do not use any of the following words in the story: Mr., Ms., Hon., Dr., new, recently, honorable, significant, forthcoming, extensive, formal, formally, detailed, thereof.
+Execute these instructions without relying on any text OUTSIDE of this document.
+Follow all previous directions exactly with no deviation""")
     try:
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
             {"role": "system", "content": prompt},
