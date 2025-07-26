@@ -1,6 +1,7 @@
 import re
 import logging
 from datetime import datetime
+from global_info import signers_phrase
 
 def cleanup_text(text: str, write: bool = False) -> str:
     """
@@ -265,3 +266,19 @@ def cleanup_text(text: str, write: bool = False) -> str:
         logging.basicConfig(filename="/tnsdata/logs/badchars1", level=logging.ERROR, format="%(message)s")
         logging.error(f"\n{bad_time} - [{bad_chars}]")
     return text
+
+
+# will take a list of known things and to check for signers and if found split the text and return the part after the signer word
+
+def check_for_signers(original_text):
+    for signer in signers_phrase:
+
+        text_split = original_text.split(signer)
+        if len(text_split) > 1:
+            post_signer = text_split[1]
+            logging.info(f"found signer phrase {signer}: Splitting text")
+            return post_signer[:100], signer
+        else:
+            continue
+
+    return None,None

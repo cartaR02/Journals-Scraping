@@ -241,6 +241,7 @@ def process_current_page(url):
         for phrase in global_info.title_reject_phrase:
             if phrase.lower() in title_text.lower():
                 logging.info(f"Rejecting doc with bad phrase {phrase}")
+                #check this in globals
                 global_info.doc_titles_rejected.append(f"{title_text}: phrase: {phrase}")
                 break_out_of_article = True
                 break

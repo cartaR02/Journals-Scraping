@@ -9,6 +9,8 @@ duplication_checking_error = []
 pdf_gathering_failure = []
 docs_looked_at = 0
 
+signers_phrase = ["Sincerely", "Respectfully"]
+
 title_reject_phrase = ["PrivateCitizen", "W-", "illegible", "anonymous"]
 doc_titles_rejected = []
 
@@ -36,6 +38,7 @@ error_list_string_wrapper.append(no_pdf_found_str)
 error_list_string_wrapper.append(no_pdf_text_str)
 error_list_string_wrapper.append(no_comment_page_str)
 error_list_string_wrapper.append(database_insertion_error_str)
+error_list_string_wrapper.append(duplication_checking_error_str)
 error_list_string_wrapper.append(pdf_gathering_failure_str)
 error_list_string_wrapper.append(doc_titles_rejected_str)
 

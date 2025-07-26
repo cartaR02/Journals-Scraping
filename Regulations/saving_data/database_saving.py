@@ -50,16 +50,17 @@ def check_if_exists(filename, link):
         global_info.duplication_checking_error.append(f"{filename}: {link}")
         logging.error(f"Error while checking filename: {e}")
 
-def insert_into_db(headline, body, original_prompt, filename, original_title, link):
+def insert_into_db(headline, body, original_prompt, filename, original_title, link, signing_comment, box):
     connection = get_db_connection()
     cursor = connection.cursor()
     source_id = 98
-    insert_sql = """ INSERT INTO story (filename, uname, source, by_line, headline, story_txt, editor,invoice_tag, date_sent, sent_to, wire_to, nexis_sent, factiva_sent, status, content_date, last_action, orig_txt) VALUES (%s, %s, %s, %s, %s, %s, '', '', NOW(), '', '', NULL, NULL, %s, %s, SYSDATE(), %s) """
+    insert_sql = """ INSERT INTO story (filename, uname, source, by_line, headline, story_txt, editor,invoice_tag, date_sent, sent_to, wire_to, nexis_sent, factiva_sent, status, content_date, last_action, orig_txt, comments) VALUES (%s, %s, %s, %s, %s, %s, '', '', NOW(), '', '', NULL, NULL, %s, %s, SYSDATE(), %s, %s) """
     today_str = datetime.datetime.now().strftime("%Y-%m-%d")
     try:
-        cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, 'D', today_str, original_prompt))
+        cursor.execute(insert_sql, (filename, "C-PUBCOM", source_id, "Carter Struck", headline, body, box, today_str, original_prompt, signing_comment))
         # used for email checking when the id is not useful to quickly look through
         global_info.docs_added.append(original_title + ": " + link)
+        logging.info("Saved to database")
         connection.commit()
         connection.close()
     except mysql.connector.Error as error:

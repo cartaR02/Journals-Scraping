@@ -46,6 +46,7 @@ Do not use any of the following words in the story: Mr., Ms., Hon., Dr., new, re
 Execute these instructions without relying on any text OUTSIDE of this document.
 Follow all previous directions exactly with no deviation""")
     try:
+
         response = openai_client.chat.completions.create( model="gpt-4o-mini", messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": PDF_Text}])
@@ -56,8 +57,20 @@ Follow all previous directions exactly with no deviation""")
         headline = split_body[0]
         body = split_body[1].lstrip() + "\n\n***\n\nRead full text of letter here: " + comments_link
 
+        current_box = 'D'
+        # even if these are blanks just put in comments field but if not empty then adjust signer phrase sentence
+        post_signer_txt, signer_phrase = cleanup_text.check_for_signers(PDF_Text)
+
+        signer_phrase_comment = ''
+        if post_signer_txt is not None:
+            signer_phrase_comment = f"Signer phrase found: {signer_phrase}\nPost Signer Text:\n\n{post_signer_txt}"
+            current_box = 'W'
+
+        if "coalition" in body:
+            current_box = 'W'
+
         # combine the things to go into original text: PFD_Text and prompt
         original = PDF_Text[:62000] + "\n\n *** Prompt Below *** \n\n" + prompt
-        database_saving.insert_into_db(headline, body, original, filename, title, comments_link)
+        database_saving.insert_into_db(headline, body, original, filename, title, comments_link, signer_phrase_comment, current_box)
     except Exception as e:
         logging.error(f"Error: {e}")
