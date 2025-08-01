@@ -64,10 +64,10 @@ Follow all previous directions exactly with no deviation""")
         signer_phrase_comment = ''
         if post_signer_txt is not None:
             signer_phrase_comment = f"Signer phrase found: {signer_phrase}\nPost Signer Text:\n\n{post_signer_txt}"
-            current_box = 'W'
+            current_box = 'E'
 
         if "coalition" in body:
-            current_box = 'W'
+            current_box = 'E'
 
         # combine the things to go into original text: PFD_Text and prompt
         original = PDF_Text[:62000] + "\n\n *** Prompt Below *** \n\n" + prompt
