@@ -141,10 +141,29 @@ def process_journal_data(JOURNAL_INFO, journal_contents):
     # allows for multiple iterations if smaller scope is needed
     journals_to_search = JOURNAL_INFO["JOURNAL_INFO_KEYWORDS"].split("~")
 
-    for j in journals_to_search:
+    # search through list of classes for built in smaller scope and then on last item in list get find all
+    for i, j in enumerate(journals_to_search):
         contents = j.split("|")
-        if contents[0] == "class":
-            article_list = journal_contents.find_all(class_=contents[1])
+        if i == len(journals_to_search) - 1:
+            if contents[0] == "class":
+                journal_contents = journal_contents.find(class_=contents[1])
+            else:
+            journal_contents = journal_contents.find(contents[1])
         else:
-            article_list = journal_contents.find_all(contents[1])
+            if contents[0] == "class":
+                journal_list = journal_contents.find(class_=contents[1])
+            else:
+                journal_list = journal_contents.find(contents[1])
+
+
+    if journal_list is None:
+        return None
+    # once list of containers is found search through the first x amount TODO add the x as a input or global variable
+
+    for journal in journal_list:
+        phrase = journal.find(class_=JOURNAL_INFO["JOURNAL_INFO_CONTAINER"])
+
+    # search through list # TODO think about way to gather from sage the "Research Article"
+
+
 
