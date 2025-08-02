@@ -136,6 +136,8 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
         # article description is none
         return None
 
+    #furthuer subdivide base information
+
     journal_contents["head"] = unidecode(issue_head)
     journal_contents["date"] = issue_dates
     journal_contents["jdata"] = journal_data

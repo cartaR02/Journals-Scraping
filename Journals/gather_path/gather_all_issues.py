@@ -129,6 +129,8 @@ def gather_contents(JOURNAL_INFO, issue_html, driver, db_data, allowGPT):
                 if journal_contents[key] is None:
                     return None
 
+
+
             logging.debug(f"Titles: {journal_contents['head']}")
             logging.debug(f"Dates: {journal_contents['date']}")
             logging.debug(f"Desc: {journal_contents['jdata']}")

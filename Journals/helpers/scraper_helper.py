@@ -131,3 +131,20 @@ def clean_date(date):
         date = date.replace(abrev, full_name)
 
     return date
+
+
+def process_journal_data(JOURNAL_INFO, journal_contents):
+    # expects a state of the journal to be the smallest container of all the individual articles of the journal
+    # it will further subdivide the inidiviual articles and gather the contents from them
+
+    # seperate the articles and filter by keywords
+    # allows for multiple iterations if smaller scope is needed
+    journals_to_search = JOURNAL_INFO["JOURNAL_INFO_KEYWORDS"].split("~")
+
+    for j in journals_to_search:
+        contents = j.split("|")
+        if contents[0] == "class":
+            article_list = journal_contents.find_all(class_=contents[1])
+        else:
+            article_list = journal_contents.find_all(contents[1])
+

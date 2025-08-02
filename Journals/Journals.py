@@ -218,11 +218,6 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
             True if "find_all" in JOURNAL_INFO["JOURNAL_CONTAINERS"] else False
         )
 
-        # TODO: do we need uname?
-        # db_data["uname"] = helpers.get_uname(JOURNAL_INFO, unames)
-        # if db_data["uname"] is None:
-        #     continue
-
         # getting landing page html
         webpage_html = get_website(JOURNAL_INFO["FULL_URL"], driver, JOURNAL_INFO)
         if webpage_html is None:
