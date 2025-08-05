@@ -186,8 +186,11 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
         JOURNAL_INFO["URL_PRE"] = "" if len(url_field_split) < 2 else url_field_split[1]
 
         assign_row = assign_csv_line(JOURNAL_INFO['URL_FIELD'])
-        if assign_row != None:
-            journal_row = assign_row
+        if assign_row is None:
+            logging.error("Unable to assign row: Invalid Domain")
+            continue
+
+        journal_row = assign_row
 
         globals.url_count += 1
         JOURNAL_INFO.update(

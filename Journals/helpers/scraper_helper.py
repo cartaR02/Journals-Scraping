@@ -132,35 +132,63 @@ def clean_date(date):
 
     return date
 
-
-def process_journal_data(JOURNAL_INFO, journal_contents):
-    # expects a state of the journal to be the smallest container of all the individual articles of the journal
-    # it will further subdivide the inidiviual articles and gather the contents from them
-
+# function will take a sequence like find|class|title~find|class|artile|4
+# allowign for ~ multiple times or just ones
+# will permit for a big list of example above with optional indexing like above
+# a 4th item in the x|x|x|x indicates indexing a list where also expects find_all call on specific find
+# returns singular item
+def dedicated_find_html(csv_search_line, journal_contents_html):
     # seperate the articles and filter by keywords
     # allows for multiple iterations if smaller scope is needed
-    journals_to_search = JOURNAL_INFO["JOURNAL_INFO_KEYWORDS"].split("~")
+    journals_to_search = csv_search_line.split("~")
 
     # search through list of classes for built in smaller scope and then on last item in list get find all
-    for i, j in enumerate(journals_to_search):
-        contents = j.split("|")
-        if i == len(journals_to_search) - 1:
-            if contents[0] == "class":
-                journal_contents = journal_contents.find(class_=contents[1])
-            else:
-            journal_contents = journal_contents.find(contents[1])
+    # hoping that last call is not a find_all with no index except for journals list
+    html = journal_contents_html
+    for finding_sequence in journals_to_search:
+        contents = finding_sequence.split("|")
+
+        # hopes for number specific indexing with find_all TODO error check
+        if len(contents) == 4:
+            # unwrap for cleanner naming
+            finding, html_type, container_name, index = contents
+            if finding == "find_all":
+                html = finding_all(html_type, container_name, html)
+            html = html[int(index)]
         else:
-            if contents[0] == "class":
-                journal_list = journal_contents.find(class_=contents[1])
+            # no fourth option index
+            finding, html_type, container_name = contents
+            if finding == "find_all":
+                html = finding_all(html_type, container_name, html)
             else:
-                journal_list = journal_contents.find(contents[1])
+                html = finding_single(html_type, container_name, html)
+    if html is None:
+        return None
+    return html
+def finding_all(html_type, container_name, html):
+    if html_type == "elem":
+        return html.find_all(container_name)
 
+    return html.find_all(class_=container_name)
 
+def finding_single(html_type, container_name, html):
+    if html_type == "elem":
+        return html.find(container_name)
+
+    return html.find(class_=container_name)
+
+# TODO FINISH inserting this part into the sequence of journals gathering
+def process_journal_data(JOURNAL_INFO, journal_contents):
+    # expects a state of the journal to be the smallest container of ALL the individual articles of the journal
+    # it will further subdivide the inidiviual articles and gather the contents from them
+
+    journal_list = dedicated_find_html(JOURNAL_INFO["j"], journal_contents)
     if journal_list is None:
         return None
     # once list of containers is found search through the first x amount TODO add the x as a input or global variable
 
     for journal in journal_list:
+
         phrase = journal.find(class_=JOURNAL_INFO["JOURNAL_INFO_CONTAINER"])
 
     # search through list # TODO think about way to gather from sage the "Research Article"
