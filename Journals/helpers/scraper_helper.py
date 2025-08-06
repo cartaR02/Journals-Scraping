@@ -176,22 +176,35 @@ def finding_single(html_type, container_name, html):
         return html.find(container_name)
 
     return html.find(class_=container_name)
-
+def find_abstracts(individual_journal, JOURNAL_INFO):
+    phrase_list = ["research", "articles", "papers"]
+    phrase = dedicated_find_html(JOURNAL_INFO["phrase_tag"], individual_journal)
+    if phrase.text.lower() in phrase_list:
+        logging.info("Phrase Found, gathering Abstract")
+        # possibly get tittles but at the moment get abstract
+        abstract = dedicated_find_html(JOURNAL_INFO["abstract"], individual_journal)
+        logging.info("Abstract Found")
+        return abstract
+    logging.info("Phrase Not Found, skipping")
+    return None
 # TODO FINISH inserting this part into the sequence of journals gathering
-def process_journal_data(JOURNAL_INFO, journal_contents):
+def create_abstract_lists(JOURNAL_INFO, journal_contents):
     # expects a state of the journal to be the smallest container of ALL the individual articles of the journal
     # it will further subdivide the inidiviual articles and gather the contents from them
 
-    journal_list = dedicated_find_html(JOURNAL_INFO["j"], journal_contents)
+    journal_list = dedicated_find_html(JOURNAL_INFO["journal_articles"], journal_contents)
     if journal_list is None:
         return None
-    # once list of containers is found search through the first x amount TODO add the x as a input or global variable
 
+    accepted_individual_journals = []
     for journal in journal_list:
+        # make the 3 a variable eventually
+        if len(accepted_individual_journals)== 3:
+            break
+        found_abstract = find_abstracts(journal, JOURNAL_INFO)
 
-        phrase = journal.find(class_=JOURNAL_INFO["JOURNAL_INFO_CONTAINER"])
+        if found_abstract is not None:
+            accepted_individual_journals.append(found_abstract)
 
-    # search through list # TODO think about way to gather from sage the "Research Article"
-
-
-
+    # returns unclean html
+    return accepted_individual_journals
