@@ -133,7 +133,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver, db_data, allowGPT):
 
             logging.debug(f"Titles: {journal_contents['head']}")
             logging.debug(f"Dates: {journal_contents['date']}")
-            logging.debug(f"Desc: {journal_contents['jdata']}")
+            #logging.debug(f"Desc: {journal_contents['jdata']}")
             logging.debug(f"Journal_id {journal_contents['a_id']}")
             logging.debug(f"Article Link: {journal_contents['url']}")
 
@@ -253,7 +253,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver, db_data, allowGPT):
 
             logging.debug(f"Titles: {journal_contents['head']}")
             logging.debug(f"Dates: {journal_contents['date']}")
-            logging.debug(f"Desc: {journal_contents['jdata']}")
+            #logging.debug(f"Desc: {journal_contents['jdata']}")
             logging.debug(f"Journal_id {journal_contents['a_id']}")
             logging.debug(f"Article Link: {journal_contents['url']}")
 

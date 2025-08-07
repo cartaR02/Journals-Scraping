@@ -1,3 +1,5 @@
+import time
+from helpers.scraper_helper import create_abstract_lists
 from selenium.webdriver.support import expected_conditions as EC
 from gather_path.gather_all_issues import gather_contents
 from selenium.webdriver.support.ui import WebDriverWait
@@ -204,13 +206,17 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                 "DATE_FORMATTING_DATA": journal_row[9],
                 "JOURNAL_INFO_DATA": journal_row[10],
                 "JOURNAL_INFO_FORMATTING": journal_row[11],
-                "LOAD_TIME": journal_row[12],
-                "BYPASS": journal_row[13],
-                "STATUS": journal_row[14],
+                "JOURNAL_ARTICLES": journal_row[12],
+                "PHRASE_TAG": journal_row[13],
+                "ABSTRACT": journal_row[14],
+                "LOAD_TIME": journal_row[15],
+                "BYPASS": journal_row[16],
+                "STATUS": journal_row[17],
             }
         )
         logging.info(JOURNAL_INFO["STATUS"])
-
+        logging.info(f"Processing Journal: {JOURNAL_INFO}")
+        time.sleep(1)
         # handling url data
         JOURNAL_INFO["LANDING_PAGE_GATHERING"] = (
             True if JOURNAL_INFO["LANDING_PAGE_GATHERING"] == "True" else False
@@ -260,7 +266,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                     invalid_counter += 1
                     continue
 
-                storage.db_insert(db_data, journal_contents, program_state["chatGPT"], openai_client, JOURNAL_INFO['JOURNAL_NAME'])
+                #storage.db_insert(db_data, journal_contents, program_state["chatGPT"], openai_client, JOURNAL_INFO['JOURNAL_NAME'])
 
         else:
             journal_contents = gather_contents(

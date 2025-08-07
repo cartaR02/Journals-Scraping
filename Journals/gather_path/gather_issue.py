@@ -7,6 +7,7 @@ import web_requests
 import logging
 from unidecode import unidecode
 
+from helpers.scraper_helper import create_abstract_lists
 
 """ Gathers contents for a single article.
 
@@ -126,11 +127,13 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
             if issue_webpage_html is None:
                 return None
 
-    journal_data = gather_journal_data(JOURNAL_INFO, issue_webpage_html)
+    raw_journal_data = gather_journal_data(JOURNAL_INFO, issue_webpage_html)
 
-    if journal_data is not None:
+    abstract_lists = create_abstract_lists(JOURNAL_INFO, raw_journal_data)
+
+    if raw_journal_data is not None:
         journal_data = issue_formatter(
-            journal_data, JOURNAL_INFO
+            raw_journal_data, JOURNAL_INFO
         )
     else:
         # article description is none
@@ -141,6 +144,7 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
     journal_contents["head"] = unidecode(issue_head)
     journal_contents["date"] = issue_dates
     journal_contents["jdata"] = journal_data
+    journal_contents["abstract_lists"] = abstract_lists
     journal_contents["a_id"] = JOURNAL_INFO["JOURNAL_ID"]
     journal_contents["url"] = issue_link
 
@@ -151,9 +155,10 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
     # used for debugging the outputs
     logging.debug(f"Titles: {journal_contents['head']}")
     logging.debug(f"Dates: {journal_contents['date']}")
-    logging.debug(f"Desc: {journal_contents['jdata']}")
+    #logging.debug(f"Desc: {journal_contents['jdata']}")
     logging.debug(f"Journal_id {journal_contents['a_id']}")
     logging.debug(f"Article Link: {journal_contents['url']}")
+    logging.debug(f"Abstracts: {journal_contents['abstract_lists']}")
 
     return journal_contents
 

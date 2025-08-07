@@ -145,6 +145,9 @@ def dedicated_find_html(csv_search_line, journal_contents_html):
     # search through list of classes for built in smaller scope and then on last item in list get find all
     # hoping that last call is not a find_all with no index except for journals list
     html = journal_contents_html
+    logging.debug(f"Type of html before find_all: {type(html)}")
+    # TODO PRINT THIS
+    logging.debug(f"HTML: {html}")
     for finding_sequence in journals_to_search:
         contents = finding_sequence.split("|")
 
@@ -152,12 +155,14 @@ def dedicated_find_html(csv_search_line, journal_contents_html):
         if len(contents) == 4:
             # unwrap for cleanner naming
             finding, html_type, container_name, index = contents
+            logging.info(f"Searching for {finding} in {container_name} with index {index}")
             if finding == "find_all":
                 html = finding_all(html_type, container_name, html)
             html = html[int(index)]
         else:
             # no fourth option index
             finding, html_type, container_name = contents
+            logging.info(f"Searching for {finding} in {container_name}")
             if finding == "find_all":
                 html = finding_all(html_type, container_name, html)
             else:
@@ -187,12 +192,13 @@ def find_abstracts(individual_journal, JOURNAL_INFO):
         return abstract
     logging.info("Phrase Not Found, skipping")
     return None
-# TODO FINISH inserting this part into the sequence of journals gathering
+# TODO get proper text in abstract and allow for going into article to get actual abstract
+# returns list of abstracts
 def create_abstract_lists(JOURNAL_INFO, journal_contents):
     # expects a state of the journal to be the smallest container of ALL the individual articles of the journal
     # it will further subdivide the inidiviual articles and gather the contents from them
 
-    journal_list = dedicated_find_html(JOURNAL_INFO["journal_articles"], journal_contents)
+    journal_list = dedicated_find_html(JOURNAL_INFO["JOURNAL_ARTICLES"], journal_contents)
     if journal_list is None:
         return None
 
