@@ -131,6 +131,8 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
 
     abstract_lists = create_abstract_lists(JOURNAL_INFO, raw_journal_data)
 
+    abstract_text = get_abstract_text(JOURNAL_INFO, abstract_lists)
+
     if raw_journal_data is not None:
         journal_data = issue_formatter(
             raw_journal_data, JOURNAL_INFO

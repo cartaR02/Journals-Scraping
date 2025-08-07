@@ -208,10 +208,11 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                 "JOURNAL_INFO_FORMATTING": journal_row[11],
                 "JOURNAL_ARTICLES": journal_row[12],
                 "PHRASE_TAG": journal_row[13],
-                "ABSTRACT": journal_row[14],
-                "LOAD_TIME": journal_row[15],
-                "BYPASS": journal_row[16],
-                "STATUS": journal_row[17],
+                "ABSTRACT_LINK": journal_row[14],
+                "ABSTRACT_TEXT": journal_row[15],
+                "LOAD_TIME": journal_row[16],
+                "BYPASS": journal_row[17],
+                "STATUS": journal_row[18],
             }
         )
         logging.info(JOURNAL_INFO["STATUS"])

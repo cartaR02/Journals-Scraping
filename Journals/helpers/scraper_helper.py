@@ -181,7 +181,7 @@ def finding_single(html_type, container_name, html):
         return html.find(container_name)
 
     return html.find(class_=container_name)
-def find_abstracts(individual_journal, JOURNAL_INFO):
+def find_abstracts_containers(individual_journal, JOURNAL_INFO):
     phrase_list = ["research", "articles", "papers"]
     phrase = dedicated_find_html(JOURNAL_INFO["phrase_tag"], individual_journal)
     if phrase.text.lower() in phrase_list:
@@ -194,6 +194,7 @@ def find_abstracts(individual_journal, JOURNAL_INFO):
     return None
 # TODO get proper text in abstract and allow for going into article to get actual abstract
 # returns list of abstracts
+# pure html so then after in a different function we will go in and gather abstracts
 def create_abstract_lists(JOURNAL_INFO, journal_contents):
     # expects a state of the journal to be the smallest container of ALL the individual articles of the journal
     # it will further subdivide the inidiviual articles and gather the contents from them
@@ -207,10 +208,24 @@ def create_abstract_lists(JOURNAL_INFO, journal_contents):
         # make the 3 a variable eventually
         if len(accepted_individual_journals)== 3:
             break
-        found_abstract = find_abstracts(journal, JOURNAL_INFO)
+        found_abstract = find_abstracts_containers(journal, JOURNAL_INFO)
+
 
         if found_abstract is not None:
+            logging.info(f"Abstract Found adding to list")
             accepted_individual_journals.append(found_abstract)
 
     # returns unclean html
     return accepted_individual_journals
+
+
+# takes list of html surround each journals and gets link to go in and take the text
+def get_abstract_text(JOURNAL_INFO, abstract_lists):
+
+    for container in abstract_lists:
+        link = dedicated_find_html(JOURNAL_INFO["ABSTRACT_LINK"], container).get("href")
+        if link is None:
+            logging.error("Unable to get Abstract link")
+            continue
+
+        logging,info(f"Abstract Link Found: {link}")

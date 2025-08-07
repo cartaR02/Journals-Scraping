@@ -70,6 +70,7 @@ def scrape_content(
         element_tags is None or len(element_tags) == 0
     ) and error_caller != "DESC REMOVAL":
         logging.error(f"{error_caller} {AGENCY_ID} SKIP: No content was gathered")
+        logging.error(f"{link_data_list}: tags")
         globals.element_not_found.append(f"{AGENCY_ID} {error_caller} ERROR")
         return None
 
