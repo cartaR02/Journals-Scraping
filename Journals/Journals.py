@@ -234,7 +234,8 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
             logging.error(f"html is None")
             globals.landing_page_html_is_none.append(f"{JOURNAL_INFO['JOURNAL_ID']}: {JOURNAL_INFO['FULL_URL']}")
             continue
-
+        accept_cookies(driver)
+        time.sleep(1)
         # parsing through article containers
         issue_container_html = get_containers(
             JOURNAL_INFO["JOURNAL_CONTAINERS"], webpage_html
@@ -267,7 +268,7 @@ with open(csvFileName, "r", newline="", encoding="utf-8") as journal_data:
                     invalid_counter += 1
                     continue
 
-                #storage.db_insert(db_data, journal_contents, program_state["chatGPT"], openai_client, JOURNAL_INFO['JOURNAL_NAME'])
+                storage.db_insert(db_data, journal_contents, program_state["chatGPT"], openai_client, JOURNAL_INFO['JOURNAL_NAME'])
 
         else:
             journal_contents = gather_contents(
