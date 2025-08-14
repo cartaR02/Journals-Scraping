@@ -1,5 +1,4 @@
 import time
-from helpers.scraper_helper import create_abstract_lists
 from selenium.webdriver.support import expected_conditions as EC
 from gather_path.gather_all_issues import gather_contents
 from selenium.webdriver.support.ui import WebDriverWait
