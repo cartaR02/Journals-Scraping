@@ -16,7 +16,8 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
     # id and head is enough to describe what we need
     logging_str = f"{journal_contents['a_id']}: {journal_contents['head']}"
     globals_logging_str_link = f"{journal_contents['a_id']}: {journal_contents['url']}"
-    description = journal_contents["jdata"]
+    description = " ".join(journal_contents["abstract_texts"])
+
     headline = journal_contents["head"]
 
     # don't think we need ledes
@@ -34,7 +35,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
 
 
 
-    prompt = "No Prompt"
+    prompt = ""
     if allowGPT:
         # chatgpt should provide a created headline followed by a line break and then the rest is the description
 
@@ -43,7 +44,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
         formatted_date = j_date.strftime("%B %Y")
 
         description, prompt = ask_chat_gpt(
-            journal_contents["head"], description, openAI, formatted_date, journal_name
+            headline, description, openAI, formatted_date, journal_name
         )
         split_body = description.split("\n", 1)
         headline = split_body[0]
@@ -100,6 +101,8 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
         logging.error(f"Filename is none: [{journal_contents['a_id']}]")
         return
 
+    # we create the headline and attach it
+    headline = f"WASHINGTON, The {journal_name} posted a research article entitled '{headline}'"
     # opening db connection to prepare for insertion
     db_data["database"] = db_config(db_data["yml_config"])
     db_data["press_release_cursor"] = db_data["database"].cursor()
@@ -183,22 +186,19 @@ def skip_duplicates(db_data: dict, journal_contents: dict):
             db_data["database"].close()
 
 
-def ask_chat_gpt(journal_headline, site_html, openai_client, headline_edition, journal_name):
+def ask_chat_gpt(journal_headline, description, openai_client, headline_edition, journal_name):
     # headline_edition is meant to be a pre made hard coded (based off the journal) sentence starter like March 2025 so gpt cant mess it up
     if not re.search(r'\bjournal\b', journal_name, re.IGNORECASE):
         journal_name = f"{journal_name} Journal"
     prompt = (
-        f"""Create a 400-word news story with a headline for this text, focusing on the two most significant research projects. Mention other studies only briefly.
+        f"""Prompt for generating a news story from a description
+        
+Objective: generate a 300-word news story based on the provided text of a research articles with some abstracts for that publications edition of things they researched.
 
-First, generate a compelling headline based on information from the journal that would encourage readers to click to learn more. After the headline, include a single newline character.
-
-Begin the news story with this exact phrase: 'In the {headline_edition} edition of {journal_name}' Do not create or infer a different month, year, or date. When creating the headline do not use any ### or *** just text.
-
+Do not refer to this entire text as one research article as they are a collection of a couple research articles.
+    
 Never use the word 'recent.' Do not include journal page numbers or individual submission dates in the story. Do not discuss the peer review process.
 
-The story should reference the date and headline of the journal in the opening paragraph. Use this journal headline for context: {journal_headline}
-
-Ensure the publication date in the story is not set in the future.
 """
     )
 
@@ -207,7 +207,7 @@ Ensure the publication date in the story is not set in the future.
             model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": prompt},
-                {"role": "user", "content": site_html[:9000]},
+                {"role": "user", "content": description},
             ],
         )
         msg = response.choices[0].message.content
