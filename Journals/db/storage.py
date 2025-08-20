@@ -187,9 +187,6 @@ def skip_duplicates(db_data: dict, journal_contents: dict):
 
 
 def ask_chat_gpt(journal_headline, description, openai_client, headline_edition, journal_name):
-    # headline_edition is meant to be a pre made hard coded (based off the journal) sentence starter like March 2025 so gpt cant mess it up
-    if not re.search(r'\bjournal\b', journal_name, re.IGNORECASE):
-        journal_name = f"{journal_name} Journal"
     prompt = (
         f"""Prompt for generating a news story from a description
         

@@ -127,6 +127,7 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
             if issue_webpage_html is None:
                 return None
 
+
     raw_journal_data = gather_journal_data(JOURNAL_INFO, issue_webpage_html)
     if raw_journal_data is None:
         logging.error(f"SKIP: raw_journal_data is None: {JOURNAL_INFO['JOURNAL_ID']}")
@@ -134,6 +135,7 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
 
 
     abstract_texts = get_abstract_text(JOURNAL_INFO, abstract_lists, driver)
+    driver.quit()
 
     if raw_journal_data is not None:
         journal_data = issue_formatter(
