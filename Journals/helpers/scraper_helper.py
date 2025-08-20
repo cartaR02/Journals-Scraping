@@ -59,7 +59,7 @@ def format_slice(SLICING_DATA):
 
 
 # date_cleaner extracting date from text if needed and checks validity
-def date_handler(DATE_FORMATTING_DATA, date):
+def date_handler(DATE_FORMATTING_DATA, FULL_URL, date):
 
     extracted_date = ""
 
@@ -70,6 +70,9 @@ def date_handler(DATE_FORMATTING_DATA, date):
     # datefinder struggles with understanding 'Sept' for September dates
     if "sept" in date and "september" not in date:
         date = date.replace("sept", "sep")
+
+    if "lww" in FULL_URL:
+        date = format_lww_date(date)
 
     date_form_data = DATE_FORMATTING_DATA.split("~")
 
@@ -100,6 +103,7 @@ def date_handler(DATE_FORMATTING_DATA, date):
     # TODO: figure out how to interpret the months and what to return
 
     if extracted_date.month <= datetime.now().month - int(program_state["amount_of_months"]):
+        logging.debug("successful date")
         return extracted_date.strftime("%Y-%m-%d")
     else:
         logging.info(
@@ -132,3 +136,10 @@ def clean_date(date):
 
     return date
 
+# method that handles formatting for lww journals
+# raw date data looks like this: "Volume#, DATE, Issue#"
+def format_lww_date(date):
+    # splitting date by commas
+    split_date = date.split(",")
+    date = split_date[1]
+    return date

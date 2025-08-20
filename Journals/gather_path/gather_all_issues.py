@@ -100,7 +100,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver, db_data, allowGPT):
             # extracting and formatting date, returns INVALID if date is not recent
             if issue_dates is not None:
                 issue_dates = date_handler(
-                    JOURNAL_INFO["DATE_FORMATTING_DATA"], issue_dates.text
+                    JOURNAL_INFO["DATE_FORMATTING_DATA"], JOURNAL_INFO["FULL_URL"], issue_dates.text
                 )
                 if issue_dates is None:
                     continue
@@ -207,7 +207,7 @@ def gather_contents(JOURNAL_INFO, issue_html, driver, db_data, allowGPT):
 
             # extracting and formatting date, returns INVALID if date is not recent
             if issue_dates is not None:
-                date = date_handler(JOURNAL_INFO["DATE_FORMATTING_DATA"], date.text)
+                date = date_handler(JOURNAL_INFO["DATE_FORMATTING_DATA"], JOURNAL_INFO["FULL_URL"], date.text)
                 if date is None:
                     continue
                 elif date == "INVALID":

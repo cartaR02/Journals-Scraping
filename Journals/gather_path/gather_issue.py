@@ -101,7 +101,7 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
         # extracting and formatting date, returns INVALID if date is not recent
         if isinstance(issue_dates, list):
             issue_dates = issue_dates[0]
-        issue_dates = date_handler( JOURNAL_INFO["DATE_FORMATTING_DATA"], issue_dates.text)
+        issue_dates = date_handler( JOURNAL_INFO["DATE_FORMATTING_DATA"], JOURNAL_INFO["FULL_URL"], issue_dates.text)
         if issue_dates is None:
             # globals.date_is_none.append(f"Date is None: {AGENCY_DATA['AGENCY_ID']}")
             return None
