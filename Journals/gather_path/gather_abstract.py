@@ -98,10 +98,10 @@ def finding_single(html_type, container_name, html):
 
 # just want to return the containers that hold the links that we want and will have another function handle going into link
 def find_abstracts_containers(individual_journal, JOURNAL_INFO):
-    phrase_list = ["research", "articles", "papers", "research article"]
+    phrase_list = ["research", "articles", "papers", "research article", "abstracts", "special article"]
     phrase = dedicated_find_html(JOURNAL_INFO["PHRASE_TAG"], individual_journal)
-    #logging.debug(f"Searching for phrase: {phrase.text.lower()}")
-    if phrase.text.lower() in phrase_list:
+    logging.debug(f"Searching for phrase: {phrase.text.lower()}")
+    if phrase.text.strip().lower() in phrase_list:
 
         logging.info("Phrase Found, return html")
 
@@ -149,7 +149,12 @@ def get_abstract_text(JOURNAL_INFO, abstract_lists, driver):
             continue
 
         logging.info(f"Abstract Link Found: {link}")
-        full_link = JOURNAL_INFO["URL_PRE"] + link
+        # TODO do better way of handling the abstract link not needing a pre url
+        if "lww" in link:
+            url_pre = ""
+        else:
+            url_pre = JOURNAL_INFO["URL_PRE"]
+        full_link = url_pre + link
 
         if JOURNAL_INFO["BYPASS"]:
             driver = selenium_config()

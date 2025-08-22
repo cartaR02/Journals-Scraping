@@ -73,10 +73,10 @@ INSERT INTO tns.press_release (headline,content_date,body_txt,a_id,status,create
 
 OPEN_API_KEY = ""
 
-# with open ("key", "r") as f:
-#     OPEN_API_KEY = f.read().strip()
+with open ("key", "r") as f:
+    OPEN_API_KEY = f.read().strip()
 
-# openai_client = OpenAI(api_key=OPEN_API_KEY)
+openai_client = OpenAI(api_key=OPEN_API_KEY)
 
 csvFileName = "WebsiteData.csv"
 

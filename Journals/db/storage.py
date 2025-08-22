@@ -46,6 +46,9 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
         description, prompt = ask_chat_gpt(
             headline, description, openAI, formatted_date, journal_name
         )
+        if description is None or prompt is None:
+            logging.error("ChatGPT call failed")
+            return
         split_body = description.split("\n", 1)
         headline = split_body[0]
         description = split_body[1]
@@ -74,7 +77,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
 
     # removing headline in description before adding it our selves
     description = description.replace(headline, "")
-
+    headline = f"WASHINGTON, The {journal_name} posted a research article entitled '{headline}'"
     article_body = f"\n{headline}\n*\n{description}\n\n***\n\nOriginal text here: {journal_contents['url']}"
 
     article_body = re.sub(r"\n\s*\n", "\n\n", article_body)
@@ -102,7 +105,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
         return
 
     # we create the headline and attach it
-    headline = f"WASHINGTON, The {journal_name} posted a research article entitled '{headline}'"
+
     # opening db connection to prepare for insertion
     db_data["database"] = db_config(db_data["yml_config"])
     db_data["press_release_cursor"] = db_data["database"].cursor()
@@ -211,3 +214,4 @@ Never use the word 'recent.' Do not include journal page numbers or individual s
         return msg, prompt
     except Exception as e:
         logging.error(f"Error: {e}")
+        return None, None
