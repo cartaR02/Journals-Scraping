@@ -98,10 +98,12 @@ def finding_single(html_type, container_name, html):
 
 # just want to return the containers that hold the links that we want and will have another function handle going into link
 def find_abstracts_containers(individual_journal, JOURNAL_INFO):
-    phrase_list = ["research", "articles", "papers", "research article", "abstracts", "special article"]
-    phrase = dedicated_find_html(JOURNAL_INFO["PHRASE_TAG"], individual_journal)
-    logging.debug(f"Searching for phrase: {phrase.text.lower()}")
-    if phrase.text.strip().lower() in phrase_list:
+    phrase_list = ["research", "articles", "papers", "research article", "special article"]
+    # clean-up phrase
+    phrase = dedicated_find_html(JOURNAL_INFO["PHRASE_TAG"], individual_journal).text.strip().lower()
+
+    logging.debug(f"Searching for phrase: {phrase}")
+    if phrase in phrase_list:
 
         logging.info("Phrase Found, return html")
 

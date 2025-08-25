@@ -164,7 +164,7 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
     #logging.debug(f"Desc: {journal_contents['jdata']}")
     logging.debug(f"Journal_id {journal_contents['a_id']}")
     logging.debug(f"Article Link: {journal_contents['url']}")
-    logging.debug(f"Abstract Texts: {journal_contents['abstract_texts'][:100]}")
+    #logging.debug(f"Abstract Texts: {journal_contents['abstract_texts'][:100]}")
 
     return journal_contents
 

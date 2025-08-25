@@ -18,6 +18,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
     globals_logging_str_link = f"{journal_contents['a_id']}: {journal_contents['url']}"
     description = " ".join(journal_contents["abstract_texts"])
 
+    # TODO Add better headline
     headline = journal_contents["head"]
 
     # don't think we need ledes
@@ -49,9 +50,9 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
         if description is None or prompt is None:
             logging.error("ChatGPT call failed")
             return
-        split_body = description.split("\n", 1)
-        headline = split_body[0]
-        description = split_body[1]
+        #split_body = description.split("\n", 1)
+        #headline = split_body[0]
+        #description = split_body[1]
 
     description = unidecode(description)
 
