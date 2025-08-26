@@ -3,6 +3,7 @@ from configs.config import db_config
 from helpers.format_element import replace_defaults
 from helpers.helpers import get_lede, get_filename
 import globals
+
 from datetime import datetime
 import mysql.connector
 from unidecode import unidecode
@@ -78,7 +79,8 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
 
     # removing headline in description before adding it our selves
     description = description.replace(headline, "")
-    headline = f"WASHINGTON, The {journal_name} posted a research article entitled '{headline}'"
+    today = datetime.today().strftime("%b. %d")
+    headline = f"WASHINGTON, {today} -- The {journal_name} posted research article in '{headline}':"
     article_body = f"\n{headline}\n*\n{description}\n\n***\n\nOriginal text here: {journal_contents['url']}"
 
     article_body = re.sub(r"\n\s*\n", "\n\n", article_body)

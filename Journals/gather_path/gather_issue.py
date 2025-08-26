@@ -147,6 +147,9 @@ def gather_content(JOURNAL_INFO, issue_html, driver):
 
     #furthuer subdivide base information
 
+    if "lww" in JOURNAL_INFO["FULL_URL"]:
+        issue_head = issue_head.split(", pp")[0]
+
     journal_contents["head"] = unidecode(issue_head)
     journal_contents["date"] = issue_dates
     journal_contents["jdata"] = journal_data

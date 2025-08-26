@@ -143,3 +143,6 @@ def format_lww_date(date):
     split_date = date.split(",")
     date = split_date[1]
     return date
+
+def format_lww_title(title):
+    return title.split(", pp")[0]
