@@ -80,7 +80,8 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
     # removing headline in description before adding it our selves
     description = description.replace(headline, "")
     today = datetime.today().strftime("%b. %d")
-    headline = f"WASHINGTON, {today} -- The {journal_name} posted research article in '{headline}':"
+    post_headline = f"The {journal_name} posted research article in '{headline}'"
+    headline = f"WASHINGTON, {today} -- {post_headline}:"
     article_body = f"\n{headline}\n*\n{description}\n\n***\n\nOriginal text here: {journal_contents['url']}"
 
     article_body = re.sub(r"\n\s*\n", "\n\n", article_body)
@@ -122,7 +123,7 @@ def db_insert(db_data, journal_contents, allowGPT, openAI, journal_name):
         db_data["press_release_cursor"].execute(
             db_data["SQL_INSERT"],
             (
-                headline[:254],
+                post_headline[:254],
                 journal_contents["date"],
                 article_body,
                 int(journal_contents["a_id"]),

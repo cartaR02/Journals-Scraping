@@ -73,7 +73,11 @@ def dedicated_find_html(csv_search_line, journal_contents_html):
             #logging.debug(f"Searching for {finding} in {container_name} with index {index}")
             if finding == "find_all":
                 html = finding_all(html_type, container_name, html)
-            html = html[int(index)]
+            try:
+                html = html[int(index)]
+            except:
+                logging.error(f"Unable to find index {index} in {container_name} likely no html found")
+                return None
         else:
             # no fourth option index
             finding, html_type, container_name = contents
